@@ -138,7 +138,7 @@ export default function HomePage() {
             { title: 'Search Cases', desc: 'Search and filter immigration court data by court, nationality, year, case type, and more.', href: '/search', icon: '🔍' },
           ].map(card => (
             <Link key={card.href} href={card.href}
-              className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-lg hover:border-primary/30 transition-all group">
+              className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-lg hover:border-primary/30 hover:-translate-y-0.5 transition-all group">
               <div className="text-3xl mb-3">{card.icon}</div>
               <h3 className="font-heading text-lg font-bold group-hover:text-primary transition-colors">{card.title}</h3>
               <p className="text-sm text-gray-600 mt-2">{card.desc}</p>
@@ -191,7 +191,23 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* JSON-LD */}
+      {/* Organization JSON-LD */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{
+        __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'Organization',
+          name: 'OpenImmigration',
+          url: 'https://www.openimmigration.us',
+          description: 'Free, open-data platform making U.S. immigration court records accessible.',
+          parentOrganization: {
+            '@type': 'Organization',
+            name: 'TheDataProject.ai',
+            url: 'https://thedataproject.ai',
+          },
+        })
+      }} />
+
+      {/* WebSite JSON-LD */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{
         __html: JSON.stringify({
           '@context': 'https://schema.org',

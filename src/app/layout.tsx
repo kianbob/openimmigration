@@ -26,7 +26,10 @@ export const metadata: Metadata = {
     locale: 'en_US',
   },
   robots: { index: true, follow: true },
-  alternates: { canonical: './' },
+  alternates: {
+    canonical: './',
+    types: { 'application/rss+xml': '/feed.xml' },
+  },
   other: {
     'google-site-verification': '',
   },

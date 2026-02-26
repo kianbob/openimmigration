@@ -11,7 +11,7 @@ const articles = [
   {
     slug: 'backlog-crisis',
     title: 'The Backlog Crisis',
-    desc: 'How the immigration court backlog grew from 200,000 to 3.3 million cases in 15 years.',
+    desc: 'How the immigration court backlog grew from 200,000 to nearly 2 million cases — and why it keeps growing.',
     category: 'System',
   },
   {
@@ -23,7 +23,7 @@ const articles = [
   {
     slug: 'representation-gap',
     title: 'The Representation Gap',
-    desc: 'Immigrants with lawyers win at 5x the rate. But only 27% have representation.',
+    desc: 'Immigrants with lawyers win at 5x the rate. But only 26.7% have representation.',
     category: 'Access',
   },
   {

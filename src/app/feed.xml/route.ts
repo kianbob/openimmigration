@@ -1,40 +1,90 @@
-const BASE_URL = 'https://www.openimmigration.us'
-
 const articles = [
-  { title: 'The Backlog Crisis', slug: 'backlog-crisis', desc: 'How the immigration court backlog grew to nearly 2 million cases — and why it keeps growing.' },
-  { title: 'Judge Roulette: How Your Judge Determines Your Fate', slug: 'judge-variation', desc: 'Asylum outcomes vary dramatically by judge. Same law, wildly different results.' },
-  { title: 'The Representation Gap', slug: 'representation-gap', desc: 'Only 27% of immigrants have lawyers. How representation changes outcomes.' },
-  { title: 'The Geographic Lottery', slug: 'geographic-lottery', desc: 'Your odds of winning asylum depend heavily on where your case is heard.' },
-  { title: 'The Deportation Machine', slug: 'deportation-machine', desc: 'How removal orders are issued — and what the data reveals about the process.' },
-  { title: 'Asylum Outcomes by Nationality', slug: 'asylum-by-nationality', desc: 'How asylum grant rates differ by country of origin.' },
-  { title: 'In Absentia: Deported Without a Hearing', slug: 'in-absentia', desc: 'Over 2 million in absentia orders — when immigrants miss their court dates.' },
-  { title: 'Detained vs. Released: Does Custody Affect Outcomes?', slug: 'detained-vs-released', desc: 'How detention status correlates with case outcomes.' },
+  {
+    slug: 'backlog-crisis',
+    title: 'The Backlog Crisis',
+    desc: 'How the immigration court backlog grew from 200,000 to over 1.9 million cases.',
+    date: '2026-02-01',
+  },
+  {
+    slug: 'judge-variation',
+    title: 'Judge Roulette: How Your Judge Determines Your Fate',
+    desc: 'Asylum outcomes vary dramatically by judge. Same law, wildly different results.',
+    date: '2026-02-01',
+  },
+  {
+    slug: 'representation-gap',
+    title: 'The Representation Gap',
+    desc: 'Immigrants with lawyers win at 5x the rate. But only 26.7% have representation.',
+    date: '2026-02-01',
+  },
+  {
+    slug: 'geographic-lottery',
+    title: 'The Geographic Lottery',
+    desc: 'Your odds of winning asylum depend heavily on where your case is heard.',
+    date: '2026-02-01',
+  },
+  {
+    slug: 'deportation-machine',
+    title: 'The Deportation Machine in 2025',
+    desc: 'Record case closures, mass deportation orders, and what the numbers actually show.',
+    date: '2026-02-01',
+  },
+  {
+    slug: 'asylum-by-nationality',
+    title: 'Asylum Outcomes by Nationality',
+    desc: 'How country of origin affects your chances — and what drives the differences.',
+    date: '2026-02-01',
+  },
+  {
+    slug: 'in-absentia',
+    title: 'Ordered Deported Without Showing Up',
+    desc: 'In absentia removal orders — how many cases are decided without the immigrant present.',
+    date: '2026-02-01',
+  },
+  {
+    slug: 'detained-vs-released',
+    title: 'Detained vs. Released: How Custody Status Affects Outcomes',
+    desc: 'Immigration detention dramatically changes case outcomes and processing times.',
+    date: '2026-02-01',
+  },
 ]
 
 export async function GET() {
-  const items = articles.map(a => `
-    <item>
-      <title>${a.title}</title>
-      <link>${BASE_URL}/analysis/${a.slug}</link>
-      <description>${a.desc}</description>
-      <guid>${BASE_URL}/analysis/${a.slug}</guid>
-      <pubDate>${new Date('2026-02-26').toUTCString()}</pubDate>
-    </item>`).join('')
+  const baseUrl = 'https://www.openimmigration.us'
+
+  const items = articles
+    .map(
+      (a) => `    <item>
+      <title>${escapeXml(a.title)}</title>
+      <link>${baseUrl}/analysis/${a.slug}</link>
+      <description>${escapeXml(a.desc)}</description>
+      <pubDate>${new Date(a.date).toUTCString()}</pubDate>
+      <guid>${baseUrl}/analysis/${a.slug}</guid>
+    </item>`
+    )
+    .join('\n')
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OpenImmigration — Analysis</title>
-    <link>${BASE_URL}</link>
-    <description>Data-driven analysis of the U.S. immigration court system from official DOJ records.</description>
+    <title>OpenImmigration — Analysis &amp; Reports</title>
+    <link>${baseUrl}</link>
+    <description>In-depth analysis of U.S. immigration court data — backlog trends, judge variation, representation gaps, and more.</description>
     <language>en-us</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
-    <atom:link href="${BASE_URL}/feed.xml" rel="self" type="application/rss+xml"/>
-    ${items}
+    <atom:link href="${baseUrl}/feed.xml" rel="self" type="application/rss+xml" />
+${items}
   </channel>
 </rss>`
 
-  return new Response(xml.trim(), {
-    headers: { 'Content-Type': 'application/rss+xml; charset=utf-8' },
+  return new Response(xml, {
+    headers: {
+      'Content-Type': 'application/xml',
+      'Cache-Control': 'public, max-age=3600',
+    },
   })
+}
+
+function escapeXml(str: string): string {
+  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
 }

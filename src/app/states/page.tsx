@@ -35,7 +35,7 @@ export default function StatesPage() {
               <th className="px-4 py-3 text-left font-semibold">State</th>
               <th className="px-4 py-3 text-left font-semibold">Code</th>
               <th className="px-4 py-3 text-right font-semibold">Total Cases</th>
-              <th className="px-4 py-3 text-right font-semibold">% of Total</th>
+              <th className="px-4 py-3 font-semibold">Share</th>
             </tr>
           </thead>
           <tbody>
@@ -45,8 +45,18 @@ export default function StatesPage() {
                 <td className="px-4 py-2 font-medium">{titleCase(st.name)}</td>
                 <td className="px-4 py-2 text-gray-500">{st.code}</td>
                 <td className="px-4 py-2 text-right">{st.cases.toLocaleString()}</td>
-                <td className="px-4 py-2 text-right text-gray-500">
-                  {((st.cases / totalStateCases) * 100).toFixed(1)}%
+                <td className="px-4 py-2 w-40">
+                  <div className="flex items-center gap-2">
+                    <div className="flex-1 bg-gray-100 rounded-full h-2 overflow-hidden">
+                      <div
+                        className="bg-primary h-2 rounded-full"
+                        style={{ width: `${Math.min((st.cases / states[0].cases) * 100, 100)}%` }}
+                      />
+                    </div>
+                    <span className="text-xs text-gray-500 w-12 text-right">
+                      {((st.cases / totalStateCases) * 100).toFixed(1)}%
+                    </span>
+                  </div>
                 </td>
               </tr>
             ))}

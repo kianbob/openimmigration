@@ -30,6 +30,8 @@ export default function AsylumPage() {
         Of {stats.totalCases.toLocaleString()} total immigration cases, asylum decisions account for
         <strong> {(stats.asylumGranted + stats.asylumDenied).toLocaleString()}</strong> outcomes —
         with a <strong>{grantRate}%</strong> grant rate overall.
+        This means roughly {Math.round(Number(grantRate) / 100 * (stats.asylumGranted + stats.asylumDenied)).toLocaleString()} out
+        of every {(stats.asylumGranted + stats.asylumDenied).toLocaleString()} asylum seekers with a final decision were granted protection.
       </p>
 
       {/* Key Stats */}

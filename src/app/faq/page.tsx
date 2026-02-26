@@ -9,11 +9,11 @@ export const metadata: Metadata = {
 const faqs = [
   {
     q: 'What is an immigration court?',
-    a: 'Immigration courts are administrative courts within the Department of Justice\'s Executive Office for Immigration Review (EOIR). They decide whether immigrants should be allowed to stay in the U.S. or be deported. There are 68 immigration courts across the country, staffed by about 600 judges.',
+    a: 'Immigration courts are administrative courts within the Department of Justice\'s Executive Office for Immigration Review (EOIR). They decide whether immigrants should be allowed to stay in the U.S. or be deported. There are 88 immigration courts across the country, staffed by over 1,400 judges.',
   },
   {
     q: 'How many immigration court cases are pending?',
-    a: 'As of December 2025, there are 3,377,998 pending cases before U.S. immigration courts. Of these, 2,339,623 involve asylum applications.',
+    a: 'As of February 2026, there are approximately 1.9 million pending cases before U.S. immigration courts.',
   },
   {
     q: 'Why is the immigration court backlog so large?',
@@ -25,7 +25,7 @@ const faqs = [
   },
   {
     q: 'Do immigrants have the right to a lawyer?',
-    a: 'No. Unlike criminal court, there is no right to a government-provided attorney in immigration proceedings. Immigrants can hire their own lawyer, but most cannot afford one. Only about 27% of immigrants ordered deported in December 2025 had legal representation.',
+    a: 'No. Unlike criminal court, there is no right to a government-provided attorney in immigration proceedings. Immigrants can hire their own lawyer, but most cannot afford one. Only about 26.7% of immigrants in removal proceedings had legal representation.',
   },
   {
     q: 'What is the asylum grant rate?',
