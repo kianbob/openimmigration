@@ -55,4 +55,9 @@ export function courtName(code: string): string {
   return code // placeholder — will map from judge/site data
 }
 
+export function titleCase(str: string): string {
+  if (!str) return str
+  return str.toLowerCase().replace(/\b\w/g, c => c.toUpperCase())
+}
+
 export const BASE_URL = 'https://www.openimmigration.us'

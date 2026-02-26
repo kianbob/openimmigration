@@ -2,6 +2,7 @@
 
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, LineChart, Line, PieChart, Pie, Cell, Legend } from 'recharts'
+import { titleCase } from '@/lib/utils'
 
 const COLORS = ['#1e40af', '#dc2626', '#f59e0b', '#16a34a', '#7c3aed', '#ec4899', '#06b6d4', '#84cc16']
 
@@ -72,9 +73,10 @@ export function OutcomePieChart({ stats }: { stats: { asylumGranted: number; asy
 }
 
 export function TopNationalitiesChart({ data }: { data: NatRow[] }) {
+  const chartData = data.map(d => ({ ...d, name: titleCase(d.name) }))
   return (
     <ResponsiveContainer width="100%" height={400}>
-      <BarChart data={data} layout="vertical" margin={{ left: 100 }}>
+      <BarChart data={chartData} layout="vertical" margin={{ left: 100 }}>
         <XAxis type="number" tick={{ fontSize: 12 }} tickFormatter={(v: number) => v >= 1000000 ? `${(v / 1e6).toFixed(1)}M` : v >= 1000 ? `${(v / 1000).toFixed(0)}k` : String(v)} />
         <YAxis type="category" dataKey="name" tick={{ fontSize: 11 }} width={90} />
         <Tooltip formatter={(value: any) => Number(value).toLocaleString()} />
@@ -85,7 +87,7 @@ export function TopNationalitiesChart({ data }: { data: NatRow[] }) {
 }
 
 export function TopCourtsChart({ data }: { data: CourtRow[] }) {
-  const chartData = data.map(c => ({ name: `${c.city}, ${c.state}`, cases: c.cases }))
+  const chartData = data.map(c => ({ name: `${titleCase(c.city)}, ${c.state}`, cases: c.cases }))
   return (
     <ResponsiveContainer width="100%" height={400}>
       <BarChart data={chartData} layout="vertical" margin={{ left: 120 }}>

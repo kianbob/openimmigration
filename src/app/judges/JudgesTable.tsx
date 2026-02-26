@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { titleCase } from '@/lib/utils'
 
 interface Judge {
   code: string
@@ -65,7 +66,7 @@ export default function JudgesTable({ judges }: { judges: Judge[] }) {
             {sorted.map((j, i) => (
               <tr key={j.code} className="border-t border-gray-100 hover:bg-gray-50">
                 <td className="px-3 py-2 text-gray-400">{i + 1}</td>
-                <td className="px-3 py-2 font-medium whitespace-nowrap">{j.name}</td>
+                <td className="px-3 py-2 font-medium whitespace-nowrap">{titleCase(j.name)}</td>
                 <td className="px-3 py-2 text-right">{j.totalDecisions.toLocaleString()}</td>
                 <td className="px-3 py-2 text-right">{j.grants.toLocaleString()}</td>
                 <td className="px-3 py-2 text-right">{j.denials.toLocaleString()}</td>

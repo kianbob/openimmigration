@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import fs from 'fs'
 import path from 'path'
+import { titleCase } from '@/lib/utils'
 
 function loadData(filename: string) {
   return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', filename), 'utf8'))
@@ -22,12 +23,17 @@ export default function HomePage() {
           <h1 className="font-heading text-4xl md:text-6xl font-bold mb-4">
             U.S. Immigration Court Data
           </h1>
-          <p className="text-xl md:text-2xl text-blue-100 mb-2 max-w-3xl mx-auto">
-            Explore {stats.totalCases.toLocaleString()} immigration court cases from the Department of Justice.
-            Cases, outcomes, judges, backlogs — all in one place.
+          <p className="text-xl md:text-2xl text-blue-100 font-medium mb-2 max-w-3xl mx-auto">
+            {(stats.totalCases / 1e6).toFixed(1)} Million Cases. {stats.totalJudges.toLocaleString()} Judges. One System.
           </p>
-          <p className="text-sm text-blue-200 mb-8">
-            Data from DOJ EOIR · Updated {stats.lastUpdated} · Open data, no paywalls
+          <p className="text-lg text-blue-200 mb-0 max-w-2xl mx-auto">
+            The most comprehensive open database of U.S. immigration court records — outcomes, backlogs, asylum decisions, and judge statistics from official DOJ data.
+          </p>
+          <p className="text-sm text-blue-200 mb-2">
+            Data from DOJ EOIR · Open data, no paywalls
+          </p>
+          <p className="inline-block bg-white/15 backdrop-blur text-blue-100 text-sm font-medium px-4 py-1.5 rounded-full mb-6">
+            📅 Data updated February 2026
           </p>
 
           {/* Quick stat pills */}
@@ -101,7 +107,7 @@ export default function HomePage() {
                 {nationalities.map((n: { code: string; name: string; cases: number }, i: number) => (
                   <tr key={n.code} className="border-t border-gray-100 hover:bg-gray-50">
                     <td className="px-4 py-2 text-gray-500">{i + 1}</td>
-                    <td className="px-4 py-2 font-medium">{n.name}</td>
+                    <td className="px-4 py-2 font-medium">{titleCase(n.name)}</td>
                     <td className="px-4 py-2 text-right">{n.cases.toLocaleString()}</td>
                   </tr>
                 ))}
@@ -144,7 +150,7 @@ export default function HomePage() {
       {/* What Is This Section */}
       <section className="bg-gray-50 py-16 px-4">
         <div className="max-w-4xl mx-auto">
-          <h2 className="font-heading text-3xl font-bold text-center mb-6">What Is This?</h2>
+          <h2 className="font-heading text-3xl font-bold text-center mb-6">Why This Data Matters</h2>
           <div className="prose prose-lg mx-auto text-gray-700">
             <p>
               <strong>OpenImmigration</strong> is a free, open-data platform that makes U.S. immigration court records

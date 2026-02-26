@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
+import { titleCase } from '@/lib/utils'
 
 interface Court { code: string; city: string; state: string; cases: number }
 interface Nationality { code: string; name: string; cases: number }
@@ -35,7 +36,7 @@ export default function SearchInterface({ courts, nationalities, judges }: { cou
           <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
             {matchedCourts.map(c => (
               <div key={c.code} className="px-4 py-3 border-b border-gray-100 flex justify-between">
-                <span className="font-medium">{c.city}, {c.state}</span>
+                <span className="font-medium">{titleCase(c.city)}, {c.state}</span>
                 <span className="text-gray-500">{c.cases.toLocaleString()} cases</span>
               </div>
             ))}
@@ -49,7 +50,7 @@ export default function SearchInterface({ courts, nationalities, judges }: { cou
           <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
             {matchedNats.map(n => (
               <div key={n.code} className="px-4 py-3 border-b border-gray-100 flex justify-between">
-                <span className="font-medium">{n.name}</span>
+                <span className="font-medium">{titleCase(n.name)}</span>
                 <span className="text-gray-500">{n.cases.toLocaleString()} cases</span>
               </div>
             ))}

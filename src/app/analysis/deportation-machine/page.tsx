@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'The Deportation Machine in 2025',
@@ -82,6 +83,17 @@ export default function DeportationMachinePage() {
             </div>
           </div>
         </div>
+      </div>
+
+      <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-4">
+        <Link href="/deportation" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">📊 Deportation Statistics</h3>
+          <p className="text-sm text-gray-600 mt-1">Explore deportation data by nationality, court, and outcome.</p>
+        </Link>
+        <Link href="/analysis/in-absentia" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">🚫 In Absentia Orders</h3>
+          <p className="text-sm text-gray-600 mt-1">How deportation orders are issued without the immigrant present.</p>
+        </Link>
       </div>
     </div>
   )

@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { titleCase } from '@/lib/utils'
 
 interface Nationality {
   code: string
@@ -51,7 +52,7 @@ export default function NationalitiesTable({ nationalities }: { nationalities: N
             {sorted.map((n, i) => (
               <tr key={n.code} className="border-t border-gray-100 hover:bg-gray-50">
                 <td className="px-4 py-2 text-gray-400">{i + 1}</td>
-                <td className="px-4 py-2 font-medium">{n.name}</td>
+                <td className="px-4 py-2 font-medium">{titleCase(n.name)}</td>
                 <td className="px-4 py-2 text-gray-500">{n.code}</td>
                 <td className="px-4 py-2 text-right">{n.cases.toLocaleString()}</td>
               </tr>

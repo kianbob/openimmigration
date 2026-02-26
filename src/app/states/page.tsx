@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import { titleCase } from '@/lib/utils'
 import fs from 'fs'
 import path from 'path'
 
@@ -22,8 +23,8 @@ export default function StatesPage() {
       <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'By State' }]} />
       <h1 className="font-heading text-4xl font-bold mb-4">Immigration Cases by State</h1>
       <p className="text-lg text-gray-600 mb-8">
-        {states.length} states and territories with immigration court cases. {states[0].name} leads
-        with {states[0].cases.toLocaleString()} cases, followed by {states[1].name} ({states[1].cases.toLocaleString()}).
+        {states.length} states and territories with immigration court cases. {titleCase(states[0].name)} leads
+        with {states[0].cases.toLocaleString()} cases, followed by {titleCase(states[1].name)} ({states[1].cases.toLocaleString()}).
       </p>
 
       <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
@@ -41,7 +42,7 @@ export default function StatesPage() {
             {states.map((st: { code: string; name: string; cases: number }, i: number) => (
               <tr key={st.code} className="border-t border-gray-100 hover:bg-gray-50">
                 <td className="px-4 py-2 text-gray-400">{i + 1}</td>
-                <td className="px-4 py-2 font-medium">{st.name}</td>
+                <td className="px-4 py-2 font-medium">{titleCase(st.name)}</td>
                 <td className="px-4 py-2 text-gray-500">{st.code}</td>
                 <td className="px-4 py-2 text-right">{st.cases.toLocaleString()}</td>
                 <td className="px-4 py-2 text-right text-gray-500">

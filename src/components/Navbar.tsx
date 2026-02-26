@@ -4,15 +4,27 @@ import { useState } from 'react'
 
 const navItems = [
   { label: 'Courts', href: '/courts' },
-  { label: 'Nationalities', href: '/nationalities' },
   { label: 'Judges', href: '/judges' },
-  { label: 'USCIS', href: '/uscis' },
-  { label: 'Analysis', href: '/analysis' },
+  { label: 'Nationalities', href: '/nationalities' },
+  { label: 'Backlog', href: '/backlog' },
+  { label: 'Asylum', href: '/asylum' },
   { label: 'Dashboard', href: '/dashboard' },
+]
+
+const analysisArticles = [
+  { label: 'The Backlog Crisis', href: '/analysis/backlog-crisis' },
+  { label: 'Judge Roulette', href: '/analysis/judge-variation' },
+  { label: 'Representation Gap', href: '/analysis/representation-gap' },
+  { label: 'Geographic Lottery', href: '/analysis/geographic-lottery' },
+  { label: 'Deportation Machine', href: '/analysis/deportation-machine' },
+  { label: 'Asylum by Nationality', href: '/analysis/asylum-by-nationality' },
+  { label: 'In Absentia Orders', href: '/analysis/in-absentia' },
+  { label: 'Detained vs. Released', href: '/analysis/detained-vs-released' },
 ]
 
 export default function Navbar() {
   const [open, setOpen] = useState(false)
+  const [analysisOpen, setAnalysisOpen] = useState(false)
 
   return (
     <nav className="bg-primary text-white shadow-lg sticky top-0 z-50">
@@ -32,6 +44,20 @@ export default function Navbar() {
                 {item.label}
               </Link>
             ))}
+            <div className="relative" onMouseEnter={() => setAnalysisOpen(true)} onMouseLeave={() => setAnalysisOpen(false)}>
+              <Link href="/analysis" className="text-sm font-medium hover:text-blue-200 transition-colors">
+                Analysis ▾
+              </Link>
+              {analysisOpen && (
+                <div className="absolute top-full left-0 mt-1 bg-white text-gray-800 rounded-xl shadow-xl border border-gray-200 py-2 w-56 z-50">
+                  {analysisArticles.map(a => (
+                    <Link key={a.href} href={a.href} className="block px-4 py-2 text-sm hover:bg-gray-50 hover:text-primary transition-colors">
+                      {a.label}
+                    </Link>
+                  ))}
+                </div>
+              )}
+            </div>
             <Link href="/search" className="text-sm bg-white/10 hover:bg-white/20 px-3 py-1.5 rounded-lg transition-colors">
               Search
             </Link>
@@ -55,6 +81,8 @@ export default function Navbar() {
             <Link key={item.href} href={item.href} onClick={() => setOpen(false)}
               className="block px-4 py-2 text-sm hover:bg-white/10">{item.label}</Link>
           ))}
+          <Link href="/analysis" onClick={() => setOpen(false)}
+            className="block px-4 py-2 text-sm hover:bg-white/10 font-medium">Analysis</Link>
           <Link href="/search" onClick={() => setOpen(false)}
             className="block px-4 py-2 text-sm hover:bg-white/10">Search</Link>
         </div>

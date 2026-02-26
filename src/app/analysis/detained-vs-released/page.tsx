@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'Detained vs. Released — How Custody Status Affects Outcomes',
@@ -80,6 +81,17 @@ export default function DetainedVsReleasedPage() {
             </div>
           </div>
         </div>
+      </div>
+
+      <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-4">
+        <Link href="/bond" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">⚖️ Bond Data</h3>
+          <p className="text-sm text-gray-600 mt-1">Bond hearing outcomes and grant rates by court.</p>
+        </Link>
+        <Link href="/analysis/representation-gap" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">👔 The Representation Gap</h3>
+          <p className="text-sm text-gray-600 mt-1">How legal representation changes outcomes for detained immigrants.</p>
+        </Link>
       </div>
     </div>
   )

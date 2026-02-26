@@ -4,6 +4,8 @@ import Link from 'next/link'
 import fs from 'fs'
 import path from 'path'
 
+import { titleCase } from '@/lib/utils'
+
 function loadData(filename: string) {
   return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', filename), 'utf8'))
 }
@@ -67,7 +69,7 @@ export default function DeportationPage() {
             {nationalities.map((n: { code: string; name: string; cases: number }, i: number) => (
               <tr key={n.code} className="border-t border-gray-100 hover:bg-gray-50">
                 <td className="px-4 py-3 text-gray-500">{i + 1}</td>
-                <td className="px-4 py-3 font-medium">{n.name}</td>
+                <td className="px-4 py-3 font-medium">{titleCase(n.name)}</td>
                 <td className="px-4 py-3 text-right font-bold">{n.cases.toLocaleString()}</td>
               </tr>
             ))}
@@ -109,6 +111,14 @@ export default function DeportationPage() {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <Link href="/analysis/deportation-machine" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">📊 The Deportation Machine in 2025</h3>
+          <p className="text-sm text-gray-600 mt-1">Record case closures, mass deportation orders, and what the numbers show.</p>
+        </Link>
+        <Link href="/analysis/in-absentia" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">🚫 In Absentia Orders</h3>
+          <p className="text-sm text-gray-600 mt-1">How deportation orders are issued without the immigrant present.</p>
+        </Link>
         <Link href="/nationalities" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">🌍 By Nationality</h3>
           <p className="text-sm text-gray-600 mt-1">Explore case data by country of origin.</p>

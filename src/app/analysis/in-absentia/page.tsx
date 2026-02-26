@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'In Absentia Deportation Orders — Deported Without Showing Up',
@@ -81,6 +82,17 @@ export default function InAbsentiaPage() {
             </div>
           </div>
         </div>
+      </div>
+
+      <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-4">
+        <Link href="/deportation" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">📊 Deportation Statistics</h3>
+          <p className="text-sm text-gray-600 mt-1">Explore removal orders, voluntary departures, and trends.</p>
+        </Link>
+        <Link href="/analysis/representation-gap" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">👔 The Representation Gap</h3>
+          <p className="text-sm text-gray-600 mt-1">How having a lawyer changes court appearance and outcomes.</p>
+        </Link>
       </div>
     </div>
   )

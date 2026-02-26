@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'Asylum Outcomes by Nationality',
@@ -80,6 +81,17 @@ export default function AsylumByNationalityPage() {
             </div>
           </div>
         </div>
+      </div>
+
+      <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-4">
+        <Link href="/nationalities" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">🌍 Cases by Nationality</h3>
+          <p className="text-sm text-gray-600 mt-1">Explore case volumes for all 260 nationalities.</p>
+        </Link>
+        <Link href="/asylum" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">🛡️ Asylum Cases</h3>
+          <p className="text-sm text-gray-600 mt-1">Grant rates, denials, and asylum trends over time.</p>
+        </Link>
       </div>
     </div>
   )

@@ -1,5 +1,11 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import fs from 'fs'
+import path from 'path'
+
+function loadData(filename: string) {
+  return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', filename), 'utf8'))
+}
 
 export const metadata: Metadata = {
   title: 'About',
@@ -7,6 +13,7 @@ export const metadata: Metadata = {
 }
 
 export default function AboutPage() {
+  const stats = loadData('stats.json')
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
       <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'About' }]} />
@@ -42,13 +49,13 @@ export default function AboutPage() {
 
         <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">Why This Matters</h2>
         <p>
-          The U.S. immigration court system currently has a backlog of over <strong>3.3 million cases</strong>.
+          The U.S. immigration court system currently has a backlog of over <strong>{(stats.pendingCases / 1e6).toFixed(1)} million cases</strong>.
           Wait times can exceed 4 years. Asylum grant rates vary wildly — from under 10% to over 90% — depending
           on the judge assigned to a case. Whether someone is deported or allowed to stay can depend more on
           geography and judicial assignment than the merits of their case.
         </p>
         <p>
-          Only about <strong>27% of immigrants</strong> in removal proceedings have legal representation.
+          Only about <strong>{stats.representationRate}% of immigrants</strong> in removal proceedings have legal representation.
           Those with attorneys are significantly more likely to win their cases.
         </p>
         <p>
