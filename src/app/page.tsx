@@ -164,21 +164,21 @@ export default function HomePage() {
       <section className="bg-gray-50 py-16 px-4">
         <div className="max-w-4xl mx-auto">
           <h2 className="font-heading text-3xl font-bold text-center mb-6">Why This Data Matters</h2>
-          <div className="prose prose-lg mx-auto text-gray-700">
+          <div className="max-w-3xl mx-auto space-y-5 text-lg text-gray-600 text-center">
             <p>
-              <strong>OpenImmigration</strong> is a free, open-data platform that makes U.S. immigration court records
-              accessible and understandable. We process raw data from the Department of Justice&apos;s Executive Office
-              for Immigration Review (EOIR) — the agency that runs all immigration courts in the United States.
+              <strong className="text-gray-900">OpenImmigration</strong> is a free, open-data platform that makes U.S. immigration
+              court records accessible and understandable. We process raw data from the Department of Justice&apos;s
+              Executive Office for Immigration Review (EOIR) — the agency that runs all immigration courts in the United States.
             </p>
             <p>
-              The immigration court system currently faces a backlog of over <strong>{(stats.pendingCases / 1e6).toFixed(1)} million cases</strong>.
+              The immigration court system currently faces a backlog of over <strong className="text-gray-900">{(stats.pendingCases / 1e6).toFixed(1)} million cases</strong>.
               Asylum grant rates vary wildly between judges — from under 10% to over 90%.
               Whether someone wins their case can depend more on which judge and court they&apos;re assigned to than
               the merits of their case.
             </p>
             <p>
               We believe this data should be accessible to everyone — journalists, researchers, policymakers,
-              immigration attorneys, and the public. No paywalls. No registration. Just data.
+              immigration attorneys, and the public. <strong className="text-gray-900">No paywalls. No registration. Just data.</strong>
             </p>
           </div>
         </div>
