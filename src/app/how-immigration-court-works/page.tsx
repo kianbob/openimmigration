@@ -24,8 +24,8 @@ export default function HowItWorksPage() {
           administrative courts, which means different rules apply.
         </p>
         <p>
-          There are currently <strong>68 immigration courts</strong> across the United States, staffed by
-          approximately <strong>600 immigration judges</strong>. These courts handle all removal proceedings —
+          There are currently <strong>88 immigration courts</strong> across the United States, staffed by
+          over <strong>1,400 immigration judges</strong>. These courts handle all removal proceedings —
           cases where the government seeks to deport someone from the country.
         </p>
 
@@ -98,7 +98,7 @@ export default function HowItWorksPage() {
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/courts" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">🏛️ Explore Courts</h3>
-          <p className="text-sm text-gray-600 mt-1">All 68 immigration courts.</p>
+          <p className="text-sm text-gray-600 mt-1">All 88 immigration courts.</p>
         </Link>
         <Link href="/judges" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">⚖️ Judge Statistics</h3>

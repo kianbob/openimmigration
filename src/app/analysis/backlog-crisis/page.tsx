@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
+import RelatedAnalysis from '@/components/RelatedAnalysis'
 import Link from 'next/link'
 import fs from 'fs'
 import path from 'path'
@@ -181,6 +182,7 @@ export default function BacklogCrisisPage() {
         </Link>
       </div>
 
+      <RelatedAnalysis current="backlog-crisis" />
       <ShareButtons url="https://www.openimmigration.us/analysis/backlog-crisis" title={metadata.title as string} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{
         __html: JSON.stringify({
