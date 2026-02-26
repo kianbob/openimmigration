@@ -11,6 +11,7 @@ const navItems = [
   { label: 'Dashboard', href: '/dashboard' },
   { label: 'Demographics', href: '/demographics' },
   { label: 'Appeals', href: '/appeals' },
+  { label: 'Border', href: '/border' },
 ]
 
 const analysisArticles = [

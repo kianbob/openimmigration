@@ -1,0 +1,337 @@
+{
+  "source": "U.S. Customs and Border Protection (CBP) Public Data Portal",
+  "lastUpdated": "January 2026",
+  "fiscalYearNote": "Fiscal years run October 1 to September 30 (e.g., FY2024 = Oct 2023 - Sep 2024)",
+  "grandTotal": 12049921,
+  "yearly": [
+    {
+      "fy": 2020,
+      "total": 628427
+    },
+    {
+      "fy": 2021,
+      "total": 1933048
+    },
+    {
+      "fy": 2022,
+      "total": 2738826
+    },
+    {
+      "fy": 2023,
+      "total": 3148444
+    },
+    {
+      "fy": 2024,
+      "total": 2822441
+    },
+    {
+      "fy": 2025,
+      "total": 662270
+    },
+    {
+      "fy": 2026,
+      "total": 116465
+    }
+  ],
+  "topCitizenships": [
+    {
+      "name": "MEXICO",
+      "count": 3437963
+    },
+    {
+      "name": "GUATEMALA",
+      "count": 1042018
+    },
+    {
+      "name": "HONDURAS",
+      "count": 980210
+    },
+    {
+      "name": "VENEZUELA",
+      "count": 961592
+    },
+    {
+      "name": "OTHER",
+      "count": 918456
+    },
+    {
+      "name": "CUBA",
+      "count": 729524
+    },
+    {
+      "name": "HAITI",
+      "count": 507796
+    },
+    {
+      "name": "COLOMBIA",
+      "count": 473197
+    },
+    {
+      "name": "NICARAGUA",
+      "count": 452422
+    },
+    {
+      "name": "ECUADOR",
+      "count": 390502
+    },
+    {
+      "name": "EL SALVADOR",
+      "count": 350696
+    },
+    {
+      "name": "INDIA",
+      "count": 348162
+    },
+    {
+      "name": "UKRAINE",
+      "count": 309211
+    },
+    {
+      "name": "PHILIPPINES",
+      "count": 285441
+    },
+    {
+      "name": "CANADA",
+      "count": 224431
+    },
+    {
+      "name": "BRAZIL",
+      "count": 196620
+    },
+    {
+      "name": "PERU",
+      "count": 183735
+    },
+    {
+      "name": "RUSSIA",
+      "count": 145526
+    },
+    {
+      "name": "TURKEY",
+      "count": 65220
+    },
+    {
+      "name": "MYANMAR (BURMA)",
+      "count": 25792
+    },
+    {
+      "name": "ROMANIA",
+      "count": 21407
+    },
+    {
+      "name": "\"CHINA",
+      "count": 0
+    }
+  ],
+  "citizenshipByYear": [
+    {
+      "fy": 2020,
+      "OTHER": 47473,
+      "COLOMBIA": 2768,
+      "GUATEMALA": 49436,
+      "HAITI": 5291,
+      "MEXICO": 309230,
+      "CUBA": 14015,
+      "VENEZUELA": 4520,
+      "HONDURAS": 43357,
+      "ECUADOR": 12892,
+      "NICARAGUA": 3164
+    },
+    {
+      "fy": 2021,
+      "MEXICO": 674739,
+      "OTHER": 57357,
+      "COLOMBIA": 10495,
+      "VENEZUELA": 50499,
+      "CUBA": 39303,
+      "ECUADOR": 97074,
+      "GUATEMALA": 284291,
+      "HAITI": 48727,
+      "HONDURAS": 321149,
+      "NICARAGUA": 50722
+    },
+    {
+      "fy": 2022,
+      "COLOMBIA": 130971,
+      "MEXICO": 823057,
+      "OTHER": 137328,
+      "VENEZUELA": 189520,
+      "CUBA": 224607,
+      "ECUADOR": 24936,
+      "HAITI": 56596,
+      "GUATEMALA": 233061,
+      "HONDURAS": 214975,
+      "NICARAGUA": 164600
+    },
+    {
+      "fy": 2023,
+      "MEXICO": 735937,
+      "OTHER": 299575,
+      "COLOMBIA": 167388,
+      "HONDURAS": 216028,
+      "NICARAGUA": 138729,
+      "CUBA": 200287,
+      "ECUADOR": 117487,
+      "GUATEMALA": 221849,
+      "HAITI": 163781,
+      "VENEZUELA": 334914
+    },
+    {
+      "fy": 2024,
+      "OTHER": 267575,
+      "COLOMBIA": 134676,
+      "GUATEMALA": 206971,
+      "HAITI": 220798,
+      "MEXICO": 668088,
+      "NICARAGUA": 91049,
+      "VENEZUELA": 313496,
+      "CUBA": 217615,
+      "HONDURAS": 144373,
+      "ECUADOR": 124023
+    },
+    {
+      "fy": 2025,
+      "OTHER": 87834,
+      "COLOMBIA": 24609,
+      "HAITI": 12282,
+      "MEXICO": 188334,
+      "HONDURAS": 36732,
+      "VENEZUELA": 66944,
+      "CUBA": 33056,
+      "ECUADOR": 12959,
+      "GUATEMALA": 40617,
+      "NICARAGUA": 3452
+    },
+    {
+      "fy": 2026,
+      "OTHER": 21314,
+      "MEXICO": 38578,
+      "COLOMBIA": 2290,
+      "GUATEMALA": 5793,
+      "HAITI": 321,
+      "VENEZUELA": 1699,
+      "ECUADOR": 1131,
+      "HONDURAS": 3596,
+      "NICARAGUA": 706,
+      "CUBA": 641
+    }
+  ],
+  "swbByYear": [
+    {
+      "fy": 2020,
+      "count": 456320
+    },
+    {
+      "fy": 2021,
+      "count": 1734236
+    },
+    {
+      "fy": 2022,
+      "count": 2376768
+    },
+    {
+      "fy": 2023,
+      "count": 2451355
+    },
+    {
+      "fy": 2024,
+      "count": 2096759
+    },
+    {
+      "fy": 2025,
+      "count": 439358
+    },
+    {
+      "fy": 2026,
+      "count": 42064
+    }
+  ],
+  "demographicsByYear": [
+    {
+      "fy": 2020,
+      "FMUA": 74688,
+      "Single Adults": 518778,
+      "UC / Single Minors": 34035,
+      "Accompanied Minors": 926
+    },
+    {
+      "fy": 2021,
+      "Accompanied Minors": 2981,
+      "Single Adults": 1298502,
+      "FMUA": 483597,
+      "UC / Single Minors": 147968
+    },
+    {
+      "fy": 2022,
+      "Accompanied Minors": 5839,
+      "FMUA": 612872,
+      "Single Adults": 1967247,
+      "UAC": 152868
+    },
+    {
+      "fy": 2023,
+      "Accompanied Minors": 7276,
+      "FMUA": 987302,
+      "Single Adults": 2015954,
+      "UAC": 137912
+    },
+    {
+      "fy": 2024,
+      "Accompanied Minors": 5677,
+      "FMUA": 982993,
+      "Single Adults": 1723281,
+      "UAC": 110490
+    },
+    {
+      "fy": 2025,
+      "Accompanied Minors": 1522,
+      "FMUA": 153874,
+      "Single Adults": 477359,
+      "UAC": 29515
+    },
+    {
+      "fy": 2026,
+      "Accompanied Minors": 415,
+      "FMUA": 7163,
+      "Single Adults": 105942,
+      "UAC": 2945
+    }
+  ],
+  "componentByYear": [
+    {
+      "fy": 2020,
+      "OFO": 224673,
+      "USBP": 403754
+    },
+    {
+      "fy": 2021,
+      "OFO": 271223,
+      "USBP": 1661825
+    },
+    {
+      "fy": 2022,
+      "OFO": 526161,
+      "USBP": 2212665
+    },
+    {
+      "fy": 2023,
+      "OFO": 1108877,
+      "USBP": 2039567
+    },
+    {
+      "fy": 2024,
+      "OFO": 1303098,
+      "USBP": 1519343
+    },
+    {
+      "fy": 2025,
+      "OFO": 412137,
+      "USBP": 250133
+    },
+    {
+      "fy": 2026,
+      "OFO": 81691,
+      "USBP": 34774
+    }
+  ]
+}
