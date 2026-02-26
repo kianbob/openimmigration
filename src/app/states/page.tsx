@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import Link from 'next/link'
 import { titleCase } from '@/lib/utils'
 import StatesChart from './StatesChart'
 import fs from 'fs'
@@ -69,6 +70,17 @@ export default function StatesPage() {
             ))}
           </tbody>
         </table>
+      </div>
+
+      <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-4">
+        <Link href="/analysis/geographic-lottery" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">📍 Geographic Lottery Analysis</h3>
+          <p className="text-sm text-gray-600 mt-1">How location determines immigration court outcomes across the country.</p>
+        </Link>
+        <Link href="/courts" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">🏛️ Immigration Courts</h3>
+          <p className="text-sm text-gray-600 mt-1">Court-level detail with grant rates, judges, and top nationalities.</p>
+        </Link>
       </div>
 
       <p className="text-sm text-gray-500 mt-6 text-center">

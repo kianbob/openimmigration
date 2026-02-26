@@ -28,14 +28,18 @@ export default function Footer() {
           </div>
 
           <div>
-            <h4 className="text-white font-semibold mb-3">Analysis</h4>
+            <h4 className="text-white font-semibold mb-3">Analysis & More</h4>
             <ul className="space-y-2 text-sm">
               <li><Link href="/dashboard" className="hover:text-white transition-colors">Dashboard</Link></li>
               <li><Link href="/analysis" className="hover:text-white transition-colors">Analysis & Reports</Link></li>
               <li><Link href="/backlog" className="hover:text-white transition-colors">Court Backlog</Link></li>
               <li><Link href="/asylum" className="hover:text-white transition-colors">Asylum Cases</Link></li>
               <li><Link href="/deportation" className="hover:text-white transition-colors">Deportation Statistics</Link></li>
+              <li><Link href="/amnesty" className="hover:text-white transition-colors">Amnesty & Legal Pathways</Link></li>
+              <li><Link href="/naturalization" className="hover:text-white transition-colors">Naturalization</Link></li>
+              <li><Link href="/green-card" className="hover:text-white transition-colors">Green Card Data</Link></li>
               <li><Link href="/how-immigration-court-works" className="hover:text-white transition-colors">How It Works</Link></li>
+              <li><Link href="/search" className="hover:text-white transition-colors">Search</Link></li>
               <li><Link href="/faq" className="hover:text-white transition-colors">FAQ</Link></li>
               <li><Link href="/about" className="hover:text-white transition-colors">About</Link></li>
             </ul>

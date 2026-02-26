@@ -54,7 +54,22 @@ export default function JudgesPage() {
 
       <JudgesTable judges={judges} />
 
-      <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div className="prose prose-lg max-w-none text-gray-600 mt-8 mb-8">
+        <h2 className="font-heading text-2xl font-bold text-gray-900">Understanding Judge Statistics</h2>
+        <p>
+          Immigration judges are appointed by the Attorney General and serve within the Department of Justice.
+          Unlike federal judges, they have no life tenure and can be reassigned or fired. This creates a system
+          where judicial independence is limited — and where outcomes vary dramatically from one judge to the next.
+        </p>
+        <p>
+          A grant rate measures how often a judge rules in favor of the immigrant (granting asylum, cancellation
+          of removal, or other relief). The national average is around {avgGrant}%, but individual judges range
+          from {minGrant.grantRate}% to {maxGrant.grantRate}%. This means your assigned judge can be the single
+          biggest factor in whether you stay or get deported.
+        </p>
+      </div>
+
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <Link href="/analysis/judge-variation" className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-lg transition-all">
           <h3 className="font-heading text-lg font-bold">⚖️ Judge Roulette Analysis</h3>
           <p className="text-sm text-gray-600 mt-2">How your judge determines your fate — the data behind asylum outcome variation.</p>

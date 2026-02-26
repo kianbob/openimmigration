@@ -16,6 +16,15 @@ function loadIndex() {
   return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'judge-index.json'), 'utf8'))
 }
 
+function loadCourtLookup(): Record<string, { city: string; state: string; slug: string }> {
+  const courts = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'court-index.json'), 'utf8'))
+  const map: Record<string, { city: string; state: string; slug: string }> = {}
+  for (const c of courts) {
+    map[c.code] = { city: c.city || c.name, state: c.state || '', slug: c.slug || '' }
+  }
+  return map
+}
+
 export function generateStaticParams() {
   const index = loadIndex()
   return index.sort((a: { totalDecisions: number }, b: { totalDecisions: number }) => b.totalDecisions - a.totalDecisions).slice(0, 50).map((j: { slug: string }) => ({ slug: j.slug }))
@@ -38,6 +47,7 @@ export default async function JudgeDetailPage({ params }: { params: Promise<{ sl
   const judge = loadDetail(slug)
   if (!judge) notFound()
 
+  const courtLookup = loadCourtLookup()
   const grColor = judge.grantRate >= 15 ? 'text-green-600' : judge.grantRate >= 8 ? 'text-yellow-600' : 'text-red-600'
   const grBg = judge.grantRate >= 15 ? 'bg-green-500' : judge.grantRate >= 8 ? 'bg-yellow-500' : 'bg-red-500'
 
@@ -125,12 +135,19 @@ export default async function JudgeDetailPage({ params }: { params: Promise<{ sl
               </tr>
             </thead>
             <tbody>
-              {judge.courts.map((c: { code: string; name: string; hearings: number }) => (
-                <tr key={c.code} className="border-t border-gray-100">
-                  <td className="px-3 py-1.5 font-medium">{c.name}</td>
-                  <td className="px-3 py-1.5 text-right">{c.hearings.toLocaleString()}</td>
-                </tr>
-              ))}
+              {judge.courts.map((c: { code: string; name: string; hearings: number }) => {
+                const court = courtLookup[c.code]
+                const displayName = court ? `${titleCase(court.city)}, ${court.state}` : titleCase(c.name)
+                const courtSlug = court?.slug
+                return (
+                  <tr key={c.code + c.hearings} className="border-t border-gray-100">
+                    <td className="px-3 py-1.5 font-medium">
+                      {courtSlug ? <Link href={`/courts/${courtSlug}`} className="text-primary hover:underline">{displayName}</Link> : displayName}
+                    </td>
+                    <td className="px-3 py-1.5 text-right">{c.hearings.toLocaleString()}</td>
+                  </tr>
+                )
+              })}
             </tbody>
           </table>
         </div>

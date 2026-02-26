@@ -104,13 +104,18 @@ export default function HomePage() {
                 </tr>
               </thead>
               <tbody>
-                {nationalities.map((n: { code: string; name: string; cases: number }, i: number) => (
-                  <tr key={n.code} className="border-t border-gray-100 hover:bg-gray-50">
-                    <td className="px-4 py-2 text-gray-500">{i + 1}</td>
-                    <td className="px-4 py-2 font-medium">{titleCase(n.name)}</td>
-                    <td className="px-4 py-2 text-right">{n.cases.toLocaleString()}</td>
-                  </tr>
-                ))}
+                {nationalities.map((n: { code: string; name: string; cases: number }, i: number) => {
+                  const slug = n.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
+                  return (
+                    <tr key={n.code} className="border-t border-gray-100 hover:bg-gray-50">
+                      <td className="px-4 py-2 text-gray-500">{i + 1}</td>
+                      <td className="px-4 py-2 font-medium">
+                        <Link href={`/nationalities/${slug}`} className="text-primary hover:underline">{titleCase(n.name)}</Link>
+                      </td>
+                      <td className="px-4 py-2 text-right">{n.cases.toLocaleString()}</td>
+                    </tr>
+                  )
+                })}
               </tbody>
             </table>
           </div>
@@ -180,6 +185,10 @@ export default function HomePage() {
             { title: 'Judge Roulette', desc: 'Asylum outcomes vary dramatically by judge. Some grant 90%+ of cases. Others deny 90%+. Same law, wildly different results.', href: '/analysis/judge-variation' },
             { title: 'Representation Gap', desc: `Immigrants with attorneys win their cases at 5x the rate of those without. But only about ${stats.representationRate}% have representation.`, href: '/analysis/representation-gap' },
             { title: 'Geographic Lottery', desc: 'Your odds of winning asylum depend heavily on where your case is heard. New York vs. Atlanta can mean the difference between freedom and deportation.', href: '/analysis/geographic-lottery' },
+            { title: 'The Deportation Machine', desc: `${stats.removalOrders.toLocaleString()} removal orders, ${(814501).toLocaleString()} voluntary departures. How cases flow through the system.`, href: '/analysis/deportation-machine' },
+            { title: 'Asylum by Nationality', desc: 'From Mexico to Venezuela to Eritrea — how country of origin shapes outcomes in immigration court.', href: '/analysis/asylum-by-nationality' },
+            { title: 'In Absentia Orders', desc: `${stats.inAbsentia.toLocaleString()} people ordered deported without being present. 1 in 8 cases ends this way.`, href: '/analysis/in-absentia' },
+            { title: 'Detained vs. Released', desc: 'How custody status determines outcomes — detained immigrants face longer odds and fewer options.', href: '/analysis/detained-vs-released' },
           ].map(article => (
             <Link key={article.href} href={article.href}
               className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-lg hover:border-primary/30 transition-all">
