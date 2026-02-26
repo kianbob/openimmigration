@@ -13,6 +13,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'Immigration Cases by State',
   description: 'Explore U.S. immigration court cases by state — case counts across all states and territories.',
+  alternates: { canonical: 'https://www.openimmigration.us/states' },
 }
 
 export default function StatesPage() {

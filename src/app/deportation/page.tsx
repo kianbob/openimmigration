@@ -14,6 +14,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'U.S. Deportation Statistics & Data',
   description: 'U.S. deportation statistics — removal orders, voluntary departure, and deportation trends from DOJ EOIR data.',
+  alternates: { canonical: 'https://www.openimmigration.us/deportation' },
 }
 
 export default function DeportationPage() {

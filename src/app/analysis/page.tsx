@@ -5,6 +5,7 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 export const metadata: Metadata = {
   title: 'Analysis & Reports',
   description: 'In-depth analysis of U.S. immigration court data — backlog trends, judge variation, representation gaps, geographic disparities, and more.',
+  alternates: { canonical: 'https://www.openimmigration.us/analysis' },
 }
 
 const articles = [

@@ -5,6 +5,7 @@ import Link from 'next/link'
 export const metadata: Metadata = {
   title: 'Green Card Data — 710,100 Pending Applications for Permanent Residence',
   description: 'Green card (I-485) data — 710,100 pending adjustment of status applications. Plus 524,900 family petitions (I-130) and 103,500 employment petitions (I-140).',
+  alternates: { canonical: 'https://www.openimmigration.us/green-card' },
 }
 
 const PIPELINE = [

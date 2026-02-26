@@ -13,6 +13,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'Immigration Court Backlog — Pending Cases',
   description: 'Track the U.S. immigration court backlog — pending cases, trends over time, and which courts are most affected.',
+  alternates: { canonical: 'https://www.openimmigration.us/backlog' },
 }
 
 export default function BacklogPage() {

@@ -14,6 +14,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'The Backlog Crisis — How 1.9 Million Cases Piled Up',
   description: 'The U.S. immigration court backlog reached 1.9 million pending cases. With 9.6 million total cases processed, the system is overwhelmed. Data from DOJ EOIR.',
+  alternates: { canonical: 'https://www.openimmigration.us/analysis/backlog-crisis' },
 }
 
 export default function BacklogCrisisPage() {

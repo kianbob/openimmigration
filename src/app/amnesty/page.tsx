@@ -11,6 +11,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'Immigration Amnesty & Legalization Programs — History & Data',
   description: 'History of U.S. immigration amnesty programs — from IRCA 1986 (2.7M legalized) to DACA (515K active). How legalization programs shaped immigration court caseloads.',
+  alternates: { canonical: 'https://www.openimmigration.us/amnesty' },
 }
 
 export default function AmnestyPage() {

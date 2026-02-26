@@ -5,6 +5,7 @@ import Link from 'next/link'
 export const metadata: Metadata = {
   title: 'U.S. Naturalization Data — 998,700 Pending Citizenship Applications',
   description: 'Nearly 1 million N-400 naturalization applications pending. Explore citizenship data — processing times, backlogs, requirements, and trends.',
+  alternates: { canonical: 'https://www.openimmigration.us/naturalization' },
 }
 
 export default function NaturalizationPage() {

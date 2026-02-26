@@ -34,6 +34,7 @@ const HIDE_OUTCOMES = ['ZERO BOND', '', 'Lifted Detained Status', 'Haitian', 'Wi
 export const metadata: Metadata = {
   title: 'Asylum Cases — Grant Rates, Denials & Trends',
   description: 'Explore U.S. asylum case data — grant rates, denial rates, and how outcomes vary by court, judge, and nationality.',
+  alternates: { canonical: 'https://www.openimmigration.us/asylum' },
 }
 
 export default function AsylumPage() {

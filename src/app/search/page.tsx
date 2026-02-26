@@ -12,6 +12,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'Search Immigration Court Data — Courts, Judges & Nationalities',
   description: 'Search U.S. immigration court data — find any of 88 courts, 1,269 judges, or 260 nationalities. Free access to DOJ EOIR case data.',
+  alternates: { canonical: 'https://www.openimmigration.us/search' },
 }
 
 export default function SearchPage() {

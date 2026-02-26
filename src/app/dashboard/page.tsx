@@ -12,6 +12,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'Dashboard — Immigration Court Overview',
   description: 'At-a-glance dashboard of U.S. immigration court statistics — pending cases, deportation rates, asylum outcomes, and trends.',
+  alternates: { canonical: 'https://www.openimmigration.us/dashboard' },
 }
 
 export default function DashboardPage() {

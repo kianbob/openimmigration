@@ -5,6 +5,7 @@ import Link from 'next/link'
 export const metadata: Metadata = {
   title: 'USCIS Immigration Data — Applications, Backlogs & Processing',
   description: 'Explore USCIS immigration data — 5.4 million application backlog, green card processing, work permits, naturalization, and visa petitions.',
+  alternates: { canonical: 'https://www.openimmigration.us/uscis' },
 }
 
 const BACKLOG_DATA = [

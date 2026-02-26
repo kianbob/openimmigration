@@ -11,6 +11,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'Unaccompanied Children in Immigration Court — UAC Data & Statistics',
   description: 'Unaccompanied migrant children face immigration court alone. Many as young as 3-4 years old must defend themselves against deportation without a lawyer.',
+  alternates: { canonical: 'https://www.openimmigration.us/children' },
 }
 
 export default function ChildrenPage() {

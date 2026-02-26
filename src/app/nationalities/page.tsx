@@ -13,6 +13,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'Immigration Cases by Nationality — All 260 Countries',
   description: 'Explore U.S. immigration court cases by country of origin — Mexico 2.3M, Guatemala 997K, Honduras 953K. All 260 nationalities with case data.',
+  alternates: { canonical: 'https://www.openimmigration.us/nationalities' },
 }
 
 export default function NationalitiesPage() {

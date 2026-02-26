@@ -14,6 +14,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'The Representation Gap — Only 26.7% of Immigrants Have Lawyers',
   description: 'Only 26.7% of immigrants in removal proceedings have lawyers. Represented immigrants are 5x more likely to win. No right to a public defender.',
+  alternates: { canonical: 'https://www.openimmigration.us/analysis/representation-gap' },
 }
 
 export default function RepresentationGapPage() {

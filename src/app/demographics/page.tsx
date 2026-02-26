@@ -13,6 +13,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'Demographics — Gender, Languages & Custody in Immigration Court',
   description: 'Demographics of U.S. immigration court cases: 59.2% male, 40.8% female. 50+ languages. 6.4M never detained, 2.1M detained. EOIR data analysis.',
+  alternates: { canonical: 'https://www.openimmigration.us/demographics' },
 }
 
 export default function DemographicsPage() {

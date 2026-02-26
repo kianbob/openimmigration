@@ -4,6 +4,7 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 export const metadata: Metadata = {
   title: 'FAQ — Frequently Asked Questions About Immigration Courts',
   description: 'Common questions about U.S. immigration courts, the backlog, asylum, deportation, and how the system works.',
+  alternates: { canonical: 'https://www.openimmigration.us/faq' },
 }
 
 const faqs = [

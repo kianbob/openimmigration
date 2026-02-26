@@ -13,6 +13,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'All 88 U.S. Immigration Courts — Grant Rates, Cases & Outcomes',
   description: 'Explore case volumes, grant rates, and outcomes for all 88 U.S. immigration courts. Grant rates range from 0.8% (Houston) to 21% (New York). DOJ EOIR data.',
+  alternates: { canonical: 'https://www.openimmigration.us/courts' },
 }
 
 export default function CourtsPage() {

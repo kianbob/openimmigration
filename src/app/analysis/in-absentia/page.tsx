@@ -14,6 +14,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'In Absentia — 2.1 Million Deported Without Being Present',
   description: '2,162,444 immigration proceedings ended in absentia — 13.3% of all cases. Ordered deported without anyone hearing their side. Explore the data.',
+  alternates: { canonical: 'https://www.openimmigration.us/analysis/in-absentia' },
 }
 
 export default function InAbsentiaPage() {

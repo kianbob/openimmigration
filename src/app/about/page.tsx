@@ -10,6 +10,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'About',
   description: 'OpenImmigration makes U.S. immigration court data accessible. Learn about our data sources, methodology, and mission.',
+  alternates: { canonical: 'https://www.openimmigration.us/about' },
 }
 
 export default function AboutPage() {

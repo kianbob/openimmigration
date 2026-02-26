@@ -12,6 +12,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'Immigration Case Types & Charges — Removal, Deportation, Asylum & More',
   description: 'What types of cases are filed in U.S. immigration courts — 8.3M removal, 902K deportation, 164K credible fear. Explore all case types.',
+  alternates: { canonical: 'https://www.openimmigration.us/charges' },
 }
 
 export default function ChargesPage() {

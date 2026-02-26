@@ -5,6 +5,7 @@ import Link from 'next/link'
 export const metadata: Metadata = {
   title: 'How U.S. Immigration Court Works — A Complete Guide',
   description: 'A complete guide to the U.S. immigration court system — how cases are filed, who the judges are, what happens at hearings, and possible outcomes.',
+  alternates: { canonical: 'https://www.openimmigration.us/how-immigration-court-works' },
 }
 
 export default function HowItWorksPage() {

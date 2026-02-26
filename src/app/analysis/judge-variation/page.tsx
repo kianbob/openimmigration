@@ -15,6 +15,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'Judge Roulette — Grant Rates Range from 0% to 44.9%',
   description: 'Immigration judge grant rates vary from 0% to 44.9%. With 1,269 judges making 12.8 million decisions, your assigned judge may matter more than your case.',
+  alternates: { canonical: 'https://www.openimmigration.us/analysis/judge-variation' },
 }
 
 interface Judge {

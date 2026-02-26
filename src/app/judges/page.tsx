@@ -12,6 +12,7 @@ function loadData(filename: string) {
 export const metadata: Metadata = {
   title: 'Immigration Judge Statistics — 1,269 Judges',
   description: 'Explore asylum grant rates, case volumes, and decision patterns for 1,269 U.S. immigration judges.',
+  alternates: { canonical: 'https://www.openimmigration.us/judges' },
 }
 
 export default function JudgesPage() {

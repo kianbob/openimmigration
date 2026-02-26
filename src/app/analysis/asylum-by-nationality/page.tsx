@@ -21,6 +21,7 @@ function loadNatDetail(slug: string) {
 export const metadata: Metadata = {
   title: 'Asylum by Nationality — How Your Country of Origin Shapes Your Fate',
   description: 'Immigration court outcomes vary dramatically by nationality. Mexico: 2.3M cases. Venezuela: 620K cases. Compare asylum grant rates across 260 countries.',
+  alternates: { canonical: 'https://www.openimmigration.us/analysis/asylum-by-nationality' },
 }
 
 interface NatEntry { code: string; name: string; slug: string; cases: number }

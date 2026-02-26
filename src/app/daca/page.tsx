@@ -5,6 +5,7 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 export const metadata: Metadata = {
   title: 'DACA Recipients — 515,570 Active Dreamers by State & Country',
   description: 'DACA data: 515,570 active recipients as of June 2025. 81% from Mexico. Explore DACA recipients by state, country of birth, age, and demographics.',
+  alternates: { canonical: 'https://www.openimmigration.us/daca' },
 }
 
 const DACA_BY_COUNTRY = [
