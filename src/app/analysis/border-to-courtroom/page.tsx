@@ -35,7 +35,7 @@ export default function BorderToCourtPage() {
 
       <div className="prose prose-lg max-w-none text-gray-700">
         <p className="text-xl text-gray-600 mb-8">
-          What happens after someone crosses the border? CBP recorded <strong>{(border.totalEncounters / 1e6).toFixed(1)} million
+          What happens after someone crosses the border? CBP recorded <strong>{(border.grandTotal / 1e6).toFixed(1)} million
           encounters</strong> between FY2020 and FY2026. The immigration court has <strong>{(stats.pendingCases / 1e6).toFixed(1)} million
           pending cases</strong>. Understanding the pipeline between these numbers reveals how the system actually works.
         </p>
@@ -135,7 +135,7 @@ export default function BorderToCourtPage() {
         <div className="bg-gray-50 border border-gray-200 rounded-xl p-6 my-6 not-prose">
           <div className="space-y-3 text-sm">
             <div className="flex items-center gap-3">
-              <span className="bg-primary text-white px-3 py-1 rounded-full font-bold">{(border.totalEncounters / 1e6).toFixed(1)}M</span>
+              <span className="bg-primary text-white px-3 py-1 rounded-full font-bold">{(border.grandTotal / 1e6).toFixed(1)}M</span>
               <span>Border encounters (FY2020-2026)</span>
             </div>
             <div className="text-gray-400 pl-6">↓ Title 42 expulsions, voluntary returns filtered out</div>
@@ -161,7 +161,7 @@ export default function BorderToCourtPage() {
           </div>
         </div>
         <p>
-          From {(border.totalEncounters / 1e6).toFixed(1)} million encounters to ~250,000 annual removals: the
+          From {(border.grandTotal / 1e6).toFixed(1)} million encounters to ~250,000 annual removals: the
           funnel narrows at every stage. Understanding this pipeline is essential to understanding why
           immigration enforcement is so much harder than it appears in political rhetoric.
         </p>

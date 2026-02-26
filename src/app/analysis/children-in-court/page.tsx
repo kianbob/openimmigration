@@ -41,7 +41,7 @@ export default function ChildrenInCourtPage() {
 
         <h2 className="font-heading text-2xl font-bold text-gray-900">Children in the Immigration System</h2>
         <p>
-          CBP encountered over <strong>{border.totalEncounters.toLocaleString()} people</strong> at the border
+          CBP encountered over <strong>{border.grandTotal.toLocaleString()} people</strong> at the border
           between FY2020 and FY2026. A significant portion are children — both &quot;unaccompanied alien children&quot; (UACs)
           who arrive without a parent, and children in family units. All of them eventually face immigration court.
         </p>

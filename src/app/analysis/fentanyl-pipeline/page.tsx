@@ -71,7 +71,7 @@ export default function FentanylPipelinePage() {
         </p>
         <ul className="list-disc pl-6 space-y-2">
           <li>
-            <strong>Border encounters peaked at {(border.totalEncounters / 1e6).toFixed(1)}M</strong> (FY2020-2026),
+            <strong>Border encounters peaked at {(border.grandTotal / 1e6).toFixed(1)}M</strong> (FY2020-2026),
             with a record 3.1M in FY2023 alone. These are overwhelmingly people — families, asylum seekers,
             economic migrants — crossing between ports of entry.
           </li>
