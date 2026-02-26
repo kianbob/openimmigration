@@ -1,3 +1,4 @@
+import ArticleSchema from '@/components/ArticleSchema'
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
@@ -184,6 +185,7 @@ export default function JudgeVariationPage() {
           publisher: { '@type': 'Organization', name: 'OpenImmigration', url: 'https://www.openimmigration.us' },
         })
       }} />
-    </div>
+          <ArticleSchema title="Judge Roulette — Grant Rates Range from 0% to 44.9%" description="Immigration judge grant rates vary from 0% to 44.9%. With 1,269 judges making 12.8 million decisions, your assigned judge may matter more than your case." url="" datePublished="2026-02-26" />
+</div>
   )
 }

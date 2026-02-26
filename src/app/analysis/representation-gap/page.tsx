@@ -1,3 +1,4 @@
+import ArticleSchema from '@/components/ArticleSchema'
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
@@ -200,6 +201,7 @@ export default function RepresentationGapPage() {
         url: 'https://www.openimmigration.us/analysis/representation-gap',
         publisher: { '@type': 'Organization', name: 'OpenImmigration', url: 'https://www.openimmigration.us' },
       }) }} />
-    </div>
+          <ArticleSchema title="The Representation Gap — Only 26.7% of Immigrants Have Lawyers" description="Only 26.7% of immigrants in removal proceedings have lawyers. Represented immigrants are 5x more likely to win. No right to a public defender." url="" datePublished="2026-02-26" />
+</div>
   )
 }

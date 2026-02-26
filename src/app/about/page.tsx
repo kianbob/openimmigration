@@ -52,10 +52,27 @@ export default function AboutPage() {
           <li><strong>USCIS Quarterly Reports</strong> — Green card, naturalization, DACA, and application backlog data</li>
           <li><strong>DHS Overstay Reports</strong> — Annual visa overstay data reported to Congress</li>
           <li><strong>DHS Yearbook of Immigration Statistics</strong> — Historical legal immigration, refugee, and enforcement data</li>
+          <li><strong>CBP Drug Seizure Statistics</strong> — Drug type, weight, and location data for border seizures (FY2023-2026)</li>
         </ul>
         <p>
           All data is from official U.S. government sources — public records that should be accessible to everyone.
+          We process raw data into clean JSON files and make them available for <a href="/downloads" className="text-primary hover:underline">free download</a>.
         </p>
+
+        <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">What We Cover</h2>
+        <p>OpenImmigration provides a comprehensive view of the U.S. immigration system:</p>
+        <ul className="list-disc pl-6 space-y-1">
+          <li><a href="/courts" className="text-primary hover:underline"><strong>Immigration Courts</strong></a> — 88 courts, 1,400+ judges, 9.7M cases</li>
+          <li><a href="/border" className="text-primary hover:underline"><strong>Border Encounters</strong></a> — 12M+ CBP encounters (FY2020-2026)</li>
+          <li><a href="/drug-seizures" className="text-primary hover:underline"><strong>Drug Seizures</strong></a> — 1.9M lbs seized, including 65K lbs of fentanyl</li>
+          <li><a href="/enforcement" className="text-primary hover:underline"><strong>ICE Enforcement</strong></a> — Deportations, removals, and interior enforcement</li>
+          <li><a href="/legal-immigration" className="text-primary hover:underline"><strong>Legal Immigration</strong></a> — Green cards, refugees, and naturalization</li>
+          <li><a href="/tps" className="text-primary hover:underline"><strong>TPS</strong></a> — 1M+ Temporary Protected Status applications from 17 countries</li>
+          <li><a href="/wait-times" className="text-primary hover:underline"><strong>Wait Times</strong></a> — Case duration analysis across all courts</li>
+          <li><a href="/appeals" className="text-primary hover:underline"><strong>Appeals</strong></a> — 1.46M Board of Immigration Appeals cases</li>
+          <li><a href="/timeline" className="text-primary hover:underline"><strong>Immigration Timeline</strong></a> — 235 years of U.S. immigration history</li>
+          <li><a href="/analysis" className="text-primary hover:underline"><strong>8 In-Depth Analyses</strong></a> — Backlog crisis, judge variation, representation gap, and more</li>
+        </ul>
 
         <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">Why This Matters</h2>
         <p>

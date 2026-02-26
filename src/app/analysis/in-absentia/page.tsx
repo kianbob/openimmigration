@@ -1,3 +1,4 @@
+import ArticleSchema from '@/components/ArticleSchema'
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
@@ -224,6 +225,7 @@ export default function InAbsentiaPage() {
         url: 'https://www.openimmigration.us/analysis/in-absentia',
         publisher: { '@type': 'Organization', name: 'OpenImmigration', url: 'https://www.openimmigration.us' },
       }) }} />
-    </div>
+          <ArticleSchema title="In Absentia — 2.1 Million Deported Without Being Present" description="2,162,444 immigration proceedings ended in absentia — 13.3% of all cases. Ordered deported without anyone hearing their side. Explore the data." url="" datePublished="2026-02-26" />
+</div>
   )
 }

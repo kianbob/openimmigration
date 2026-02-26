@@ -1,3 +1,4 @@
+import ArticleSchema from '@/components/ArticleSchema'
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
@@ -192,6 +193,7 @@ export default function BacklogCrisisPage() {
           publisher: { '@type': 'Organization', name: 'OpenImmigration', url: 'https://www.openimmigration.us' },
         })
       }} />
-    </div>
+          <ArticleSchema title="The Backlog Crisis — How 1.9 Million Cases Piled Up" description="The U.S. immigration court backlog reached 1.9 million pending cases. With 9.6 million total cases processed, the system is overwhelmed. Data from DOJ EOIR." url="" datePublished="2026-02-26" />
+</div>
   )
 }

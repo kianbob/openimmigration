@@ -49,20 +49,43 @@ const articles = [
   },
 ]
 
+const pages = [
+  { path: '/border', title: 'Border Encounters — 12M+ CBP Encounters FY2020-2026', desc: 'Comprehensive CBP encounter data by year, nationality, demographics, and border sector.', date: '2026-02-26' },
+  { path: '/enforcement', title: 'ICE Enforcement — Removals, Returns & Arrests', desc: 'ICE deportation and interior enforcement data FY2014-2026.', date: '2026-02-26' },
+  { path: '/legal-immigration', title: 'Legal Immigration — Green Cards, Refugees & Naturalization', desc: 'Legal immigration pathways: ~1M green cards/year, refugee admissions, naturalization trends.', date: '2026-02-26' },
+  { path: '/overstays', title: 'Visa Overstays — 478K+ Overstays in FY2024', desc: 'DHS visa overstay data by year and country, estimated unauthorized population.', date: '2026-02-26' },
+  { path: '/drug-seizures', title: 'Drug Seizures at the U.S. Border — 65,000 lbs of Fentanyl', desc: 'CBP drug seizure data FY2023-2026. Fentanyl, meth, cocaine, heroin by year and location.', date: '2026-02-26' },
+  { path: '/tps', title: 'Temporary Protected Status — 1M+ Pending Applications', desc: 'TPS data from 17 countries: Venezuela, Haiti, Ukraine lead with 877K pending combined.', date: '2026-02-26' },
+  { path: '/wait-times', title: 'Immigration Court Wait Times — How Long Cases Take', desc: 'Average case duration is 397 days. Wait times by court, year, and distribution.', date: '2026-02-26' },
+  { path: '/appeals', title: 'Appeals to the Board of Immigration Appeals', desc: '1.46M BIA appeals analyzed — decisions, filers, trends.', date: '2026-02-26' },
+  { path: '/timeline', title: 'U.S. Immigration Timeline — 1790 to 2025', desc: 'Key laws and events in U.S. immigration history from the Naturalization Act to today.', date: '2026-02-26' },
+  { path: '/downloads', title: 'Download Immigration Data — Free JSON Datasets', desc: '18 free JSON datasets: courts, judges, encounters, drugs, wait times, and more.', date: '2026-02-26' },
+]
+
 export async function GET() {
   const baseUrl = 'https://www.openimmigration.us'
 
-  const items = articles
-    .map(
-      (a) => `    <item>
+  const articleItems = articles.map(
+    (a) => `    <item>
       <title>${escapeXml(a.title)}</title>
       <link>${baseUrl}/analysis/${a.slug}</link>
       <description>${escapeXml(a.desc)}</description>
       <pubDate>${new Date(a.date).toUTCString()}</pubDate>
       <guid>${baseUrl}/analysis/${a.slug}</guid>
     </item>`
-    )
-    .join('\n')
+  )
+
+  const pageItems = pages.map(
+    (p) => `    <item>
+      <title>${escapeXml(p.title)}</title>
+      <link>${baseUrl}${p.path}</link>
+      <description>${escapeXml(p.desc)}</description>
+      <pubDate>${new Date(p.date).toUTCString()}</pubDate>
+      <guid>${baseUrl}${p.path}</guid>
+    </item>`
+  )
+
+  const items = [...pageItems, ...articleItems].join('\n')
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">

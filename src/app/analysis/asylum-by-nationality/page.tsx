@@ -1,3 +1,4 @@
+import ArticleSchema from '@/components/ArticleSchema'
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
@@ -227,6 +228,7 @@ export default function AsylumByNationalityPage() {
         url: 'https://www.openimmigration.us/analysis/asylum-by-nationality',
         publisher: { '@type': 'Organization', name: 'OpenImmigration', url: 'https://www.openimmigration.us' },
       }) }} />
-    </div>
+          <ArticleSchema title="Asylum by Nationality — How Your Country of Origin Shapes Your Fate" description="Immigration court outcomes vary dramatically by nationality. Mexico: 2.3M cases. Venezuela: 620K cases. Compare asylum grant rates across 260 countries." url="" datePublished="2026-02-26" />
+</div>
   )
 }

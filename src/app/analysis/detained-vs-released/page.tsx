@@ -1,3 +1,4 @@
+import ArticleSchema from '@/components/ArticleSchema'
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
@@ -241,6 +242,7 @@ export default function DetainedVsReleasedPage() {
         url: 'https://www.openimmigration.us/analysis/detained-vs-released',
         publisher: { '@type': 'Organization', name: 'OpenImmigration', url: 'https://www.openimmigration.us' },
       }) }} />
-    </div>
+          <ArticleSchema title="Detained vs. Released — 2.1 Million Locked Up, 6.4 Million Not" description="How detention shapes immigration outcomes. 6.4M never detained, 2.1M detained, 1.1M released. Detained immigrants get faster hearings but worse outcomes." url="" datePublished="2026-02-26" />
+</div>
   )
 }

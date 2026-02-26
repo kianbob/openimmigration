@@ -1,3 +1,4 @@
+import ArticleSchema from '@/components/ArticleSchema'
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
@@ -267,6 +268,7 @@ export default function DeportationMachinePage() {
         url: 'https://www.openimmigration.us/analysis/deportation-machine',
         publisher: { '@type': 'Organization', name: 'OpenImmigration', url: 'https://www.openimmigration.us' },
       }) }} />
-    </div>
+          <ArticleSchema title="The Deportation Machine — How the System Processes 1.3 Million Cases a Year" description="628,798 removal orders, 814,501 voluntary departures, 2.1M in absentia orders, 194,743 administrative closures. Inside the immigration court pipeline." url="" datePublished="2026-02-26" />
+</div>
   )
 }

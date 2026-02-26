@@ -1,3 +1,4 @@
+import ArticleSchema from '@/components/ArticleSchema'
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
@@ -266,6 +267,7 @@ export default function GeographicLotteryPage() {
         url: 'https://www.openimmigration.us/analysis/geographic-lottery',
         publisher: { '@type': 'Organization', name: 'OpenImmigration', url: 'https://www.openimmigration.us' },
       }) }} />
-    </div>
+          <ArticleSchema title="The Geographic Lottery — Grant Rates: New York 21% vs Houston 0.8%" description="Immigration court outcomes vary wildly by location. New York grants at 21%, Houston at 0.8%. Same law, same evidence standard — a 26x difference. Explore all 88 courts." url="" datePublished="2026-02-26" />
+</div>
   )
 }
