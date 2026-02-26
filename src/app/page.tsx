@@ -1,18 +1,19 @@
 import Link from 'next/link'
+import fs from 'fs'
+import path from 'path'
 
-// Key statistics from EOIR/TRAC (as of December 2025)
-const STATS = {
-  pendingCases: 3377998,
-  asylumBacklog: 2339623,
-  deportedFY2026: 149706,
-  deportationRate: 78.5,
-  representationRate: 26.7,
-  newCasesFY2026: 130642,
-  closedFY2026: 193858,
-  dataThrough: 'December 2025',
+function loadData(filename: string) {
+  return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', filename), 'utf8'))
 }
 
 export default function HomePage() {
+  const stats = loadData('stats.json')
+  const nationalities = loadData('nationalities.json').slice(0, 10)
+  const trends = loadData('yearly-trends.json')
+
+  const recentYears = trends.filter((t: { year: number }) => t.year >= 2015)
+  const latestYear = recentYears[recentYears.length - 1]
+
   return (
     <>
       {/* Hero */}
@@ -22,26 +23,26 @@ export default function HomePage() {
             U.S. Immigration Court Data
           </h1>
           <p className="text-xl md:text-2xl text-blue-100 mb-2 max-w-3xl mx-auto">
-            Explore millions of immigration court records from the Department of Justice.
+            Explore {stats.totalCases.toLocaleString()} immigration court cases from the Department of Justice.
             Cases, outcomes, judges, backlogs — all in one place.
           </p>
           <p className="text-sm text-blue-200 mb-8">
-            Data from DOJ EOIR · Updated through {STATS.dataThrough} · Open data, no paywalls
+            Data from DOJ EOIR · Updated {stats.lastUpdated} · Open data, no paywalls
           </p>
 
           {/* Quick stat pills */}
           <div className="flex flex-wrap justify-center gap-3 mb-8">
             <span className="bg-white/10 backdrop-blur px-4 py-2 rounded-full text-sm">
-              📊 {STATS.pendingCases.toLocaleString()} Pending Cases
+              📊 {stats.pendingCases.toLocaleString()} Pending Cases
             </span>
             <span className="bg-white/10 backdrop-blur px-4 py-2 rounded-full text-sm">
-              🛡️ {STATS.asylumBacklog.toLocaleString()} Awaiting Asylum Hearings
+              🛡️ {stats.asylumGranted.toLocaleString()} Asylum Grants
             </span>
             <span className="bg-white/10 backdrop-blur px-4 py-2 rounded-full text-sm">
-              ⚖️ {STATS.deportationRate}% Ordered Deported
+              ⚖️ {stats.removalOrders.toLocaleString()} Removal Orders
             </span>
             <span className="bg-white/10 backdrop-blur px-4 py-2 rounded-full text-sm">
-              👔 Only {STATS.representationRate}% Had Lawyers
+              👔 Only {stats.representationRate}% Had Lawyers
             </span>
           </div>
 
@@ -60,19 +61,74 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Key Numbers */}
+      <section className="max-w-7xl mx-auto px-4 py-12">
+        <h2 className="font-heading text-3xl font-bold text-center mb-8">By the Numbers</h2>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
+            <div className="text-3xl font-bold text-primary">{(stats.totalCases / 1e6).toFixed(1)}M</div>
+            <div className="text-sm text-gray-600">Total Cases</div>
+          </div>
+          <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
+            <div className="text-3xl font-bold text-primary">{(stats.pendingCases / 1e6).toFixed(1)}M</div>
+            <div className="text-sm text-gray-600">Pending Cases</div>
+          </div>
+          <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
+            <div className="text-3xl font-bold text-primary">{stats.totalJudges.toLocaleString()}</div>
+            <div className="text-sm text-gray-600">Immigration Judges</div>
+          </div>
+          <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
+            <div className="text-3xl font-bold text-primary">{stats.totalCourts}</div>
+            <div className="text-sm text-gray-600">Immigration Courts</div>
+          </div>
+        </div>
+      </section>
+
+      {/* Top Nationalities */}
+      <section className="bg-gray-50 py-12 px-4">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="font-heading text-2xl font-bold text-center mb-6">Top Countries of Origin</h2>
+          <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
+            <table className="w-full text-sm">
+              <thead className="bg-gray-50">
+                <tr>
+                  <th className="px-4 py-3 text-left font-semibold">#</th>
+                  <th className="px-4 py-3 text-left font-semibold">Nationality</th>
+                  <th className="px-4 py-3 text-right font-semibold">Total Cases</th>
+                </tr>
+              </thead>
+              <tbody>
+                {nationalities.map((n: { code: string; name: string; cases: number }, i: number) => (
+                  <tr key={n.code} className="border-t border-gray-100 hover:bg-gray-50">
+                    <td className="px-4 py-2 text-gray-500">{i + 1}</td>
+                    <td className="px-4 py-2 font-medium">{n.name}</td>
+                    <td className="px-4 py-2 text-right">{n.cases.toLocaleString()}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <p className="text-center mt-3">
+            <Link href="/nationalities" className="text-primary text-sm font-medium hover:underline">
+              View all {stats.totalNationalities} nationalities →
+            </Link>
+          </p>
+        </div>
+      </section>
+
       {/* Explore Grid */}
       <section className="max-w-7xl mx-auto px-4 py-16">
         <h2 className="font-heading text-3xl font-bold text-center mb-10">Explore the Data</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
-            { title: 'Immigration Courts', desc: 'Case volumes, backlogs, and outcomes for all 68 immigration courts across the U.S.', href: '/courts', icon: '🏛️' },
-            { title: 'By Nationality', desc: 'How cases differ by country of origin — outcomes, representation rates, and wait times.', href: '/nationalities', icon: '🌍' },
-            { title: 'Judge Statistics', desc: 'Asylum grant rates, case volumes, and decision patterns for every immigration judge.', href: '/judges', icon: '⚖️' },
+            { title: 'Immigration Courts', desc: `Case volumes, backlogs, and outcomes for all ${stats.totalCourts} immigration courts across the U.S.`, href: '/courts', icon: '🏛️' },
+            { title: 'By Nationality', desc: `How cases differ by country of origin — ${stats.totalNationalities} nationalities with outcomes and case data.`, href: '/nationalities', icon: '🌍' },
+            { title: 'Judge Statistics', desc: `Asylum grant rates, case volumes, and decision patterns for ${stats.totalJudges.toLocaleString()} immigration judges.`, href: '/judges', icon: '⚖️' },
             { title: 'By State', desc: 'Where immigration cases concentrate — state-level breakdowns of caseloads and outcomes.', href: '/states', icon: '📍' },
-            { title: 'Court Backlog', desc: 'The 3.6 million case backlog — how it grew, where it\'s worst, and what\'s being done.', href: '/backlog', icon: '📈' },
-            { title: 'Asylum Cases', desc: 'Asylum grant rates, denial rates, and how outcomes vary by court, judge, and nationality.', href: '/asylum', icon: '🛡️' },
+            { title: 'Court Backlog', desc: `The ${(stats.pendingCases / 1e6).toFixed(1)} million case backlog — how it grew, where it's worst, and what's being done.`, href: '/backlog', icon: '📈' },
+            { title: 'Asylum Cases', desc: `${stats.asylumGranted.toLocaleString()} asylum grants vs ${stats.asylumDenied.toLocaleString()} denials. How outcomes vary by court, judge, and nationality.`, href: '/asylum', icon: '🛡️' },
             { title: 'Charges & Offenses', desc: 'What immigration charges are most common and how they correlate with case outcomes.', href: '/charges', icon: '📋' },
-            { title: 'Representation', desc: 'How having a lawyer changes outcomes — represented vs. unrepresented case analysis.', href: '/representation', icon: '👔' },
+            { title: 'Representation', desc: `Only ${stats.representationRate}% had lawyers. How having a lawyer changes immigration court outcomes.`, href: '/representation', icon: '👔' },
             { title: 'Search Cases', desc: 'Search and filter immigration court data by court, nationality, year, case type, and more.', href: '/search', icon: '🔍' },
           ].map(card => (
             <Link key={card.href} href={card.href}
@@ -96,8 +152,8 @@ export default function HomePage() {
               for Immigration Review (EOIR) — the agency that runs all immigration courts in the United States.
             </p>
             <p>
-              The immigration court system currently faces a backlog of over <strong>3.6 million cases</strong>.
-              Wait times can exceed 4 years. Asylum grant rates vary wildly between judges — from under 10% to over 90%.
+              The immigration court system currently faces a backlog of over <strong>{(stats.pendingCases / 1e6).toFixed(1)} million cases</strong>.
+              Asylum grant rates vary wildly between judges — from under 10% to over 90%.
               Whether someone wins their case can depend more on which judge and court they&apos;re assigned to than
               the merits of their case.
             </p>
@@ -114,9 +170,9 @@ export default function HomePage() {
         <h2 className="font-heading text-3xl font-bold text-center mb-10">Key Findings</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {[
-            { title: 'The Backlog Crisis', desc: 'How the immigration court backlog grew from 200,000 to 3.6 million cases in just 15 years — and why it keeps growing.', href: '/analysis/backlog-crisis' },
+            { title: 'The Backlog Crisis', desc: `How the immigration court backlog grew to ${(stats.pendingCases / 1e6).toFixed(1)} million cases — and why it keeps growing.`, href: '/analysis/backlog-crisis' },
             { title: 'Judge Roulette', desc: 'Asylum outcomes vary dramatically by judge. Some grant 90%+ of cases. Others deny 90%+. Same law, wildly different results.', href: '/analysis/judge-variation' },
-            { title: 'Representation Gap', desc: 'Immigrants with attorneys win their cases at 5x the rate of those without. But only about 37% have representation.', href: '/analysis/representation-gap' },
+            { title: 'Representation Gap', desc: `Immigrants with attorneys win their cases at 5x the rate of those without. But only about ${stats.representationRate}% have representation.`, href: '/analysis/representation-gap' },
             { title: 'Geographic Lottery', desc: 'Your odds of winning asylum depend heavily on where your case is heard. New York vs. Atlanta can mean the difference between freedom and deportation.', href: '/analysis/geographic-lottery' },
           ].map(article => (
             <Link key={article.href} href={article.href}

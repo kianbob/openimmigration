@@ -1,0 +1,20 @@
+{
+  "totalCases": 9665247,
+  "pendingCases": 1907436,
+  "completedProceedings": 12867239,
+  "totalProceedings": 16216773,
+  "asylumGranted": 918787,
+  "asylumDenied": 658280,
+  "removalOrders": 628798,
+  "voluntaryDeparture": 814501,
+  "adminClosure": 194743,
+  "inAbsentia": 2162444,
+  "representationRate": 26.7,
+  "totalJudges": 1409,
+  "totalCourts": 88,
+  "totalNationalities": 260,
+  "dataSource": "DOJ EOIR FOIA Case Data, February 2026",
+  "lastUpdated": "2026-02-01",
+  "generatedAt": "2026-02-26T19:47:14.731Z",
+  "completedCases": 7757811
+}

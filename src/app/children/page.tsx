@@ -1,5 +1,11 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import fs from 'fs'
+import path from 'path'
+
+function loadData(filename: string) {
+  return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', filename), 'utf8'))
+}
 
 export const metadata: Metadata = {
   title: 'Unaccompanied Children in Immigration Court',
@@ -7,6 +13,7 @@ export const metadata: Metadata = {
 }
 
 export default function ChildrenPage() {
+  const stats = loadData('stats.json')
   return (
     <div className="max-w-7xl mx-auto px-4 py-10">
       <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Unaccompanied Children' }]} />
@@ -43,7 +50,9 @@ export default function ChildrenPage() {
         </ul>
 
         <p>
-          Detailed UAC case data from the EOIR database will be available once processing is complete.
+          These cases exist within a system of {stats.totalCases.toLocaleString()} total immigration cases,
+          where {stats.inAbsentia.toLocaleString()} in absentia orders have been issued — many to individuals
+          who didn&apos;t understand the process, including children and their sponsors.
         </p>
       </div>
     </div>

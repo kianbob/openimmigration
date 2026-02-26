@@ -1,0 +1,367 @@
+[
+  {
+    "code": "TX",
+    "name": "TEXAS",
+    "cases": 1472158
+  },
+  {
+    "code": "CA",
+    "name": "CALIFORNIA",
+    "cases": 1444634
+  },
+  {
+    "code": "FL",
+    "name": "FLORIDA",
+    "cases": 1083087
+  },
+  {
+    "code": "NY",
+    "name": "NEW YORK",
+    "cases": 898829
+  },
+  {
+    "code": "GA",
+    "name": "GEORGIA",
+    "cases": 319698
+  },
+  {
+    "code": "NJ",
+    "name": "NEW JERSEY",
+    "cases": 312111
+  },
+  {
+    "code": "IL",
+    "name": "ILLINOIS",
+    "cases": 261666
+  },
+  {
+    "code": "MA",
+    "name": "MASSACHUSETTS",
+    "cases": 249905
+  },
+  {
+    "code": "AZ",
+    "name": "ARIZONA",
+    "cases": 247435
+  },
+  {
+    "code": "VA",
+    "name": "VIRGINIA",
+    "cases": 236105
+  },
+  {
+    "code": "LA",
+    "name": "LOUISIANA",
+    "cases": 216408
+  },
+  {
+    "code": "MD",
+    "name": "MARYLAND",
+    "cases": 209825
+  },
+  {
+    "code": "WA",
+    "name": "WASHINGTON",
+    "cases": 199981
+  },
+  {
+    "code": "  ",
+    "name": "  ",
+    "cases": 195889
+  },
+  {
+    "code": "NC",
+    "name": "NORTH CAROLINA",
+    "cases": 163929
+  },
+  {
+    "code": "PA",
+    "name": "PENNSYLVANIA",
+    "cases": 159664
+  },
+  {
+    "code": "OH",
+    "name": "OHIO",
+    "cases": 129474
+  },
+  {
+    "code": "TN",
+    "name": "TENNESSEE",
+    "cases": 129002
+  },
+  {
+    "code": "CO",
+    "name": "COLORADO",
+    "cases": 110799
+  },
+  {
+    "code": "IN",
+    "name": "INDIANA",
+    "cases": 105125
+  },
+  {
+    "code": "NV",
+    "name": "NEVADA",
+    "cases": 99260
+  },
+  {
+    "code": "MI",
+    "name": "MICHIGAN",
+    "cases": 94257
+  },
+  {
+    "code": "MN",
+    "name": "MINNESOTA",
+    "cases": 93953
+  },
+  {
+    "code": "FA",
+    "name": "FOREIGN ADDRESS - SEE REMARKS",
+    "cases": 80707
+  },
+  {
+    "code": "CT",
+    "name": "CONNECTICUT",
+    "cases": 78730
+  },
+  {
+    "code": "SC",
+    "name": "SOUTH CAROLINA",
+    "cases": 78147
+  },
+  {
+    "code": "MO",
+    "name": "MISSOURI",
+    "cases": 73612
+  },
+  {
+    "code": "UT",
+    "name": "UTAH",
+    "cases": 72692
+  },
+  {
+    "code": "KY",
+    "name": "KENTUCKY",
+    "cases": 63589
+  },
+  {
+    "code": "NE",
+    "name": "NEBRASKA",
+    "cases": 62853
+  },
+  {
+    "code": "OR",
+    "name": "OREGON",
+    "cases": 55788
+  },
+  {
+    "code": "NM",
+    "name": "NEW MEXICO",
+    "cases": 53472
+  },
+  {
+    "code": "AL",
+    "name": "ALABAMA",
+    "cases": 50996
+  },
+  {
+    "code": "WI",
+    "name": "WISCONSIN",
+    "cases": 46424
+  },
+  {
+    "code": "KS",
+    "name": "KANSAS",
+    "cases": 44279
+  },
+  {
+    "code": "OK",
+    "name": "OKLAHOMA",
+    "cases": 41982
+  },
+  {
+    "code": "IA",
+    "name": "IOWA",
+    "cases": 33331
+  },
+  {
+    "code": "RI",
+    "name": "RHODE ISLAND",
+    "cases": 31910
+  },
+  {
+    "code": "AR",
+    "name": "ARKANSAS",
+    "cases": 30516
+  },
+  {
+    "code": "MS",
+    "name": "MISSISSIPPI",
+    "cases": 30512
+  },
+  {
+    "code": "DC",
+    "name": "WASHINGTON D.C.",
+    "cases": 24296
+  },
+  {
+    "code": "ID",
+    "name": "IDAHO",
+    "cases": 23762
+  },
+  {
+    "code": "PR",
+    "name": "PUERTO RICO",
+    "cases": 22417
+  },
+  {
+    "code": "DE",
+    "name": "DELAWARE",
+    "cases": 17291
+  },
+  {
+    "code": "HI",
+    "name": "HAWAII",
+    "cases": 13488
+  },
+  {
+    "code": "ME",
+    "name": "MAINE",
+    "cases": 13139
+  },
+  {
+    "code": "NH",
+    "name": "NEW HAMPSHIRE",
+    "cases": 10191
+  },
+  {
+    "code": "SD",
+    "name": "SOUTH DAKOTA",
+    "cases": 7335
+  },
+  {
+    "code": "AK",
+    "name": "ALASKA",
+    "cases": 4371
+  },
+  {
+    "code": "VI",
+    "name": "VIRGIN ISLANDS",
+    "cases": 3996
+  },
+  {
+    "code": "ND",
+    "name": "NORTH DAKOTA",
+    "cases": 3775
+  },
+  {
+    "code": "MT",
+    "name": "MONTANA",
+    "cases": 3653
+  },
+  {
+    "code": "GU",
+    "name": "GUAM",
+    "cases": 3573
+  },
+  {
+    "code": "WY",
+    "name": "WYOMING",
+    "cases": 3030
+  },
+  {
+    "code": "WV",
+    "name": "WEST VIRGINIA",
+    "cases": 2751
+  },
+  {
+    "code": "VT",
+    "name": "VERMONT",
+    "cases": 1868
+  },
+  {
+    "code": "MP",
+    "name": "NORTHERN MARIANA ISLANDS",
+    "cases": 949
+  },
+  {
+    "code": "<A",
+    "name": "<A",
+    "cases": 40
+  },
+  {
+    "code": "87",
+    "name": "87",
+    "cases": 12
+  },
+  {
+    "code": "85",
+    "name": "85",
+    "cases": 6
+  },
+  {
+    "code": "88",
+    "name": "88",
+    "cases": 6
+  },
+  {
+    "code": "83",
+    "name": "83",
+    "cases": 4
+  },
+  {
+    "code": "84",
+    "name": "84",
+    "cases": 4
+  },
+  {
+    "code": "86",
+    "name": "86",
+    "cases": 3
+  },
+  {
+    "code": "MX",
+    "name": "MEXICO",
+    "cases": 3
+  },
+  {
+    "code": "21",
+    "name": "21",
+    "cases": 2
+  },
+  {
+    "code": "CN",
+    "name": "CANADA",
+    "cases": 2
+  },
+  {
+    "code": "OT",
+    "name": "OT",
+    "cases": 2
+  },
+  {
+    "code": "AA",
+    "name": "AA",
+    "cases": 2
+  },
+  {
+    "code": "KA",
+    "name": "KA",
+    "cases": 1
+  },
+  {
+    "code": "T7",
+    "name": "T7",
+    "cases": 1
+  },
+  {
+    "code": "AP",
+    "name": "AP",
+    "cases": 1
+  },
+  {
+    "code": "ON",
+    "name": "ON",
+    "cases": 1
+  }
+]

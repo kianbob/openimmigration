@@ -1,0 +1,37 @@
+[
+  {
+    "code": "N",
+    "name": "Never Detained",
+    "count": 6410730
+  },
+  {
+    "code": "D",
+    "name": "Detained",
+    "count": 2115304
+  },
+  {
+    "code": "R",
+    "name": "Released",
+    "count": 1069619
+  },
+  {
+    "code": "SP",
+    "name": "SP",
+    "count": 6
+  },
+  {
+    "code": "MAN",
+    "name": "MAN",
+    "count": 2
+  },
+  {
+    "code": "AR",
+    "name": "AR",
+    "count": 1
+  },
+  {
+    "code": "ENG",
+    "name": "ENG",
+    "count": 1
+  }
+]

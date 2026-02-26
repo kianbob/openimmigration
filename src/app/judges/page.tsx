@@ -1,58 +1,60 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import Link from 'next/link'
+import fs from 'fs'
+import path from 'path'
+import JudgesTable from './JudgesTable'
+
+function loadData(filename: string) {
+  return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', filename), 'utf8'))
+}
 
 export const metadata: Metadata = {
-  title: 'Immigration Judge Statistics',
-  description: 'Explore asylum grant rates, case volumes, and decision patterns for U.S. immigration judges. Over 600 judges across 68 courts.',
+  title: 'Immigration Judge Statistics — 1,269 Judges',
+  description: 'Explore asylum grant rates, case volumes, and decision patterns for 1,269 U.S. immigration judges.',
 }
 
 export default function JudgesPage() {
+  const judges = loadData('judges.json')
+  const stats = loadData('stats.json')
+
+  const avgGrant = (judges.reduce((s: number, j: { grantRate: number }) => s + j.grantRate, 0) / judges.length).toFixed(1)
+  const avgRemoval = (judges.reduce((s: number, j: { removalRate: number }) => s + j.removalRate, 0) / judges.length).toFixed(1)
+  const maxGrant = judges.reduce((max: { grantRate: number; name: string }, j: { grantRate: number; name: string }) => j.grantRate > max.grantRate ? j : max, judges[0])
+  const minGrant = judges.reduce((min: { grantRate: number; name: string }, j: { grantRate: number; name: string }) => j.grantRate < min.grantRate ? j : min, judges[0])
+
   return (
     <div className="max-w-7xl mx-auto px-4 py-10">
       <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Judges' }]} />
       <h1 className="font-heading text-4xl font-bold mb-4">Immigration Judge Statistics</h1>
       <p className="text-lg text-gray-600 mb-8">
-        There are approximately 600 immigration judges across 68 courts. Each judge carries an average
-        caseload of over 5,000 pending cases. Asylum grant rates vary dramatically — from under 10% to over 90%.
+        {judges.length.toLocaleString()} immigration judges (with 50+ decisions) across {stats.totalCourts} courts.
+        Grant rates range from {minGrant.grantRate}% to {maxGrant.grantRate}%. Click column headers to sort.
       </p>
 
       {/* Key stats */}
-      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-12">
-        <div className="bg-primary/5 border border-primary/20 rounded-xl p-6 text-center">
-          <div className="text-3xl font-bold text-primary">~600</div>
-          <div className="text-sm text-gray-600 mt-1">Immigration Judges</div>
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-8">
+        <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
+          <div className="text-3xl font-bold text-primary">{judges.length.toLocaleString()}</div>
+          <div className="text-sm text-gray-600 mt-1">Judges</div>
         </div>
-        <div className="bg-primary/5 border border-primary/20 rounded-xl p-6 text-center">
-          <div className="text-3xl font-bold text-primary">68</div>
-          <div className="text-sm text-gray-600 mt-1">Immigration Courts</div>
+        <div className="bg-success/5 border border-success/20 rounded-xl p-5 text-center">
+          <div className="text-3xl font-bold text-success">{avgGrant}%</div>
+          <div className="text-sm text-gray-600 mt-1">Avg Grant Rate</div>
         </div>
-        <div className="bg-warning/5 border border-warning/20 rounded-xl p-6 text-center">
-          <div className="text-3xl font-bold text-warning">5,600+</div>
-          <div className="text-sm text-gray-600 mt-1">Avg Cases Per Judge</div>
+        <div className="bg-danger/5 border border-danger/20 rounded-xl p-5 text-center">
+          <div className="text-3xl font-bold text-danger">{avgRemoval}%</div>
+          <div className="text-sm text-gray-600 mt-1">Avg Removal Rate</div>
+        </div>
+        <div className="bg-warning/5 border border-warning/20 rounded-xl p-5 text-center">
+          <div className="text-3xl font-bold text-warning">{maxGrant.grantRate}%</div>
+          <div className="text-sm text-gray-600 mt-1">Highest Grant Rate</div>
         </div>
       </div>
 
-      <div className="prose prose-lg max-w-none text-gray-700 mb-12">
-        <h2 className="font-heading text-2xl font-bold text-gray-900">Understanding Judge Statistics</h2>
-        <p>
-          Immigration judges are employees of the Department of Justice, appointed by the Attorney General.
-          Unlike federal judges, they are not Article III judges with lifetime tenure — they serve at the
-          pleasure of the AG and can be reassigned, disciplined, or removed.
-        </p>
-        <p>
-          Judge statistics matter because research consistently shows that <strong>the assigned judge is
-          the single strongest predictor of asylum case outcomes</strong> — more than nationality, type of
-          persecution, or quality of evidence.
-        </p>
-        <p>
-          We will publish individual judge statistics (asylum grant rates, case volumes, deportation rates)
-          once our EOIR case data processing is complete. This data helps identify systemic patterns in
-          how the immigration court system operates.
-        </p>
-      </div>
+      <JudgesTable judges={judges} />
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-6">
         <Link href="/analysis/judge-variation" className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-lg transition-all">
           <h3 className="font-heading text-lg font-bold">⚖️ Judge Roulette Analysis</h3>
           <p className="text-sm text-gray-600 mt-2">How your judge determines your fate — the data behind asylum outcome variation.</p>

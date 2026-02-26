@@ -1,0 +1,252 @@
+[
+  {
+    "code": "SP",
+    "name": "SPANISH",
+    "count": 5765640
+  },
+  {
+    "code": "SP ",
+    "name": "SP ",
+    "count": 1387313
+  },
+  {
+    "code": "ENG",
+    "name": "ENGLISH",
+    "count": 744685
+  },
+  {
+    "code": "CRE",
+    "name": "CREOLE",
+    "count": 248185
+  },
+  {
+    "code": "MAN",
+    "name": "MANDARIN",
+    "count": 178698
+  },
+  {
+    "code": "POR",
+    "name": "PORTUGUESE",
+    "count": 174068
+  },
+  {
+    "code": "RUS",
+    "name": "RUSSIAN",
+    "count": 116134
+  },
+  {
+    "code": "PUN",
+    "name": "PUNJABI",
+    "count": 88735
+  },
+  {
+    "code": "UNK",
+    "name": "UNKNOWN LANGUAGE",
+    "count": 67820
+  },
+  {
+    "code": "AR",
+    "name": "ARABIC",
+    "count": 44727
+  },
+  {
+    "code": "FOO",
+    "name": "FOO CHOW",
+    "count": 42444
+  },
+  {
+    "code": "HIN",
+    "name": "HINDI",
+    "count": 39244
+  },
+  {
+    "code": "FR",
+    "name": "FRENCH",
+    "count": 32556
+  },
+  {
+    "code": "TU",
+    "name": "TURKISH",
+    "count": 32538
+  },
+  {
+    "code": "???",
+    "name": "UNKNOWN LANGUAGE",
+    "count": 30418
+  },
+  {
+    "code": "ARM",
+    "name": "ARMENIAN",
+    "count": 27085
+  },
+  {
+    "code": "BEN",
+    "name": "BENGALI",
+    "count": 25615
+  },
+  {
+    "code": "WLF",
+    "name": "WOLOF",
+    "count": 22083
+  },
+  {
+    "code": "ALB",
+    "name": "ALBANIAN",
+    "count": 21864
+  },
+  {
+    "code": "MAM",
+    "name": "MAM",
+    "count": 19252
+  },
+  {
+    "code": "GUJ",
+    "name": "GUJARATI",
+    "count": 18226
+  },
+  {
+    "code": "VIE",
+    "name": "VIETNAMESE",
+    "count": 17043
+  },
+  {
+    "code": "SOM",
+    "name": "SOMALI",
+    "count": 16087
+  },
+  {
+    "code": "UZB",
+    "name": "UZBEK",
+    "count": 15918
+  },
+  {
+    "code": "AR ",
+    "name": "AR ",
+    "count": 15909
+  },
+  {
+    "code": "GEO",
+    "name": "GEORGIAN - SOVIET REPUBLIC",
+    "count": 14806
+  },
+  {
+    "code": "ROM",
+    "name": "ROMANIAN-MOLDOVAN",
+    "count": 14430
+  },
+  {
+    "code": "QUI",
+    "name": "QUICHE",
+    "count": 14235
+  },
+  {
+    "code": "POL",
+    "name": "POLISH",
+    "count": 13074
+  },
+  {
+    "code": "NEP",
+    "name": "NEPALI",
+    "count": 12957
+  },
+  {
+    "code": "IND",
+    "name": "INDONESIAN",
+    "count": 12357
+  },
+  {
+    "code": "KON",
+    "name": "KONJOBAL",
+    "count": 11972
+  },
+  {
+    "code": "KOR",
+    "name": "KOREAN",
+    "count": 11699
+  },
+  {
+    "code": "AMH",
+    "name": "AMHARIC",
+    "count": 11673
+  },
+  {
+    "code": "FAE",
+    "name": "FARSI - AFGANI - DARI",
+    "count": 11523
+  },
+  {
+    "code": "FUL",
+    "name": "FULANI",
+    "count": 11138
+  },
+  {
+    "code": "FR ",
+    "name": "FR ",
+    "count": 10799
+  },
+  {
+    "code": "UR ",
+    "name": "UR ",
+    "count": 9839
+  },
+  {
+    "code": "TAM",
+    "name": "TAMIL",
+    "count": 8784
+  },
+  {
+    "code": "TAG",
+    "name": "TAGALOG",
+    "count": 7910
+  },
+  {
+    "code": "TIG",
+    "name": "TIGRIGNA - ERITREAN",
+    "count": 7866
+  },
+  {
+    "code": "UR",
+    "name": "URDU",
+    "count": 7803
+  },
+  {
+    "code": "KEK",
+    "name": "KEKCHI",
+    "count": 7092
+  },
+  {
+    "code": "CAN",
+    "name": "CANTONESE",
+    "count": 6990
+  },
+  {
+    "code": "IFA",
+    "name": "FARSI-IRANIAN-PERSIAN",
+    "count": 6606
+  },
+  {
+    "code": "LIN",
+    "name": "LINGALA",
+    "count": 5963
+  },
+  {
+    "code": "FUF",
+    "name": "FULANI (GUINEA DIALECT)",
+    "count": 5674
+  },
+  {
+    "code": "POU",
+    "name": "PULAAR",
+    "count": 5553
+  },
+  {
+    "code": "HAS",
+    "name": "HASSANIYA",
+    "count": 5325
+  },
+  {
+    "code": "PUS",
+    "name": "PASHTO",
+    "count": 4911
+  }
+]

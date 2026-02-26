@@ -1,0 +1,77 @@
+[
+  {
+    "code": "RMV",
+    "name": "Removal",
+    "count": 8275052
+  },
+  {
+    "code": "DEP",
+    "name": "Deportation",
+    "count": 901917
+  },
+  {
+    "code": "EXC",
+    "name": "Exclusion",
+    "count": 175454
+  },
+  {
+    "code": "CFR",
+    "name": "Credible Fear Review",
+    "count": 164139
+  },
+  {
+    "code": "DDC",
+    "name": "DD Appeal",
+    "count": 69568
+  },
+  {
+    "code": "WHO",
+    "name": "Withholding Only",
+    "count": 31996
+  },
+  {
+    "code": "RFR",
+    "name": "Reasonable Fear Case",
+    "count": 27709
+  },
+  {
+    "code": "AOC",
+    "name": "Asylum Only Case",
+    "count": 15797
+  },
+  {
+    "code": "REC",
+    "name": "Rescission",
+    "count": 2066
+  },
+  {
+    "code": "CSR",
+    "name": "Claimed Status Review",
+    "count": 1195
+  },
+  {
+    "code": "NAC",
+    "name": "NACARA Adjustment",
+    "count": 307
+  },
+  {
+    "code": "CDR",
+    "name": "Continued Detention Review",
+    "count": 34
+  },
+  {
+    "code": "0",
+    "name": "0",
+    "count": 4
+  },
+  {
+    "code": "AOL",
+    "name": "AOL",
+    "count": 2
+  },
+  {
+    "code": "DCC",
+    "name": "Departure Control",
+    "count": 1
+  }
+]

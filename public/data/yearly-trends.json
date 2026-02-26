@@ -1,0 +1,335 @@
+[
+  {
+    "year": 1990,
+    "filed": 27922,
+    "completed": 119436,
+    "grants": 3423,
+    "denials": 47849,
+    "removals": 47849,
+    "cumulativePending": 0
+  },
+  {
+    "year": 1991,
+    "filed": 21051,
+    "completed": 127083,
+    "grants": 3508,
+    "denials": 46300,
+    "removals": 46300,
+    "cumulativePending": 0
+  },
+  {
+    "year": 1992,
+    "filed": 20827,
+    "completed": 110180,
+    "grants": 3954,
+    "denials": 47534,
+    "removals": 47534,
+    "cumulativePending": 0
+  },
+  {
+    "year": 1993,
+    "filed": 25054,
+    "completed": 117845,
+    "grants": 4451,
+    "denials": 53649,
+    "removals": 53649,
+    "cumulativePending": 0
+  },
+  {
+    "year": 1994,
+    "filed": 29959,
+    "completed": 137563,
+    "grants": 6417,
+    "denials": 64612,
+    "removals": 64611,
+    "cumulativePending": 0
+  },
+  {
+    "year": 1995,
+    "filed": 42067,
+    "completed": 178970,
+    "grants": 11058,
+    "denials": 80922,
+    "removals": 80921,
+    "cumulativePending": 0
+  },
+  {
+    "year": 1996,
+    "filed": 64056,
+    "completed": 229582,
+    "grants": 19289,
+    "denials": 97188,
+    "removals": 97187,
+    "cumulativePending": 0
+  },
+  {
+    "year": 1997,
+    "filed": 60438,
+    "completed": 231739,
+    "grants": 16296,
+    "denials": 56128,
+    "removals": 56114,
+    "cumulativePending": 0
+  },
+  {
+    "year": 1998,
+    "filed": 63332,
+    "completed": 232525,
+    "grants": 23727,
+    "denials": 8809,
+    "removals": 8750,
+    "cumulativePending": 0
+  },
+  {
+    "year": 1999,
+    "filed": 55033,
+    "completed": 210907,
+    "grants": 27620,
+    "denials": 3755,
+    "removals": 3648,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2000,
+    "filed": 53836,
+    "completed": 217167,
+    "grants": 24486,
+    "denials": 2604,
+    "removals": 2181,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2001,
+    "filed": 58041,
+    "completed": 218525,
+    "grants": 22805,
+    "denials": 2153,
+    "removals": 1453,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2002,
+    "filed": 68725,
+    "completed": 235343,
+    "grants": 24829,
+    "denials": 2232,
+    "removals": 1405,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2003,
+    "filed": 72204,
+    "completed": 255172,
+    "grants": 31756,
+    "denials": 2206,
+    "removals": 1373,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2004,
+    "filed": 50704,
+    "completed": 266616,
+    "grants": 31772,
+    "denials": 1753,
+    "removals": 799,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2005,
+    "filed": 51111,
+    "completed": 331799,
+    "grants": 30300,
+    "denials": 1428,
+    "removals": 624,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2006,
+    "filed": 53481,
+    "completed": 314398,
+    "grants": 33768,
+    "denials": 997,
+    "removals": 458,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2007,
+    "filed": 31142,
+    "completed": 274855,
+    "grants": 29453,
+    "denials": 718,
+    "removals": 371,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2008,
+    "filed": 27216,
+    "completed": 289361,
+    "grants": 28425,
+    "denials": 732,
+    "removals": 385,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2009,
+    "filed": 28514,
+    "completed": 289267,
+    "grants": 29109,
+    "denials": 578,
+    "removals": 329,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2010,
+    "filed": 28144,
+    "completed": 293778,
+    "grants": 31285,
+    "denials": 630,
+    "removals": 314,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2011,
+    "filed": 31358,
+    "completed": 311691,
+    "grants": 33354,
+    "denials": 846,
+    "removals": 250,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2012,
+    "filed": 43772,
+    "completed": 290352,
+    "grants": 29956,
+    "denials": 786,
+    "removals": 194,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2013,
+    "filed": 60870,
+    "completed": 280651,
+    "grants": 25838,
+    "denials": 1365,
+    "removals": 137,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2014,
+    "filed": 82006,
+    "completed": 301380,
+    "grants": 22328,
+    "denials": 1891,
+    "removals": 120,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2015,
+    "filed": 97549,
+    "completed": 288276,
+    "grants": 17532,
+    "denials": 1610,
+    "removals": 91,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2016,
+    "filed": 117380,
+    "completed": 321108,
+    "grants": 20894,
+    "denials": 1814,
+    "removals": 85,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2017,
+    "filed": 140945,
+    "completed": 321105,
+    "grants": 22238,
+    "denials": 1963,
+    "removals": 75,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2018,
+    "filed": 167248,
+    "completed": 366271,
+    "grants": 29000,
+    "denials": 2272,
+    "removals": 123,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2019,
+    "filed": 208814,
+    "completed": 487594,
+    "grants": 36801,
+    "denials": 2523,
+    "removals": 134,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2020,
+    "filed": 148010,
+    "completed": 247402,
+    "grants": 18890,
+    "denials": 1236,
+    "removals": 63,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2021,
+    "filed": 142311,
+    "completed": 298400,
+    "grants": 24739,
+    "denials": 616,
+    "removals": 68,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2022,
+    "filed": 286589,
+    "completed": 674953,
+    "grants": 44084,
+    "denials": 1190,
+    "removals": 83,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2023,
+    "filed": 424994,
+    "completed": 965176,
+    "grants": 51981,
+    "denials": 2152,
+    "removals": 182,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2024,
+    "filed": 508217,
+    "completed": 1290672,
+    "grants": 48485,
+    "denials": 2580,
+    "removals": 82,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2025,
+    "filed": 421619,
+    "completed": 1298639,
+    "grants": 37341,
+    "denials": 1807,
+    "removals": 100,
+    "cumulativePending": 0
+  },
+  {
+    "year": 2026,
+    "filed": 21984,
+    "completed": 95070,
+    "grants": 1133,
+    "denials": 109,
+    "removals": 13,
+    "cumulativePending": 0
+  }
+]

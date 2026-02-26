@@ -1,5 +1,11 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import fs from 'fs'
+import path from 'path'
+
+function loadData(filename: string) {
+  return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', filename), 'utf8'))
+}
 
 export const metadata: Metadata = {
   title: 'Immigration Bond Hearings — Statistics & Data',
@@ -7,6 +13,7 @@ export const metadata: Metadata = {
 }
 
 export default function BondPage() {
+  const stats = loadData('stats.json')
   return (
     <div className="max-w-7xl mx-auto px-4 py-10">
       <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Bond Hearings' }]} />
@@ -52,6 +59,13 @@ export default function BondPage() {
         <p>
           The 74% denial rate means the majority of immigrants who request bond remain detained throughout
           their proceedings — sometimes for months or years.
+        </p>
+
+        <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">System Context</h2>
+        <p>
+          Bond hearings occur within a system handling {stats.totalCases.toLocaleString()} total cases,
+          with {stats.pendingCases.toLocaleString()} currently pending. Only {stats.representationRate}% of
+          those ordered deported had legal representation — and detained individuals have even lower representation rates.
         </p>
       </div>
     </div>

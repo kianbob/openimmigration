@@ -1,56 +1,67 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import Link from 'next/link'
+import fs from 'fs'
+import path from 'path'
+import { AsylumOutcomePie, YearlyAsylumChart } from './AsylumCharts'
+
+function loadData(filename: string) {
+  return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', filename), 'utf8'))
+}
 
 export const metadata: Metadata = {
   title: 'Asylum Cases — Grant Rates, Denials & Trends',
-  description: 'Explore U.S. asylum case data — grant rates, denial rates, and how outcomes vary by court, judge, and nationality. 2.3 million pending asylum cases as of 2025.',
-}
-
-const ASYLUM_STATS = {
-  pendingAsylum: 2339623,
-  grantedDec2025: 701,
-  totalCompletedDec: 57531,
-  grantRateOfRelief: 48.2,
-  reliefGrantedDec: 1455,
-  topNationalities: [
-    { name: 'Mexico', deported: 33830 },
-    { name: 'Guatemala', deported: 19169 },
-    { name: 'Honduras', deported: 18746 },
-    { name: 'Venezuela', deported: 14679 },
-    { name: 'Colombia', deported: 9328 },
-  ],
+  description: 'Explore U.S. asylum case data — grant rates, denial rates, and how outcomes vary by court, judge, and nationality.',
 }
 
 export default function AsylumPage() {
+  const stats = loadData('stats.json')
+  const outcomes = loadData('outcomes.json')
+  const trends = loadData('yearly-trends.json')
+
+  const grantRate = ((stats.asylumGranted / (stats.asylumGranted + stats.asylumDenied)) * 100).toFixed(1)
+
   return (
     <div className="max-w-7xl mx-auto px-4 py-10">
       <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Asylum Cases' }]} />
 
       <h1 className="font-heading text-4xl font-bold mb-4">Asylum Cases</h1>
       <p className="text-lg text-gray-600 mb-8">
-        Over <strong>{ASYLUM_STATS.pendingAsylum.toLocaleString()}</strong> immigrants are currently awaiting asylum
-        hearings in U.S. immigration courts — about 69% of the entire court backlog.
+        Of {stats.totalCases.toLocaleString()} total immigration cases, asylum decisions account for
+        <strong> {(stats.asylumGranted + stats.asylumDenied).toLocaleString()}</strong> outcomes —
+        with a <strong>{grantRate}%</strong> grant rate overall.
       </p>
 
       {/* Key Stats */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-12">
-        <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
-          <div className="text-2xl font-bold text-primary">2.3M</div>
-          <div className="text-sm text-gray-600 mt-1">Pending Asylum Cases</div>
+        <div className="bg-success/5 border border-success/20 rounded-xl p-5 text-center">
+          <div className="text-2xl font-bold text-success">{stats.asylumGranted.toLocaleString()}</div>
+          <div className="text-sm text-gray-600 mt-1">Asylum Granted (All Time)</div>
         </div>
         <div className="bg-danger/5 border border-danger/20 rounded-xl p-5 text-center">
-          <div className="text-2xl font-bold text-danger">78.5%</div>
-          <div className="text-sm text-gray-600 mt-1">Deportation Rate (FY2026)</div>
+          <div className="text-2xl font-bold text-danger">{stats.asylumDenied.toLocaleString()}</div>
+          <div className="text-sm text-gray-600 mt-1">Asylum Denied (All Time)</div>
         </div>
-        <div className="bg-success/5 border border-success/20 rounded-xl p-5 text-center">
-          <div className="text-2xl font-bold text-success">701</div>
-          <div className="text-sm text-gray-600 mt-1">Asylum Grants (Dec 2025)</div>
+        <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
+          <div className="text-2xl font-bold text-primary">{grantRate}%</div>
+          <div className="text-sm text-gray-600 mt-1">Overall Grant Rate</div>
         </div>
         <div className="bg-warning/5 border border-warning/20 rounded-xl p-5 text-center">
-          <div className="text-2xl font-bold text-warning">26.7%</div>
-          <div className="text-sm text-gray-600 mt-1">Had Legal Representation</div>
+          <div className="text-2xl font-bold text-warning">{stats.pendingCases.toLocaleString()}</div>
+          <div className="text-sm text-gray-600 mt-1">Pending Cases</div>
         </div>
+      </div>
+
+      {/* Pie Chart */}
+      <h2 className="font-heading text-2xl font-bold mb-4">Asylum Grants vs Denials</h2>
+      <div className="bg-white border border-gray-200 rounded-xl p-4 mb-12">
+        <AsylumOutcomePie granted={stats.asylumGranted} denied={stats.asylumDenied} />
+      </div>
+
+      {/* Yearly Chart */}
+      <h2 className="font-heading text-2xl font-bold mb-4">Asylum Grants & Denials by Year</h2>
+      <div className="bg-white border border-gray-200 rounded-xl p-4 mb-12">
+        <YearlyAsylumChart data={trends} />
       </div>
 
       {/* How Asylum Works */}
@@ -71,43 +82,22 @@ export default function AsylumPage() {
         </div>
       </section>
 
-      {/* December 2025 Outcomes */}
+      {/* Other Outcomes */}
       <section className="mb-12">
-        <h2 className="font-heading text-2xl font-bold mb-4">December 2025 Case Outcomes</h2>
-        <p className="text-gray-600 mb-4">
-          Out of {ASYLUM_STATS.totalCompletedDec.toLocaleString()} cases completed in December 2025:
-        </p>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-          {[
-            { label: 'Removal Orders', value: '38,215', pct: '66.4%', color: 'danger' },
-            { label: 'Voluntary Departure', value: '7,359', pct: '12.8%', color: 'warning' },
-            { label: 'Other Can Stay', value: '10,502', pct: '18.3%', color: 'primary' },
-            { label: 'Granted Relief', value: '1,455', pct: '2.5%', color: 'success' },
-          ].map(item => (
-            <div key={item.label} className={`bg-${item.color}/5 border border-${item.color}/20 rounded-xl p-5`}>
-              <div className={`text-2xl font-bold text-${item.color}`}>{item.value}</div>
-              <div className="text-sm text-gray-600 mt-1">{item.label} ({item.pct})</div>
-            </div>
-          ))}
-        </div>
-      </section>
-
-      {/* Top Nationalities Deported */}
-      <section className="mb-12">
-        <h2 className="font-heading text-2xl font-bold mb-4">Top Nationalities Ordered Deported (FY2026)</h2>
+        <h2 className="font-heading text-2xl font-bold mb-4">All Case Outcomes</h2>
         <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
           <table className="w-full text-sm">
             <thead className="bg-gray-50">
               <tr>
-                <th className="px-4 py-3 text-left font-semibold">Nationality</th>
-                <th className="px-4 py-3 text-right font-semibold">Deportation Orders</th>
+                <th className="px-4 py-3 text-left font-semibold">Outcome</th>
+                <th className="px-4 py-3 text-right font-semibold">Count</th>
               </tr>
             </thead>
             <tbody>
-              {ASYLUM_STATS.topNationalities.map(nat => (
-                <tr key={nat.name} className="border-t border-gray-100 hover:bg-gray-50">
-                  <td className="px-4 py-3 font-medium">{nat.name}</td>
-                  <td className="px-4 py-3 text-right">{nat.deported.toLocaleString()}</td>
+              {outcomes.filter((o: { name: string; count: number }) => o.name && o.count > 100).map((o: { name: string; count: number }) => (
+                <tr key={o.name} className="border-t border-gray-100 hover:bg-gray-50">
+                  <td className="px-4 py-2 font-medium">{o.name}</td>
+                  <td className="px-4 py-2 text-right">{o.count.toLocaleString()}</td>
                 </tr>
               ))}
             </tbody>
@@ -125,7 +115,7 @@ export default function AsylumPage() {
           </Link>
           <Link href="/analysis/representation-gap" className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-lg transition-all">
             <h3 className="font-heading text-lg font-bold mb-2">Representation Gap</h3>
-            <p className="text-sm text-gray-600">Only 26.7% of immigrants had lawyers when deportation was ordered. Representation dramatically changes outcomes.</p>
+            <p className="text-sm text-gray-600">Only {stats.representationRate}% of immigrants had lawyers. Representation dramatically changes outcomes.</p>
           </Link>
           <Link href="/analysis/geographic-lottery" className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-lg transition-all">
             <h3 className="font-heading text-lg font-bold mb-2">Geographic Lottery</h3>
@@ -133,7 +123,7 @@ export default function AsylumPage() {
           </Link>
           <Link href="/backlog" className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-lg transition-all">
             <h3 className="font-heading text-lg font-bold mb-2">The Backlog</h3>
-            <p className="text-sm text-gray-600">2.3 million asylum applicants are waiting for hearings — some for 4+ years.</p>
+            <p className="text-sm text-gray-600">{stats.pendingCases.toLocaleString()} cases pending — many applicants waiting years for hearings.</p>
           </Link>
         </div>
       </section>
@@ -146,18 +136,13 @@ export default function AsylumPage() {
           mainEntity: [
             {
               '@type': 'Question',
-              name: 'How many asylum cases are pending in U.S. immigration courts?',
-              acceptedAnswer: { '@type': 'Answer', text: 'As of December 2025, 2,339,623 immigrants are awaiting asylum hearings in U.S. immigration courts, representing about 69% of the total court backlog.' },
+              name: 'What is the asylum grant rate in U.S. immigration courts?',
+              acceptedAnswer: { '@type': 'Answer', text: `The overall asylum grant rate is ${grantRate}%, with ${stats.asylumGranted.toLocaleString()} grants and ${stats.asylumDenied.toLocaleString()} denials across all recorded cases.` },
             },
             {
               '@type': 'Question',
-              name: 'What percentage of asylum cases are granted?',
-              acceptedAnswer: { '@type': 'Answer', text: 'In December 2025, out of 1,455 cases where relief was granted, asylum was granted in 701 cases (48.2% of relief grants). However, overall only about 2.5% of completed cases resulted in relief.' },
-            },
-            {
-              '@type': 'Question',
-              name: 'What is the deportation rate in immigration court?',
-              acceptedAnswer: { '@type': 'Answer', text: 'In FY2026 through December 2025, immigration judges ordered deportation (removal orders plus voluntary departure) in 78.5% of completed cases.' },
+              name: 'How many asylum cases are pending?',
+              acceptedAnswer: { '@type': 'Answer', text: `As of ${stats.lastUpdated}, there are ${stats.pendingCases.toLocaleString()} total pending immigration court cases.` },
             },
           ],
         })

@@ -1,0 +1,22 @@
+[
+  {
+    "code": "M",
+    "name": "Male",
+    "count": 3078745
+  },
+  {
+    "code": "F",
+    "name": "Female",
+    "count": 2118389
+  },
+  {
+    "code": "N",
+    "name": "N",
+    "count": 273
+  },
+  {
+    "code": "U",
+    "name": "Unknown",
+    "count": 27
+  }
+]
