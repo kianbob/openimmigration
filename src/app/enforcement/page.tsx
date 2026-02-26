@@ -10,8 +10,8 @@ function loadData(filename: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'ICE Deportation & Enforcement Statistics — Removals, Arrests, Detention | OpenImmigration',
-  description: 'ICE Enforcement and Removal Operations data FY2014-2024. Deportation trends, arrest statistics, detention numbers, and the gap between court orders and actual removals.',
+  title: 'ICE Deportation & Enforcement Statistics FY2014-2026 — Removals, Arrests, Detention | OpenImmigration',
+  description: 'ICE Enforcement and Removal Operations data FY2014-2026. 319K removals in FY2025, 56K FYTD in FY2026. Deportation trends, arrest statistics, and the enforcement gap.',
   alternates: { canonical: 'https://www.openimmigration.us/enforcement' },
 }
 
@@ -95,7 +95,7 @@ export default function EnforcementPage() {
           <tbody className="divide-y divide-gray-100">
             {enforcement.map((y: { fy: number; removals: number; returns: number; iceArrestTotal: number }) => (
               <tr key={y.fy} className="hover:bg-gray-50">
-                <td className="px-6 py-3 font-medium">FY{y.fy}</td>
+                <td className="px-6 py-3 font-medium">FY{y.fy}{y.fy === 2026 ? ' (FYTD)' : ''}</td>
                 <td className="px-6 py-3 text-right">{y.removals.toLocaleString()}</td>
                 <td className="px-6 py-3 text-right">{y.returns.toLocaleString()}</td>
                 <td className="px-6 py-3 text-right">{y.iceArrestTotal.toLocaleString()}</td>

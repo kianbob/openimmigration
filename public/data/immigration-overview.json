@@ -4,71 +4,319 @@
   "legalImmigration": {
     "description": "Lawful Permanent Residents (Green Cards) issued per fiscal year",
     "yearly": [
-      { "fy": 2014, "greenCards": 1016518, "refugees": 69987, "naturalizations": 653416, "nonimmigrantAdmissions": 181285611 },
-      { "fy": 2015, "greenCards": 1051031, "refugees": 69933, "naturalizations": 730259, "nonimmigrantAdmissions": 181404049 },
-      { "fy": 2016, "greenCards": 1183505, "refugees": 84994, "naturalizations": 753060, "nonimmigrantAdmissions": 181148687 },
-      { "fy": 2017, "greenCards": 1127167, "refugees": 53716, "naturalizations": 707265, "nonimmigrantAdmissions": 181093645 },
-      { "fy": 2018, "greenCards": 1096611, "refugees": 22491, "naturalizations": 756800, "nonimmigrantAdmissions": 188940669 },
-      { "fy": 2019, "greenCards": 1031765, "refugees": 30000, "naturalizations": 843593, "nonimmigrantAdmissions": 190671535 },
-      { "fy": 2020, "greenCards": 707362, "refugees": 11814, "naturalizations": 625400, "nonimmigrantAdmissions": 57758028 },
-      { "fy": 2021, "greenCards": 740002, "refugees": 11411, "naturalizations": 855000, "nonimmigrantAdmissions": 78373816 },
-      { "fy": 2022, "greenCards": 1018349, "refugees": 25465, "naturalizations": 969380, "nonimmigrantAdmissions": 147871364 },
-      { "fy": 2023, "greenCards": 1165700, "refugees": 60014, "naturalizations": 878500, "nonimmigrantAdmissions": 173660000 },
-      { "fy": 2024, "greenCards": 1180000, "refugees": 100000, "naturalizations": 955000, "nonimmigrantAdmissions": 180000000 }
+      {
+        "fy": 2014,
+        "greenCards": 1016518,
+        "refugees": 69987,
+        "naturalizations": 653416,
+        "nonimmigrantAdmissions": 181285611
+      },
+      {
+        "fy": 2015,
+        "greenCards": 1051031,
+        "refugees": 69933,
+        "naturalizations": 730259,
+        "nonimmigrantAdmissions": 181404049
+      },
+      {
+        "fy": 2016,
+        "greenCards": 1183505,
+        "refugees": 84994,
+        "naturalizations": 753060,
+        "nonimmigrantAdmissions": 181148687
+      },
+      {
+        "fy": 2017,
+        "greenCards": 1127167,
+        "refugees": 53716,
+        "naturalizations": 707265,
+        "nonimmigrantAdmissions": 181093645
+      },
+      {
+        "fy": 2018,
+        "greenCards": 1096611,
+        "refugees": 22491,
+        "naturalizations": 756800,
+        "nonimmigrantAdmissions": 188940669
+      },
+      {
+        "fy": 2019,
+        "greenCards": 1031765,
+        "refugees": 30000,
+        "naturalizations": 843593,
+        "nonimmigrantAdmissions": 190671535
+      },
+      {
+        "fy": 2020,
+        "greenCards": 707362,
+        "refugees": 11814,
+        "naturalizations": 625400,
+        "nonimmigrantAdmissions": 57758028
+      },
+      {
+        "fy": 2021,
+        "greenCards": 740002,
+        "refugees": 11411,
+        "naturalizations": 855000,
+        "nonimmigrantAdmissions": 78373816
+      },
+      {
+        "fy": 2022,
+        "greenCards": 1018349,
+        "refugees": 25465,
+        "naturalizations": 969380,
+        "nonimmigrantAdmissions": 147871364
+      },
+      {
+        "fy": 2023,
+        "greenCards": 1165700,
+        "refugees": 60014,
+        "naturalizations": 878500,
+        "nonimmigrantAdmissions": 173660000
+      },
+      {
+        "fy": 2024,
+        "greenCards": 1180000,
+        "refugees": 100000,
+        "naturalizations": 955000,
+        "nonimmigrantAdmissions": 180000000
+      }
     ]
   },
   "enforcement": {
     "description": "ICE ERO Removals, Returns, and Book-outs per fiscal year",
     "yearly": [
-      { "fy": 2014, "removals": 315943, "returns": 163245, "iceDetainers": 188382, "iceArrestTotal": 315943 },
-      { "fy": 2015, "removals": 235413, "returns": 129726, "iceDetainers": 152393, "iceArrestTotal": 235413 },
-      { "fy": 2016, "removals": 240255, "returns": 106772, "iceDetainers": 142356, "iceArrestTotal": 240255 },
-      { "fy": 2017, "removals": 226119, "returns": 98106, "iceDetainers": 143470, "iceArrestTotal": 226119 },
-      { "fy": 2018, "removals": 256085, "returns": 96045, "iceDetainers": 159730, "iceArrestTotal": 256085 },
-      { "fy": 2019, "removals": 267258, "returns": 110516, "iceDetainers": 167789, "iceArrestTotal": 267258 },
-      { "fy": 2020, "removals": 185884, "returns": 47381, "iceDetainers": 103603, "iceArrestTotal": 185884 },
-      { "fy": 2021, "removals": 59011, "returns": 11225, "iceDetainers": 74082, "iceArrestTotal": 59011 },
-      { "fy": 2022, "removals": 72177, "returns": 24759, "iceDetainers": 113431, "iceArrestTotal": 142059 },
-      { "fy": 2023, "removals": 142580, "returns": 60823, "iceDetainers": 102844, "iceArrestTotal": 170590 },
-      { "fy": 2024, "removals": 271484, "returns": 90823, "iceDetainers": 125000, "iceArrestTotal": 311500 }
-    ]
+      {
+        "fy": 2014,
+        "removals": 315943,
+        "returns": 163245,
+        "iceDetainers": 188382,
+        "iceArrestTotal": 315943
+      },
+      {
+        "fy": 2015,
+        "removals": 235413,
+        "returns": 129726,
+        "iceDetainers": 152393,
+        "iceArrestTotal": 235413
+      },
+      {
+        "fy": 2016,
+        "removals": 240255,
+        "returns": 106772,
+        "iceDetainers": 142356,
+        "iceArrestTotal": 240255
+      },
+      {
+        "fy": 2017,
+        "removals": 226119,
+        "returns": 98106,
+        "iceDetainers": 143470,
+        "iceArrestTotal": 226119
+      },
+      {
+        "fy": 2018,
+        "removals": 256085,
+        "returns": 96045,
+        "iceDetainers": 159730,
+        "iceArrestTotal": 256085
+      },
+      {
+        "fy": 2019,
+        "removals": 267258,
+        "returns": 110516,
+        "iceDetainers": 167789,
+        "iceArrestTotal": 267258
+      },
+      {
+        "fy": 2020,
+        "removals": 185884,
+        "returns": 47381,
+        "iceDetainers": 103603,
+        "iceArrestTotal": 185884
+      },
+      {
+        "fy": 2021,
+        "removals": 59011,
+        "returns": 11225,
+        "iceDetainers": 74082,
+        "iceArrestTotal": 59011
+      },
+      {
+        "fy": 2022,
+        "removals": 72177,
+        "returns": 24759,
+        "iceDetainers": 113431,
+        "iceArrestTotal": 142059
+      },
+      {
+        "fy": 2023,
+        "removals": 142580,
+        "returns": 60823,
+        "iceDetainers": 102844,
+        "iceArrestTotal": 170590
+      },
+      {
+        "fy": 2024,
+        "removals": 271484,
+        "returns": 90823,
+        "iceDetainers": 125000,
+        "iceArrestTotal": 311500
+      },
+      {
+        "fy": 2025,
+        "removals": 319980,
+        "returns": 82000,
+        "iceDetainers": 210000,
+        "iceArrestTotal": 450000
+      },
+      {
+        "fy": 2026,
+        "removals": 56392,
+        "returns": 12000,
+        "iceDetainers": 55000,
+        "iceArrestTotal": 120000,
+        "note": "FYTD through ~Jan 2026"
+      }
+    ],
+    "lastUpdated": "February 2026"
   },
   "visaOverstays": {
     "description": "DHS Entry/Exit Overstay Reports — visitors who remained beyond authorized stay",
     "source": "DHS Annual Entry/Exit Overstay Reports to Congress",
     "yearly": [
-      { "fy": 2016, "expectedDepartures": 50385523, "totalOverstays": 628799, "overstayRate": 1.25 },
-      { "fy": 2017, "expectedDepartures": 52656022, "totalOverstays": 606926, "overstayRate": 1.15 },
-      { "fy": 2018, "expectedDepartures": 54728165, "totalOverstays": 666582, "overstayRate": 1.22 },
-      { "fy": 2019, "expectedDepartures": 56034507, "totalOverstays": 676422, "overstayRate": 1.21 },
-      { "fy": 2020, "expectedDepartures": 22787103, "totalOverstays": 684611, "overstayRate": 3.00 },
-      { "fy": 2022, "expectedDepartures": 43966539, "totalOverstays": 853955, "overstayRate": 1.94 },
-      { "fy": 2023, "expectedDepartures": 50523476, "totalOverstays": 803572, "overstayRate": 1.59 },
-      { "fy": 2024, "expectedDepartures": 52000000, "totalOverstays": 775000, "overstayRate": 1.49 }
+      {
+        "fy": 2016,
+        "expectedDepartures": 50385523,
+        "totalOverstays": 628799,
+        "overstayRate": 1.25
+      },
+      {
+        "fy": 2017,
+        "expectedDepartures": 52656022,
+        "totalOverstays": 606926,
+        "overstayRate": 1.15
+      },
+      {
+        "fy": 2018,
+        "expectedDepartures": 54728165,
+        "totalOverstays": 666582,
+        "overstayRate": 1.22
+      },
+      {
+        "fy": 2019,
+        "expectedDepartures": 56034507,
+        "totalOverstays": 676422,
+        "overstayRate": 1.21
+      },
+      {
+        "fy": 2020,
+        "expectedDepartures": 22787103,
+        "totalOverstays": 684611,
+        "overstayRate": 3
+      },
+      {
+        "fy": 2022,
+        "expectedDepartures": 43966539,
+        "totalOverstays": 853955,
+        "overstayRate": 1.94
+      },
+      {
+        "fy": 2023,
+        "expectedDepartures": 50523476,
+        "totalOverstays": 803572,
+        "overstayRate": 1.59
+      },
+      {
+        "fy": 2024,
+        "expectedDepartures": 52000000,
+        "totalOverstays": 775000,
+        "overstayRate": 1.49
+      }
     ],
     "topOverstayCountries2023": [
-      { "country": "India", "overstays": 50689 },
-      { "country": "Mexico", "overstays": 47704 },
-      { "country": "Brazil", "overstays": 43981 },
-      { "country": "Colombia", "overstays": 38217 },
-      { "country": "Venezuela", "overstays": 33411 },
-      { "country": "Nigeria", "overstays": 22149 },
-      { "country": "China", "overstays": 19876 },
-      { "country": "Philippines", "overstays": 18642 },
-      { "country": "Haiti", "overstays": 17123 },
-      { "country": "Jamaica", "overstays": 15987 }
+      {
+        "country": "India",
+        "overstays": 50689
+      },
+      {
+        "country": "Mexico",
+        "overstays": 47704
+      },
+      {
+        "country": "Brazil",
+        "overstays": 43981
+      },
+      {
+        "country": "Colombia",
+        "overstays": 38217
+      },
+      {
+        "country": "Venezuela",
+        "overstays": 33411
+      },
+      {
+        "country": "Nigeria",
+        "overstays": 22149
+      },
+      {
+        "country": "China",
+        "overstays": 19876
+      },
+      {
+        "country": "Philippines",
+        "overstays": 18642
+      },
+      {
+        "country": "Haiti",
+        "overstays": 17123
+      },
+      {
+        "country": "Jamaica",
+        "overstays": 15987
+      }
     ]
   },
   "estimatedUndocumented": {
     "description": "Estimated unauthorized immigrant population in the US",
     "source": "CMS, Pew Research Center, DHS estimates",
     "estimates": [
-      { "year": 2007, "low": 11800000, "high": 12200000, "source": "DHS/Pew" },
-      { "year": 2010, "low": 10700000, "high": 11200000, "source": "DHS/Pew" },
-      { "year": 2015, "low": 10500000, "high": 11100000, "source": "DHS/Pew" },
-      { "year": 2019, "low": 10200000, "high": 10700000, "source": "DHS/Pew" },
-      { "year": 2022, "low": 11000000, "high": 11500000, "source": "CMS/Pew" },
-      { "year": 2024, "low": 11500000, "high": 14300000, "source": "CMS/DHS estimates vary widely" }
+      {
+        "year": 2007,
+        "low": 11800000,
+        "high": 12200000,
+        "source": "DHS/Pew"
+      },
+      {
+        "year": 2010,
+        "low": 10700000,
+        "high": 11200000,
+        "source": "DHS/Pew"
+      },
+      {
+        "year": 2015,
+        "low": 10500000,
+        "high": 11100000,
+        "source": "DHS/Pew"
+      },
+      {
+        "year": 2019,
+        "low": 10200000,
+        "high": 10700000,
+        "source": "DHS/Pew"
+      },
+      {
+        "year": 2022,
+        "low": 11000000,
+        "high": 11500000,
+        "source": "CMS/Pew"
+      },
+      {
+        "year": 2024,
+        "low": 11500000,
+        "high": 14300000,
+        "source": "CMS/DHS estimates vary widely"
+      }
     ]
   }
 }
