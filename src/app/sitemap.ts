@@ -20,7 +20,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/analysis/deportation-machine', '/analysis/asylum-by-nationality',
     '/analysis/in-absentia', '/analysis/detained-vs-released',
     '/amnesty', '/bond', '/children', '/demographics', '/appeals',
-    '/border', '/enforcement', '/legal-immigration', '/overstays',
+    '/border', '/enforcement', '/legal-immigration', '/overstays', '/drug-seizures',
     '/uscis', '/daca', '/green-card', '/naturalization',
   ]
 

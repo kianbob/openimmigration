@@ -143,6 +143,7 @@ export default function HomePage() {
             { title: 'ICE Enforcement', desc: 'Deportation statistics, ICE arrests, detention data, and the gap between court orders and actual removals.', href: '/enforcement', icon: '🚨' },
             { title: 'Legal Immigration', desc: '~1M green cards/year, refugees, naturalizations, and temporary visa admissions.', href: '/legal-immigration', icon: '🗽' },
             { title: 'Visa Overstays', desc: '478K+ per year (FY2024). The often-overlooked other half of unauthorized immigration.', href: '/overstays', icon: '✈️' },
+            { title: 'Drug Seizures', desc: '65,000 lbs of fentanyl seized. 1.9M total lbs of drugs intercepted at U.S. borders.', href: '/drug-seizures', icon: '💊' },
             { title: 'Appeals to the BIA', desc: '1.46M appeals to the Board of Immigration Appeals. 31% dismissed, only 7.2% sustained.', href: '/appeals', icon: '📑' },
             { title: 'Bond Hearings', desc: '1.59M bond hearings. Average bond $11,412. Only 4.3% of requests granted.', href: '/bond', icon: '🔓' },
             { title: 'Search Cases', desc: 'Search and filter immigration court data by court, nationality, year, case type, and more.', href: '/search', icon: '🔍' },

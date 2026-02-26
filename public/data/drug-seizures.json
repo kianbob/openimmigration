@@ -1,0 +1,290 @@
+{
+  "source": "U.S. Customs and Border Protection (CBP) Drug Seizure Statistics",
+  "lastUpdated": "January 2026",
+  "totalEvents": 183003,
+  "totalLbs": 1900997,
+  "drugTotals": [
+    {
+      "drug": "Marijuana",
+      "events": 73228,
+      "lbs": 589563
+    },
+    {
+      "drug": "Methamphetamine",
+      "events": 10452,
+      "lbs": 542231
+    },
+    {
+      "drug": "Other Drugs**",
+      "events": 77314,
+      "lbs": 288856
+    },
+    {
+      "drug": "Cocaine",
+      "events": 7832,
+      "lbs": 242953
+    },
+    {
+      "drug": "Khat (Catha Edulis)",
+      "events": 516,
+      "lbs": 138014
+    },
+    {
+      "drug": "Fentanyl",
+      "events": 3661,
+      "lbs": 65123
+    },
+    {
+      "drug": "Ketamine",
+      "events": 3716,
+      "lbs": 27736
+    },
+    {
+      "drug": "Heroin",
+      "events": 1108,
+      "lbs": 4738
+    },
+    {
+      "drug": "Ecstasy",
+      "events": 3971,
+      "lbs": 1743
+    },
+    {
+      "drug": "Lsd",
+      "events": 1205,
+      "lbs": 40
+    }
+  ],
+  "yearlyByDrug": [
+    {
+      "fy": 2023,
+      "Fentanyl": 27023,
+      "FentanylEvents": 1351,
+      "Marijuana": 149582,
+      "MarijuanaEvents": 18595,
+      "Cocaine": 81085,
+      "CocaineEvents": 2402,
+      "Heroin": 1511,
+      "HeroinEvents": 380,
+      "Methamphetamine": 140408,
+      "MethamphetamineEvents": 3450
+    },
+    {
+      "fy": 2024,
+      "Cocaine": 68215,
+      "CocaineEvents": 2398,
+      "Marijuana": 174991,
+      "MarijuanaEvents": 24072,
+      "Fentanyl": 21889,
+      "FentanylEvents": 1116,
+      "Methamphetamine": 174197,
+      "MethamphetamineEvents": 3334,
+      "Heroin": 1161,
+      "HeroinEvents": 334
+    },
+    {
+      "fy": 2025,
+      "Fentanyl": 12027,
+      "FentanylEvents": 959,
+      "Marijuana": 185004,
+      "MarijuanaEvents": 22971,
+      "Cocaine": 70080,
+      "CocaineEvents": 2364,
+      "Heroin": 1258,
+      "HeroinEvents": 336,
+      "Methamphetamine": 170119,
+      "MethamphetamineEvents": 2917
+    },
+    {
+      "fy": 2026,
+      "Methamphetamine": 57508,
+      "MethamphetamineEvents": 751,
+      "Cocaine": 23572,
+      "CocaineEvents": 668,
+      "Fentanyl": 4183,
+      "FentanylEvents": 235,
+      "Marijuana": 79986,
+      "MarijuanaEvents": 7590,
+      "Heroin": 808,
+      "HeroinEvents": 58
+    }
+  ],
+  "fentanylByYear": [
+    {
+      "fy": 2023,
+      "lbs": 27023,
+      "events": 1351
+    },
+    {
+      "fy": 2024,
+      "lbs": 21889,
+      "events": 1116
+    },
+    {
+      "fy": 2025,
+      "lbs": 12027,
+      "events": 959
+    },
+    {
+      "fy": 2026,
+      "lbs": 4183,
+      "events": 235
+    }
+  ],
+  "fentanylByRegion": [
+    {
+      "region": "Southwest Border",
+      "lbs": 63475,
+      "events": 2958
+    },
+    {
+      "region": "Coastal/Interior",
+      "lbs": 1522,
+      "events": 520
+    },
+    {
+      "region": "Northern Border",
+      "lbs": 126,
+      "events": 183
+    }
+  ],
+  "fentanylTopLocations": [
+    {
+      "aor": "TUCSON FIELD OFFICE",
+      "lbs": 30378,
+      "events": 730
+    },
+    {
+      "aor": "SAN DIEGO FIELD OFFICE",
+      "lbs": 23648,
+      "events": 1124
+    },
+    {
+      "aor": "SAN DIEGO SECTOR",
+      "lbs": 2854,
+      "events": 140
+    },
+    {
+      "aor": "TUCSON SECTOR",
+      "lbs": 2388,
+      "events": 273
+    },
+    {
+      "aor": "YUMA SECTOR",
+      "lbs": 1701,
+      "events": 49
+    },
+    {
+      "aor": "EL PASO FIELD OFFICE",
+      "lbs": 1046,
+      "events": 282
+    },
+    {
+      "aor": "EL CENTRO SECTOR",
+      "lbs": 678,
+      "events": 172
+    },
+    {
+      "aor": "CHICAGO FIELD OFFICE",
+      "lbs": 621,
+      "events": 182
+    },
+    {
+      "aor": "LAREDO FIELD OFFICE",
+      "lbs": 474,
+      "events": 64
+    },
+    {
+      "aor": "HOUSTON FIELD OFFICE",
+      "lbs": 319,
+      "events": 5
+    },
+    {
+      "aor": "MIAMI FIELD OFFICE",
+      "lbs": 174,
+      "events": 65
+    },
+    {
+      "aor": "EL PASO SECTOR",
+      "lbs": 165,
+      "events": 61
+    },
+    {
+      "aor": "BIG BEND SECTOR",
+      "lbs": 128,
+      "events": 43
+    },
+    {
+      "aor": "NEW YORK FIELD OFFICE",
+      "lbs": 101,
+      "events": 82
+    },
+    {
+      "aor": "NEW ORLEANS SECTOR",
+      "lbs": 97,
+      "events": 9
+    }
+  ],
+  "componentBreakdown": [
+    {
+      "component": "Office of Field Operations",
+      "drug": "Methamphetamine",
+      "events": 8590,
+      "lbs": 493952
+    },
+    {
+      "component": "Office of Field Operations",
+      "drug": "Marijuana",
+      "events": 64907,
+      "lbs": 442607
+    },
+    {
+      "component": "Office of Field Operations",
+      "drug": "Cocaine",
+      "events": 6409,
+      "lbs": 198550
+    },
+    {
+      "component": "U.S. Border Patrol",
+      "drug": "Marijuana",
+      "events": 8321,
+      "lbs": 146956
+    },
+    {
+      "component": "Office of Field Operations",
+      "drug": "Fentanyl",
+      "events": 2748,
+      "lbs": 56977
+    },
+    {
+      "component": "U.S. Border Patrol",
+      "drug": "Methamphetamine",
+      "events": 1862,
+      "lbs": 48280
+    },
+    {
+      "component": "U.S. Border Patrol",
+      "drug": "Cocaine",
+      "events": 1423,
+      "lbs": 44402
+    },
+    {
+      "component": "U.S. Border Patrol",
+      "drug": "Fentanyl",
+      "events": 913,
+      "lbs": 8146
+    },
+    {
+      "component": "Office of Field Operations",
+      "drug": "Heroin",
+      "events": 961,
+      "lbs": 4191
+    },
+    {
+      "component": "U.S. Border Patrol",
+      "drug": "Heroin",
+      "events": 147,
+      "lbs": 547
+    }
+  ]
+}
