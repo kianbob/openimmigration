@@ -1,0 +1,720 @@
+{
+  "totalAppeals": 1457288,
+  "decisions": [
+    {
+      "name": "DIS",
+      "count": 452050
+    },
+    {
+      "name": "REM",
+      "count": 206024
+    },
+    {
+      "name": "DEN",
+      "count": 136637
+    },
+    {
+      "name": "SAF",
+      "count": 77457
+    },
+    {
+      "name": "D30",
+      "count": 47331
+    },
+    {
+      "name": "WDL",
+      "count": 40456
+    },
+    {
+      "name": "DVD",
+      "count": 36214
+    },
+    {
+      "name": "SAV",
+      "count": 28034
+    },
+    {
+      "name": "NJU",
+      "count": 26380
+    },
+    {
+      "name": "TER",
+      "count": 25588
+    },
+    {
+      "name": "OTH",
+      "count": 23252
+    },
+    {
+      "name": "SUD",
+      "count": 19743
+    },
+    {
+      "name": "SUS",
+      "count": 18382
+    },
+    {
+      "name": "GRN",
+      "count": 17577
+    },
+    {
+      "name": "TPS",
+      "count": 16434
+    },
+    {
+      "name": "BCR",
+      "count": 10669
+    },
+    {
+      "name": "SDG",
+      "count": 9600
+    },
+    {
+      "name": "SED",
+      "count": 8566
+    },
+    {
+      "name": "TPD",
+      "count": 6223
+    },
+    {
+      "name": "DSO",
+      "count": 5994
+    },
+    {
+      "name": "CON",
+      "count": 5967
+    },
+    {
+      "name": "MBD",
+      "count": 5858
+    },
+    {
+      "name": "DUT",
+      "count": 5557
+    },
+    {
+      "name": "APD",
+      "count": 3599
+    },
+    {
+      "name": "GNR",
+      "count": 3424
+    },
+    {
+      "name": "ACR",
+      "count": 2322
+    },
+    {
+      "name": "DED",
+      "count": 2097
+    },
+    {
+      "name": "ADM",
+      "count": 1900
+    },
+    {
+      "name": "CPG",
+      "count": 1707
+    },
+    {
+      "name": "ABC",
+      "count": 1624
+    },
+    {
+      "name": "REJ",
+      "count": 1321
+    },
+    {
+      "name": "SND",
+      "count": 786
+    },
+    {
+      "name": "SAD",
+      "count": 705
+    },
+    {
+      "name": "GRS",
+      "count": 433
+    },
+    {
+      "name": "DNS",
+      "count": 422
+    },
+    {
+      "name": "OTS",
+      "count": 261
+    },
+    {
+      "name": "WPD",
+      "count": 253
+    },
+    {
+      "name": "DMO",
+      "count": 238
+    },
+    {
+      "name": "AFD",
+      "count": 106
+    },
+    {
+      "name": "MB",
+      "count": 89
+    },
+    {
+      "name": "CPC",
+      "count": 87
+    },
+    {
+      "name": "ADR",
+      "count": 84
+    },
+    {
+      "name": "SNC",
+      "count": 84
+    },
+    {
+      "name": "RET",
+      "count": 80
+    },
+    {
+      "name": "SOD",
+      "count": 68
+    },
+    {
+      "name": "CFD",
+      "count": 45
+    },
+    {
+      "name": "ADD",
+      "count": 41
+    },
+    {
+      "name": "REV",
+      "count": 24
+    },
+    {
+      "name": "\u0000",
+      "count": 16
+    },
+    {
+      "name": "CGR",
+      "count": 16
+    },
+    {
+      "name": "CFG",
+      "count": 8
+    },
+    {
+      "name": "CTM",
+      "count": 6
+    },
+    {
+      "name": "SUP",
+      "count": 4
+    },
+    {
+      "name": "CFV",
+      "count": 3
+    },
+    {
+      "name": "BVD",
+      "count": 3
+    }
+  ],
+  "filedBy": [
+    {
+      "by": "A",
+      "count": 1114595
+    },
+    {
+      "by": "I",
+      "count": 71476
+    },
+    {
+      "by": "O",
+      "count": 28444
+    },
+    {
+      "by": "B",
+      "count": 20318
+    },
+    {
+      "by": "P",
+      "count": 16735
+    },
+    {
+      "by": "T",
+      "count": 254
+    },
+    {
+      "by": "E",
+      "count": 10
+    },
+    {
+      "by": "\u0000",
+      "count": 3
+    },
+    {
+      "by": "H",
+      "count": 2
+    },
+    {
+      "by": "C",
+      "count": 1
+    }
+  ],
+  "yearlyAppeals": [
+    {
+      "year": 2000,
+      "total": 24462,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 24462
+    },
+    {
+      "year": 2001,
+      "total": 35495,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 35495
+    },
+    {
+      "year": 2002,
+      "total": 64751,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 64751
+    },
+    {
+      "year": 2003,
+      "total": 53524,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 53524
+    },
+    {
+      "year": 2004,
+      "total": 57393,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 57393
+    },
+    {
+      "year": 2005,
+      "total": 57906,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 57906
+    },
+    {
+      "year": 2006,
+      "total": 47700,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 47700
+    },
+    {
+      "year": 2007,
+      "total": 43190,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 43190
+    },
+    {
+      "year": 2008,
+      "total": 44146,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 44146
+    },
+    {
+      "year": 2009,
+      "total": 38910,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 38910
+    },
+    {
+      "year": 2010,
+      "total": 38873,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 38873
+    },
+    {
+      "year": 2011,
+      "total": 39011,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 39011
+    },
+    {
+      "year": 2012,
+      "total": 38610,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 38610
+    },
+    {
+      "year": 2013,
+      "total": 34761,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 34761
+    },
+    {
+      "year": 2014,
+      "total": 32417,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 32417
+    },
+    {
+      "year": 2015,
+      "total": 33941,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 33941
+    },
+    {
+      "year": 2016,
+      "total": 32570,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 32570
+    },
+    {
+      "year": 2017,
+      "total": 31448,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 31448
+    },
+    {
+      "year": 2018,
+      "total": 29550,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 29550
+    },
+    {
+      "year": 2019,
+      "total": 27447,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 27447
+    },
+    {
+      "year": 2020,
+      "total": 41069,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 41069
+    },
+    {
+      "year": 2021,
+      "total": 29484,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 29484
+    },
+    {
+      "year": 2022,
+      "total": 31740,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 31740
+    },
+    {
+      "year": 2023,
+      "total": 40441,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 40441
+    },
+    {
+      "year": 2024,
+      "total": 41067,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 41067
+    },
+    {
+      "year": 2025,
+      "total": 38128,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 38128
+    },
+    {
+      "year": 2026,
+      "total": 2696,
+      "sustained": 0,
+      "dismissed": 0,
+      "remanded": 0,
+      "other": 2696
+    }
+  ],
+  "topNationalities": [
+    {
+      "code": "MX",
+      "total": 243995,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "ES",
+      "total": 106080,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "CH",
+      "total": 96140,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "GT",
+      "total": 86164,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "HA",
+      "total": 56767,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "HO",
+      "total": 54979,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "CO",
+      "total": 39810,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "NU",
+      "total": 30554,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "IN",
+      "total": 29344,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "JM",
+      "total": 19502,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "DR",
+      "total": 19153,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "EC",
+      "total": 16553,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "CU",
+      "total": 15111,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "PE",
+      "total": 14993,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "BR",
+      "total": 13464,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "NI",
+      "total": 12779,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "RP",
+      "total": 12697,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "ID",
+      "total": 12233,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "PK",
+      "total": 11803,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "VE",
+      "total": 10192,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "AL",
+      "total": 9359,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "BG",
+      "total": 8253,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "RU",
+      "total": 6936,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "AM",
+      "total": 6925,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "ET",
+      "total": 6271,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "IR",
+      "total": 6172,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "YO",
+      "total": 5844,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "CM",
+      "total": 5053,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "GH",
+      "total": 4823,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "code": "GY",
+      "total": 4318,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    }
+  ],
+  "byCustody": [
+    {
+      "status": "R",
+      "total": 235944,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "status": "N",
+      "total": 553592,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    },
+    {
+      "status": "D",
+      "total": 218905,
+      "sustained": 0,
+      "dismissed": 0,
+      "sustainRate": 0
+    }
+  ]
+}

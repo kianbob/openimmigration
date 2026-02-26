@@ -1,0 +1,501 @@
+{
+  "totalBondHearings": 1586265,
+  "granted": 68593,
+  "denied": 16472,
+  "grantRate": 4.3,
+  "avgBondAmount": 11412,
+  "medianBondAmount": 7500,
+  "totalWithBondAmount": 272822,
+  "decisions": [
+    {
+      "name": "C",
+      "count": 563798
+    },
+    {
+      "name": "A",
+      "count": 363233
+    },
+    {
+      "name": "N",
+      "count": 182579
+    },
+    {
+      "name": "S",
+      "count": 158042
+    },
+    {
+      "name": "J",
+      "count": 111160
+    },
+    {
+      "name": "G",
+      "count": 68593
+    },
+    {
+      "name": "W",
+      "count": 64833
+    },
+    {
+      "name": "R",
+      "count": 16612
+    },
+    {
+      "name": "D",
+      "count": 16472
+    },
+    {
+      "name": "E",
+      "count": 14416
+    },
+    {
+      "name": "I",
+      "count": 13328
+    },
+    {
+      "name": "O",
+      "count": 6608
+    },
+    {
+      "name": "F",
+      "count": 172
+    },
+    {
+      "name": "\u0000",
+      "count": 97
+    },
+    {
+      "name": "L",
+      "count": 21
+    }
+  ],
+  "yearlyBonds": [
+    {
+      "year": 2000,
+      "total": 26153,
+      "granted": 0,
+      "denied": 0,
+      "grantRate": 0,
+      "avgBond": 10327
+    },
+    {
+      "year": 2001,
+      "total": 30838,
+      "granted": 0,
+      "denied": 0,
+      "grantRate": 0,
+      "avgBond": 10317
+    },
+    {
+      "year": 2002,
+      "total": 34147,
+      "granted": 0,
+      "denied": 0,
+      "grantRate": 0,
+      "avgBond": 11492
+    },
+    {
+      "year": 2003,
+      "total": 32687,
+      "granted": 0,
+      "denied": 0,
+      "grantRate": 0,
+      "avgBond": 10573
+    },
+    {
+      "year": 2004,
+      "total": 28022,
+      "granted": 0,
+      "denied": 0,
+      "grantRate": 0,
+      "avgBond": 11695
+    },
+    {
+      "year": 2005,
+      "total": 25935,
+      "granted": 0,
+      "denied": 0,
+      "grantRate": 0,
+      "avgBond": 11758
+    },
+    {
+      "year": 2006,
+      "total": 34331,
+      "granted": 0,
+      "denied": 0,
+      "grantRate": 0,
+      "avgBond": 11282
+    },
+    {
+      "year": 2007,
+      "total": 41723,
+      "granted": 2,
+      "denied": 0,
+      "grantRate": 0,
+      "avgBond": 11889
+    },
+    {
+      "year": 2008,
+      "total": 47627,
+      "granted": 1,
+      "denied": 1,
+      "grantRate": 0,
+      "avgBond": 10638
+    },
+    {
+      "year": 2009,
+      "total": 50684,
+      "granted": 2,
+      "denied": 1,
+      "grantRate": 0,
+      "avgBond": 10505
+    },
+    {
+      "year": 2010,
+      "total": 56762,
+      "granted": 1,
+      "denied": 0,
+      "grantRate": 0,
+      "avgBond": 10541
+    },
+    {
+      "year": 2011,
+      "total": 79529,
+      "granted": 2,
+      "denied": 0,
+      "grantRate": 0,
+      "avgBond": 12019
+    },
+    {
+      "year": 2012,
+      "total": 74619,
+      "granted": 3,
+      "denied": 0,
+      "grantRate": 0,
+      "avgBond": 11350
+    },
+    {
+      "year": 2013,
+      "total": 56620,
+      "granted": 5,
+      "denied": 0,
+      "grantRate": 0,
+      "avgBond": 10262
+    },
+    {
+      "year": 2014,
+      "total": 59415,
+      "granted": 10,
+      "denied": 0,
+      "grantRate": 0,
+      "avgBond": 9583
+    },
+    {
+      "year": 2015,
+      "total": 60618,
+      "granted": 2,
+      "denied": 1,
+      "grantRate": 0,
+      "avgBond": 11138
+    },
+    {
+      "year": 2016,
+      "total": 62443,
+      "granted": 10,
+      "denied": 0,
+      "grantRate": 0,
+      "avgBond": 17738
+    },
+    {
+      "year": 2017,
+      "total": 83518,
+      "granted": 22,
+      "denied": 1,
+      "grantRate": 0,
+      "avgBond": 13750
+    },
+    {
+      "year": 2018,
+      "total": 95613,
+      "granted": 12,
+      "denied": 2,
+      "grantRate": 0,
+      "avgBond": 27769
+    },
+    {
+      "year": 2019,
+      "total": 103213,
+      "granted": 22,
+      "denied": 3,
+      "grantRate": 0,
+      "avgBond": 48971
+    },
+    {
+      "year": 2020,
+      "total": 51710,
+      "granted": 2351,
+      "denied": 160,
+      "grantRate": 4.5,
+      "avgBond": 12183
+    },
+    {
+      "year": 2021,
+      "total": 28254,
+      "granted": 3402,
+      "denied": 144,
+      "grantRate": 12,
+      "avgBond": 5892
+    },
+    {
+      "year": 2022,
+      "total": 40873,
+      "granted": 4809,
+      "denied": 272,
+      "grantRate": 11.8,
+      "avgBond": 8537
+    },
+    {
+      "year": 2023,
+      "total": 31358,
+      "granted": 2965,
+      "denied": 310,
+      "grantRate": 9.5,
+      "avgBond": 7476
+    },
+    {
+      "year": 2024,
+      "total": 35078,
+      "granted": 3226,
+      "denied": 594,
+      "grantRate": 9.2,
+      "avgBond": 9548
+    },
+    {
+      "year": 2025,
+      "total": 80866,
+      "granted": 8643,
+      "denied": 2541,
+      "grantRate": 10.7,
+      "avgBond": 3932
+    },
+    {
+      "year": 2026,
+      "total": 9871,
+      "granted": 623,
+      "denied": 352,
+      "grantRate": 6.3,
+      "avgBond": 3250
+    }
+  ],
+  "topCourts": [
+    {
+      "code": "CIC",
+      "total": 92504,
+      "granted": 1512,
+      "denied": 174,
+      "grantRate": 1.6
+    },
+    {
+      "code": "ELO",
+      "total": 91690,
+      "granted": 2825,
+      "denied": 277,
+      "grantRate": 3.1
+    },
+    {
+      "code": "ELZ",
+      "total": 84400,
+      "granted": 318,
+      "denied": 72,
+      "grantRate": 0.4
+    },
+    {
+      "code": "KRO",
+      "total": 83142,
+      "granted": 5875,
+      "denied": 1414,
+      "grantRate": 7.1
+    },
+    {
+      "code": "PIS",
+      "total": 79195,
+      "granted": 8467,
+      "denied": 2189,
+      "grantRate": 10.7
+    },
+    {
+      "code": "ADL",
+      "total": 76839,
+      "granted": 1160,
+      "denied": 202,
+      "grantRate": 1.5
+    },
+    {
+      "code": "OAK",
+      "total": 68547,
+      "granted": 1924,
+      "denied": 922,
+      "grantRate": 2.8
+    },
+    {
+      "code": "FLO",
+      "total": 65941,
+      "granted": 1388,
+      "denied": 172,
+      "grantRate": 2.1
+    },
+    {
+      "code": "PSD",
+      "total": 61968,
+      "granted": 1347,
+      "denied": 214,
+      "grantRate": 2.2
+    },
+    {
+      "code": "AUR",
+      "total": 61520,
+      "granted": 740,
+      "denied": 504,
+      "grantRate": 1.2
+    },
+    {
+      "code": "TAC",
+      "total": 52184,
+      "granted": 147,
+      "denied": 148,
+      "grantRate": 0.3
+    },
+    {
+      "code": "IMP",
+      "total": 51480,
+      "granted": 9808,
+      "denied": 2228,
+      "grantRate": 19.1
+    },
+    {
+      "code": "EPD",
+      "total": 48669,
+      "granted": 8208,
+      "denied": 831,
+      "grantRate": 16.9
+    },
+    {
+      "code": "CHI",
+      "total": 48452,
+      "granted": 2158,
+      "denied": 524,
+      "grantRate": 4.5
+    },
+    {
+      "code": "JNA",
+      "total": 45185,
+      "granted": 103,
+      "denied": 36,
+      "grantRate": 0.2
+    },
+    {
+      "code": "SDC",
+      "total": 39171,
+      "granted": 722,
+      "denied": 96,
+      "grantRate": 1.8
+    },
+    {
+      "code": "SFR",
+      "total": 36870,
+      "granted": 2335,
+      "denied": 378,
+      "grantRate": 6.3
+    },
+    {
+      "code": "NYV",
+      "total": 30914,
+      "granted": 1491,
+      "denied": 312,
+      "grantRate": 4.8
+    },
+    {
+      "code": "BOS",
+      "total": 30227,
+      "granted": 674,
+      "denied": 235,
+      "grantRate": 2.2
+    },
+    {
+      "code": "WLA",
+      "total": 27220,
+      "granted": 2888,
+      "denied": 623,
+      "grantRate": 10.6
+    },
+    {
+      "code": "DET",
+      "total": 25660,
+      "granted": 295,
+      "denied": 81,
+      "grantRate": 1.1
+    },
+    {
+      "code": "NLA",
+      "total": 25342,
+      "granted": 0,
+      "denied": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "BTV",
+      "total": 24891,
+      "granted": 8,
+      "denied": 16,
+      "grantRate": 0
+    },
+    {
+      "code": "SND",
+      "total": 23445,
+      "granted": 396,
+      "denied": 167,
+      "grantRate": 1.7
+    },
+    {
+      "code": "BLM",
+      "total": 20548,
+      "granted": 293,
+      "denied": 176,
+      "grantRate": 1.4
+    },
+    {
+      "code": "WAS",
+      "total": 19615,
+      "granted": 794,
+      "denied": 166,
+      "grantRate": 4
+    },
+    {
+      "code": "OMA",
+      "total": 18201,
+      "granted": 122,
+      "denied": 52,
+      "grantRate": 0.7
+    },
+    {
+      "code": "NEW",
+      "total": 17931,
+      "granted": 14,
+      "denied": 5,
+      "grantRate": 0.1
+    },
+    {
+      "code": "HLG",
+      "total": 17468,
+      "granted": 1404,
+      "denied": 551,
+      "grantRate": 8
+    },
+    {
+      "code": "LVG",
+      "total": 15494,
+      "granted": 6,
+      "denied": 3,
+      "grantRate": 0
+    }
+  ]
+}

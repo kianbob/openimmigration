@@ -10,6 +10,7 @@ const navItems = [
   { label: 'Asylum', href: '/asylum' },
   { label: 'Dashboard', href: '/dashboard' },
   { label: 'Demographics', href: '/demographics' },
+  { label: 'Appeals', href: '/appeals' },
 ]
 
 const analysisArticles = [
