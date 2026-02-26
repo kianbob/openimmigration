@@ -1,0 +1,379 @@
+{
+  "source": "DOJ EOIR Case Data, February 2026",
+  "totalCasesWithDuration": 12363320,
+  "avgDaysOverall": 397,
+  "avgYearsOverall": 1.1,
+  "distribution": [
+    {
+      "label": "Under 6 months",
+      "count": 6766531,
+      "pct": "54.7"
+    },
+    {
+      "label": "6-12 months",
+      "count": 1610015,
+      "pct": "13.0"
+    },
+    {
+      "label": "1-2 years",
+      "count": 1784858,
+      "pct": "14.4"
+    },
+    {
+      "label": "2-3 years",
+      "count": 842100,
+      "pct": "6.8"
+    },
+    {
+      "label": "3-5 years",
+      "count": 843665,
+      "pct": "6.8"
+    },
+    {
+      "label": "5+ years",
+      "count": 516151,
+      "pct": "4.2"
+    }
+  ],
+  "byYear": [
+    {
+      "year": 2010,
+      "avgDays": 241,
+      "cases": 288717
+    },
+    {
+      "year": 2011,
+      "avgDays": 252,
+      "cases": 305490
+    },
+    {
+      "year": 2012,
+      "avgDays": 323,
+      "cases": 283941
+    },
+    {
+      "year": 2013,
+      "avgDays": 358,
+      "cases": 273472
+    },
+    {
+      "year": 2014,
+      "avgDays": 338,
+      "cases": 293409
+    },
+    {
+      "year": 2015,
+      "avgDays": 388,
+      "cases": 280044
+    },
+    {
+      "year": 2016,
+      "avgDays": 423,
+      "cases": 313497
+    },
+    {
+      "year": 2017,
+      "avgDays": 365,
+      "cases": 318148
+    },
+    {
+      "year": 2018,
+      "avgDays": 420,
+      "cases": 363108
+    },
+    {
+      "year": 2019,
+      "avgDays": 388,
+      "cases": 484212
+    },
+    {
+      "year": 2020,
+      "avgDays": 413,
+      "cases": 239845
+    },
+    {
+      "year": 2021,
+      "avgDays": 701,
+      "cases": 268013
+    },
+    {
+      "year": 2022,
+      "avgDays": 816,
+      "cases": 609668
+    },
+    {
+      "year": 2023,
+      "avgDays": 742,
+      "cases": 884453
+    },
+    {
+      "year": 2024,
+      "avgDays": 623,
+      "cases": 1189681
+    },
+    {
+      "year": 2025,
+      "avgDays": 569,
+      "cases": 1187050
+    },
+    {
+      "year": 2026,
+      "avgDays": 572,
+      "cases": 92434
+    }
+  ],
+  "topCourtsByWait": [
+    {
+      "code": "LOW",
+      "avgDays": 986,
+      "cases": 11707
+    },
+    {
+      "code": "STE",
+      "avgDays": 944,
+      "cases": 69234
+    },
+    {
+      "code": "CCC",
+      "avgDays": 915,
+      "cases": 25325
+    },
+    {
+      "code": "INP",
+      "avgDays": 899,
+      "cases": 8156
+    },
+    {
+      "code": "VNS",
+      "avgDays": 884,
+      "cases": 63289
+    },
+    {
+      "code": "CHE",
+      "avgDays": 814,
+      "cases": 21628
+    },
+    {
+      "code": "HYA",
+      "avgDays": 780,
+      "cases": 61377
+    },
+    {
+      "code": "BTR",
+      "avgDays": 775,
+      "cases": 648
+    },
+    {
+      "code": "POR",
+      "avgDays": 750,
+      "cases": 8689
+    },
+    {
+      "code": "CHL",
+      "avgDays": 735,
+      "cases": 161116
+    },
+    {
+      "code": "HGP",
+      "avgDays": 659,
+      "cases": 109958
+    },
+    {
+      "code": "NYC",
+      "avgDays": 630,
+      "cases": 779686
+    },
+    {
+      "code": "MEM",
+      "avgDays": 629,
+      "cases": 179998
+    },
+    {
+      "code": "ANN",
+      "avgDays": 622,
+      "cases": 29187
+    },
+    {
+      "code": "SFR",
+      "avgDays": 610,
+      "cases": 455398
+    },
+    {
+      "code": "SNC",
+      "avgDays": 607,
+      "cases": 99770
+    },
+    {
+      "code": "NEW",
+      "avgDays": 605,
+      "cases": 265778
+    },
+    {
+      "code": "NOL",
+      "avgDays": 596,
+      "cases": 139474
+    },
+    {
+      "code": "ORL",
+      "avgDays": 594,
+      "cases": 243838
+    },
+    {
+      "code": "ATL",
+      "avgDays": 588,
+      "cases": 220805
+    },
+    {
+      "code": "BOS",
+      "avgDays": 587,
+      "cases": 250636
+    },
+    {
+      "code": "NYB",
+      "avgDays": 577,
+      "cases": 109722
+    },
+    {
+      "code": "DEN",
+      "avgDays": 570,
+      "cases": 139226
+    },
+    {
+      "code": "OMA",
+      "avgDays": 564,
+      "cases": 93271
+    },
+    {
+      "code": "PHI",
+      "avgDays": 563,
+      "cases": 168488
+    },
+    {
+      "code": "WAS",
+      "avgDays": 559,
+      "cases": 247512
+    },
+    {
+      "code": "WLA",
+      "avgDays": 537,
+      "cases": 750430
+    },
+    {
+      "code": "BAL",
+      "avgDays": 535,
+      "cases": 187764
+    },
+    {
+      "code": "DAL",
+      "avgDays": 527,
+      "cases": 311885
+    },
+    {
+      "code": "HAR",
+      "avgDays": 522,
+      "cases": 86964
+    }
+  ],
+  "fastestCourts": [
+    {
+      "code": "AUR",
+      "avgDays": 26,
+      "cases": 119603
+    },
+    {
+      "code": "EPD",
+      "avgDays": 29,
+      "cases": 185299
+    },
+    {
+      "code": "PIS",
+      "avgDays": 29,
+      "cases": 199357
+    },
+    {
+      "code": "FLO",
+      "avgDays": 34,
+      "cases": 160192
+    },
+    {
+      "code": "JNA",
+      "avgDays": 35,
+      "cases": 97171
+    },
+    {
+      "code": "PSD",
+      "avgDays": 35,
+      "cases": 199020
+    },
+    {
+      "code": "CIC",
+      "avgDays": 36,
+      "cases": 232720
+    },
+    {
+      "code": "OTO",
+      "avgDays": 36,
+      "cases": 60272
+    },
+    {
+      "code": "ELO",
+      "avgDays": 37,
+      "cases": 219631
+    },
+    {
+      "code": "PEP",
+      "avgDays": 38,
+      "cases": 11931
+    },
+    {
+      "code": "SDC",
+      "avgDays": 40,
+      "cases": 133228
+    },
+    {
+      "code": "KRO",
+      "avgDays": 40,
+      "cases": 185673
+    },
+    {
+      "code": "BTV",
+      "avgDays": 41,
+      "cases": 35122
+    },
+    {
+      "code": "TAC",
+      "avgDays": 42,
+      "cases": 114783
+    },
+    {
+      "code": "OAK",
+      "avgDays": 43,
+      "cases": 145591
+    },
+    {
+      "code": "OTM",
+      "avgDays": 46,
+      "cases": 38377
+    },
+    {
+      "code": "ADL",
+      "avgDays": 49,
+      "cases": 132895
+    },
+    {
+      "code": "ELZ",
+      "avgDays": 53,
+      "cases": 149847
+    },
+    {
+      "code": "LRO",
+      "avgDays": 65,
+      "cases": 101895
+    },
+    {
+      "code": "IMP",
+      "avgDays": 74,
+      "cases": 202409
+    }
+  ]
+}

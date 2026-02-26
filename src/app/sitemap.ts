@@ -21,6 +21,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/analysis/in-absentia', '/analysis/detained-vs-released',
     '/amnesty', '/bond', '/children', '/demographics', '/appeals',
     '/border', '/enforcement', '/legal-immigration', '/overstays', '/drug-seizures',
+    '/tps', '/wait-times', '/timeline', '/downloads',
     '/uscis', '/daca', '/green-card', '/naturalization',
   ]
 

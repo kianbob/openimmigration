@@ -27,6 +27,10 @@ export default function Footer() {
               <li><Link href="/legal-immigration" className="hover:text-white transition-colors">Legal Immigration</Link></li>
               <li><Link href="/overstays" className="hover:text-white transition-colors">Visa Overstays</Link></li>
               <li><Link href="/drug-seizures" className="hover:text-white transition-colors">Drug Seizures</Link></li>
+              <li><Link href="/tps" className="hover:text-white transition-colors">TPS</Link></li>
+              <li><Link href="/wait-times" className="hover:text-white transition-colors">Wait Times</Link></li>
+              <li><Link href="/timeline" className="hover:text-white transition-colors">Timeline</Link></li>
+              <li><Link href="/downloads" className="hover:text-white transition-colors">Download Data</Link></li>
               <li><Link href="/children" className="hover:text-white transition-colors">Children</Link></li>
               <li><Link href="/daca" className="hover:text-white transition-colors">DACA Recipients</Link></li>
               <li><Link href="/demographics" className="hover:text-white transition-colors">Demographics</Link></li>

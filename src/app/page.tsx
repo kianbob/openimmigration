@@ -144,6 +144,8 @@ export default function HomePage() {
             { title: 'Legal Immigration', desc: '~1M green cards/year, refugees, naturalizations, and temporary visa admissions.', href: '/legal-immigration', icon: '🗽' },
             { title: 'Visa Overstays', desc: '478K+ per year (FY2024). The often-overlooked other half of unauthorized immigration.', href: '/overstays', icon: '✈️' },
             { title: 'Drug Seizures', desc: '65,000 lbs of fentanyl seized. 1.9M total lbs of drugs intercepted at U.S. borders.', href: '/drug-seizures', icon: '💊' },
+            { title: 'Wait Times', desc: 'Average case takes 1.1 years. Some courts average 2.7 years. How long does immigration court take?', href: '/wait-times', icon: '⏱️' },
+            { title: 'TPS Status', desc: '1M+ pending TPS applications. Venezuela (403K), Haiti (331K), Ukraine (143K).', href: '/tps', icon: '🛡️' },
             { title: 'Appeals to the BIA', desc: '1.46M appeals to the Board of Immigration Appeals. 31% dismissed, only 7.2% sustained.', href: '/appeals', icon: '📑' },
             { title: 'Bond Hearings', desc: '1.59M bond hearings. Average bond $11,412. Only 4.3% of requests granted.', href: '/bond', icon: '🔓' },
             { title: 'Search Cases', desc: 'Search and filter immigration court data by court, nationality, year, case type, and more.', href: '/search', icon: '🔍' },
