@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import { titleCase } from '@/lib/utils'
+import StatesChart from './StatesChart'
 import fs from 'fs'
 import path from 'path'
 
@@ -26,6 +27,12 @@ export default function StatesPage() {
         {states.length} states and territories with immigration court cases. {titleCase(states[0].name)} leads
         with {states[0].cases.toLocaleString()} cases, followed by {titleCase(states[1].name)} ({states[1].cases.toLocaleString()}).
       </p>
+
+      {/* Chart */}
+      <div className="bg-white border border-gray-200 rounded-xl p-6 mb-10">
+        <h2 className="font-heading text-xl font-bold mb-4">Top 20 States by Case Volume</h2>
+        <StatesChart data={states} />
+      </div>
 
       <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
         <table className="w-full text-sm">

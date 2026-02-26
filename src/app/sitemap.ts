@@ -19,7 +19,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/analysis/representation-gap', '/analysis/geographic-lottery',
     '/analysis/deportation-machine', '/analysis/asylum-by-nationality',
     '/analysis/in-absentia', '/analysis/detained-vs-released',
-    '/amnesty', '/bond', '/children',
+    '/amnesty', '/bond', '/children', '/demographics',
     '/uscis', '/daca', '/green-card', '/naturalization',
   ]
 

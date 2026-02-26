@@ -5,6 +5,7 @@ import fs from 'fs'
 import path from 'path'
 
 import { titleCase } from '@/lib/utils'
+import DeportationCharts from './DeportationCharts'
 
 function loadData(filename: string) {
   return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', filename), 'utf8'))
@@ -18,11 +19,13 @@ export const metadata: Metadata = {
 export default function DeportationPage() {
   const stats = loadData('stats.json')
   const outcomes = loadData('outcomes.json')
+  const trends = loadData('yearly-trends.json')
   const nationalities = loadData('nationalities.json').slice(0, 10)
 
-  const volDep = outcomes.find((o: { name: string }) => o.name === 'Voluntary Departure')
-  const reliefGranted = outcomes.find((o: { name: string }) => o.name === 'Relief Granted')
-  const adminClosure = outcomes.find((o: { name: string }) => o.name === 'Administrative Closure')
+  const recentTrends = trends.filter((t: { year: number }) => t.year >= 2010 && t.year <= 2025)
+  const cleanOutcomes = outcomes.filter((o: { name: string; count: number }) =>
+    o.count > 5000 && o.name.trim() && o.name !== 'ZERO BOND' && o.name.length > 2 && !o.name.includes('00:00:00')
+  )
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-10">
@@ -52,6 +55,11 @@ export default function DeportationPage() {
           <div className="text-2xl font-bold text-success">{stats.asylumGranted.toLocaleString()}</div>
           <div className="text-sm text-gray-600 mt-1">Asylum Granted</div>
         </div>
+      </div>
+
+      {/* Charts */}
+      <div className="bg-white border border-gray-200 rounded-xl p-6 mb-12">
+        <DeportationCharts outcomes={cleanOutcomes} trends={recentTrends} />
       </div>
 
       {/* Top nationalities */}

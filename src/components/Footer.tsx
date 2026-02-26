@@ -23,6 +23,7 @@ export default function Footer() {
               <li><Link href="/bond" className="hover:text-white transition-colors">Bond</Link></li>
               <li><Link href="/children" className="hover:text-white transition-colors">Children</Link></li>
               <li><Link href="/daca" className="hover:text-white transition-colors">DACA Recipients</Link></li>
+              <li><Link href="/demographics" className="hover:text-white transition-colors">Demographics</Link></li>
             </ul>
           </div>
 

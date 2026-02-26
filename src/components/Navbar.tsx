@@ -9,6 +9,7 @@ const navItems = [
   { label: 'Backlog', href: '/backlog' },
   { label: 'Asylum', href: '/asylum' },
   { label: 'Dashboard', href: '/dashboard' },
+  { label: 'Demographics', href: '/demographics' },
 ]
 
 const analysisArticles = [
