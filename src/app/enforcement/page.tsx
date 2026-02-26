@@ -158,7 +158,7 @@ export default function EnforcementPage() {
         </Link>
         <Link href="/overstays" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">✈️ Visa Overstays</h3>
-          <p className="text-sm text-gray-600 mt-1">600K-850K overstays per year — the other side of illegal immigration.</p>
+          <p className="text-sm text-gray-600 mt-1">478K+ overstays per year — the other side of illegal immigration.</p>
         </Link>
       </div>
 

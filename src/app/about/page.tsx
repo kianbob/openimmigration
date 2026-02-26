@@ -44,7 +44,17 @@ export default function AboutPage() {
           <li><strong>Appeals</strong> — Board of Immigration Appeals data</li>
         </ul>
         <p>
-          We supplement EOIR data with published statistics from USCIS, TRAC, and Congressional Research Service reports.
+          We supplement EOIR data with:
+        </p>
+        <ul className="list-disc pl-6 space-y-1">
+          <li><strong>CBP Encounter Data</strong> — Monthly border encounter statistics from U.S. Customs and Border Protection (FY2020-2026)</li>
+          <li><strong>ICE ERO Statistics</strong> — Deportation, arrest, and detention data from Immigration and Customs Enforcement</li>
+          <li><strong>USCIS Quarterly Reports</strong> — Green card, naturalization, DACA, and application backlog data</li>
+          <li><strong>DHS Overstay Reports</strong> — Annual visa overstay data reported to Congress</li>
+          <li><strong>DHS Yearbook of Immigration Statistics</strong> — Historical legal immigration, refugee, and enforcement data</li>
+        </ul>
+        <p>
+          All data is from official U.S. government sources — public records that should be accessible to everyone.
         </p>
 
         <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">Why This Matters</h2>

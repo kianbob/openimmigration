@@ -80,8 +80,16 @@
         "refugees": 100000,
         "naturalizations": 955000,
         "nonimmigrantAdmissions": 180000000
+      },
+      {
+        "fy": 2025,
+        "greenCards": 900000,
+        "refugees": 400,
+        "naturalizations": 818500,
+        "nonimmigrantAdmissions": 175000000
       }
-    ]
+    ],
+    "fy2025Note": "FY2025: Refugee program effectively halted under Executive Order. Only ~400 South African (Afrikaner) refugees admitted. Green card and naturalization processing slowed ~21% per USCIS quarterly data."
   },
   "enforcement": {
     "description": "ICE ERO Removals, Returns, and Book-outs per fiscal year",
@@ -230,8 +238,8 @@
       {
         "fy": 2024,
         "expectedDepartures": 52000000,
-        "totalOverstays": 775000,
-        "overstayRate": 1.49
+        "totalOverstays": 478400,
+        "overstayRate": 0.92
       }
     ],
     "topOverstayCountries2023": [
@@ -316,6 +324,12 @@
         "low": 11500000,
         "high": 14300000,
         "source": "CMS/DHS estimates vary widely"
+      },
+      {
+        "year": 2025,
+        "low": 11000000,
+        "high": 14500000,
+        "source": "CMS/DHS — estimates vary; border encounters declined sharply"
       }
     ]
   }

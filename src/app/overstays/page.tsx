@@ -10,8 +10,8 @@ function loadData(filename: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'Visa Overstays — 600K-850K Per Year, The Other Side of Illegal Immigration | OpenImmigration',
-  description: 'DHS visa overstay data: 600K-850K visitors per year remain beyond their authorized stay. Overstay rates, top countries, and how overstays compare to border crossings.',
+  title: 'Visa Overstays — 478K+ Per Year, The Other Side of Illegal Immigration | OpenImmigration',
+  description: 'DHS visa overstay data: 478K-850K visitors per year remain beyond their authorized stay. FY2024 overstay rate 0.92%. Top countries, trends, and how overstays compare to border crossings.',
   alternates: { canonical: 'https://www.openimmigration.us/overstays' },
 }
 
@@ -32,7 +32,7 @@ export default function OverstaysPage() {
 
       <h1 className="font-heading text-4xl font-bold mb-4">Visa Overstays</h1>
       <p className="text-lg text-gray-600 mb-8">
-        Not all unauthorized immigration involves crossing a border. Each year, <strong>600,000 to 850,000 visitors</strong> who
+        Not all unauthorized immigration involves crossing a border. Each year, <strong>hundreds of thousands of visitors</strong> who
         entered the U.S. legally on visas remain beyond their authorized stay. This makes visa overstays a major — but
         often overlooked — component of the unauthorized immigrant population, estimated at <strong>{(latestUndoc.low / 1e6).toFixed(1)}-{(latestUndoc.high / 1e6).toFixed(1)} million</strong>.
       </p>

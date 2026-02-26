@@ -142,7 +142,7 @@ export default function HomePage() {
             { title: 'Border Encounters', desc: '12M+ CBP encounters since FY2020. Monthly trends, top nationalities, southwest border data.', href: '/border', icon: '🌎' },
             { title: 'ICE Enforcement', desc: 'Deportation statistics, ICE arrests, detention data, and the gap between court orders and actual removals.', href: '/enforcement', icon: '🚨' },
             { title: 'Legal Immigration', desc: '~1M green cards/year, refugees, naturalizations, and temporary visa admissions.', href: '/legal-immigration', icon: '🗽' },
-            { title: 'Visa Overstays', desc: '600K-850K per year. The often-overlooked other half of unauthorized immigration.', href: '/overstays', icon: '✈️' },
+            { title: 'Visa Overstays', desc: '478K+ per year (FY2024). The often-overlooked other half of unauthorized immigration.', href: '/overstays', icon: '✈️' },
             { title: 'Appeals to the BIA', desc: '1.46M appeals to the Board of Immigration Appeals. 31% dismissed, only 7.2% sustained.', href: '/appeals', icon: '📑' },
             { title: 'Bond Hearings', desc: '1.59M bond hearings. Average bond $11,412. Only 4.3% of requests granted.', href: '/bond', icon: '🔓' },
             { title: 'Search Cases', desc: 'Search and filter immigration court data by court, nationality, year, case type, and more.', href: '/search', icon: '🔍' },

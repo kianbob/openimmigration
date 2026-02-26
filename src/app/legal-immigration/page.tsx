@@ -11,7 +11,7 @@ function loadData(filename: string) {
 
 export const metadata: Metadata = {
   title: 'Legal Immigration to the U.S. — Green Cards, Refugees, Naturalizations | OpenImmigration',
-  description: 'U.S. legal immigration statistics: ~1M green cards per year, refugee admissions, naturalization trends, and visa statistics FY2014-2024.',
+  description: 'U.S. legal immigration statistics FY2014-2025: ~1M green cards per year, refugee admissions (halted in FY2025), naturalization trends, and visa statistics.',
   alternates: { canonical: 'https://www.openimmigration.us/legal-immigration' },
 }
 
