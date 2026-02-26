@@ -4,8 +4,9 @@ const BASE_URL = 'https://www.openimmigration.us'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticPages = [
-    '', '/about', '/dashboard', '/backlog', '/asylum', '/courts', '/nationalities',
+    '', '/about', '/faq', '/dashboard', '/backlog', '/asylum', '/courts', '/nationalities',
     '/judges', '/states', '/search', '/representation', '/charges',
+    '/deportation', '/how-immigration-court-works',
     '/analysis', '/analysis/backlog-crisis', '/analysis/judge-variation',
     '/analysis/representation-gap', '/analysis/geographic-lottery',
     '/analysis/deportation-machine', '/analysis/asylum-by-nationality',

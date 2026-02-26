@@ -28,7 +28,10 @@ export default function Footer() {
               <li><Link href="/analysis" className="hover:text-white transition-colors">Analysis & Reports</Link></li>
               <li><Link href="/backlog" className="hover:text-white transition-colors">Court Backlog</Link></li>
               <li><Link href="/asylum" className="hover:text-white transition-colors">Asylum Cases</Link></li>
-              <li><Link href="/about" className="hover:text-white transition-colors">About & Methodology</Link></li>
+              <li><Link href="/deportation" className="hover:text-white transition-colors">Deportation Statistics</Link></li>
+              <li><Link href="/how-immigration-court-works" className="hover:text-white transition-colors">How It Works</Link></li>
+              <li><Link href="/faq" className="hover:text-white transition-colors">FAQ</Link></li>
+              <li><Link href="/about" className="hover:text-white transition-colors">About</Link></li>
             </ul>
           </div>
 
