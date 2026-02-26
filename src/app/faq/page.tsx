@@ -22,7 +22,7 @@ const faqs = [
   },
   {
     q: 'How long does an immigration court case take?',
-    a: 'Average wait times exceed 4 years in many courts. Some cases take much longer. Detained cases move faster (weeks to months), while non-detained cases can take years to reach a hearing.',
+    a: 'Our analysis of 12.4 million completed proceedings shows the overall average case duration is about 1.1 years (397 days). But cases completed in 2022 averaged 2.2 years, and the slowest courts average nearly 3 years. Detained cases are much faster (weeks to months) due to expedited dockets. See our wait times page for detailed data by court and year.',
   },
   {
     q: 'Do immigrants have the right to a lawyer?',

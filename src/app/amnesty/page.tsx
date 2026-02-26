@@ -99,8 +99,9 @@ export default function AmnestyPage() {
                 <h3 className="font-bold text-lg">Temporary Protected Status (TPS)</h3>
                 <p className="text-sm text-gray-600 mt-1">
                   Grants temporary protection to nationals of designated countries experiencing armed conflict,
-                  natural disasters, or other extraordinary conditions. Currently covers ~320,000 people from
-                  16 countries including Venezuela, Haiti, El Salvador, and Ukraine.
+                  natural disasters, or other extraordinary conditions. Over 1 million pending applications
+                  from 17 countries including Venezuela (403K), Haiti (331K), and Ukraine (143K).
+                  <a href="/tps" className="text-primary hover:underline ml-1">See full TPS data →</a>
                 </p>
               </div>
               <div className="text-2xl font-bold text-primary ml-4">~1M+</div>
