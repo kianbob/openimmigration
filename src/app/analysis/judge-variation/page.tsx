@@ -1,76 +1,34 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import Link from 'next/link'
+import { titleCase } from '@/lib/utils'
 import fs from 'fs'
 import path from 'path'
-import { titleCase } from '@/lib/utils'
 
 function loadData(filename: string) {
   return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', filename), 'utf8'))
 }
 
 export const metadata: Metadata = {
-  title: 'Judge Variation in Immigration Courts: 0% to 44.9% Grant Rates | Open Immigration',
-  description: 'Analysis of 1,269 immigration judges reveals dramatic variation — grant rates range from 0% to 44.9%. Only 17 judges grant asylum more than 30% of the time, while 378 grant it less than 3%.',
+  title: 'Judge Roulette — Grant Rates Range from 0% to 44.9%',
+  description: 'Immigration judge grant rates vary from 0% to 44.9%. With 1,269 judges making 12.8 million decisions, your assigned judge may matter more than your case.',
 }
 
 interface Judge {
-  name: string
-  totalDecisions: number
-  grants: number
-  denials: number
-  removals: number
-  absentia: number
-  grantRate: number
-  removalRate: number
-  slug: string
+  code: string; name: string; slug: string; totalDecisions: number;
+  grants: number; denials: number; removals: number; absentia: number;
+  grantRate: number; removalRate: number;
 }
 
 export default function JudgeVariationPage() {
+  const judges: Judge[] = loadData('judge-index.json')
   const stats = loadData('stats.json')
-  const allJudges: Judge[] = loadData('judge-index.json')
 
-  const realJudges = allJudges.filter(
-    (j) => j.totalDecisions >= 500 && j.name.includes(',') && j.name.length > 4
-      && !j.name.toLowerCase().includes('clerical') && !j.name.toLowerCase().includes('transfer')
-      && !j.name.toLowerCase().includes('visiting') && !j.name.toLowerCase().includes('iad ')
-  )
-  const sorted = [...realJudges].sort((a, b) => b.grantRate - a.grantRate)
-  const top5 = sorted.slice(0, 5)
-  const bottom5 = sorted.filter((j) => j.grantRate <= 0.1).slice(0, 5)
-  const highGrantCount = realJudges.filter((j) => j.grantRate > 30).length
-  const lowGrantCount = realJudges.filter((j) => j.grantRate < 3).length
-  const avgDecisions = Math.round(realJudges.reduce((s, j) => s + j.totalDecisions, 0) / realJudges.length)
-
-  function JudgeTable({ judges, label }: { judges: Judge[]; label: string }) {
-    return (
-      <div className="my-6">
-        <h3 className="font-semibold text-lg mb-2">{label}</h3>
-        <table className="min-w-full text-sm border border-gray-200 rounded-lg overflow-hidden">
-          <thead className="bg-gray-50">
-            <tr>
-              <th className="px-4 py-2 text-left font-semibold">Judge</th>
-              <th className="px-4 py-2 text-right font-semibold">Grant Rate</th>
-              <th className="px-4 py-2 text-right font-semibold">Decisions</th>
-            </tr>
-          </thead>
-          <tbody>
-            {judges.map((j) => (
-              <tr key={j.slug} className="border-t border-gray-100 hover:bg-gray-50">
-                <td className="px-4 py-2">
-                  <Link href={`/judges/${j.slug}`} className="text-primary hover:underline font-medium">
-                    {titleCase(j.name)}
-                  </Link>
-                </td>
-                <td className="px-4 py-2 text-right font-bold">{j.grantRate}%</td>
-                <td className="px-4 py-2 text-right">{j.totalDecisions.toLocaleString()}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-    )
-  }
+  const qualified = judges.filter(j => j.totalDecisions >= 500)
+  const highGrant = qualified.filter(j => j.grantRate > 30).sort((a, b) => b.grantRate - a.grantRate)
+  const lowGrant = qualified.filter(j => j.grantRate < 3 && j.grantRate >= 0).sort((a, b) => a.grantRate - b.grantRate)
+  const topGranters = qualified.sort((a, b) => b.grantRate - a.grantRate).slice(0, 10)
+  const bottomGranters = qualified.sort((a, b) => a.grantRate - b.grantRate).slice(0, 10)
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
@@ -80,101 +38,148 @@ export default function JudgeVariationPage() {
         { label: 'Judge Variation' },
       ]} />
 
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({
-          '@context': 'https://schema.org',
-          '@type': 'Article',
-          headline: 'Judge Variation in Immigration Courts: 0% to 44.9% Grant Rates',
-          description: metadata.description,
-          publisher: { '@type': 'Organization', name: 'Open Immigration' },
-        })}}
-      />
-
-      <div className="text-xs font-medium text-primary bg-primary/5 px-2 py-1 rounded-full inline-block mb-3">System Analysis</div>
-      <h1 className="font-heading text-4xl font-bold mb-4">The Judge Lottery</h1>
+      <div className="text-xs font-medium text-primary bg-primary/5 px-2 py-1 rounded-full inline-block mb-3">Judges</div>
+      <h1 className="font-heading text-4xl font-bold mb-4">Judge Roulette</h1>
       <p className="text-lg text-gray-600 mb-8">
-        In immigration court, the judge assigned to your case may matter more than the facts of your case.
-        Grant rates among judges with 500+ decisions range from <strong>0% to 44.9%</strong> — a gap so wide
-        it resembles a lottery, not a legal system.
+        Among {stats.totalJudges.toLocaleString()} immigration judges in our data, grant rates range from
+        0% to 44.9%. Your assigned judge may be the single strongest predictor of whether you stay or get deported.
       </p>
 
       <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
-        <h2 className="font-heading text-2xl font-bold text-gray-900">The Extremes</h2>
+        <h2 className="font-heading text-2xl font-bold text-gray-900">The Gap Is Enormous</h2>
         <p>
-          Judge <Link href="/judges/morace-philip-l" className="text-primary hover:underline">Philip L. Morace</Link> has
-          the highest grant rate among judges with 500+ decisions: <strong>44.9%</strong> across 15,819 decisions.
-          At the other end, judges like <Link href="/judges/garten-danielle-h" className="text-primary hover:underline">Danielle H. Garten</Link> (4,024 decisions)
-          and <Link href="/judges/garcia-emmanuel" className="text-primary hover:underline">Emmanuel Garcia</Link> (3,780 decisions)
-          grant asylum at rates of <strong>0% and 0.1%</strong> respectively.
+          Immigration law doesn&apos;t change from one courtroom to the next. The legal standard for asylum is
+          the same whether you&apos;re in New York or Houston. Yet outcomes vary wildly by judge.
         </p>
         <p>
-          The same asylum claim — same country, same persecution, same evidence — can receive dramatically different
-          outcomes depending solely on which judge is assigned.
-        </p>
-
-        <JudgeTable judges={top5} label="Highest Grant Rate Judges (500+ decisions)" />
-        <JudgeTable judges={bottom5} label="Lowest Grant Rate Judges (500+ decisions)" />
-
-        <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">The Distribution Is Skewed</h2>
-        <p>
-          Of the {realJudges.length.toLocaleString()} judges with 500+ decisions in our dataset, only <strong>{highGrantCount} judges</strong> have
-          a grant rate above 30%. Meanwhile, <strong>{lowGrantCount} judges</strong> — nearly a third — grant asylum in fewer than 3% of their cases.
-        </p>
-        <p>
-          The average judge has rendered <strong>{avgDecisions.toLocaleString()} decisions</strong>. These aren&apos;t small sample sizes —
-          these are career-spanning patterns that reveal deep, systematic differences in how judges interpret the law,
-          assess credibility, and weigh evidence.
+          Among judges with at least 500 decisions: <strong>{highGrant.length} judges</strong> have grant rates
+          above 30%, while <strong>{lowGrant.length} judges</strong> have grant rates below 3%. The highest
+          grant rate belongs to <Link href={`/judges/${topGranters[0]?.slug}`} className="text-primary hover:underline">
+          Judge {titleCase(topGranters[0]?.name)}</Link> at {topGranters[0]?.grantRate}% across {topGranters[0]?.totalDecisions.toLocaleString()} decisions.
         </p>
 
-        <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">Why It Matters</h2>
-        <p>
-          Immigration judges are not Article III judges with lifetime appointments and Senate confirmation. They are
-          DOJ employees — attorneys hired by the Attorney General who can be reassigned, pressured, or removed.
-          The system offers no jury, no public defender, and — as our <Link href="/analysis/representation-gap" className="text-primary hover:underline">representation data shows</Link> —
-          73.3% of respondents appear without a lawyer.
-        </p>
-        <p>
-          In this context, judge assignment isn&apos;t just a procedural detail. It&apos;s the single most consequential
-          variable in many immigration cases, more predictive of outcome than the respondent&apos;s nationality,
-          the nature of their claim, or even whether they have legal representation.
-        </p>
-
-        <div className="bg-amber-50 border-l-4 border-amber-400 p-5 rounded-r-lg my-8">
-          <p className="font-semibold text-amber-800 mb-2">💡 Key Insight</p>
-          <p className="text-amber-900 text-sm">
-            With only <strong>17 out of {realJudges.length.toLocaleString()} judges</strong> granting asylum more than 30% of the time
-            and <strong>{lowGrantCount} judges</strong> granting it less than 3%, the immigration court system produces
-            wildly inconsistent outcomes for similarly situated respondents. This isn&apos;t judicial discretion —
-            it&apos;s structural inconsistency at scale.
-          </p>
+        <h3 className="font-heading text-xl font-bold text-gray-900 mt-6">Highest Grant Rate Judges (500+ decisions)</h3>
+        <div className="not-prose overflow-x-auto my-4">
+          <table className="w-full text-sm border border-gray-200 rounded-xl overflow-hidden">
+            <thead className="bg-gray-50">
+              <tr>
+                <th className="px-3 py-2 text-left font-semibold">Judge</th>
+                <th className="px-3 py-2 text-right font-semibold">Decisions</th>
+                <th className="px-3 py-2 text-right font-semibold">Grant Rate</th>
+                <th className="px-3 py-2 text-right font-semibold">Grants</th>
+              </tr>
+            </thead>
+            <tbody>
+              {topGranters.map(j => (
+                <tr key={j.code} className="border-t border-gray-100">
+                  <td className="px-3 py-2">
+                    <Link href={`/judges/${j.slug}`} className="text-primary hover:underline font-medium">{titleCase(j.name)}</Link>
+                  </td>
+                  <td className="px-3 py-2 text-right">{j.totalDecisions.toLocaleString()}</td>
+                  <td className="px-3 py-2 text-right text-green-600 font-bold">{j.grantRate}%</td>
+                  <td className="px-3 py-2 text-right">{j.grants.toLocaleString()}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
         </div>
 
-        <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">Key Findings</h2>
+        <h3 className="font-heading text-xl font-bold text-gray-900 mt-6">Lowest Grant Rate Judges (500+ decisions)</h3>
+        <div className="not-prose overflow-x-auto my-4">
+          <table className="w-full text-sm border border-gray-200 rounded-xl overflow-hidden">
+            <thead className="bg-gray-50">
+              <tr>
+                <th className="px-3 py-2 text-left font-semibold">Judge</th>
+                <th className="px-3 py-2 text-right font-semibold">Decisions</th>
+                <th className="px-3 py-2 text-right font-semibold">Grant Rate</th>
+                <th className="px-3 py-2 text-right font-semibold">Removals</th>
+              </tr>
+            </thead>
+            <tbody>
+              {bottomGranters.map(j => (
+                <tr key={j.code} className="border-t border-gray-100">
+                  <td className="px-3 py-2">
+                    <Link href={`/judges/${j.slug}`} className="text-primary hover:underline font-medium">{titleCase(j.name)}</Link>
+                  </td>
+                  <td className="px-3 py-2 text-right">{j.totalDecisions.toLocaleString()}</td>
+                  <td className="px-3 py-2 text-right text-red-600 font-bold">{j.grantRate}%</td>
+                  <td className="px-3 py-2 text-right">{j.removals.toLocaleString()}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+
+        <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">Why It Happens</h2>
+        <p>Several structural factors drive this variation:</p>
         <ul className="list-disc pl-6 space-y-2">
-          <li>Grant rates span <strong>0% to 44.9%</strong> among experienced judges</li>
-          <li>Only <strong>17 judges</strong> grant asylum more than 30% of the time</li>
-          <li><strong>{lowGrantCount} judges</strong> (33% of all judges) have grant rates below 3%</li>
-          <li>The average judge has decided <strong>{avgDecisions.toLocaleString()} cases</strong> — these patterns are statistically robust</li>
-          <li>Judge variation exists even within the same court, handling the same docket of cases</li>
+          <li>
+            <strong>No jury, no panel:</strong> Unlike federal courts, immigration courts use a single judge with
+            broad discretion. There&apos;s no jury to moderate individual tendencies and no panel of judges to provide
+            checks on outlier decisions.
+          </li>
+          <li>
+            <strong>Subjective credibility determinations:</strong> Asylum cases hinge on whether the judge believes
+            the applicant. This is inherently subjective — one judge may find testimony credible while another
+            would not, given identical facts.
+          </li>
+          <li>
+            <strong>Political appointment cycles:</strong> Immigration judges are DOJ employees hired by the Attorney
+            General. Different administrations prioritize different judicial philosophies, creating cohorts of judges
+            with systematically different approaches.
+          </li>
+          <li>
+            <strong>Caseload pressure:</strong> With an average of {Math.round(stats.completedProceedings / stats.totalJudges).toLocaleString()} proceedings
+            per judge in our dataset, the pressure to move cases quickly can affect how thoroughly each case is reviewed.
+          </li>
         </ul>
 
+        <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">What This Means in Practice</h2>
         <p>
-          Explore individual judge records, grant rates, and decision histories on our{' '}
-          <Link href="/judges" className="text-primary hover:underline">judges directory</Link>.
+          An asylum seeker assigned to a judge with a 44.9% grant rate has a fundamentally different future than
+          one assigned to a judge with a 0% grant rate. Same law. Same evidence standard. Dramatically different
+          odds of survival.
         </p>
+        <p>
+          This &quot;refugee roulette&quot; — as legal scholars call it — raises serious due process concerns. In what
+          other area of law does a random judicial assignment produce a 40+ percentage point swing in outcomes?
+        </p>
+
+        <div className="bg-amber-50 border border-amber-200 rounded-xl p-6 not-prose">
+          <div className="flex gap-3">
+            <span className="text-2xl">💡</span>
+            <div>
+              <h3 className="font-bold text-amber-900 mb-2">The Distribution</h3>
+              <ul className="text-sm text-amber-800 space-y-1">
+                <li>→ <strong>{highGrant.length} judges</strong> grant relief in 30%+ of cases</li>
+                <li>→ <strong>{lowGrant.length} judges</strong> grant relief in fewer than 3% of cases</li>
+                <li>→ The average judge has made {Math.round(stats.completedProceedings / stats.totalJudges).toLocaleString()} decisions</li>
+                <li>→ Grant rate variation persists even within the same courthouse</li>
+              </ul>
+            </div>
+          </div>
+        </div>
       </div>
 
       <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-4">
-        <Link href="/analysis/geographic-lottery" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
-          <h3 className="font-bold">🗺️ The Geographic Lottery</h3>
-          <p className="text-sm text-gray-600 mt-1">New York grants asylum at 21%. Houston at 0.8%. Same law, different outcomes.</p>
+        <Link href="/judges" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">👨‍⚖️ All {stats.totalJudges.toLocaleString()} Judges</h3>
+          <p className="text-sm text-gray-600 mt-1">Explore grant rates and decision patterns for every judge.</p>
         </Link>
-        <Link href="/analysis/representation-gap" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
-          <h3 className="font-bold">👤 The Representation Gap</h3>
-          <p className="text-sm text-gray-600 mt-1">73.3% of respondents face immigration court without a lawyer.</p>
+        <Link href="/analysis/geographic-lottery" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">📍 Geographic Lottery</h3>
+          <p className="text-sm text-gray-600 mt-1">How court location compounds the judge variation problem.</p>
         </Link>
       </div>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{
+        __html: JSON.stringify({
+          '@context': 'https://schema.org', '@type': 'Article',
+          headline: 'Judge Roulette — Immigration Grant Rates Range from 0% to 44.9%',
+          url: 'https://www.openimmigration.us/analysis/judge-variation',
+          publisher: { '@type': 'Organization', name: 'OpenImmigration', url: 'https://www.openimmigration.us' },
+        })
+      }} />
     </div>
   )
 }
