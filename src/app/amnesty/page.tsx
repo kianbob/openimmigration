@@ -36,8 +36,8 @@ export default function AmnestyPage() {
           <div className="text-sm text-gray-600 mt-1">Active DACA Recipients</div>
         </div>
         <div className="bg-amber-50 border border-amber-200 rounded-xl p-5 text-center">
-          <div className="text-2xl font-bold text-amber-700">~320K</div>
-          <div className="text-sm text-gray-600 mt-1">TPS Holders</div>
+          <div className="text-2xl font-bold text-amber-700">~1M+</div>
+          <div className="text-sm text-gray-600 mt-1">TPS Pending</div>
         </div>
         <div className="bg-red-50 border border-red-200 rounded-xl p-5 text-center">
           <div className="text-2xl font-bold text-red-700">{(stats.pendingCases / 1e6).toFixed(1)}M</div>
@@ -102,7 +102,7 @@ export default function AmnestyPage() {
                   16 countries including Venezuela, Haiti, El Salvador, and Ukraine.
                 </p>
               </div>
-              <div className="text-2xl font-bold text-primary ml-4">~320K</div>
+              <div className="text-2xl font-bold text-primary ml-4">~1M+</div>
             </div>
           </div>
         </div>

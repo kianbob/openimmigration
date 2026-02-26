@@ -21,9 +21,11 @@ export default function EnforcementPage() {
   const stats = loadData('stats.json')
 
   const totalRemovals = enforcement.reduce((s: number, y: { removals: number }) => s + y.removals, 0)
-  const peakYear = enforcement.reduce((max: { fy: number; removals: number }, y: { fy: number; removals: number }) => y.removals > max.removals ? y : max, enforcement[0])
-  const lowYear = enforcement.reduce((min: { fy: number; removals: number }, y: { fy: number; removals: number }) => y.removals < min.removals ? y : min, enforcement[0])
-  const latest = enforcement[enforcement.length - 1]
+  const fullYears = enforcement.filter((y: { fy: number }) => y.fy < 2026) // exclude FYTD
+  const peakYear = fullYears.reduce((max: { fy: number; removals: number }, y: { fy: number; removals: number }) => y.removals > max.removals ? y : max, fullYears[0])
+  const lowYear = fullYears.reduce((min: { fy: number; removals: number }, y: { fy: number; removals: number }) => y.removals < min.removals ? y : min, fullYears[0])
+  const latest = enforcement[enforcement.length - 2] // latest full year (FY2025)
+  const fytd = enforcement[enforcement.length - 1] // FY2026 FYTD
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-10">
@@ -46,13 +48,13 @@ export default function EnforcementPage() {
           <div className="text-2xl font-bold text-primary">{peakYear.removals.toLocaleString()}</div>
           <div className="text-sm text-gray-600 mt-1">Peak (FY{peakYear.fy})</div>
         </div>
-        <div className="bg-green-50 border border-green-200 rounded-xl p-5 text-center">
-          <div className="text-2xl font-bold text-green-700">{lowYear.removals.toLocaleString()}</div>
-          <div className="text-sm text-gray-600 mt-1">Low (FY{lowYear.fy})</div>
-        </div>
         <div className="bg-amber-50 border border-amber-200 rounded-xl p-5 text-center">
           <div className="text-2xl font-bold text-amber-700">{latest.removals.toLocaleString()}</div>
-          <div className="text-sm text-gray-600 mt-1">FY{latest.fy}</div>
+          <div className="text-sm text-gray-600 mt-1">FY{latest.fy} Removals</div>
+        </div>
+        <div className="bg-gray-50 border border-gray-200 rounded-xl p-5 text-center">
+          <div className="text-2xl font-bold text-gray-700">{fytd.removals.toLocaleString()}</div>
+          <div className="text-sm text-gray-600 mt-1">FY{fytd.fy} FYTD</div>
         </div>
       </div>
 
@@ -64,7 +66,7 @@ export default function EnforcementPage() {
             <h3 className="font-bold text-amber-900 mb-2">Key Insights</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-amber-800">
               <div>• <strong>Removals collapsed to {lowYear.removals.toLocaleString()} in FY{lowYear.fy}</strong> — COVID plus policy changes slashed enforcement by 80%</div>
-              <div>• <strong>FY{latest.fy} removals surged to {latest.removals.toLocaleString()}</strong> — the highest level since FY2014</div>
+              <div>• <strong>FY{latest.fy} removals surged to {latest.removals.toLocaleString()}</strong> — a {((latest.removals / lowYear.removals - 1) * 100).toFixed(0)}% increase from the FY{lowYear.fy} low</div>
               <div>• <strong>Court orders ≠ actual deportations</strong> — {stats.removalOrders.toLocaleString()} removal orders issued, but ICE must locate and physically remove each person</div>
               <div>• <strong>&quot;Returns&quot; differ from &quot;removals&quot;</strong> — returns are voluntary departures; removals carry a formal bar on reentry</div>
             </div>

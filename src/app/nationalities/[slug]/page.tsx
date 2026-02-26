@@ -17,12 +17,12 @@ function loadIndex() {
   return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'nationality-index.json'), 'utf8'))
 }
 
-function loadCourtSlugMap(): Record<string, string> {
+function loadCourtMap(): Record<string, { slug: string; name: string }> {
   const index = JSON.parse(
     fs.readFileSync(path.join(process.cwd(), 'public', 'data', 'court-index.json'), 'utf8')
-  ) as { code: string; slug: string }[]
-  const map: Record<string, string> = {}
-  index.forEach(c => { map[c.code] = c.slug })
+  ) as { code: string; slug: string; city: string; state: string }[]
+  const map: Record<string, { slug: string; name: string }> = {}
+  index.forEach(c => { map[c.code] = { slug: c.slug, name: c.city + ', ' + c.state } })
   return map
 }
 
@@ -48,7 +48,7 @@ export default async function NationalityDetailPage({ params }: { params: Promis
   const nat = loadDetail(slug)
   if (!nat) notFound()
 
-  const courtSlugs = loadCourtSlugMap()
+  const courtMap = loadCourtMap()
   const grColor = nat.grantRate != null ? (nat.grantRate >= 15 ? 'text-green-600' : nat.grantRate >= 8 ? 'text-yellow-600' : 'text-red-600') : 'text-gray-500'
   const otherOutcomes = Math.max(0, (nat.completed || 0) - (nat.grants || 0) - (nat.denials || 0) - (nat.removals || 0))
 
@@ -110,18 +110,22 @@ export default async function NationalityDetailPage({ params }: { params: Promis
               </tr>
             </thead>
             <tbody>
-              {nat.topCourts.slice(0, 15).map((c: { code: string; name: string; count: number }, i: number) => (
+              {nat.topCourts.slice(0, 15).map((c: { code: string; name: string; count: number }, i: number) => {
+                const court = courtMap[c.code]
+                const displayName = court ? titleCase(court.name) : titleCase(c.name)
+                return (
                 <tr key={c.code} className="border-t border-gray-100">
                   <td className="px-3 py-1.5 text-gray-400">{i + 1}</td>
                   <td className="px-3 py-1.5 font-medium">
-                    {courtSlugs[c.code] ? (
-                      <Link href={`/courts/${courtSlugs[c.code]}`} className="text-primary hover:underline">{titleCase(c.name)}</Link>
-                    ) : titleCase(c.name)}
+                    {court ? (
+                      <Link href={`/courts/${court.slug}`} className="text-primary hover:underline">{displayName}</Link>
+                    ) : displayName}
                   </td>
                   <td className="px-3 py-1.5 text-right">{c.count.toLocaleString()}</td>
                   <td className="px-3 py-1.5 text-right text-gray-500">{((c.count / nat.cases) * 100).toFixed(1)}%</td>
                 </tr>
-              ))}
+              )}
+              )}
             </tbody>
           </table>
         </div>
