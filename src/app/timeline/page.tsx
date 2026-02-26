@@ -39,7 +39,7 @@ const events = [
 ]
 
 export const metadata: Metadata = {
-  title: 'U.S. Immigration Timeline — 1790 to 2025, Key Laws & Events | OpenImmigration',
+  title: 'U.S. Immigration Timeline — 1790 to 2025, Key Laws & Events',
   description: 'Complete timeline of U.S. immigration history from the Naturalization Act of 1790 to the 2025 enforcement surge. Key laws, policy changes, and turning points.',
   alternates: { canonical: 'https://www.openimmigration.us/timeline' },
 }

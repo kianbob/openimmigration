@@ -197,6 +197,10 @@ export default function HomePage() {
             { title: 'Asylum by Nationality', desc: 'From Mexico to Venezuela to Eritrea — how country of origin shapes outcomes in immigration court.', href: '/analysis/asylum-by-nationality' },
             { title: 'In Absentia Orders', desc: `${stats.inAbsentia.toLocaleString()} people ordered deported without being present. 1 in 8 cases ends this way.`, href: '/analysis/in-absentia' },
             { title: 'Detained vs. Released', desc: 'How custody status determines outcomes — detained immigrants face longer odds and fewer options.', href: '/analysis/detained-vs-released' },
+            { title: 'The Fentanyl Pipeline', desc: '65,000 lbs of fentanyl seized — but most comes through legal ports of entry, not between them.', href: '/analysis/fentanyl-pipeline' },
+            { title: 'The Speed of Justice', desc: 'We analyzed 12.4 million proceedings. Average case takes 397 days. Some courts average 2.7 years.', href: '/analysis/speed-of-justice' },
+            { title: 'From Border to Courtroom', desc: `12M encounters → ${(stats.pendingCases / 1e6).toFixed(1)}M pending cases → outcomes. The full immigration pipeline.`, href: '/analysis/border-to-courtroom' },
+            { title: 'Children Facing Judges Alone', desc: 'Tens of thousands of unaccompanied minors in immigration court — most without lawyers.', href: '/analysis/children-in-court' },
           ].map(article => (
             <Link key={article.href} href={article.href}
               className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-lg hover:border-primary/30 transition-all">
@@ -206,6 +210,9 @@ export default function HomePage() {
             </Link>
           ))}
         </div>
+        <p className="text-center mt-6">
+          <Link href="/analysis" className="text-primary font-medium hover:underline">View all 14 analyses →</Link>
+        </p>
       </section>
 
       {/* Organization JSON-LD */}

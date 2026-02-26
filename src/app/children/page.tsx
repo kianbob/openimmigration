@@ -137,9 +137,9 @@ export default function ChildrenPage() {
           <h3 className="font-bold">🚪 In Absentia Orders</h3>
           <p className="text-sm text-gray-600 mt-1">{stats.inAbsentia.toLocaleString()} people deported without showing up.</p>
         </Link>
-        <Link href="/demographics" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
-          <h3 className="font-bold">📊 Demographics</h3>
-          <p className="text-sm text-gray-600 mt-1">Gender, language, and custody data for all cases.</p>
+        <Link href="/analysis/children-in-court" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">👶 Children Facing Judges</h3>
+          <p className="text-sm text-gray-600 mt-1">In-depth analysis of minors in immigration court.</p>
         </Link>
       </div>
     </div>

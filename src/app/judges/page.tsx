@@ -16,7 +16,9 @@ export const metadata: Metadata = {
 }
 
 export default function JudgesPage() {
-  const judges = loadData('judge-index.json')
+  const allJudges = loadData('judge-index.json')
+  // Filter out administrative codes that aren't actual judges
+  const judges = allJudges.filter((j: { name: string }) => !j.name.toLowerCase().includes('clerical') && !j.name.toLowerCase().includes('transfer code'))
   const stats = loadData('stats.json')
 
   const avgGrant = (judges.reduce((s: number, j: { grantRate: number }) => s + j.grantRate, 0) / judges.length).toFixed(1)

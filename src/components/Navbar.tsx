@@ -23,6 +23,12 @@ const analysisArticles = [
   { label: 'Deportation Machine', href: '/analysis/deportation-machine' },
   { label: 'Asylum by Nationality', href: '/analysis/asylum-by-nationality' },
   { label: 'In Absentia Orders', href: '/analysis/in-absentia' },
+  { label: 'Fentanyl Pipeline', href: '/analysis/fentanyl-pipeline' },
+  { label: 'Speed of Justice', href: '/analysis/speed-of-justice' },
+  { label: 'The Bond System', href: '/analysis/bond-system' },
+  { label: 'The TPS Trap', href: '/analysis/tps-trap' },
+  { label: 'Children in Court', href: '/analysis/children-in-court' },
+  { label: 'Border to Courtroom', href: '/analysis/border-to-courtroom' },
   { label: 'Detained vs. Released', href: '/analysis/detained-vs-released' },
 ]
 

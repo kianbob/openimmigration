@@ -112,7 +112,7 @@ export default function DashboardPage() {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/analysis" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">📝 Analysis & Reports</h3>
-          <p className="text-sm text-gray-600 mt-1">8 in-depth articles on backlogs, judges, asylum, and more.</p>
+          <p className="text-sm text-gray-600 mt-1">14 in-depth articles on backlogs, judges, asylum, and more.</p>
         </Link>
         <Link href="/demographics" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">📊 Demographics</h3>

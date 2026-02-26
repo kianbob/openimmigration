@@ -30,7 +30,7 @@ const totalDenied = 21058
 const totalPending = 1014324
 
 export const metadata: Metadata = {
-  title: 'Temporary Protected Status (TPS) — 1 Million+ Pending Applications | OpenImmigration',
+  title: 'Temporary Protected Status (TPS) — 1 Million+ Pending Applications',
   description: 'TPS data: 1,014,324 pending applications from 17 countries. Venezuela (403K), Haiti (331K), Ukraine (143K). Application trends, approval rates, and policy context.',
   alternates: { canonical: 'https://www.openimmigration.us/tps' },
 }

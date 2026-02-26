@@ -14,7 +14,7 @@ function titleCase(s: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'Legal Representation in Immigration Court — 18.7M Attorney Records | OpenImmigration',
+  title: 'Legal Representation in Immigration Court — 18.7M Attorney Records',
   description: '18.7 million attorney representation records across 5.09 million immigration cases. How legal representation impacts outcomes, who gets lawyers, and the court-level breakdown.',
   alternates: { canonical: 'https://www.openimmigration.us/representation' },
 }

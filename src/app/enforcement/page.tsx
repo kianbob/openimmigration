@@ -10,7 +10,7 @@ function loadData(filename: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'ICE Deportation & Enforcement Statistics FY2014-2026 — Removals, Arrests, Detention | OpenImmigration',
+  title: 'ICE Deportation & Enforcement Statistics FY2014-2026 — Removals, Arrests, Detention',
   description: 'ICE Enforcement and Removal Operations data FY2014-2026. 319K removals in FY2025, 56K FYTD in FY2026. Deportation trends, arrest statistics, and the enforcement gap.',
   alternates: { canonical: 'https://www.openimmigration.us/enforcement' },
 }

@@ -14,7 +14,7 @@ function titleCase(s: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'Immigration Court Wait Times — Average 1.1 Years, Up to 2.7 Years | OpenImmigration',
+  title: 'Immigration Court Wait Times — Average 1.1 Years, Up to 2.7 Years',
   description: 'How long does immigration court take? Average case duration is 397 days. Cases completed in 2022 averaged 816 days (2.2 years). Wait times by court, year, and duration distribution.',
   alternates: { canonical: 'https://www.openimmigration.us/wait-times' },
 }

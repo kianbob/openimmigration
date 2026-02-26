@@ -10,7 +10,7 @@ function loadData(filename: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'Visa Overstays — 478K+ Per Year, The Other Side of Illegal Immigration | OpenImmigration',
+  title: 'Visa Overstays — 478K+ Per Year, The Other Side of Illegal Immigration',
   description: 'DHS visa overstay data: 478K-850K visitors per year remain beyond their authorized stay. FY2024 overstay rate 0.92%. Top countries, trends, and how overstays compare to border crossings.',
   alternates: { canonical: 'https://www.openimmigration.us/overstays' },
 }

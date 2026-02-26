@@ -6,7 +6,7 @@ const datasets = [
   { name: 'Yearly Trends', file: 'yearly-trends.json', desc: 'Cases filed, completed, grants, denials, removals by year (1990-2026).', size: '5 KB' },
   { name: 'Courts Index', file: 'court-index.json', desc: 'All 88 immigration courts with caseloads, grant rates, addresses, and slugs.', size: '15 KB' },
   { name: 'Nationalities Index', file: 'nationality-index.json', desc: 'All 260 nationalities with case counts and slugs.', size: '12 KB' },
-  { name: 'Judges Index', file: 'judge-index.json', desc: 'All 1,409 judges with case counts, grant rates, and court assignments.', size: '80 KB' },
+  { name: 'Judges Index', file: 'judge-index.json', desc: 'All 1,269 judges with case counts, grant rates, and court assignments.', size: '80 KB' },
   { name: 'Outcomes', file: 'outcomes.json', desc: 'All decision types and their counts across all proceedings.', size: '3 KB' },
   { name: 'Case Types', file: 'case-types.json', desc: 'Immigration case types (removal, deportation, asylum only, etc.) with counts.', size: '1 KB' },
   { name: 'Gender', file: 'gender.json', desc: 'Gender breakdown of immigration court cases.', size: '1 KB' },
@@ -23,7 +23,7 @@ const datasets = [
 ]
 
 export const metadata: Metadata = {
-  title: 'Download Immigration Data — Free JSON Datasets | OpenImmigration',
+  title: 'Download Immigration Data — Free JSON Datasets',
   description: 'Download free immigration data in JSON format. Court statistics, border encounters, drug seizures, asylum outcomes, judge data, and more. No registration required.',
   alternates: { canonical: 'https://www.openimmigration.us/downloads' },
 }

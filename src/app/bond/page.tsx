@@ -10,7 +10,7 @@ function loadData(filename: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'Immigration Bond Hearings — 1.59M Hearings, Average Bond $11,412 | OpenImmigration',
+  title: 'Immigration Bond Hearings — 1.59M Hearings, Average Bond $11,412',
   description: 'Explore 1.59 million immigration bond hearings. Average bond $11,412, median $7,500. Only 4.3% of bond requests granted. Bond amounts, trends, and outcomes.',
   alternates: { canonical: 'https://www.openimmigration.us/bond' },
 }
@@ -171,9 +171,9 @@ export default function BondPage() {
           <h3 className="font-bold">👔 Representation</h3>
           <p className="text-sm text-gray-600 mt-1">Detained immigrants have the lowest attorney access.</p>
         </Link>
-        <Link href="/appeals" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
-          <h3 className="font-bold">📋 Appeals</h3>
-          <p className="text-sm text-gray-600 mt-1">Bond denials can be appealed to the BIA.</p>
+        <Link href="/analysis/bond-system" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">💰 The Price of Freedom</h3>
+          <p className="text-sm text-gray-600 mt-1">In-depth analysis of the immigration bond system.</p>
         </Link>
       </div>
     </div>

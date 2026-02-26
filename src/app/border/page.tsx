@@ -10,7 +10,7 @@ function loadData(filename: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'U.S. Border Encounters — 12 Million Since 2020 | OpenImmigration',
+  title: 'U.S. Border Encounters — 12 Million Since 2020',
   description: 'CBP border encounter data FY2020-2026. 12 million encounters, peak 3.1M in FY2023. Monthly trends, top nationalities, southwest border stats, demographics.',
   alternates: { canonical: 'https://www.openimmigration.us/border' },
 }

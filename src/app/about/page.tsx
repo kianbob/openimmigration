@@ -72,7 +72,7 @@ export default function AboutPage() {
           <li><a href="/wait-times" className="text-primary hover:underline"><strong>Wait Times</strong></a> — Case duration analysis across all courts</li>
           <li><a href="/appeals" className="text-primary hover:underline"><strong>Appeals</strong></a> — 1.46M Board of Immigration Appeals cases</li>
           <li><a href="/timeline" className="text-primary hover:underline"><strong>Immigration Timeline</strong></a> — 235 years of U.S. immigration history</li>
-          <li><a href="/analysis" className="text-primary hover:underline"><strong>8 In-Depth Analyses</strong></a> — Backlog crisis, judge variation, representation gap, and more</li>
+          <li><a href="/analysis" className="text-primary hover:underline"><strong>14 In-Depth Analyses</strong></a> — Backlog crisis, judge variation, fentanyl pipeline, bond system, and more</li>
         </ul>
 
         <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">Why This Matters</h2>

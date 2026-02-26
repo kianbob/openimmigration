@@ -14,7 +14,7 @@ function titleCase(s: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'Immigration Appeals — 1.46 Million Cases Before the BIA | OpenImmigration',
+  title: 'Immigration Appeals — 1.46 Million Cases Before the BIA',
   description: '1.46 million immigration appeals to the Board of Immigration Appeals (BIA). 31% dismissed, 14% remanded, 9.4% denied. Explore appeal outcomes, trends, and who files.',
   alternates: { canonical: 'https://www.openimmigration.us/appeals' },
 }
