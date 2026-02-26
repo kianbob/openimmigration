@@ -1,0 +1,584 @@
+{
+  "Backlog_FY25Q3": [
+    {
+      "Net Backlog": "By Form Type",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "As of June  30, 2025",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "Category and Form Number",
+      "__EMPTY": "Description",
+      "__EMPTY_1": "Net Backlog1"
+    },
+    {
+      "Net Backlog": "TOTAL",
+      "__EMPTY": "Total Net backlog",
+      "__EMPTY_1": 5408000
+    },
+    {
+      "Net Backlog": "Family-Based",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "I-129F",
+      "__EMPTY": "Petition for Alien Fiancé(e)",
+      "__EMPTY_1": 14700
+    },
+    {
+      "Net Backlog": "I-130",
+      "__EMPTY": "Petition for Alien Relative (Immediate Relative)",
+      "__EMPTY_1": 524900
+    },
+    {
+      "Net Backlog": "I-130",
+      "__EMPTY": "Petition for Alien Relative (Preference Relative)",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "I-6002",
+      "__EMPTY": "Petition to Classify Orphan as an Immediate Relative",
+      "__EMPTY_1": 400
+    },
+    {
+      "Net Backlog": "I-601A",
+      "__EMPTY": "Application for Provisional Unlawful Presence Waiver",
+      "__EMPTY_1": 67500
+    },
+    {
+      "Net Backlog": "I-751",
+      "__EMPTY": "Petition to Remove Conditions on Residence ",
+      "__EMPTY_1": 168500
+    },
+    {
+      "Net Backlog": "I-8003",
+      "__EMPTY": "Petition to Classify Convention Adoptee as an Immediate Relative",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "Employment-Based",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "I-129",
+      "__EMPTY": "Petition for a Nonimmigrant Worker",
+      "__EMPTY_1": 19400
+    },
+    {
+      "Net Backlog": "I-140",
+      "__EMPTY": "Immigrant Petition for Alien Workers",
+      "__EMPTY_1": 103500
+    },
+    {
+      "Net Backlog": "I-526",
+      "__EMPTY": "Immigrant Petition by Alien Investor (Legacy)",
+      "__EMPTY_1": 100
+    },
+    {
+      "Net Backlog": "I-526",
+      "__EMPTY": "Immigrant Petition by Standalone Investor",
+      "__EMPTY_1": 400
+    },
+    {
+      "Net Backlog": "I-526E",
+      "__EMPTY": "Immigrant Petition by Regional Center Investor",
+      "__EMPTY_1": 5700
+    },
+    {
+      "Net Backlog": "I-765",
+      "__EMPTY": "Application for Employment Authorization (Asylum)",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "I-765",
+      "__EMPTY": "Application for Employment Authorization (Adjustment Of Status)",
+      "__EMPTY_1": 27100
+    },
+    {
+      "Net Backlog": "I-765",
+      "__EMPTY": "Application for Employment Authorization (DACA)",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "I-7654",
+      "__EMPTY": "Application for Employment Authorization (All Other)",
+      "__EMPTY_1": 625500
+    },
+    {
+      "Net Backlog": "I-829",
+      "__EMPTY": "Petition by Investor to Remove Conditions on Permanent Resident Status ",
+      "__EMPTY_1": 4800
+    },
+    {
+      "Net Backlog": "I-9245",
+      "__EMPTY": "Application For Regional Center Designation Under the Immigrant Investor Program ",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "I-956",
+      "__EMPTY": "Application for Regional Center Designation",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "I-956F",
+      "__EMPTY": "Application for Approval of Investment in a Commercial Enterprise",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "I-956G",
+      "__EMPTY": "Regional Center Annual Statement",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "I-956H",
+      "__EMPTY": "Bona Fides of Person Involved in Regional Center Program",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "I-956K",
+      "__EMPTY": "Registration for Direct and Third-Party Promoters",
+      "__EMPTY_1": 500
+    },
+    {
+      "Net Backlog": "Humanitarian",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "I-5896",
+      "__EMPTY": "Application for Asylum and for Withholding of Removal ",
+      "__EMPTY_1": 1264400
+    },
+    {
+      "Net Backlog": "Legalization7",
+      "__EMPTY": "Legalization/ SAW",
+      "__EMPTY_1": 100
+    },
+    {
+      "Net Backlog": "I-730",
+      "__EMPTY": "Refugee/Asylee Relative Petition",
+      "__EMPTY_1": 4600
+    },
+    {
+      "Net Backlog": "I-817",
+      "__EMPTY": "Application for Family Unity Benefits",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "I-821",
+      "__EMPTY": "Application for Temporary Protected Status",
+      "__EMPTY_1": 750200
+    },
+    {
+      "Net Backlog": "I-821D",
+      "__EMPTY": "Consideration of Deferred Action for Childhood Arrivals ",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "I-870",
+      "__EMPTY": "Record of Determination/Credible Fear Worksheet ",
+      "__EMPTY_1": 5500
+    },
+    {
+      "Net Backlog": "I-881 ",
+      "__EMPTY": "App. for Susp. of Deport. or Spec. Rule Cancel. of Removal (Sect. 203 of Public Law 105-100 (NACARA))",
+      "__EMPTY_1": 700
+    },
+    {
+      "Net Backlog": "I-899 ",
+      "__EMPTY": "Record of Determination/Reasonable Fear Worksheet ",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "I-9148",
+      "__EMPTY": "Application for T Nonimmigrant Status",
+      "__EMPTY_1": 35700
+    },
+    {
+      "Net Backlog": "I-9189",
+      "__EMPTY": "Petition for U Nonimmigrant Status",
+      "__EMPTY_1": 121500
+    },
+    {
+      "Net Backlog": "I-929",
+      "__EMPTY": "Petition for Qualifying Family Member of a U-1 Nonimmigrant",
+      "__EMPTY_1": 1800
+    },
+    {
+      "Net Backlog": "G-325A",
+      "__EMPTY": "Biographic Information (for Deferred Action)",
+      "__EMPTY_1": 3000
+    },
+    {
+      "Net Backlog": "Lawful Permanent Residence",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "I-485",
+      "__EMPTY": "Application to Register Permanent Residence or Adjust Status (Family)",
+      "__EMPTY_1": 354900
+    },
+    {
+      "Net Backlog": "I-485",
+      "__EMPTY": "Application to Register Permanent Residence or Adjust Status (Employment)",
+      "__EMPTY_1": 70200
+    },
+    {
+      "Net Backlog": "I-485",
+      "__EMPTY": "Application to Register Permanent Residence or Adjust Status (Asylum)",
+      "__EMPTY_1": 58900
+    },
+    {
+      "Net Backlog": "I-485",
+      "__EMPTY": "Application to Register Permanent Residence or Adjust Status (Refugee)",
+      "__EMPTY_1": 35000
+    },
+    {
+      "Net Backlog": "I-485",
+      "__EMPTY": "Application to Register Permanent Residence or Adjust Status (Cuban)",
+      "__EMPTY_1": 179600
+    },
+    {
+      "Net Backlog": "I-485",
+      "__EMPTY": "Application to Register Permanent Residence or Adjust Status (Other)",
+      "__EMPTY_1": 45400
+    },
+    {
+      "Net Backlog": "I-485",
+      "__EMPTY": "Application to Register Permanent Residence or Adjust Status (Indo-Chinese)",
+      "__EMPTY_1": 100
+    },
+    {
+      "Net Backlog": "Citizenship and Nationality",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "N-336",
+      "__EMPTY": "Req. for a Hearing on a Decision in Natz. Proceedings (Under Sect. 336 of the INA) ",
+      "__EMPTY_1": 700
+    },
+    {
+      "Net Backlog": "N-400 ",
+      "__EMPTY": "Application for Naturalization (Military)",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "N-400 ",
+      "__EMPTY": "Application for Naturalization",
+      "__EMPTY_1": 67400
+    },
+    {
+      "Net Backlog": "N-565",
+      "__EMPTY": "Application for Replacement Naturalization/Citizenship Document",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "N-60010",
+      "__EMPTY": "Application for Certificate of Citizenship",
+      "__EMPTY_1": 7100
+    },
+    {
+      "Net Backlog": "N-648",
+      "__EMPTY": "Medical Certification for Disability Exceptions",
+      "__EMPTY_1": "N/A"
+    },
+    {
+      "Net Backlog": "Other",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "I-90",
+      "__EMPTY": "Application to Replace Permanent Resident Card",
+      "__EMPTY_1": 166500
+    },
+    {
+      "Net Backlog": "I-102",
+      "__EMPTY": "Application for Replacement/Initial Nonimmigrant Arrival-Departure Document",
+      "__EMPTY_1": 1300
+    },
+    {
+      "Net Backlog": "I-131",
+      "__EMPTY": "Application for Travel Document",
+      "__EMPTY_1": 69100
+    },
+    {
+      "Net Backlog": "I-131",
+      "__EMPTY": "Application for Travel Document (Advance Parole)",
+      "__EMPTY_1": 191000
+    },
+    {
+      "Net Backlog": "I-131",
+      "__EMPTY": "Application for Travel Document (Parole-in-Place)",
+      "__EMPTY_1": 8300
+    },
+    {
+      "Net Backlog": "I-131",
+      "__EMPTY": "Application for Travel Document (DACA)",
+      "__EMPTY_1": 3000
+    },
+    {
+      "Net Backlog": "I-360",
+      "__EMPTY": "Petition for Amerasian, Widow(er), or Special Immigrant ",
+      "__EMPTY_1": 156100
+    },
+    {
+      "Net Backlog": "I-539",
+      "__EMPTY": "Application To Extend/Change Nonimmigrant Status",
+      "__EMPTY_1": 11300
+    },
+    {
+      "Net Backlog": "I-824",
+      "__EMPTY": "Application for Action on an Approved Application or Petition ",
+      "__EMPTY_1": 7200
+    },
+    {
+      "Net Backlog": "I-941",
+      "__EMPTY": "Application for Entrepreneur Parole",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "Waivers11",
+      "__EMPTY": "Waivers",
+      "__EMPTY_1": 178700
+    },
+    {
+      "Net Backlog": "Supplemental Processing",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "DS-230 (IV) ",
+      "__EMPTY": "Immigrant Visas",
+      "__EMPTY_1": 45300
+    },
+    {
+      "Net Backlog": "EOIR Adjustment ",
+      "__EMPTY": "EOIR Adjustment",
+      "__EMPTY_1": 0
+    },
+    {
+      "Net Backlog": "Table Key:",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "N/A  Not available or the backlog is not tracked.",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "- Represents zero or rounds to 0.0",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "References:",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "1 Net Backlog is Gross Backlog minus any customer induced delays (i.e. RFE, intent to deny, etc.) and visa unavailable cases. Gross Backlog is the number of cases pending within the government’s control that exceed acceptable pending. ",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "2 Includes I-600A, Application for Advance Processing of an Orphan Petition.",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "3 Includes I-800A, Application for Determination of Suitability to Adopt a Child from a Convention Country.",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "4 In March 2025, USCIS issued a Federal Register notice for termination of parole for Cubans, Haitians, Nicaragua, and Venezuelans. As part of this termination process, USCIS issued notices to aliens with an approved Employment Authorization Document (EAD) based on their parole (category (c)(11)). ",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "  This action reverted previously approved (c)(11) EADs to a pending status. In April 2025, a stay was issued (Svitlana Doe, et al., v. Noem, et. al., No. 25-cv-10495 (D. Mass. Apr. 14, 2025)), which temporarily halted the implementation of those actions. As a result, the pending (c)(11) EADs were reverted",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "  to an approved status. These actions resulted in significant changes in pending and completed (c)(11) EADs and therefore reported backlogs. This report reflects operational activity during a specific time period only.",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "5 Form I-924 has been decommissioned. Applicants now use Form I-956 to request or amend USCIS designation as a regional center and Form I-956F to request Approval of an Investment in a Commercial Enterprise. Applicants now use Form I-956G to submit the regional center’s",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "  annual statement. I-924 approvals may continue to include certain regional center reaffirmations and I-924 denials may continue to include certain regional center terminations. ",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "6 Data are for affirmatively filed I-589 asylum applications and do not include defensive asylum claims before a DOJ EOIR immigration court. ",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "7 Includes the following applications for persons applying for benefits under the Immigration Reform and Control Act of 1986:  Forms I-687, I-700, I-698, I-690, I-694, and I-695.",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "8 Includes I-914A, Application for Derivative T Nonimmigrant Status.",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "9 Includes I-918A, Petition for Qualifying Family Member of U-1 Recipient. ",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "10 Includes N-600K, Application for Citizenship and Issuance of Certificate Under Section 322. ",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "11 Includes the following applications filed to waive exclusionary grounds:  Forms I-191, I-192, I-193, I-212, I-601, I-602, and I-612.",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "Notes:",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "1) The report reflects the most up-to-date estimate available at the time the database is queried.",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "2) Summing the seven I-485 types results in the overall total for the I-485 form for the reporting period. ",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "3) Credible Fear and Reasonable Fear screenings (and their respective forms I-870 and I-899) do not confer an immigration benefit, rather they are intended to identify individuals with viable protection claims, which are then referred to the Immigration Courts for adjudication. ",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "   Asylum Officers do not adjudicate the actual asylum applications during the screening process.",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "4) For a complete list of USCIS forms and descriptions, visit https://www.uscis.gov/forms",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "5) Data is rounded to the nearest hundred. Data may not sum exactly to the total due to rounding.",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "6) This report is produced in response to direction set forth in the Consolidated Appropriations Act, 2022, Joint Explanatory Statement (H. R. 2471 / P.L. 117-103).",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "Source:",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "Department of Homeland Security, U.S. Citizenship and Immigration Services, Office of Performance and Quality",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    },
+    {
+      "Net Backlog": "NPR (National Performance Report) queried 7/2025, PAER0018281",
+      "__EMPTY": "",
+      "__EMPTY_1": ""
+    }
+  ],
+  "Frontlog_FY25Q3": [
+    {
+      "Frontlog for All Forms as of June 30, 2025": "",
+      "__EMPTY": "Total"
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "All Forms Frontlog1",
+      "__EMPTY": 60171
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "Table Key:",
+      "__EMPTY": ""
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "N/A  Not available",
+      "__EMPTY": ""
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "- Represents zero or rounds to 0.0",
+      "__EMPTY": ""
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "References:",
+      "__EMPTY": ""
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "1 Frontlog are the applications that are unopened, and not yet data entered by the last day of the Fiscal Quarter. Form level data is not available.",
+      "__EMPTY": ""
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "Notes:",
+      "__EMPTY": ""
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "1) The report reflects the most up-to-date estimate available at the time the database is queried.",
+      "__EMPTY": ""
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "2) Summing the seven I-485 types results in the overall total for the I-485 form for the reporting period. ",
+      "__EMPTY": ""
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "3) Credible Fear and Reasonable Fear screenings (and their respective forms I-870 and I-899) do not confer an immigration benefit, rather they are intended to identify individuals with viable protection claims, which are then referred to the Immigration Courts for adjudication. ",
+      "__EMPTY": ""
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "   Asylum Officers do not adjudicate the actual asylum applications during the screening process.",
+      "__EMPTY": ""
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "4) For a complete list of USCIS forms and descriptions, visit https://www.uscis.gov/forms",
+      "__EMPTY": ""
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "5) Data is rounded to the nearest hundred. Data may not sum exactly to the total due to rounding.",
+      "__EMPTY": ""
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "Source:",
+      "__EMPTY": ""
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "Department of Homeland Security, U.S. Citizenship and Immigration Services, Office of Performance and Quality",
+      "__EMPTY": ""
+    },
+    {
+      "Frontlog for All Forms as of June 30, 2025": "OIDP, SCOPS queried 7/2025, PAER0018281",
+      "__EMPTY": ""
+    }
+  ]
+}

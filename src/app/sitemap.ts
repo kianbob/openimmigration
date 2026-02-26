@@ -12,6 +12,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/analysis/deportation-machine', '/analysis/asylum-by-nationality',
     '/analysis/in-absentia', '/analysis/detained-vs-released',
     '/amnesty', '/bond', '/children',
+    '/uscis', '/daca', '/green-card', '/naturalization',
   ]
 
   return staticPages.map(path => ({

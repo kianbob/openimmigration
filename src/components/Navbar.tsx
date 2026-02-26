@@ -6,7 +6,7 @@ const navItems = [
   { label: 'Courts', href: '/courts' },
   { label: 'Nationalities', href: '/nationalities' },
   { label: 'Judges', href: '/judges' },
-  { label: 'States', href: '/states' },
+  { label: 'USCIS', href: '/uscis' },
   { label: 'Analysis', href: '/analysis' },
   { label: 'Dashboard', href: '/dashboard' },
 ]
