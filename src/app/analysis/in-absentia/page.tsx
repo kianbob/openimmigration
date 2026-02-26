@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import ShareButtons from '@/components/ShareButtons'
 import Link from 'next/link'
 import fs from 'fs'
 import path from 'path'
@@ -214,6 +215,7 @@ export default function InAbsentiaPage() {
         </Link>
       </div>
 
+      <ShareButtons url="https://www.openimmigration.us/analysis/in-absentia" title={metadata.title as string} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         '@context': 'https://schema.org', '@type': 'Article',
         headline: 'In Absentia — 2.1 Million Deported Without Being Present',

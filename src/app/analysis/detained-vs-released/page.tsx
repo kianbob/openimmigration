@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import ShareButtons from '@/components/ShareButtons'
 import Link from 'next/link'
 import fs from 'fs'
 import path from 'path'
@@ -231,6 +232,7 @@ export default function DetainedVsReleasedPage() {
         </Link>
       </div>
 
+      <ShareButtons url="https://www.openimmigration.us/analysis/detained-vs-released" title={metadata.title as string} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         '@context': 'https://schema.org', '@type': 'Article',
         headline: 'Detained vs. Released — How Custody Status Shapes Immigration Outcomes',

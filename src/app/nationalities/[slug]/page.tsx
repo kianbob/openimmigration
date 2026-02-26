@@ -147,6 +147,21 @@ export default async function NationalityDetailPage({ params }: { params: Promis
         </div>
       )}
 
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+        <Link href="/analysis/asylum-by-nationality" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold text-sm">🌍 Asylum by Nationality</h3>
+          <p className="text-xs text-gray-600 mt-1">How country of origin shapes court outcomes.</p>
+        </Link>
+        <Link href="/analysis/geographic-lottery" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold text-sm">📍 Geographic Lottery</h3>
+          <p className="text-xs text-gray-600 mt-1">Court location matters as much as nationality.</p>
+        </Link>
+        <Link href="/analysis/representation-gap" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold text-sm">👔 Representation Gap</h3>
+          <p className="text-xs text-gray-600 mt-1">How legal representation changes outcomes.</p>
+        </Link>
+      </div>
+
       <div className="text-center">
         <Link href="/nationalities" className="text-primary font-medium hover:underline">← Back to all nationalities</Link>
       </div>

@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import ShareButtons from '@/components/ShareButtons'
 import Link from 'next/link'
 import { titleCase } from '@/lib/utils'
 import fs from 'fs'
@@ -172,6 +173,7 @@ export default function JudgeVariationPage() {
         </Link>
       </div>
 
+      <ShareButtons url="https://www.openimmigration.us/analysis/judge-variation" title={metadata.title as string} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{
         __html: JSON.stringify({
           '@context': 'https://schema.org', '@type': 'Article',

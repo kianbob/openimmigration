@@ -179,6 +179,21 @@ export default async function CourtDetailPage({ params }: { params: Promise<{ sl
         </div>
       )}
 
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+        <Link href="/analysis/geographic-lottery" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold text-sm">📍 Geographic Lottery</h3>
+          <p className="text-xs text-gray-600 mt-1">How court location determines outcomes.</p>
+        </Link>
+        <Link href="/analysis/judge-variation" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold text-sm">⚖️ Judge Roulette</h3>
+          <p className="text-xs text-gray-600 mt-1">Within each court, judges vary dramatically.</p>
+        </Link>
+        <Link href="/analysis/backlog-crisis" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold text-sm">📈 Backlog Crisis</h3>
+          <p className="text-xs text-gray-600 mt-1">How the 1.9M case backlog grew.</p>
+        </Link>
+      </div>
+
       <div className="text-center">
         <Link href="/courts" className="text-primary font-medium hover:underline">← Back to all courts</Link>
       </div>

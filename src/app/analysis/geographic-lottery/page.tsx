@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import ShareButtons from '@/components/ShareButtons'
 import Link from 'next/link'
 import { titleCase } from '@/lib/utils'
 import fs from 'fs'
@@ -258,6 +259,7 @@ export default function GeographicLotteryPage() {
         </Link>
       </div>
 
+      <ShareButtons url="https://www.openimmigration.us/analysis/geographic-lottery" title={metadata.title as string} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         '@context': 'https://schema.org', '@type': 'Article',
         headline: 'The Geographic Lottery — Immigration Court Grant Rates by Location',
