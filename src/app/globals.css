@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1e40af;
+  --color-primary-light: #3b82f6;
+  --color-primary-dark: #1e3a8a;
+  --color-accent: #0891b2;
+  --color-accent-light: #22d3ee;
+  --color-danger: #dc2626;
+  --color-warning: #d97706;
+  --color-success: #059669;
+  --font-heading: 'Playfair Display', Georgia, serif;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  color: #1a1a2e;
+  background: #fafbfc;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-heading);
+}
