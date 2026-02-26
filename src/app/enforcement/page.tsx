@@ -49,8 +49,8 @@ export default function EnforcementPage() {
           <div className="text-sm text-gray-600 mt-1">Peak (FY{peakYear.fy})</div>
         </div>
         <div className="bg-amber-50 border border-amber-200 rounded-xl p-5 text-center">
-          <div className="text-2xl font-bold text-amber-700">{latest.removals.toLocaleString()}</div>
-          <div className="text-sm text-gray-600 mt-1">FY{latest.fy} Removals</div>
+          <div className="text-2xl font-bold text-amber-700">{lowYear.removals.toLocaleString()}</div>
+          <div className="text-sm text-gray-600 mt-1">Low (FY{lowYear.fy})</div>
         </div>
         <div className="bg-gray-50 border border-gray-200 rounded-xl p-5 text-center">
           <div className="text-2xl font-bold text-gray-700">{fytd.removals.toLocaleString()}</div>

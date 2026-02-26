@@ -22,6 +22,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/amnesty', '/bond', '/children', '/demographics', '/appeals',
     '/border', '/enforcement', '/legal-immigration', '/overstays', '/drug-seizures',
     '/tps', '/wait-times', '/timeline', '/downloads',
+    '/analysis/fentanyl-pipeline', '/analysis/speed-of-justice', '/analysis/bond-system',
+    '/analysis/tps-trap', '/analysis/children-in-court', '/analysis/border-to-courtroom',
     '/uscis', '/daca', '/green-card', '/naturalization',
   ]
 

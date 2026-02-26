@@ -9,6 +9,12 @@ const ALL_ARTICLES = [
   { slug: 'asylum-by-nationality', title: 'Asylum by Nationality', desc: 'Country of origin shapes outcomes.' },
   { slug: 'in-absentia', title: 'In Absentia Orders', desc: '2.1M deported without showing up.' },
   { slug: 'detained-vs-released', title: 'Detained vs. Released', desc: 'Custody changes everything.' },
+  { slug: 'fentanyl-pipeline', title: 'The Fentanyl Pipeline', desc: 'Drugs come through ports of entry.' },
+  { slug: 'speed-of-justice', title: 'The Speed of Justice', desc: 'Why cases take years.' },
+  { slug: 'bond-system', title: 'The Price of Freedom', desc: '$11K bond, 4.3% grant rate.' },
+  { slug: 'tps-trap', title: 'Permanent Temporary', desc: '1M+ trapped in TPS limbo.' },
+  { slug: 'children-in-court', title: 'Children Facing Judges', desc: 'Kids in court without lawyers.' },
+  { slug: 'border-to-courtroom', title: 'Border to Courtroom', desc: '12M encounters → 1.9M cases.' },
 ]
 
 export default function RelatedAnalysis({ current, count = 3 }: { current: string; count?: number }) {

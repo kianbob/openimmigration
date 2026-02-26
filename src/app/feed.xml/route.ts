@@ -47,6 +47,42 @@ const articles = [
     desc: 'Immigration detention dramatically changes case outcomes and processing times.',
     date: '2026-02-01',
   },
+  {
+    slug: 'fentanyl-pipeline',
+    title: 'The Fentanyl Pipeline — Drugs, Borders, and Immigration Policy',
+    desc: '65,000 lbs of fentanyl seized. Most comes through legal ports of entry, not between them.',
+    date: '2026-02-26',
+  },
+  {
+    slug: 'speed-of-justice',
+    title: 'The Speed of Justice — Why Immigration Cases Take Years',
+    desc: '12.4M proceedings analyzed. Average wait: 397 days. Some courts average 2.7 years.',
+    date: '2026-02-26',
+  },
+  {
+    slug: 'bond-system',
+    title: 'The Price of Freedom — Immigration Bond and Detention',
+    desc: '$11,412 average bond. 4.3% grant rate. 1.59M bond hearings analyzed.',
+    date: '2026-02-26',
+  },
+  {
+    slug: 'tps-trap',
+    title: 'Permanent Temporary — 1 Million People Trapped in TPS Limbo',
+    desc: 'Over 1 million TPS holders in permanent temporary status. Some for 20+ years.',
+    date: '2026-02-26',
+  },
+  {
+    slug: 'children-in-court',
+    title: 'Children Facing Judges Alone — Minors in Immigration Court',
+    desc: 'Tens of thousands of unaccompanied children face immigration judges without lawyers.',
+    date: '2026-02-26',
+  },
+  {
+    slug: 'border-to-courtroom',
+    title: 'From Border to Courtroom — 12M Encounters to 1.9M Cases',
+    desc: 'The pipeline from border encounter to court to deportation.',
+    date: '2026-02-26',
+  },
 ]
 
 const pages = [
