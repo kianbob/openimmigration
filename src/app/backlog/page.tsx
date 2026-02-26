@@ -1,5 +1,7 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import Link from 'next/link'
+import { titleCase } from '@/lib/utils'
 import fs from 'fs'
 import path from 'path'
 import { BacklogGrowthChart } from './BacklogChart'
@@ -92,13 +94,13 @@ export default function BacklogPage() {
       {/* Top Courts */}
       <h2 className="font-heading text-2xl font-bold mb-4">Busiest Immigration Courts</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-12">
-        {topCourts.map((court: { code: string; city: string; state: string; cases: number; completed: number; grantRate: number }, i: number) => (
-          <div key={court.code} className="bg-white border border-gray-200 rounded-xl p-5">
+        {topCourts.map((court: { code: string; city: string; state: string; slug: string; cases: number; completed: number; grantRate: number }, i: number) => (
+          <Link key={court.code} href={`/courts/${court.slug}`} className="bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
             <div className="text-sm text-gray-500 mb-1">#{i + 1}</div>
-            <div className="font-bold text-lg">{court.city}, {court.state}</div>
+            <div className="font-bold text-lg">{titleCase(court.city)}, {court.state}</div>
             <div className="text-primary text-2xl font-bold mt-1">{court.cases.toLocaleString()}</div>
             <div className="text-xs text-gray-500">total cases · {court.grantRate}% grant rate</div>
-          </div>
+          </Link>
         ))}
       </div>
 
@@ -137,6 +139,21 @@ export default function BacklogPage() {
           ],
         })
       }} />
+
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-8">
+        <Link href="/analysis/backlog-crisis" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">📈 Full Backlog Analysis</h3>
+          <p className="text-sm text-gray-600 mt-1">Deep dive into how the backlog grew and what drives it.</p>
+        </Link>
+        <Link href="/analysis/in-absentia" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">🚪 In Absentia Orders</h3>
+          <p className="text-sm text-gray-600 mt-1">{stats.inAbsentia.toLocaleString()} cases decided without the immigrant present.</p>
+        </Link>
+        <Link href="/courts" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">🏛️ All Courts</h3>
+          <p className="text-sm text-gray-600 mt-1">Explore all {stats.totalCourts} courts with grant rates and case volumes.</p>
+        </Link>
+      </div>
     </div>
   )
 }

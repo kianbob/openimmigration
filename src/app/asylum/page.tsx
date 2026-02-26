@@ -9,6 +9,28 @@ function loadData(filename: string) {
   return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', filename), 'utf8'))
 }
 
+const OUTCOME_LABELS: Record<string, string> = {
+  'Relief Granted': 'Relief Granted (Asylum/Other)',
+  'Deport': 'Deportation Order',
+  'Voluntary Departure': 'Voluntary Departure',
+  'Dismissed by IJ': 'Dismissed by Judge',
+  'Administrative Closing - Other': 'Administrative Closure',
+  'Exclude': 'Exclusion Order',
+  'Transfer': 'Transfer to Another Court',
+  'Other Administrative Completion': 'Other Administrative Completion',
+  'Deny': 'Application Denied',
+  'Grant': 'Application Granted',
+  'Withdraw': 'Case Withdrawn',
+  'Remove-INA Withholding Granted': 'Withholding of Removal (INA)',
+  'Remove-CAT Withholding Granted': 'CAT Protection Granted',
+  'Remove-CAT Deferral Granted': 'CAT Deferral Granted',
+  'Rescind': 'Prior Order Rescinded',
+  'Jurisdiction Transferred to the BIA': 'Appealed to BIA',
+  'Vacate - DHS Decision and Credible Fear': 'Credible Fear Vacated',
+}
+
+const HIDE_OUTCOMES = ['ZERO BOND', '', 'Lifted Detained Status', 'Haitian', 'Withdrawn', 'Grant-CAT Withholding', 'Vacate - DHS Decision and Alien\'s Claimed Status Valid', 'DHS Decision and Reasonable Fear']
+
 export const metadata: Metadata = {
   title: 'Asylum Cases — Grant Rates, Denials & Trends',
   description: 'Explore U.S. asylum case data — grant rates, denial rates, and how outcomes vary by court, judge, and nationality.',
@@ -96,9 +118,11 @@ export default function AsylumPage() {
               </tr>
             </thead>
             <tbody>
-              {outcomes.filter((o: { name: string; count: number }) => o.name && o.count > 100).map((o: { name: string; count: number }) => (
+              {outcomes
+                .filter((o: { name: string; count: number }) => o.name && o.count > 500 && !HIDE_OUTCOMES.includes(o.name))
+                .map((o: { name: string; count: number }) => (
                 <tr key={o.name} className="border-t border-gray-100 hover:bg-gray-50">
-                  <td className="px-4 py-2 font-medium">{o.name}</td>
+                  <td className="px-4 py-2 font-medium">{OUTCOME_LABELS[o.name] || o.name}</td>
                   <td className="px-4 py-2 text-right">{o.count.toLocaleString()}</td>
                 </tr>
               ))}

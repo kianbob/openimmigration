@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
@@ -95,6 +96,21 @@ export default function DACAPage() {
           DACA&apos;s legal status has been challenged multiple times in court. As of 2025, existing recipients
           can renew but new applications are not being accepted due to ongoing litigation.
         </p>
+      </div>
+
+      <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
+        <Link href="/amnesty" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">📜 Amnesty & Legal Pathways</h3>
+          <p className="text-sm text-gray-600 mt-1">DACA, TPS, IRCA, and other protection programs.</p>
+        </Link>
+        <Link href="/uscis" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">📋 USCIS Overview</h3>
+          <p className="text-sm text-gray-600 mt-1">5.4 million total USCIS application backlog.</p>
+        </Link>
+        <Link href="/naturalization" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">🇺🇸 Naturalization</h3>
+          <p className="text-sm text-gray-600 mt-1">998,700 pending citizenship applications.</p>
+        </Link>
       </div>
 
       <script type="application/ld+json" dangerouslySetInnerHTML={{

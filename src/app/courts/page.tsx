@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import Link from 'next/link'
+import { titleCase } from '@/lib/utils'
 import fs from 'fs'
 import path from 'path'
 import CourtsTable from './CourtsTable'
@@ -30,8 +31,8 @@ export default function CourtsPage() {
       <h1 className="font-heading text-4xl font-bold mb-4">U.S. Immigration Courts</h1>
       <p className="text-lg text-gray-600 mb-8">
         The U.S. has {stats.totalCourts} immigration courts processing {(totalCases / 1e6).toFixed(1)} million cases.
-        Grant rates range from <strong>{lowest?.grantRate}%</strong> ({lowest?.city}, {lowest?.state}) to{' '}
-        <strong>{highest?.grantRate}%</strong> ({highest?.city}). Where your case is heard can determine your fate.
+        Grant rates range from <strong>{lowest?.grantRate}%</strong> ({titleCase(lowest?.city)}, {lowest?.state}) to{' '}
+        <strong>{highest?.grantRate}%</strong> ({titleCase(highest?.city)}). Where your case is heard can determine your fate.
         Click column headers to sort. Click any court for detailed data.
       </p>
 
