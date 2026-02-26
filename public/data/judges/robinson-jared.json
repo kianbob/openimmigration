@@ -1,0 +1,19 @@
+{
+  "code": "JAR",
+  "slug": "robinson-jared",
+  "name": "Robinson, Jared",
+  "totalDecisions": 142,
+  "grants": 1,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 0.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 190
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "GMP",
+  "slug": "picos-georgina-m",
+  "name": "Picos, Georgina M.",
+  "totalDecisions": 14224,
+  "grants": 372,
+  "denials": 80,
+  "removals": 72,
+  "absentia": 3933,
+  "grantRate": 2.6,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 14298
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 441
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 174
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 18
+    }
+  ]
+}

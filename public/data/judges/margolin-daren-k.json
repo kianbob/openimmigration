@@ -1,0 +1,64 @@
+{
+  "code": "DKM",
+  "slug": "margolin-daren-k",
+  "name": "Margolin, Daren K.",
+  "totalDecisions": 551,
+  "grants": 22,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 114,
+  "grantRate": 4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 441
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 71
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "code": "HR",
+  "slug": "rose-howard",
+  "name": "Rose, Howard",
+  "totalDecisions": 20749,
+  "grants": 284,
+  "denials": 29,
+  "removals": 16,
+  "absentia": 84,
+  "grantRate": 1.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 16650
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 3084
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 444
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 359
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 123
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 85
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

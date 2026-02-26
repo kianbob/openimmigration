@@ -1,0 +1,64 @@
+{
+  "code": "JCM",
+  "slug": "miller-jane-chace",
+  "name": "Miller, Jane Chace.",
+  "totalDecisions": 2097,
+  "grants": 3,
+  "denials": 32,
+  "removals": 0,
+  "absentia": 327,
+  "grantRate": 0.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "hearings": 9734
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 955
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 108
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

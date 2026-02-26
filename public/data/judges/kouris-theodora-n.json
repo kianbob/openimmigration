@@ -1,0 +1,64 @@
+{
+  "code": "TKS",
+  "slug": "kouris-theodora-n",
+  "name": "Kouris, Theodora N.",
+  "totalDecisions": 6151,
+  "grants": 929,
+  "denials": 15,
+  "removals": 11,
+  "absentia": 1257,
+  "grantRate": 15.1,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 11815
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

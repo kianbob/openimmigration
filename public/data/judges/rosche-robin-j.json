@@ -1,0 +1,64 @@
+{
+  "code": "RJR",
+  "slug": "rosche-robin-j",
+  "name": "Rosche, Robin J.",
+  "totalDecisions": 9099,
+  "grants": 699,
+  "denials": 97,
+  "removals": 6,
+  "absentia": 376,
+  "grantRate": 7.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 10337
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "code": "PJ",
+  "slug": "johnston-paul-l",
+  "name": "Johnston, Paul L.",
+  "totalDecisions": 2730,
+  "grants": 209,
+  "denials": 24,
+  "removals": 15,
+  "absentia": 1092,
+  "grantRate": 7.7,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 2674
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

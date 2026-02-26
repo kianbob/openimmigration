@@ -1,0 +1,64 @@
+{
+  "code": "NBW",
+  "slug": "walker-nathaniel-b",
+  "name": "Walker, Nathaniel B.",
+  "totalDecisions": 6641,
+  "grants": 218,
+  "denials": 23,
+  "removals": 2,
+  "absentia": 1374,
+  "grantRate": 3.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 5671
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 2584
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 207
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 71
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

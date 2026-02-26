@@ -1,0 +1,44 @@
+{
+  "code": "HDA",
+  "slug": "d-andrea-holly-a",
+  "name": "D'Andrea, Holly A.",
+  "totalDecisions": 6872,
+  "grants": 180,
+  "denials": 30,
+  "removals": 1,
+  "absentia": 2,
+  "grantRate": 2.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 7159
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "code": "MFR",
+  "slug": "rahill-michael-f",
+  "name": "Rahill, Michael F.",
+  "totalDecisions": 126,
+  "grants": 36,
+  "denials": 12,
+  "removals": 6,
+  "absentia": 8,
+  "grantRate": 28.6,
+  "removalRate": 4.8,
+  "courts": [
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 69
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

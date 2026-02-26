@@ -1,0 +1,64 @@
+{
+  "code": "NAM",
+  "slug": "martz-nicholas-a",
+  "name": "Martz, Nicholas A.",
+  "totalDecisions": 2996,
+  "grants": 293,
+  "denials": 20,
+  "removals": 3,
+  "absentia": 297,
+  "grantRate": 9.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 905
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 743
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 520
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 417
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 235
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 153
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 128
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 102
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 72
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 72
+    }
+  ]
+}

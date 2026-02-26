@@ -1,0 +1,44 @@
+{
+  "code": "SDA",
+  "slug": "alcorn-stuart-douglas",
+  "name": "Alcorn, Stuart Douglas",
+  "totalDecisions": 17256,
+  "grants": 273,
+  "denials": 306,
+  "removals": 0,
+  "absentia": 1,
+  "grantRate": 1.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 16986
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 248
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

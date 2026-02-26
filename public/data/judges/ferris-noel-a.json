@@ -1,0 +1,49 @@
+{
+  "code": "NAF",
+  "slug": "ferris-noel-a",
+  "name": "Ferris, Noel A.",
+  "totalDecisions": 12291,
+  "grants": 1799,
+  "denials": 800,
+  "removals": 779,
+  "absentia": 2016,
+  "grantRate": 14.6,
+  "removalRate": 6.3,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 10231
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 1992
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

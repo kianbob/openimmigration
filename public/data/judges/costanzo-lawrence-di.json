@@ -1,0 +1,64 @@
+{
+  "code": "LND",
+  "slug": "costanzo-lawrence-di",
+  "name": "Costanzo, Lawrence Di",
+  "totalDecisions": 13429,
+  "grants": 3463,
+  "denials": 2243,
+  "removals": 2236,
+  "absentia": 1856,
+  "grantRate": 25.8,
+  "removalRate": 16.7,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 13129
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 197
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

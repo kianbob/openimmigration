@@ -1,0 +1,24 @@
+{
+  "code": "ADA",
+  "slug": "armstrong-adrian-n",
+  "name": "Armstrong, Adrian N.",
+  "totalDecisions": 2410,
+  "grants": 72,
+  "denials": 15,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 2396
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

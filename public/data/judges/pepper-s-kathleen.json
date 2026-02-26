@@ -1,0 +1,64 @@
+{
+  "code": "SKP",
+  "slug": "pepper-s-kathleen",
+  "name": "Pepper, S. Kathleen",
+  "totalDecisions": 204,
+  "grants": 23,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 2,
+  "grantRate": 11.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 67
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

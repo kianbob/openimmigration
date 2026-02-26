@@ -1,0 +1,64 @@
+{
+  "code": "ERK",
+  "slug": "kandler-edward-r",
+  "name": "Kandler, Edward R.",
+  "totalDecisions": 16806,
+  "grants": 2292,
+  "denials": 128,
+  "removals": 102,
+  "absentia": 2110,
+  "grantRate": 13.6,
+  "removalRate": 0.6,
+  "courts": [
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 9067
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 4131
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2251
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1068
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 246
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

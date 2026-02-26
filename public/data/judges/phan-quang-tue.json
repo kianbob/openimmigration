@@ -1,0 +1,64 @@
+{
+  "code": "TPQ",
+  "slug": "phan-quang-tue",
+  "name": "Phan-Quang, Tue",
+  "totalDecisions": 10193,
+  "grants": 2685,
+  "denials": 754,
+  "removals": 749,
+  "absentia": 1446,
+  "grantRate": 26.3,
+  "removalRate": 7.3,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 10023
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 105
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

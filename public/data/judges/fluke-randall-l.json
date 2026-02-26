@@ -1,0 +1,64 @@
+{
+  "code": "RLF",
+  "slug": "fluke-randall-l",
+  "name": "Fluke, Randall L.",
+  "totalDecisions": 2339,
+  "grants": 208,
+  "denials": 20,
+  "removals": 0,
+  "absentia": 122,
+  "grantRate": 8.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 2095
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 483
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 422
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 318
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 102
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 77
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 73
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 68
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 50
+    }
+  ]
+}

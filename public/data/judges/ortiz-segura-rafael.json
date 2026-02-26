@@ -1,0 +1,64 @@
+{
+  "code": "ROS",
+  "slug": "ortiz-segura-rafael",
+  "name": "Ortiz-Segura, Rafael",
+  "totalDecisions": 31401,
+  "grants": 3986,
+  "denials": 1599,
+  "removals": 1559,
+  "absentia": 6814,
+  "grantRate": 12.7,
+  "removalRate": 5,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 23495
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 5554
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 1125
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 714
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 244
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 65
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 23
+    }
+  ]
+}

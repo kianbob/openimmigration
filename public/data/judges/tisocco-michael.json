@@ -1,0 +1,64 @@
+{
+  "code": "MIT",
+  "slug": "tisocco-michael",
+  "name": "Tisocco, Michael",
+  "totalDecisions": 4896,
+  "grants": 178,
+  "denials": 11,
+  "removals": 3,
+  "absentia": 1302,
+  "grantRate": 3.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 10922
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

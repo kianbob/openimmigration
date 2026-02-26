@@ -1,0 +1,64 @@
+{
+  "code": "CYG",
+  "slug": "gordon-cynthia",
+  "name": "Gordon, Cynthia",
+  "totalDecisions": 6931,
+  "grants": 1071,
+  "denials": 30,
+  "removals": 19,
+  "absentia": 884,
+  "grantRate": 15.5,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 12898
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

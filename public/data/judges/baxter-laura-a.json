@@ -1,0 +1,24 @@
+{
+  "code": "LAB",
+  "slug": "baxter-laura-a",
+  "name": "Baxter, Laura A.",
+  "totalDecisions": 348,
+  "grants": 49,
+  "denials": 6,
+  "removals": 0,
+  "absentia": 36,
+  "grantRate": 14.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 311
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 37
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+{
+  "code": "CHI",
+  "slug": "chicago",
+  "name": "Chicago",
+  "state": "IL",
+  "address": "55 E MONROE, SUITE 1500",
+  "active": true,
+  "cases": 363725,
+  "completed": 397221,
+  "grants": 32042,
+  "denials": 11053,
+  "removals": 10261,
+  "grantRate": 8.1,
+  "topNationalities": [
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "count": 94043
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "count": 65343
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "count": 23456
+    },
+    {
+      "code": "HO",
+      "name": "Honduras",
+      "count": 23349
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "count": 21956
+    },
+    {
+      "code": "NU",
+      "name": "Nicaragua",
+      "count": 21513
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "count": 13957
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "count": 8181
+    },
+    {
+      "code": "ES",
+      "name": "El Salvador",
+      "count": 7730
+    },
+    {
+      "code": "HA",
+      "name": "Haiti",
+      "count": 7122
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "count": 6786
+    },
+    {
+      "code": "CH",
+      "name": "China",
+      "count": 5385
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "count": 5336
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "count": 3683
+    },
+    {
+      "code": "KG",
+      "name": "Kirghizia (Kyrgyzstan)",
+      "count": 3620
+    },
+    {
+      "code": "NI",
+      "name": "Nigeria",
+      "count": 2978
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "count": 2974
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "count": 2710
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "count": 2448
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "count": 1944
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "RDV",
+      "name": "Vinikoor, Robert D.",
+      "decisions": 31423,
+      "grants": 3445,
+      "denials": 1913,
+      "removals": 1865,
+      "grantRate": 11
+    },
+    {
+      "code": "JLG",
+      "name": "Giambastiani, Jennie L.",
+      "decisions": 27677,
+      "grants": 1839,
+      "denials": 45,
+      "removals": 34,
+      "grantRate": 6.6
+    },
+    {
+      "code": "CMZ",
+      "name": "Zerbe, Craig M.",
+      "decisions": 22092,
+      "grants": 2485,
+      "denials": 1718,
+      "removals": 1697,
+      "grantRate": 11.2
+    },
+    {
+      "code": "JRF",
+      "name": "Fujimoto, James R.",
+      "decisions": 21154,
+      "grants": 1743,
+      "denials": 1462,
+      "removals": 1433,
+      "grantRate": 8.2
+    },
+    {
+      "code": "CC",
+      "name": "Cuevas, Carlos",
+      "decisions": 18511,
+      "grants": 2892,
+      "denials": 673,
+      "removals": 641,
+      "grantRate": 15.6
+    },
+    {
+      "code": "GPK",
+      "name": "Katsivalis, George P.",
+      "decisions": 15584,
+      "grants": 108,
+      "denials": 22,
+      "removals": 12,
+      "grantRate": 0.7
+    },
+    {
+      "code": "OJB",
+      "name": "Brahos, O. John",
+      "decisions": 13560,
+      "grants": 1891,
+      "denials": 1634,
+      "removals": 1606,
+      "grantRate": 13.9
+    },
+    {
+      "code": "PKM",
+      "name": "Mckenna, Patrick M.",
+      "decisions": 13443,
+      "grants": 722,
+      "denials": 4,
+      "removals": 3,
+      "grantRate": 5.4
+    },
+    {
+      "code": "CDE",
+      "name": "Defoe, Craig A.",
+      "decisions": 10466,
+      "grants": 672,
+      "denials": 25,
+      "removals": 6,
+      "grantRate": 6.4
+    },
+    {
+      "code": "ESS",
+      "name": "Saltzman, Eva S.",
+      "decisions": 10264,
+      "grants": 954,
+      "denials": 44,
+      "removals": 9,
+      "grantRate": 9.3
+    },
+    {
+      "code": "SBC",
+      "name": "Cole, Samuel B.",
+      "decisions": 9741,
+      "grants": 621,
+      "denials": 111,
+      "removals": 2,
+      "grantRate": 6.4
+    },
+    {
+      "code": "MLK",
+      "name": "Klosowsky, Michael",
+      "decisions": 9174,
+      "grants": 437,
+      "denials": 27,
+      "removals": 1,
+      "grantRate": 4.8
+    },
+    {
+      "code": "RJR",
+      "name": "Rosche, Robin J.",
+      "decisions": 9038,
+      "grants": 699,
+      "denials": 97,
+      "removals": 6,
+      "grantRate": 7.7
+    },
+    {
+      "code": "MEV",
+      "name": "Venci, Michelle",
+      "decisions": 8883,
+      "grants": 232,
+      "denials": 12,
+      "removals": 1,
+      "grantRate": 2.6
+    },
+    {
+      "code": "GAR",
+      "name": "Reynolds, Gina",
+      "decisions": 8692,
+      "grants": 521,
+      "denials": 4,
+      "removals": 0,
+      "grantRate": 6
+    },
+    {
+      "code": "VPG",
+      "name": "Perez-Guzman, Virginia",
+      "decisions": 8404,
+      "grants": 701,
+      "denials": 45,
+      "removals": 11,
+      "grantRate": 8.3
+    },
+    {
+      "code": "EHC",
+      "name": "Crites, Elizabeth",
+      "decisions": 8210,
+      "grants": 442,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 5.4
+    },
+    {
+      "code": "ADP",
+      "name": "Petrone, Anthony D., Jr.",
+      "decisions": 7419,
+      "grants": 888,
+      "denials": 1117,
+      "removals": 1117,
+      "grantRate": 12
+    },
+    {
+      "code": "JIP",
+      "name": "Peyton, Jennifer I.",
+      "decisions": 7365,
+      "grants": 1092,
+      "denials": 6,
+      "removals": 4,
+      "grantRate": 14.8
+    },
+    {
+      "code": "AAM",
+      "name": "Mencini, Ana",
+      "decisions": 7317,
+      "grants": 272,
+      "denials": 8,
+      "removals": 0,
+      "grantRate": 3.7
+    },
+    {
+      "code": "BCC",
+      "name": "Curran, Brendan C.",
+      "decisions": 7219,
+      "grants": 228,
+      "denials": 4,
+      "removals": 1,
+      "grantRate": 3.2
+    },
+    {
+      "code": "SMN",
+      "name": "Mcnulty, Sheila",
+      "decisions": 7199,
+      "grants": 602,
+      "denials": 35,
+      "removals": 9,
+      "grantRate": 8.4
+    },
+    {
+      "code": "SNA",
+      "name": "Naseem, Samia",
+      "decisions": 7002,
+      "grants": 518,
+      "denials": 3,
+      "removals": 2,
+      "grantRate": 7.4
+    },
+    {
+      "code": "KSA",
+      "name": "Salovaara, Kaarina",
+      "decisions": 6774,
+      "grants": 564,
+      "denials": 8,
+      "removals": 4,
+      "grantRate": 8.3
+    },
+    {
+      "code": "KLD",
+      "name": "De Angelis, Kathryn L.",
+      "decisions": 6735,
+      "grants": 685,
+      "denials": 57,
+      "removals": 11,
+      "grantRate": 10.2
+    },
+    {
+      "code": "MCS",
+      "name": "Stahl, Marc",
+      "decisions": 6580,
+      "grants": 727,
+      "denials": 5,
+      "removals": 2,
+      "grantRate": 11
+    },
+    {
+      "code": "EKN",
+      "name": "Klein, Eliza",
+      "decisions": 6327,
+      "grants": 407,
+      "denials": 37,
+      "removals": 2,
+      "grantRate": 6.4
+    },
+    {
+      "code": "PDM",
+      "name": "Dimarzio, Philip L.",
+      "decisions": 6217,
+      "grants": 164,
+      "denials": 38,
+      "removals": 1,
+      "grantRate": 2.6
+    },
+    {
+      "code": "IAD",
+      "name": "Iad Judge",
+      "decisions": 6163,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "CAE",
+      "name": "Espinoza, Carla",
+      "decisions": 5261,
+      "grants": 209,
+      "denials": 2,
+      "removals": 0,
+      "grantRate": 4
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 956
+    },
+    {
+      "year": 1991,
+      "cases": 759
+    },
+    {
+      "year": 1992,
+      "cases": 802
+    },
+    {
+      "year": 1993,
+      "cases": 874
+    },
+    {
+      "year": 1994,
+      "cases": 969
+    },
+    {
+      "year": 1995,
+      "cases": 1301
+    },
+    {
+      "year": 1996,
+      "cases": 1480
+    },
+    {
+      "year": 1997,
+      "cases": 1521
+    },
+    {
+      "year": 1998,
+      "cases": 1541
+    },
+    {
+      "year": 1999,
+      "cases": 1383
+    },
+    {
+      "year": 2000,
+      "cases": 1562
+    },
+    {
+      "year": 2001,
+      "cases": 2050
+    },
+    {
+      "year": 2002,
+      "cases": 1884
+    },
+    {
+      "year": 2003,
+      "cases": 1919
+    },
+    {
+      "year": 2004,
+      "cases": 1155
+    },
+    {
+      "year": 2005,
+      "cases": 1346
+    },
+    {
+      "year": 2006,
+      "cases": 1515
+    },
+    {
+      "year": 2007,
+      "cases": 748
+    },
+    {
+      "year": 2008,
+      "cases": 704
+    },
+    {
+      "year": 2009,
+      "cases": 753
+    },
+    {
+      "year": 2010,
+      "cases": 999
+    },
+    {
+      "year": 2011,
+      "cases": 1174
+    },
+    {
+      "year": 2012,
+      "cases": 1516
+    },
+    {
+      "year": 2013,
+      "cases": 2143
+    },
+    {
+      "year": 2014,
+      "cases": 2467
+    },
+    {
+      "year": 2015,
+      "cases": 2788
+    },
+    {
+      "year": 2016,
+      "cases": 2754
+    },
+    {
+      "year": 2017,
+      "cases": 4460
+    },
+    {
+      "year": 2018,
+      "cases": 4873
+    },
+    {
+      "year": 2019,
+      "cases": 6948
+    },
+    {
+      "year": 2020,
+      "cases": 4633
+    },
+    {
+      "year": 2021,
+      "cases": 4352
+    },
+    {
+      "year": 2022,
+      "cases": 7903
+    },
+    {
+      "year": 2023,
+      "cases": 13953
+    },
+    {
+      "year": 2024,
+      "cases": 19940
+    },
+    {
+      "year": 2025,
+      "cases": 17355
+    },
+    {
+      "year": 2026,
+      "cases": 1023
+    }
+  ]
+}

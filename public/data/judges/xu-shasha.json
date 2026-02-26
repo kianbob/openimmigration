@@ -1,0 +1,64 @@
+{
+  "code": "SSX",
+  "slug": "xu-shasha",
+  "name": "Xu, Shasha",
+  "totalDecisions": 2877,
+  "grants": 85,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 1002,
+  "grantRate": 3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4994
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

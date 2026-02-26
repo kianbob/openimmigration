@@ -1,0 +1,29 @@
+{
+  "code": "VBR",
+  "slug": "banuelos-rodriguez-vicenta",
+  "name": "Banuelos-Rodriguez, Vicenta",
+  "totalDecisions": 5299,
+  "grants": 55,
+  "denials": 5,
+  "removals": 1,
+  "absentia": 292,
+  "grantRate": 1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 5299
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

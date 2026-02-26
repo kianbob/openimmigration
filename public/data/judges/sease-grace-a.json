@@ -1,0 +1,54 @@
+{
+  "code": "GAS",
+  "slug": "sease-grace-a",
+  "name": "Sease, Grace A.",
+  "totalDecisions": 11499,
+  "grants": 307,
+  "denials": 80,
+  "removals": 30,
+  "absentia": 3016,
+  "grantRate": 2.7,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 7266
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 3817
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 191
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 177
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

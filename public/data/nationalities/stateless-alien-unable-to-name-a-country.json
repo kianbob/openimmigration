@@ -1,0 +1,247 @@
+{
+  "code": "SS",
+  "slug": "stateless-alien-unable-to-name-a-country",
+  "name": "Stateless - Alien Unable To Name A Country",
+  "cases": 2293,
+  "completed": 4036,
+  "grants": 1494,
+  "denials": 48,
+  "removals": 46,
+  "grantRate": 37,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 505
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 243
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 240
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 152
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 129
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 103
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 72
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 67
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "count": 54
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 52
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 48
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 43
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 36
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 35
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 35
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 34
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "count": 31
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 28
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 28
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "count": 25
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1994,
+      "cases": 2
+    },
+    {
+      "year": 1995,
+      "cases": 15
+    },
+    {
+      "year": 1996,
+      "cases": 78
+    },
+    {
+      "year": 1997,
+      "cases": 70
+    },
+    {
+      "year": 1998,
+      "cases": 61
+    },
+    {
+      "year": 1999,
+      "cases": 36
+    },
+    {
+      "year": 2000,
+      "cases": 40
+    },
+    {
+      "year": 2001,
+      "cases": 43
+    },
+    {
+      "year": 2002,
+      "cases": 64
+    },
+    {
+      "year": 2003,
+      "cases": 99
+    },
+    {
+      "year": 2004,
+      "cases": 43
+    },
+    {
+      "year": 2005,
+      "cases": 67
+    },
+    {
+      "year": 2006,
+      "cases": 39
+    },
+    {
+      "year": 2007,
+      "cases": 42
+    },
+    {
+      "year": 2008,
+      "cases": 39
+    },
+    {
+      "year": 2009,
+      "cases": 30
+    },
+    {
+      "year": 2010,
+      "cases": 20
+    },
+    {
+      "year": 2011,
+      "cases": 32
+    },
+    {
+      "year": 2012,
+      "cases": 39
+    },
+    {
+      "year": 2013,
+      "cases": 27
+    },
+    {
+      "year": 2014,
+      "cases": 27
+    },
+    {
+      "year": 2015,
+      "cases": 31
+    },
+    {
+      "year": 2016,
+      "cases": 32
+    },
+    {
+      "year": 2017,
+      "cases": 35
+    },
+    {
+      "year": 2018,
+      "cases": 76
+    },
+    {
+      "year": 2019,
+      "cases": 75
+    },
+    {
+      "year": 2020,
+      "cases": 37
+    },
+    {
+      "year": 2021,
+      "cases": 74
+    },
+    {
+      "year": 2022,
+      "cases": 73
+    },
+    {
+      "year": 2023,
+      "cases": 86
+    },
+    {
+      "year": 2024,
+      "cases": 76
+    },
+    {
+      "year": 2025,
+      "cases": 66
+    },
+    {
+      "year": 2026,
+      "cases": 3
+    }
+  ]
+}

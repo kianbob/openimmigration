@@ -1,0 +1,64 @@
+{
+  "code": "SAF",
+  "slug": "factor-samuel-m",
+  "name": "Factor, Samuel M.",
+  "totalDecisions": 8896,
+  "grants": 886,
+  "denials": 27,
+  "removals": 17,
+  "absentia": 1856,
+  "grantRate": 10,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 16498
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

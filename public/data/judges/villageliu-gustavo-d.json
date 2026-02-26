@@ -1,0 +1,29 @@
+{
+  "code": "GDV",
+  "slug": "villageliu-gustavo-d",
+  "name": "Villageliu, Gustavo D.",
+  "totalDecisions": 4591,
+  "grants": 38,
+  "denials": 1233,
+  "removals": 1233,
+  "absentia": 190,
+  "grantRate": 0.8,
+  "removalRate": 26.9,
+  "courts": [
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 3657
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 933
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

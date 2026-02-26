@@ -1,0 +1,64 @@
+{
+  "code": "LAW",
+  "slug": "wyrosdick-laura",
+  "name": "Wyrosdick, Laura",
+  "totalDecisions": 3683,
+  "grants": 353,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 1259,
+  "grantRate": 9.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 5129
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 148
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 62
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

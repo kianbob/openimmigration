@@ -1,0 +1,64 @@
+{
+  "code": "ZAN",
+  "slug": "zanfardino-richard-m",
+  "name": "Zanfardino, Richard M.",
+  "totalDecisions": 3756,
+  "grants": 365,
+  "denials": 51,
+  "removals": 4,
+  "absentia": 614,
+  "grantRate": 9.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 3336
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 368
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "EGL",
+  "slug": "lang-elizabeth-g",
+  "name": "Lang, Elizabeth G.",
+  "totalDecisions": 15599,
+  "grants": 718,
+  "denials": 23,
+  "removals": 7,
+  "absentia": 2645,
+  "grantRate": 4.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 25280
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4294
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

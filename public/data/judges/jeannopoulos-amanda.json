@@ -1,0 +1,64 @@
+{
+  "code": "AJS",
+  "slug": "jeannopoulos-amanda",
+  "name": "Jeannopoulos, Amanda",
+  "totalDecisions": 7808,
+  "grants": 529,
+  "denials": 23,
+  "removals": 19,
+  "absentia": 1224,
+  "grantRate": 6.8,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9566
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2797
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 512
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 151
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 99
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

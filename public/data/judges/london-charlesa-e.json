@@ -1,0 +1,54 @@
+{
+  "code": "CEL",
+  "slug": "london-charlesa-e",
+  "name": "London, Charlesa E.",
+  "totalDecisions": 1509,
+  "grants": 94,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 165,
+  "grantRate": 6.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 714
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 599
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 243
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

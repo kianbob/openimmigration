@@ -1,0 +1,64 @@
+{
+  "code": "JEL",
+  "slug": "lee-june",
+  "name": "Lee, June",
+  "totalDecisions": 3002,
+  "grants": 190,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 596,
+  "grantRate": 6.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 4624
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 157
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

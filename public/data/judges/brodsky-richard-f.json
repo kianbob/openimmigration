@@ -1,0 +1,64 @@
+{
+  "code": "RFB",
+  "slug": "brodsky-richard-f",
+  "name": "Brodsky, Richard F.",
+  "totalDecisions": 26313,
+  "grants": 1043,
+  "denials": 7414,
+  "removals": 7413,
+  "absentia": 9450,
+  "grantRate": 4,
+  "removalRate": 28.2,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 24381
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 1445
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 252
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 92
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 15
+    }
+  ]
+}

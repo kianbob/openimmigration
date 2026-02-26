@@ -1,0 +1,64 @@
+{
+  "code": "AGA",
+  "slug": "gadson-andrews-ashley",
+  "name": "Gadson-Andrews, Ashley",
+  "totalDecisions": 3739,
+  "grants": 125,
+  "denials": 10,
+  "removals": 10,
+  "absentia": 641,
+  "grantRate": 3.3,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2432
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 902
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 263
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 210
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 135
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

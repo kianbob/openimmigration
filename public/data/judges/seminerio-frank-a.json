@@ -1,0 +1,64 @@
+{
+  "code": "FAS",
+  "slug": "seminerio-frank-a",
+  "name": "Seminerio, Frank A.",
+  "totalDecisions": 6253,
+  "grants": 902,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 1215,
+  "grantRate": 14.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 9819
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 70
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

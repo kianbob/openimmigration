@@ -1,0 +1,64 @@
+{
+  "code": "ISS",
+  "slug": "shugall-ilyce",
+  "name": "Shugall, Ilyce",
+  "totalDecisions": 948,
+  "grants": 216,
+  "denials": 5,
+  "removals": 3,
+  "absentia": 108,
+  "grantRate": 22.8,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 896
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JNR",
+  "slug": "reingold-jonathan",
+  "name": "Reingold, Jonathan",
+  "totalDecisions": 4931,
+  "grants": 339,
+  "denials": 14,
+  "removals": 9,
+  "absentia": 1285,
+  "grantRate": 6.9,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 12187
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

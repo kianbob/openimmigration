@@ -1,0 +1,54 @@
+{
+  "code": "CLF",
+  "slug": "lampley-fortson-christa-j",
+  "name": "Lampley-Fortson, Christa J.",
+  "totalDecisions": 1780,
+  "grants": 2,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 389,
+  "grantRate": 0.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 864
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 816
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 193
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 58
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

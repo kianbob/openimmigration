@@ -1,0 +1,64 @@
+{
+  "code": "DLM",
+  "slug": "marks-dana-leigh",
+  "name": "Marks, Dana Leigh",
+  "totalDecisions": 23995,
+  "grants": 6415,
+  "denials": 2301,
+  "removals": 2293,
+  "absentia": 2185,
+  "grantRate": 26.7,
+  "removalRate": 9.6,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 23613
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 134
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

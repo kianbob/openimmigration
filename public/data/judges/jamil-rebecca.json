@@ -1,0 +1,64 @@
+{
+  "code": "RBJ",
+  "slug": "jamil-rebecca",
+  "name": "Jamil, Rebecca",
+  "totalDecisions": 1860,
+  "grants": 325,
+  "denials": 3,
+  "removals": 1,
+  "absentia": 278,
+  "grantRate": 17.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1760
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

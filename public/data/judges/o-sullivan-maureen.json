@@ -1,0 +1,64 @@
+{
+  "code": "MOS",
+  "slug": "o-sullivan-maureen",
+  "name": "O'Sullivan, Maureen",
+  "totalDecisions": 15773,
+  "grants": 3922,
+  "denials": 75,
+  "removals": 59,
+  "absentia": 1620,
+  "grantRate": 24.9,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 15623
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2529
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 55
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

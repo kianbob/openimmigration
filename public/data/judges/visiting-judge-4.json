@@ -1,0 +1,64 @@
+{
+  "code": "VJ4",
+  "slug": "visiting-judge-4",
+  "name": "Visiting Judge 4",
+  "totalDecisions": 1513,
+  "grants": 3,
+  "denials": 36,
+  "removals": 36,
+  "absentia": 94,
+  "grantRate": 0.2,
+  "removalRate": 2.4,
+  "courts": [
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 4350
+    },
+    {
+      "code": "POR",
+      "name": "Immigration Court",
+      "hearings": 4280
+    },
+    {
+      "code": "BTR",
+      "name": "Immigration Court",
+      "hearings": 3242
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2415
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 993
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 614
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 510
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 356
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 351
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 198
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "DAS",
+  "slug": "smulow-daniel",
+  "name": "Smulow, Daniel",
+  "totalDecisions": 4203,
+  "grants": 189,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 1204,
+  "grantRate": 4.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 4228
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 2
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

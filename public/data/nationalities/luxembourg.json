@@ -1,0 +1,103 @@
+{
+  "code": "LU",
+  "slug": "luxembourg",
+  "name": "Luxembourg",
+  "cases": 23,
+  "completed": 41,
+  "grants": 2,
+  "denials": 3,
+  "removals": 3,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1991,
+      "cases": 2
+    },
+    {
+      "year": 2005,
+      "cases": 1
+    }
+  ]
+}

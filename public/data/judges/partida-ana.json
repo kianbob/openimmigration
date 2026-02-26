@@ -1,0 +1,64 @@
+{
+  "code": "APA",
+  "slug": "partida-ana",
+  "name": "Partida, Ana",
+  "totalDecisions": 5746,
+  "grants": 224,
+  "denials": 47,
+  "removals": 2,
+  "absentia": 78,
+  "grantRate": 3.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 4744
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 548
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 259
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 124
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

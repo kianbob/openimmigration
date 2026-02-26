@@ -1,0 +1,64 @@
+{
+  "code": "AA",
+  "slug": "atenaide-anthony",
+  "name": "Atenaide, Anthony",
+  "totalDecisions": 19479,
+  "grants": 1145,
+  "denials": 1017,
+  "removals": 1012,
+  "absentia": 1206,
+  "grantRate": 5.9,
+  "removalRate": 5.2,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 19180
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 111
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 96
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

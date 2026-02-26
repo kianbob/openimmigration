@@ -1,0 +1,64 @@
+{
+  "code": "AMI",
+  "slug": "igoe-alison",
+  "name": "Igoe, Alison",
+  "totalDecisions": 4081,
+  "grants": 383,
+  "denials": 7,
+  "removals": 2,
+  "absentia": 790,
+  "grantRate": 9.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 5296
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 197
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "code": "PAD",
+  "slug": "dixon-paula",
+  "name": "Dixon, Paula",
+  "totalDecisions": 1683,
+  "grants": 64,
+  "denials": 8,
+  "removals": 0,
+  "absentia": 2,
+  "grantRate": 3.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 1588
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 85
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

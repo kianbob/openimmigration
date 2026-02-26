@@ -1,0 +1,64 @@
+{
+  "code": "SNM",
+  "slug": "marcus-steven",
+  "name": "Marcus, Steven",
+  "totalDecisions": 6948,
+  "grants": 253,
+  "denials": 17,
+  "removals": 0,
+  "absentia": 1892,
+  "grantRate": 3.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 10036
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 364
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 148
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 84
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

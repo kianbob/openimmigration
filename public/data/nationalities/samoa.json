@@ -1,0 +1,263 @@
+{
+  "code": "WS",
+  "slug": "samoa",
+  "name": "Samoa",
+  "cases": 911,
+  "completed": 1549,
+  "grants": 210,
+  "denials": 79,
+  "removals": 78,
+  "grantRate": 13.6,
+  "topCourts": [
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "count": 312
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "count": 104
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 72
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 68
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 59
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "count": 52
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "count": 44
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 30
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "count": 19
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "count": 19
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "count": 18
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "count": 17
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "count": 13
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 12
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "count": 3
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 20
+    },
+    {
+      "year": 1991,
+      "cases": 12
+    },
+    {
+      "year": 1992,
+      "cases": 9
+    },
+    {
+      "year": 1993,
+      "cases": 12
+    },
+    {
+      "year": 1994,
+      "cases": 10
+    },
+    {
+      "year": 1995,
+      "cases": 6
+    },
+    {
+      "year": 1996,
+      "cases": 12
+    },
+    {
+      "year": 1997,
+      "cases": 14
+    },
+    {
+      "year": 1998,
+      "cases": 3
+    },
+    {
+      "year": 1999,
+      "cases": 8
+    },
+    {
+      "year": 2000,
+      "cases": 26
+    },
+    {
+      "year": 2001,
+      "cases": 10
+    },
+    {
+      "year": 2002,
+      "cases": 15
+    },
+    {
+      "year": 2003,
+      "cases": 20
+    },
+    {
+      "year": 2004,
+      "cases": 11
+    },
+    {
+      "year": 2005,
+      "cases": 12
+    },
+    {
+      "year": 2006,
+      "cases": 5
+    },
+    {
+      "year": 2007,
+      "cases": 3
+    },
+    {
+      "year": 2008,
+      "cases": 7
+    },
+    {
+      "year": 2009,
+      "cases": 7
+    },
+    {
+      "year": 2010,
+      "cases": 7
+    },
+    {
+      "year": 2011,
+      "cases": 4
+    },
+    {
+      "year": 2012,
+      "cases": 3
+    },
+    {
+      "year": 2013,
+      "cases": 12
+    },
+    {
+      "year": 2014,
+      "cases": 11
+    },
+    {
+      "year": 2015,
+      "cases": 8
+    },
+    {
+      "year": 2016,
+      "cases": 17
+    },
+    {
+      "year": 2017,
+      "cases": 12
+    },
+    {
+      "year": 2018,
+      "cases": 9
+    },
+    {
+      "year": 2019,
+      "cases": 9
+    },
+    {
+      "year": 2020,
+      "cases": 5
+    },
+    {
+      "year": 2021,
+      "cases": 13
+    },
+    {
+      "year": 2022,
+      "cases": 8
+    },
+    {
+      "year": 2023,
+      "cases": 6
+    },
+    {
+      "year": 2024,
+      "cases": 4
+    },
+    {
+      "year": 2025,
+      "cases": 6
+    },
+    {
+      "year": 2026,
+      "cases": 1
+    }
+  ]
+}

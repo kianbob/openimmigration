@@ -1,0 +1,29 @@
+{
+  "code": "AQ",
+  "slug": "aq",
+  "name": "Aq",
+  "cases": 3,
+  "completed": 9,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": []
+}

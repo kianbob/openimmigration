@@ -1,0 +1,64 @@
+{
+  "code": "JLS",
+  "slug": "stern-jason-l",
+  "name": "Stern, Jason L.",
+  "totalDecisions": 5465,
+  "grants": 40,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 1191,
+  "grantRate": 0.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 6551
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 488
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

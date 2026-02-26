@@ -1,0 +1,64 @@
+{
+  "code": "JP1",
+  "slug": "palomino-jacinto",
+  "name": "Palomino, Jacinto",
+  "totalDecisions": 11760,
+  "grants": 232,
+  "denials": 84,
+  "removals": 10,
+  "absentia": 279,
+  "grantRate": 2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 9672
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1076
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 428
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 259
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 257
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 89
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 77
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "PHE",
+  "slug": "hable-paul-a",
+  "name": "Hable, Paul A.",
+  "totalDecisions": 10936,
+  "grants": 78,
+  "denials": 75,
+  "removals": 7,
+  "absentia": 587,
+  "grantRate": 0.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 5940
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 2695
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1610
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 756
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

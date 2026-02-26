@@ -1,0 +1,59 @@
+{
+  "code": "RRW",
+  "slug": "wood-ryan-r",
+  "name": "Wood, Ryan R.",
+  "totalDecisions": 3915,
+  "grants": 201,
+  "denials": 38,
+  "removals": 0,
+  "absentia": 745,
+  "grantRate": 5.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 4031
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

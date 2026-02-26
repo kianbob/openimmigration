@@ -1,0 +1,151 @@
+{
+  "code": "NC",
+  "slug": "new-caledonia",
+  "name": "New Caledonia",
+  "cases": 93,
+  "completed": 186,
+  "grants": 21,
+  "denials": 14,
+  "removals": 14,
+  "grantRate": 11.3,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 28
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1995,
+      "cases": 2
+    },
+    {
+      "year": 1997,
+      "cases": 2
+    },
+    {
+      "year": 1998,
+      "cases": 4
+    },
+    {
+      "year": 1999,
+      "cases": 4
+    },
+    {
+      "year": 2000,
+      "cases": 2
+    },
+    {
+      "year": 2001,
+      "cases": 2
+    },
+    {
+      "year": 2002,
+      "cases": 1
+    },
+    {
+      "year": 2016,
+      "cases": 1
+    },
+    {
+      "year": 2024,
+      "cases": 1
+    }
+  ]
+}

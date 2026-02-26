@@ -1,0 +1,64 @@
+{
+  "code": "AMJ",
+  "slug": "jovanovic-adam",
+  "name": "Jovanovic, Adam",
+  "totalDecisions": 6588,
+  "grants": 50,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 1850,
+  "grantRate": 0.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 7520
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 332
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 90
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

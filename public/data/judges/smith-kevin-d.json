@@ -1,0 +1,39 @@
+{
+  "code": "KDS",
+  "slug": "smith-kevin-d",
+  "name": "Smith, Kevin D.",
+  "totalDecisions": 262,
+  "grants": 10,
+  "denials": 226,
+  "removals": 226,
+  "absentia": 3,
+  "grantRate": 3.8,
+  "removalRate": 86.3,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 220
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

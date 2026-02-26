@@ -1,0 +1,64 @@
+{
+  "code": "ZRA",
+  "slug": "rainey-zol",
+  "name": "Rainey, Zol",
+  "totalDecisions": 2478,
+  "grants": 80,
+  "denials": 6,
+  "removals": 0,
+  "absentia": 242,
+  "grantRate": 3.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 1695
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 489
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 362
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 111
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 4
+    }
+  ]
+}

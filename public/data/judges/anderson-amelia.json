@@ -1,0 +1,64 @@
+{
+  "code": "AAN",
+  "slug": "anderson-amelia",
+  "name": "Anderson, Amelia",
+  "totalDecisions": 7763,
+  "grants": 231,
+  "denials": 25,
+  "removals": 12,
+  "absentia": 725,
+  "grantRate": 3,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 6072
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 2067
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 358
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 77
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "code": "SBF",
+  "slug": "fuller-steven-b",
+  "name": "Fuller, Steven B.",
+  "totalDecisions": 9639,
+  "grants": 102,
+  "denials": 87,
+  "removals": 0,
+  "absentia": 1,
+  "grantRate": 1.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 7770
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 2160
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "KD1",
+  "slug": "donoso-stevens-karen",
+  "name": "Donoso-Stevens, Karen",
+  "totalDecisions": 5088,
+  "grants": 390,
+  "denials": 85,
+  "removals": 2,
+  "absentia": 49,
+  "grantRate": 7.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 3643
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 2683
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

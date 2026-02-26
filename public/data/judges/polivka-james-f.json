@@ -1,0 +1,64 @@
+{
+  "code": "JFP",
+  "slug": "polivka-james-f",
+  "name": "Polivka, James F.",
+  "totalDecisions": 5287,
+  "grants": 66,
+  "denials": 37,
+  "removals": 0,
+  "absentia": 2010,
+  "grantRate": 1.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 18788
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 480
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 266
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 112
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 81
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 78
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 28
+    }
+  ]
+}

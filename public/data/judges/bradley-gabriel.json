@@ -1,0 +1,24 @@
+{
+  "code": "GAB",
+  "slug": "bradley-gabriel",
+  "name": "Bradley, Gabriel",
+  "totalDecisions": 173,
+  "grants": 23,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 68,
+  "grantRate": 13.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 121
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 106
+    }
+  ]
+}

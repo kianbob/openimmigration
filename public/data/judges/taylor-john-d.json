@@ -1,0 +1,24 @@
+{
+  "code": "JDT",
+  "slug": "taylor-john-d",
+  "name": "Taylor, John D.",
+  "totalDecisions": 3625,
+  "grants": 657,
+  "denials": 23,
+  "removals": 20,
+  "absentia": 569,
+  "grantRate": 18.1,
+  "removalRate": 0.6,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3623
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

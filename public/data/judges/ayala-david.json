@@ -1,0 +1,64 @@
+{
+  "code": "DA",
+  "slug": "ayala-david",
+  "name": "Ayala, David",
+  "totalDecisions": 94755,
+  "grants": 2566,
+  "denials": 3890,
+  "removals": 3866,
+  "absentia": 31808,
+  "grantRate": 2.7,
+  "removalRate": 4.1,
+  "courts": [
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 77160
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 14227
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 1154
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 527
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 380
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 234
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 224
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 188
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 159
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 156
+    }
+  ]
+}

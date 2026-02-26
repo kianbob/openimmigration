@@ -1,0 +1,64 @@
+{
+  "code": "MCH",
+  "slug": "horn-michael-c",
+  "name": "Horn, Michael C.",
+  "totalDecisions": 34879,
+  "grants": 3230,
+  "denials": 3336,
+  "removals": 3282,
+  "absentia": 7324,
+  "grantRate": 9.3,
+  "removalRate": 9.4,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 34144
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1895
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 157
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 92
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 64
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 60
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 34
+    }
+  ]
+}

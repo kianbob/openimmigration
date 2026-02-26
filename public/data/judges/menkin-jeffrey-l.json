@@ -1,0 +1,64 @@
+{
+  "code": "JLM",
+  "slug": "menkin-jeffrey-l",
+  "name": "Menkin, Jeffrey L.",
+  "totalDecisions": 1219,
+  "grants": 43,
+  "denials": 8,
+  "removals": 0,
+  "absentia": 519,
+  "grantRate": 3.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 863
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 236
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

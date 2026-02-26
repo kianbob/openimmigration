@@ -1,0 +1,64 @@
+{
+  "code": "LSA",
+  "slug": "santiago-luisa",
+  "name": "Santiago, Luisa",
+  "totalDecisions": 2855,
+  "grants": 132,
+  "denials": 14,
+  "removals": 0,
+  "absentia": 747,
+  "grantRate": 4.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 2141
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 187
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 173
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 169
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "HJS",
+  "slug": "sichel-helen",
+  "name": "Sichel, Helen",
+  "totalDecisions": 17028,
+  "grants": 5190,
+  "denials": 252,
+  "removals": 212,
+  "absentia": 2538,
+  "grantRate": 30.5,
+  "removalRate": 1.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 16684
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 103
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

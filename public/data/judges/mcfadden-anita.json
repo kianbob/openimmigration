@@ -1,0 +1,64 @@
+{
+  "code": "AMF",
+  "slug": "mcfadden-anita",
+  "name": "Mcfadden, Anita",
+  "totalDecisions": 4239,
+  "grants": 179,
+  "denials": 5,
+  "removals": 1,
+  "absentia": 1346,
+  "grantRate": 4.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 5810
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 5
+    }
+  ]
+}

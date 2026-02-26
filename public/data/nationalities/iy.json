@@ -1,0 +1,24 @@
+{
+  "code": "IY",
+  "slug": "iy",
+  "name": "Iy",
+  "cases": 10,
+  "completed": 12,
+  "grants": 2,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 9
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": []
+}

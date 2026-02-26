@@ -1,0 +1,64 @@
+{
+  "code": "STP",
+  "slug": "patti-sebastian-t",
+  "name": "Patti, Sebastian T.",
+  "totalDecisions": 7174,
+  "grants": 801,
+  "denials": 64,
+  "removals": 60,
+  "absentia": 1152,
+  "grantRate": 11.2,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 11620
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2019
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

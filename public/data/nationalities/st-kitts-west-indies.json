@@ -1,0 +1,259 @@
+{
+  "code": "SK",
+  "slug": "st-kitts-west-indies",
+  "name": "St. Kitts, West Indies",
+  "cases": 1036,
+  "completed": 1710,
+  "grants": 176,
+  "denials": 199,
+  "removals": 197,
+  "grantRate": 10.3,
+  "topCourts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 216
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 69
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "count": 69
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 68
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 53
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 45
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 42
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 34
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 34
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 33
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 31
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 27
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 26
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "count": 24
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 19
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "count": 17
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 16
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 14
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "count": 13
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "count": 12
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 7
+    },
+    {
+      "year": 1991,
+      "cases": 9
+    },
+    {
+      "year": 1992,
+      "cases": 18
+    },
+    {
+      "year": 1993,
+      "cases": 12
+    },
+    {
+      "year": 1994,
+      "cases": 12
+    },
+    {
+      "year": 1995,
+      "cases": 7
+    },
+    {
+      "year": 1996,
+      "cases": 25
+    },
+    {
+      "year": 1997,
+      "cases": 18
+    },
+    {
+      "year": 1998,
+      "cases": 37
+    },
+    {
+      "year": 1999,
+      "cases": 11
+    },
+    {
+      "year": 2000,
+      "cases": 19
+    },
+    {
+      "year": 2001,
+      "cases": 14
+    },
+    {
+      "year": 2002,
+      "cases": 15
+    },
+    {
+      "year": 2003,
+      "cases": 16
+    },
+    {
+      "year": 2004,
+      "cases": 20
+    },
+    {
+      "year": 2005,
+      "cases": 19
+    },
+    {
+      "year": 2006,
+      "cases": 14
+    },
+    {
+      "year": 2007,
+      "cases": 5
+    },
+    {
+      "year": 2008,
+      "cases": 4
+    },
+    {
+      "year": 2009,
+      "cases": 8
+    },
+    {
+      "year": 2010,
+      "cases": 6
+    },
+    {
+      "year": 2011,
+      "cases": 5
+    },
+    {
+      "year": 2012,
+      "cases": 10
+    },
+    {
+      "year": 2013,
+      "cases": 8
+    },
+    {
+      "year": 2014,
+      "cases": 10
+    },
+    {
+      "year": 2015,
+      "cases": 12
+    },
+    {
+      "year": 2016,
+      "cases": 4
+    },
+    {
+      "year": 2017,
+      "cases": 5
+    },
+    {
+      "year": 2018,
+      "cases": 12
+    },
+    {
+      "year": 2019,
+      "cases": 11
+    },
+    {
+      "year": 2020,
+      "cases": 1
+    },
+    {
+      "year": 2021,
+      "cases": 6
+    },
+    {
+      "year": 2022,
+      "cases": 4
+    },
+    {
+      "year": 2023,
+      "cases": 7
+    },
+    {
+      "year": 2024,
+      "cases": 6
+    },
+    {
+      "year": 2025,
+      "cases": 4
+    }
+  ]
+}

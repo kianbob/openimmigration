@@ -1,0 +1,179 @@
+{
+  "code": "LT",
+  "slug": "lesotho",
+  "name": "Lesotho",
+  "cases": 44,
+  "completed": 99,
+  "grants": 8,
+  "denials": 5,
+  "removals": 5,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 1
+    },
+    {
+      "year": 1996,
+      "cases": 1
+    },
+    {
+      "year": 1999,
+      "cases": 1
+    },
+    {
+      "year": 2000,
+      "cases": 4
+    },
+    {
+      "year": 2001,
+      "cases": 1
+    },
+    {
+      "year": 2002,
+      "cases": 2
+    },
+    {
+      "year": 2005,
+      "cases": 1
+    },
+    {
+      "year": 2006,
+      "cases": 1
+    },
+    {
+      "year": 2007,
+      "cases": 2
+    },
+    {
+      "year": 2010,
+      "cases": 2
+    },
+    {
+      "year": 2011,
+      "cases": 1
+    },
+    {
+      "year": 2013,
+      "cases": 1
+    },
+    {
+      "year": 2014,
+      "cases": 1
+    },
+    {
+      "year": 2020,
+      "cases": 1
+    },
+    {
+      "year": 2021,
+      "cases": 1
+    },
+    {
+      "year": 2025,
+      "cases": 1
+    }
+  ]
+}

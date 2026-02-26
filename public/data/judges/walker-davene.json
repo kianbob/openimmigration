@@ -1,0 +1,64 @@
+{
+  "code": "DEW",
+  "slug": "walker-davene",
+  "name": "Walker, Davene",
+  "totalDecisions": 2145,
+  "grants": 245,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 522,
+  "grantRate": 11.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 1969
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 163
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

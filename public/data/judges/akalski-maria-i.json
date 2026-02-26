@@ -1,0 +1,64 @@
+{
+  "code": "MIA",
+  "slug": "akalski-maria-i",
+  "name": "Akalski, Maria I.",
+  "totalDecisions": 10075,
+  "grants": 165,
+  "denials": 11,
+  "removals": 7,
+  "absentia": 2088,
+  "grantRate": 1.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 26841
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 1818
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 307
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

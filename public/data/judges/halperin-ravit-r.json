@@ -1,0 +1,64 @@
+{
+  "code": "RRH",
+  "slug": "halperin-ravit-r",
+  "name": "Halperin, Ravit R.",
+  "totalDecisions": 4220,
+  "grants": 92,
+  "denials": 11,
+  "removals": 3,
+  "absentia": 942,
+  "grantRate": 2.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 2331
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 1512
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 488
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

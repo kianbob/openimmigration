@@ -1,0 +1,64 @@
+{
+  "code": "ERH",
+  "slug": "hughes-edwin-r",
+  "name": "Hughes, Edwin R.",
+  "totalDecisions": 24349,
+  "grants": 2429,
+  "denials": 4608,
+  "removals": 4598,
+  "absentia": 6074,
+  "grantRate": 10,
+  "removalRate": 18.9,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 20597
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 1516
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 780
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 512
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 267
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 241
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 110
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 67
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 44
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "RWV",
+  "slug": "vanveldhuisen-richard-w",
+  "name": "Vanveldhuisen, Richard W.",
+  "totalDecisions": 3879,
+  "grants": 207,
+  "denials": 6,
+  "removals": 1,
+  "absentia": 857,
+  "grantRate": 5.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2109
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 2029
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 11
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

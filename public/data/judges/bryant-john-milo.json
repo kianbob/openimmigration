@@ -1,0 +1,64 @@
+{
+  "code": "JMB",
+  "slug": "bryant-john-milo",
+  "name": "Bryant, John Milo",
+  "totalDecisions": 51044,
+  "grants": 4512,
+  "denials": 3403,
+  "removals": 3346,
+  "absentia": 9927,
+  "grantRate": 8.8,
+  "removalRate": 6.6,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 41332
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4650
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 2201
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 838
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 730
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 337
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 313
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 167
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 96
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 74
+    }
+  ]
+}

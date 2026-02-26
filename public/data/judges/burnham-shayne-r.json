@@ -1,0 +1,64 @@
+{
+  "code": "SEB",
+  "slug": "burnham-shayne-r",
+  "name": "Burnham, Shayne R.",
+  "totalDecisions": 8931,
+  "grants": 1048,
+  "denials": 6,
+  "removals": 1,
+  "absentia": 1733,
+  "grantRate": 11.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 10483
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 745
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 206
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

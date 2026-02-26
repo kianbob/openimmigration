@@ -1,0 +1,64 @@
+{
+  "code": "MEH",
+  "slug": "horton-monte-j",
+  "name": "Horton, Monte J.",
+  "totalDecisions": 9673,
+  "grants": 212,
+  "denials": 21,
+  "removals": 2,
+  "absentia": 2134,
+  "grantRate": 2.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 13706
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 1149
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 667
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 280
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JMP",
+  "slug": "price-justin-m",
+  "name": "Price, Justin M.",
+  "totalDecisions": 6136,
+  "grants": 1111,
+  "denials": 6,
+  "removals": 3,
+  "absentia": 1363,
+  "grantRate": 18.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 8805
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3200
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

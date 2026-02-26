@@ -1,0 +1,64 @@
+{
+  "code": "KNS",
+  "slug": "stanley-kevin",
+  "name": "Stanley, Kevin",
+  "totalDecisions": 9388,
+  "grants": 106,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 1502,
+  "grantRate": 1.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 23796
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

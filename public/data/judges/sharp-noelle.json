@@ -1,0 +1,54 @@
+{
+  "code": "NES",
+  "slug": "sharp-noelle",
+  "name": "Sharp, Noelle",
+  "totalDecisions": 5157,
+  "grants": 20,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 2033,
+  "grantRate": 0.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 5134
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

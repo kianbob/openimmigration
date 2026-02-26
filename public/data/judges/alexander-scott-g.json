@@ -1,0 +1,64 @@
+{
+  "code": "SGA",
+  "slug": "alexander-scott-g",
+  "name": "Alexander, Scott G.",
+  "totalDecisions": 32191,
+  "grants": 3504,
+  "denials": 270,
+  "removals": 136,
+  "absentia": 6313,
+  "grantRate": 10.9,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 39881
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 2909
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1077
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 83
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 76
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 67
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 62
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 46
+    }
+  ]
+}

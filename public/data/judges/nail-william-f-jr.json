@@ -1,0 +1,64 @@
+{
+  "code": "WFN",
+  "slug": "nail-william-f-jr",
+  "name": "Nail, William F., Jr.",
+  "totalDecisions": 14657,
+  "grants": 150,
+  "denials": 8124,
+  "removals": 8124,
+  "absentia": 1160,
+  "grantRate": 1,
+  "removalRate": 55.4,
+  "courts": [
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 5350
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3848
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 3051
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 893
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 413
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 299
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 191
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 170
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 109
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 101
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "ALR",
+  "slug": "reese-agnelis-l",
+  "name": "Reese, Agnelis L.",
+  "totalDecisions": 40709,
+  "grants": 284,
+  "denials": 320,
+  "removals": 195,
+  "absentia": 335,
+  "grantRate": 0.7,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 26287
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 11722
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 1223
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 1149
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 23
+    }
+  ]
+}

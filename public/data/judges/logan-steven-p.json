@@ -1,0 +1,24 @@
+{
+  "code": "SPL",
+  "slug": "logan-steven-p",
+  "name": "Logan, Steven P.",
+  "totalDecisions": 2090,
+  "grants": 49,
+  "denials": 7,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 2.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2085
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

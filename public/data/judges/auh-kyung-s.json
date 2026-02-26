@@ -1,0 +1,64 @@
+{
+  "code": "KYA",
+  "slug": "auh-kyung-s",
+  "name": "Auh, Kyung S.",
+  "totalDecisions": 1844,
+  "grants": 196,
+  "denials": 14,
+  "removals": 8,
+  "absentia": 61,
+  "grantRate": 10.6,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 946
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 598
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 227
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 70
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

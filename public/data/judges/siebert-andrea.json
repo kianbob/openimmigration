@@ -1,0 +1,64 @@
+{
+  "code": "ANS",
+  "slug": "siebert-andrea",
+  "name": "Siebert, Andrea",
+  "totalDecisions": 4849,
+  "grants": 314,
+  "denials": 32,
+  "removals": 17,
+  "absentia": 564,
+  "grantRate": 6.5,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 6365
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2895
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 75
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

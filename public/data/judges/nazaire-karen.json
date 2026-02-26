@@ -1,0 +1,64 @@
+{
+  "code": "KAN",
+  "slug": "nazaire-karen",
+  "name": "Nazaire, Karen",
+  "totalDecisions": 8067,
+  "grants": 71,
+  "denials": 17,
+  "removals": 15,
+  "absentia": 2041,
+  "grantRate": 0.9,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 13453
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

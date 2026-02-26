@@ -1,0 +1,49 @@
+{
+  "code": "JRD",
+  "slug": "doolittle-john-r-ii",
+  "name": "Doolittle, John R., Ii",
+  "totalDecisions": 765,
+  "grants": 1,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 4,
+  "grantRate": 0.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 354
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 285
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

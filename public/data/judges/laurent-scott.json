@@ -1,0 +1,64 @@
+{
+  "code": "SDL",
+  "slug": "laurent-scott",
+  "name": "Laurent, Scott",
+  "totalDecisions": 14186,
+  "grants": 599,
+  "denials": 105,
+  "removals": 87,
+  "absentia": 817,
+  "grantRate": 4.2,
+  "removalRate": 0.6,
+  "courts": [
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 9976
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3587
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 336
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 206
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

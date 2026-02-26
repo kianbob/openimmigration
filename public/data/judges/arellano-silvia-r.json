@@ -1,0 +1,64 @@
+{
+  "code": "SAR",
+  "slug": "arellano-silvia-r",
+  "name": "Arellano, Silvia R.",
+  "totalDecisions": 11549,
+  "grants": 451,
+  "denials": 76,
+  "removals": 3,
+  "absentia": 422,
+  "grantRate": 3.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 9115
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 2148
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 84
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 80
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 75
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

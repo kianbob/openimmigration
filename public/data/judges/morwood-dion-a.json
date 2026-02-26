@@ -1,0 +1,64 @@
+{
+  "code": "DAD",
+  "slug": "morwood-dion-a",
+  "name": "Morwood, Dion A.",
+  "totalDecisions": 669,
+  "grants": 79,
+  "denials": 5,
+  "removals": 1,
+  "absentia": 109,
+  "grantRate": 11.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 437
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 190
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

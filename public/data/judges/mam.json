@@ -1,0 +1,64 @@
+{
+  "code": "MAM",
+  "slug": "mam",
+  "name": "Mam",
+  "totalDecisions": 587,
+  "grants": 0,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 0,
+  "grantRate": 0,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 295
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 125
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 67
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

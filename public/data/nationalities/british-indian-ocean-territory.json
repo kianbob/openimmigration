@@ -1,0 +1,76 @@
+{
+  "code": "IO",
+  "slug": "british-indian-ocean-territory",
+  "name": "British Indian Ocean Territory",
+  "cases": 17,
+  "completed": 36,
+  "grants": 5,
+  "denials": 3,
+  "removals": 3,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 9
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2003,
+      "cases": 1
+    },
+    {
+      "year": 2004,
+      "cases": 4
+    },
+    {
+      "year": 2007,
+      "cases": 1
+    },
+    {
+      "year": 2021,
+      "cases": 1
+    }
+  ]
+}

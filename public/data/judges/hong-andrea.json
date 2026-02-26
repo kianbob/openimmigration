@@ -1,0 +1,64 @@
+{
+  "code": "AHO",
+  "slug": "hong-andrea",
+  "name": "Hong, Andrea",
+  "totalDecisions": 5286,
+  "grants": 454,
+  "denials": 61,
+  "removals": 43,
+  "absentia": 750,
+  "grantRate": 8.6,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 6678
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3648
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

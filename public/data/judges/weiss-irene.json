@@ -1,0 +1,64 @@
+{
+  "code": "IW",
+  "slug": "weiss-irene",
+  "name": "Weiss, Irene",
+  "totalDecisions": 29243,
+  "grants": 3128,
+  "denials": 8567,
+  "removals": 8556,
+  "absentia": 2750,
+  "grantRate": 10.7,
+  "removalRate": 29.3,
+  "courts": [
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 13640
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 6567
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 5901
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 2059
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 659
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 102
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 75
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 64
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 58
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 39
+    }
+  ]
+}

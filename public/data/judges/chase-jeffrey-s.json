@@ -1,0 +1,39 @@
+{
+  "code": "JSC",
+  "slug": "chase-jeffrey-s",
+  "name": "Chase, Jeffrey S.",
+  "totalDecisions": 8359,
+  "grants": 1031,
+  "denials": 1036,
+  "removals": 1031,
+  "absentia": 1889,
+  "grantRate": 12.3,
+  "removalRate": 12.3,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8233
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 112
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JS1",
+  "slug": "sanchez-jose-a",
+  "name": "Sanchez, Jose A.",
+  "totalDecisions": 1374,
+  "grants": 90,
+  "denials": 18,
+  "removals": 2,
+  "absentia": 60,
+  "grantRate": 6.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1351
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

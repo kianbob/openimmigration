@@ -1,0 +1,64 @@
+{
+  "code": "CAH",
+  "slug": "harlow-craig-a",
+  "name": "Harlow, Craig A.",
+  "totalDecisions": 21759,
+  "grants": 458,
+  "denials": 149,
+  "removals": 39,
+  "absentia": 3275,
+  "grantRate": 2.1,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 17640
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 5985
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 1520
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

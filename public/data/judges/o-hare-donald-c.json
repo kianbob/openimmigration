@@ -1,0 +1,64 @@
+{
+  "code": "DCO",
+  "slug": "o-hare-donald-c",
+  "name": "O'Hare, Donald C.",
+  "totalDecisions": 3857,
+  "grants": 305,
+  "denials": 10,
+  "removals": 0,
+  "absentia": 1056,
+  "grantRate": 7.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 3407
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 228
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 142
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "ARP",
+  "slug": "petit-anam-rahman",
+  "name": "Petit, Anam Rahman.",
+  "totalDecisions": 1813,
+  "grants": 153,
+  "denials": 2,
+  "removals": 1,
+  "absentia": 574,
+  "grantRate": 8.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 993
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 799
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 6
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

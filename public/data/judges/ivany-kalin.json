@@ -1,0 +1,64 @@
+{
+  "code": "KMI",
+  "slug": "ivany-kalin",
+  "name": "Ivany, Kalin",
+  "totalDecisions": 6023,
+  "grants": 77,
+  "denials": 6,
+  "removals": 2,
+  "absentia": 1790,
+  "grantRate": 1.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 12650
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

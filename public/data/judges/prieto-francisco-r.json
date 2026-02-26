@@ -1,0 +1,64 @@
+{
+  "code": "FPO",
+  "slug": "prieto-francisco-r",
+  "name": "Prieto, Francisco R.",
+  "totalDecisions": 8132,
+  "grants": 355,
+  "denials": 4,
+  "removals": 1,
+  "absentia": 1015,
+  "grantRate": 4.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 8773
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 592
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 517
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 497
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 322
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 230
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "code": "PDM",
+  "slug": "dimarzio-philip-l",
+  "name": "Dimarzio, Philip L.",
+  "totalDecisions": 7595,
+  "grants": 595,
+  "denials": 50,
+  "removals": 13,
+  "absentia": 307,
+  "grantRate": 7.8,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6217
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1340
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "SAI",
+      "name": "Immigration Court",
+      "hearings": 16
+    }
+  ]
+}

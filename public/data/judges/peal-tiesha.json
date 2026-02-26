@@ -1,0 +1,64 @@
+{
+  "code": "TAP",
+  "slug": "peal-tiesha",
+  "name": "Peal, Tiesha",
+  "totalDecisions": 7510,
+  "grants": 290,
+  "denials": 14,
+  "removals": 14,
+  "absentia": 2455,
+  "grantRate": 3.9,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 13326
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

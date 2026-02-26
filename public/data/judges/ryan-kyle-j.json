@@ -1,0 +1,64 @@
+{
+  "code": "KJR",
+  "slug": "ryan-kyle-j",
+  "name": "Ryan, Kyle J.",
+  "totalDecisions": 4450,
+  "grants": 124,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 1253,
+  "grantRate": 2.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 4355
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

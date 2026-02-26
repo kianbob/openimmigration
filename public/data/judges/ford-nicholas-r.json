@@ -1,0 +1,64 @@
+{
+  "code": "NRF",
+  "slug": "ford-nicholas-r",
+  "name": "Ford, Nicholas R",
+  "totalDecisions": 1894,
+  "grants": 303,
+  "denials": 7,
+  "removals": 1,
+  "absentia": 242,
+  "grantRate": 16,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1857
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

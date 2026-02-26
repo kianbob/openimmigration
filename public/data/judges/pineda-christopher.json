@@ -1,0 +1,49 @@
+{
+  "code": "CRP",
+  "slug": "pineda-christopher",
+  "name": "Pineda, Christopher",
+  "totalDecisions": 3941,
+  "grants": 15,
+  "denials": 28,
+  "removals": 22,
+  "absentia": 1839,
+  "grantRate": 0.4,
+  "removalRate": 0.6,
+  "courts": [
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4226
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 357
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

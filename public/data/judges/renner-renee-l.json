@@ -1,0 +1,64 @@
+{
+  "code": "RLR",
+  "slug": "renner-renee-l",
+  "name": "Renner, Renee L.",
+  "totalDecisions": 13344,
+  "grants": 1541,
+  "denials": 150,
+  "removals": 116,
+  "absentia": 1756,
+  "grantRate": 11.5,
+  "removalRate": 0.9,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 7808
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4326
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 619
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 146
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 95
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 92
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 26
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JWH",
+  "slug": "howard-justin-w",
+  "name": "Howard, Justin W.",
+  "totalDecisions": 16949,
+  "grants": 589,
+  "denials": 47,
+  "removals": 4,
+  "absentia": 4831,
+  "grantRate": 3.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 29450
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 215
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 66
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 62
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 19
+    }
+  ]
+}

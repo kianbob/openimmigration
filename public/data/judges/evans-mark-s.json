@@ -1,0 +1,29 @@
+{
+  "code": "MES",
+  "slug": "evans-mark-s",
+  "name": "Evans, Mark S.",
+  "totalDecisions": 9400,
+  "grants": 121,
+  "denials": 37,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 9384
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

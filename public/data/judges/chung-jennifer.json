@@ -1,0 +1,59 @@
+{
+  "code": "JCG",
+  "slug": "chung-jennifer",
+  "name": "Chung, Jennifer",
+  "totalDecisions": 5375,
+  "grants": 614,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 1564,
+  "grantRate": 11.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 6084
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 293
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

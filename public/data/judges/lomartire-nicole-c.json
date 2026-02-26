@@ -1,0 +1,64 @@
+{
+  "code": "NCL",
+  "slug": "lomartire-nicole-c",
+  "name": "Lomartire, Nicole C.",
+  "totalDecisions": 912,
+  "grants": 139,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 58,
+  "grantRate": 15.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 632
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 270
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "YMC",
+  "slug": "cho-yul-mi",
+  "name": "Cho, Yul-Mi",
+  "totalDecisions": 3644,
+  "grants": 129,
+  "denials": 39,
+  "removals": 1,
+  "absentia": 21,
+  "grantRate": 3.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 15385
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 743
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 734
+    },
+    {
+      "code": "POR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

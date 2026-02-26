@@ -1,0 +1,19 @@
+{
+  "code": "ao",
+  "slug": "ao",
+  "name": "Ao",
+  "totalDecisions": 3913,
+  "grants": 517,
+  "denials": 94,
+  "removals": 4,
+  "absentia": 1,
+  "grantRate": 13.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 3913
+    }
+  ]
+}

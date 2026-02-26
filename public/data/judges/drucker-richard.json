@@ -1,0 +1,64 @@
+{
+  "code": "RDD",
+  "slug": "drucker-richard",
+  "name": "Drucker, Richard",
+  "totalDecisions": 8352,
+  "grants": 635,
+  "denials": 24,
+  "removals": 0,
+  "absentia": 1269,
+  "grantRate": 7.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 5247
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 4032
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

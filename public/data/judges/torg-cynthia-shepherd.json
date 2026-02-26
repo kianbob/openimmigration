@@ -1,0 +1,64 @@
+{
+  "code": "CST",
+  "slug": "torg-cynthia-shepherd",
+  "name": "Torg, Cynthia Shepherd",
+  "totalDecisions": 6766,
+  "grants": 278,
+  "denials": 21,
+  "removals": 6,
+  "absentia": 1869,
+  "grantRate": 4.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 5396
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 2481
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 15
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

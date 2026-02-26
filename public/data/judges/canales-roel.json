@@ -1,0 +1,64 @@
+{
+  "code": "RLC",
+  "slug": "canales-roel",
+  "name": "Canales, Roel",
+  "totalDecisions": 4563,
+  "grants": 68,
+  "denials": 16,
+  "removals": 6,
+  "absentia": 845,
+  "grantRate": 1.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 5093
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

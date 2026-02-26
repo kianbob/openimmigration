@@ -1,0 +1,64 @@
+{
+  "code": "GAM",
+  "slug": "maiellano-gioia",
+  "name": "Maiellano, Gioia",
+  "totalDecisions": 3974,
+  "grants": 267,
+  "denials": 4,
+  "removals": 3,
+  "absentia": 1178,
+  "grantRate": 6.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9999
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

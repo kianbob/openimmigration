@@ -1,0 +1,24 @@
+{
+  "code": "MSF",
+  "slug": "frazer-molly-s",
+  "name": "Frazer, Molly S.",
+  "totalDecisions": 3982,
+  "grants": 94,
+  "denials": 50,
+  "removals": 2,
+  "absentia": 3,
+  "grantRate": 2.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 3975
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

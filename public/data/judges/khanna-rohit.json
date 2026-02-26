@@ -1,0 +1,64 @@
+{
+  "code": "RTK",
+  "slug": "khanna-rohit",
+  "name": "Khanna, Rohit",
+  "totalDecisions": 6813,
+  "grants": 49,
+  "denials": 8,
+  "removals": 8,
+  "absentia": 1066,
+  "grantRate": 0.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 12715
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "code": "JBS",
+  "slug": "beatmann-jerry-a-sr",
+  "name": "Beatmann, Jerry A., Sr.",
+  "totalDecisions": 14058,
+  "grants": 113,
+  "denials": 73,
+  "removals": 8,
+  "absentia": 60,
+  "grantRate": 0.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 7095
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 6163
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 471
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 265
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

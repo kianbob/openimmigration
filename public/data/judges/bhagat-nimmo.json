@@ -1,0 +1,64 @@
+{
+  "code": "BHA",
+  "slug": "bhagat-nimmo",
+  "name": "Bhagat, Nimmo",
+  "totalDecisions": 18082,
+  "grants": 699,
+  "denials": 67,
+  "removals": 39,
+  "absentia": 4833,
+  "grantRate": 3.9,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 19268
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 149
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

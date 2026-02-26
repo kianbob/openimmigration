@@ -1,0 +1,64 @@
+{
+  "code": "JSF",
+  "slug": "frederick-jeffrey",
+  "name": "Frederick, Jeffrey",
+  "totalDecisions": 8278,
+  "grants": 55,
+  "denials": 5,
+  "removals": 2,
+  "absentia": 781,
+  "grantRate": 0.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 21484
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1087
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 135
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

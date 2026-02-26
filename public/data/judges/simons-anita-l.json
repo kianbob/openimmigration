@@ -1,0 +1,64 @@
+{
+  "code": "ALS",
+  "slug": "simons-anita-l",
+  "name": "Simons, Anita L.",
+  "totalDecisions": 9139,
+  "grants": 953,
+  "denials": 115,
+  "removals": 99,
+  "absentia": 1664,
+  "grantRate": 10.4,
+  "removalRate": 1.1,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 11062
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

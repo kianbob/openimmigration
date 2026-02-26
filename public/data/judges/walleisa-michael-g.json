@@ -1,0 +1,64 @@
+{
+  "code": "MWA",
+  "slug": "walleisa-michael-g",
+  "name": "Walleisa, Michael G.",
+  "totalDecisions": 12759,
+  "grants": 252,
+  "denials": 24,
+  "removals": 5,
+  "absentia": 1628,
+  "grantRate": 2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 21960
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 1929
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

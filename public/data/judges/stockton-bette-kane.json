@@ -1,0 +1,49 @@
+{
+  "code": "BKS",
+  "slug": "stockton-bette-kane",
+  "name": "Stockton, Bette Kane",
+  "totalDecisions": 16848,
+  "grants": 3901,
+  "denials": 2397,
+  "removals": 2390,
+  "absentia": 1975,
+  "grantRate": 23.2,
+  "removalRate": 14.2,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 16558
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 159
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 82
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

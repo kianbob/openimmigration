@@ -1,0 +1,64 @@
+{
+  "code": "EKN",
+  "slug": "klein-eliza",
+  "name": "Klein, Eliza",
+  "totalDecisions": 22701,
+  "grants": 3301,
+  "denials": 885,
+  "removals": 830,
+  "absentia": 5056,
+  "grantRate": 14.5,
+  "removalRate": 3.7,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 14250
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6327
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1349
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 629
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JNM",
+  "slug": "mcphail-john",
+  "name": "Mcphail, John",
+  "totalDecisions": 6215,
+  "grants": 54,
+  "denials": 30,
+  "removals": 3,
+  "absentia": 983,
+  "grantRate": 0.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 3479
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 3007
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

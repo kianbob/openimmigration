@@ -1,0 +1,64 @@
+{
+  "code": "JCS",
+  "slug": "sponzo-jem-c",
+  "name": "Sponzo, Jem C.",
+  "totalDecisions": 13609,
+  "grants": 1539,
+  "denials": 37,
+  "removals": 31,
+  "absentia": 3315,
+  "grantRate": 11.3,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 18361
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 217
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

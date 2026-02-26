@@ -1,0 +1,64 @@
+{
+  "code": "ERT",
+  "slug": "trujillo-eileen-r",
+  "name": "Trujillo, Eileen R.",
+  "totalDecisions": 11880,
+  "grants": 1118,
+  "denials": 21,
+  "removals": 4,
+  "absentia": 2430,
+  "grantRate": 9.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 10570
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 434
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 383
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 294
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 78
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

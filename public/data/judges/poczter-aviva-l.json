@@ -1,0 +1,64 @@
+{
+  "code": "AVP",
+  "slug": "poczter-aviva-l",
+  "name": "Poczter, Aviva L.",
+  "totalDecisions": 13763,
+  "grants": 2682,
+  "denials": 51,
+  "removals": 24,
+  "absentia": 2207,
+  "grantRate": 19.5,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 7163
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7092
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 390
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 220
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 204
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 200
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 148
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 81
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 47
+    }
+  ]
+}

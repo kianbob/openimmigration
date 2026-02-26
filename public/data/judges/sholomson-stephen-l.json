@@ -1,0 +1,59 @@
+{
+  "code": "SLS",
+  "slug": "sholomson-stephen-l",
+  "name": "Sholomson, Stephen L.",
+  "totalDecisions": 15272,
+  "grants": 3019,
+  "denials": 1518,
+  "removals": 1509,
+  "absentia": 3459,
+  "grantRate": 19.8,
+  "removalRate": 9.9,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 13405
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 1848
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

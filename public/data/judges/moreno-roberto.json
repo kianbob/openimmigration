@@ -1,0 +1,34 @@
+{
+  "code": "RM",
+  "slug": "moreno-roberto",
+  "name": "Moreno, Roberto",
+  "totalDecisions": 6762,
+  "grants": 1081,
+  "denials": 470,
+  "removals": 463,
+  "absentia": 1950,
+  "grantRate": 16,
+  "removalRate": 6.8,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4388
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2319
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

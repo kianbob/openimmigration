@@ -1,0 +1,64 @@
+{
+  "code": "TMC",
+  "slug": "cole-timothy-m",
+  "name": "Cole, Timothy M.",
+  "totalDecisions": 10414,
+  "grants": 514,
+  "denials": 65,
+  "removals": 10,
+  "absentia": 996,
+  "grantRate": 4.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 5446
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4963
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 126
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 104
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

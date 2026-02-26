@@ -1,0 +1,19 @@
+{
+  "code": "ipf",
+  "slug": "ipf",
+  "name": "Ipf",
+  "totalDecisions": 191,
+  "grants": 5,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 7,
+  "grantRate": 2.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 191
+    }
+  ]
+}

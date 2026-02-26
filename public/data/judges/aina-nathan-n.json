@@ -1,0 +1,64 @@
+{
+  "code": "NNA",
+  "slug": "aina-nathan-n",
+  "name": "Aina, Nathan N.",
+  "totalDecisions": 11912,
+  "grants": 547,
+  "denials": 40,
+  "removals": 1,
+  "absentia": 1580,
+  "grantRate": 4.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 9232
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 8268
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 376
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 278
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 97
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "OMB",
+  "slug": "o-malley-brenda",
+  "name": "O'Malley, Brenda",
+  "totalDecisions": 21671,
+  "grants": 3255,
+  "denials": 80,
+  "removals": 65,
+  "absentia": 3503,
+  "grantRate": 15,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 31590
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 11
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "code": "LOW",
+  "slug": "chelmsford-2",
+  "name": "Chelmsford",
+  "state": "MA",
+  "address": "150 APOLLO DRIVE, STE 100",
+  "active": true,
+  "cases": 8136,
+  "completed": 11904,
+  "grants": 677,
+  "denials": 9,
+  "removals": 0,
+  "grantRate": 5.7,
+  "topNationalities": [
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "count": 2544
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "count": 2069
+    },
+    {
+      "code": "DR",
+      "name": "Dominican Republic",
+      "count": 474
+    },
+    {
+      "code": "ES",
+      "name": "El Salvador",
+      "count": 382
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "count": 373
+    },
+    {
+      "code": "HA",
+      "name": "Haiti",
+      "count": 337
+    },
+    {
+      "code": "HO",
+      "name": "Honduras",
+      "count": 335
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "count": 214
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "count": 166
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "count": 162
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "count": 108
+    },
+    {
+      "code": "DC",
+      "name": "Democratic Republic Of Congo",
+      "count": 105
+    },
+    {
+      "code": "NU",
+      "name": "Nicaragua",
+      "count": 81
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "count": 76
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "count": 66
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "count": 61
+    },
+    {
+      "code": "CF",
+      "name": "Congo",
+      "count": 60
+    },
+    {
+      "code": "CI",
+      "name": "Chile",
+      "count": 42
+    },
+    {
+      "code": "TU",
+      "name": "Turkey",
+      "count": 27
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "count": 27
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "SAA",
+      "name": "Ahmed, Sameer",
+      "decisions": 1226,
+      "grants": 93,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 7.6
+    },
+    {
+      "code": "AMO",
+      "name": "Munro, Angela",
+      "decisions": 1053,
+      "grants": 65,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 6.2
+    },
+    {
+      "code": "JBY",
+      "name": "Beverly, Jenny",
+      "decisions": 1019,
+      "grants": 69,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 6.8
+    },
+    {
+      "code": "LSY",
+      "name": "Saldana Mistry, Lucero",
+      "decisions": 988,
+      "grants": 50,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 5.1
+    },
+    {
+      "code": "GEP",
+      "name": "Pappas, George",
+      "decisions": 911,
+      "grants": 51,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 5.6
+    },
+    {
+      "code": "JMW",
+      "name": "Mcewen, Justin",
+      "decisions": 900,
+      "grants": 36,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 4
+    },
+    {
+      "code": "AMS",
+      "name": "Munson, Angela",
+      "decisions": 849,
+      "grants": 40,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 4.7
+    },
+    {
+      "code": "HAK",
+      "name": "Kubica, Hannah",
+      "decisions": 789,
+      "grants": 40,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 5.1
+    },
+    {
+      "code": "YMC",
+      "name": "Cho, Yul-Mi",
+      "decisions": 734,
+      "grants": 41,
+      "denials": 7,
+      "removals": 0,
+      "grantRate": 5.6
+    },
+    {
+      "code": "JAH",
+      "name": "Hall, Jonathan",
+      "decisions": 661,
+      "grants": 16,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 2.4
+    },
+    {
+      "code": "DDO",
+      "name": "Ostrom, Donald",
+      "decisions": 605,
+      "grants": 22,
+      "denials": 1,
+      "removals": 0,
+      "grantRate": 3.6
+    },
+    {
+      "code": "NIF",
+      "name": "Froes, Nina",
+      "decisions": 584,
+      "grants": 49,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 8.4
+    },
+    {
+      "code": "NSM",
+      "name": "Smith, Natalie",
+      "decisions": 497,
+      "grants": 52,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 10.5
+    },
+    {
+      "code": "NYG",
+      "name": "Griffiths, Nancy",
+      "decisions": 475,
+      "grants": 24,
+      "denials": 1,
+      "removals": 0,
+      "grantRate": 5.1
+    },
+    {
+      "code": "JAZ",
+      "name": "Menezes De Araujo, Juliana",
+      "decisions": 397,
+      "grants": 29,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 7.3
+    },
+    {
+      "code": "DC1",
+      "name": "Cheng, David",
+      "decisions": 55,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "HUL",
+      "name": "Le, Huy",
+      "decisions": 42,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "CEO",
+      "name": "Olson, Christine",
+      "decisions": 33,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "JMF",
+      "name": "Furlong, John M., Jr.",
+      "decisions": 8,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "ANE",
+      "name": "Roe, Adrian N.",
+      "decisions": 7,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "RLP",
+      "name": "Patel, Roopal",
+      "decisions": 7,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "ERG",
+      "name": "Gover, Erin",
+      "decisions": 7,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "MDD",
+      "name": "Donovan, Mark D.",
+      "decisions": 6,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "AWH",
+      "name": "Hewitt, Andrew",
+      "decisions": 3,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "MAU",
+      "name": "Ubarri, Maria",
+      "decisions": 3,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "GAR",
+      "name": "Reynolds, Gina",
+      "decisions": 2,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "MJS",
+      "name": "Sturla, Mario J.",
+      "decisions": 2,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "CRE",
+      "name": "Reis, Christine",
+      "decisions": 2,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "KSS",
+      "name": "Sogabe, Kenneth",
+      "decisions": 2,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "ACC",
+      "name": "Campos, Alisha C.",
+      "decisions": 2,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1991,
+      "cases": 1
+    },
+    {
+      "year": 2003,
+      "cases": 1
+    },
+    {
+      "year": 2006,
+      "cases": 1
+    },
+    {
+      "year": 2009,
+      "cases": 2
+    },
+    {
+      "year": 2010,
+      "cases": 1
+    },
+    {
+      "year": 2012,
+      "cases": 4
+    },
+    {
+      "year": 2013,
+      "cases": 8
+    },
+    {
+      "year": 2014,
+      "cases": 15
+    },
+    {
+      "year": 2015,
+      "cases": 48
+    },
+    {
+      "year": 2016,
+      "cases": 56
+    },
+    {
+      "year": 2017,
+      "cases": 162
+    },
+    {
+      "year": 2018,
+      "cases": 194
+    },
+    {
+      "year": 2019,
+      "cases": 256
+    },
+    {
+      "year": 2020,
+      "cases": 427
+    },
+    {
+      "year": 2021,
+      "cases": 450
+    },
+    {
+      "year": 2022,
+      "cases": 789
+    },
+    {
+      "year": 2023,
+      "cases": 888
+    },
+    {
+      "year": 2024,
+      "cases": 1640
+    },
+    {
+      "year": 2025,
+      "cases": 26
+    }
+  ]
+}

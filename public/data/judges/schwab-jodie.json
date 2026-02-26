@@ -1,0 +1,59 @@
+{
+  "code": "JDS",
+  "slug": "schwab-jodie",
+  "name": "Schwab, Jodie",
+  "totalDecisions": 898,
+  "grants": 33,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 52,
+  "grantRate": 3.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 884
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

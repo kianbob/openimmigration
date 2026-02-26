@@ -1,0 +1,49 @@
+{
+  "code": "JRS",
+  "slug": "masterson-jason-r",
+  "name": "Masterson, Jason R.",
+  "totalDecisions": 778,
+  "grants": 206,
+  "denials": 2,
+  "removals": 1,
+  "absentia": 20,
+  "grantRate": 26.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 758
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

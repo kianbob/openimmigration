@@ -1,0 +1,64 @@
+{
+  "code": "VBM",
+  "slug": "miles-vernon-benet",
+  "name": "Miles, Vernon Benet",
+  "totalDecisions": 4594,
+  "grants": 78,
+  "denials": 25,
+  "removals": 1,
+  "absentia": 1565,
+  "grantRate": 1.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 2444
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1757
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 235
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

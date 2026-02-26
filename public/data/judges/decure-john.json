@@ -1,0 +1,64 @@
+{
+  "code": "JDE",
+  "slug": "decure-john",
+  "name": "Decure, John",
+  "totalDecisions": 5458,
+  "grants": 296,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 984,
+  "grantRate": 5.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 7336
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 513
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

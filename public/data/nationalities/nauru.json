@@ -1,0 +1,86 @@
+{
+  "code": "NR",
+  "slug": "nauru",
+  "name": "Nauru",
+  "cases": 15,
+  "completed": 24,
+  "grants": 4,
+  "denials": 1,
+  "removals": 1,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1994,
+      "cases": 1
+    },
+    {
+      "year": 1996,
+      "cases": 1
+    },
+    {
+      "year": 1997,
+      "cases": 1
+    },
+    {
+      "year": 2014,
+      "cases": 2
+    }
+  ]
+}

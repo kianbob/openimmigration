@@ -1,0 +1,19 @@
+{
+  "code": "JNB",
+  "slug": "barnes-john",
+  "name": "Barnes, John",
+  "totalDecisions": 625,
+  "grants": 7,
+  "denials": 68,
+  "removals": 68,
+  "absentia": 21,
+  "grantRate": 1.1,
+  "removalRate": 10.9,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 625
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "SBN",
+  "slug": "brown-sam-iv",
+  "name": "Brown, Sam, Iv",
+  "totalDecisions": 10341,
+  "grants": 130,
+  "denials": 38,
+  "removals": 28,
+  "absentia": 2887,
+  "grantRate": 1.3,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 11637
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 121
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

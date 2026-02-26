@@ -1,0 +1,64 @@
+{
+  "code": "MLY",
+  "slug": "lurye-maria",
+  "name": "Lurye, Maria",
+  "totalDecisions": 8513,
+  "grants": 1587,
+  "denials": 16,
+  "removals": 13,
+  "absentia": 1786,
+  "grantRate": 18.6,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14913
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

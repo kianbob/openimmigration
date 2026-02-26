@@ -1,0 +1,64 @@
+{
+  "code": "ESS",
+  "slug": "saltzman-eva-s",
+  "name": "Saltzman, Eva S.",
+  "totalDecisions": 10721,
+  "grants": 959,
+  "denials": 44,
+  "removals": 9,
+  "absentia": 1299,
+  "grantRate": 8.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 17649
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 315
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "KED",
+  "slug": "dandelet-kyle",
+  "name": "Dandelet, Kyle",
+  "totalDecisions": 8343,
+  "grants": 785,
+  "denials": 14,
+  "removals": 12,
+  "absentia": 1975,
+  "grantRate": 9.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14299
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

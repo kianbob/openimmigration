@@ -1,0 +1,64 @@
+{
+  "code": "DB",
+  "slug": "burke-david",
+  "name": "Burke, David",
+  "totalDecisions": 15470,
+  "grants": 1664,
+  "denials": 165,
+  "removals": 80,
+  "absentia": 1399,
+  "grantRate": 10.8,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 6355
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 4496
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4172
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 228
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 65
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

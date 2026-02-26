@@ -1,0 +1,64 @@
+{
+  "code": "GAR",
+  "slug": "reynolds-gina",
+  "name": "Reynolds, Gina",
+  "totalDecisions": 9270,
+  "grants": 521,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 2763,
+  "grantRate": 5.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 22335
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 18
+    }
+  ]
+}

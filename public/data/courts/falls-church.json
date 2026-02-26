@@ -1,0 +1,33 @@
+{
+  "code": "FCI",
+  "slug": "falls-church",
+  "name": "Falls Church",
+  "state": "VA",
+  "address": "5107 LEESBURG PIKE",
+  "active": true,
+  "cases": 1,
+  "completed": 1,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topNationalities": [
+    {
+      "code": "BL",
+      "name": "Bolivia",
+      "count": 1
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "IAD",
+      "name": "Iad Judge",
+      "decisions": 1,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    }
+  ],
+  "yearlyTrend": []
+}

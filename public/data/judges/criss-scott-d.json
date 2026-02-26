@@ -1,0 +1,64 @@
+{
+  "code": "SC2",
+  "slug": "criss-scott-d",
+  "name": "Criss, Scott D.",
+  "totalDecisions": 24604,
+  "grants": 299,
+  "denials": 36,
+  "removals": 6,
+  "absentia": 10686,
+  "grantRate": 1.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 39609
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 3252
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 1694
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 1245
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 66
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 62
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "FJG",
+  "slug": "guzzo-fred-j",
+  "name": "Guzzo, Fred J.",
+  "totalDecisions": 169,
+  "grants": 1,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 97,
+  "grantRate": 0.6,
+  "removalRate": 0.6,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 169
+    }
+  ]
+}

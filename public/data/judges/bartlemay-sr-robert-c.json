@@ -1,0 +1,54 @@
+{
+  "code": "RCB",
+  "slug": "bartlemay-sr-robert-c",
+  "name": "Bartlemay Sr., Robert C.",
+  "totalDecisions": 5040,
+  "grants": 207,
+  "denials": 50,
+  "removals": 8,
+  "absentia": 253,
+  "grantRate": 4.1,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3089
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 1812
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 132
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

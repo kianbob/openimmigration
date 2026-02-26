@@ -1,0 +1,64 @@
+{
+  "code": "NHT",
+  "slug": "huddleston-natalie",
+  "name": "Huddleston, Natalie",
+  "totalDecisions": 6216,
+  "grants": 229,
+  "denials": 88,
+  "removals": 42,
+  "absentia": 256,
+  "grantRate": 3.7,
+  "removalRate": 0.7,
+  "courts": [
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 4787
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1390
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "code": "HGW",
+  "slug": "watkins-henry-g",
+  "name": "Watkins, Henry G.",
+  "totalDecisions": 7753,
+  "grants": 73,
+  "denials": 5161,
+  "removals": 5161,
+  "absentia": 410,
+  "grantRate": 0.9,
+  "removalRate": 66.6,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 7480
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 271
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

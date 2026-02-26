@@ -1,0 +1,64 @@
+{
+  "code": "JAH",
+  "slug": "hall-jonathan",
+  "name": "Hall, Jonathan",
+  "totalDecisions": 2324,
+  "grants": 130,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 33,
+  "grantRate": 5.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 2101
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 854
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 661
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

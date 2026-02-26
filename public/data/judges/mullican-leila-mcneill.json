@@ -1,0 +1,64 @@
+{
+  "code": "LMM",
+  "slug": "mullican-leila-mcneill",
+  "name": "Mullican, Leila Mcneill.",
+  "totalDecisions": 8891,
+  "grants": 581,
+  "denials": 36,
+  "removals": 11,
+  "absentia": 1270,
+  "grantRate": 6.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 24860
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 722
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

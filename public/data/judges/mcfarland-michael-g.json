@@ -1,0 +1,64 @@
+{
+  "code": "MMF",
+  "slug": "mcfarland-michael-g",
+  "name": "Mcfarland, Michael G.",
+  "totalDecisions": 7871,
+  "grants": 1051,
+  "denials": 32,
+  "removals": 15,
+  "absentia": 1206,
+  "grantRate": 13.4,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14040
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

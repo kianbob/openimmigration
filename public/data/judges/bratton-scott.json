@@ -1,0 +1,64 @@
+{
+  "code": "STB",
+  "slug": "bratton-scott",
+  "name": "Bratton, Scott",
+  "totalDecisions": 3873,
+  "grants": 291,
+  "denials": 3,
+  "removals": 1,
+  "absentia": 611,
+  "grantRate": 7.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "hearings": 9256
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 2705
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 197
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

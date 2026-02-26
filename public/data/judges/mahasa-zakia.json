@@ -1,0 +1,64 @@
+{
+  "code": "ZAM",
+  "slug": "mahasa-zakia",
+  "name": "Mahasa, Zakia",
+  "totalDecisions": 9703,
+  "grants": 790,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 2060,
+  "grantRate": 8.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 9667
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JCA",
+  "slug": "carle-john-b",
+  "name": "Carle, John B.",
+  "totalDecisions": 15975,
+  "grants": 1163,
+  "denials": 52,
+  "removals": 7,
+  "absentia": 3741,
+  "grantRate": 7.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 24825
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 667
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

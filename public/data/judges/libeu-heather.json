@@ -1,0 +1,64 @@
+{
+  "code": "HRL",
+  "slug": "libeu-heather",
+  "name": "Libeu, Heather",
+  "totalDecisions": 2908,
+  "grants": 105,
+  "denials": 7,
+  "removals": 0,
+  "absentia": 884,
+  "grantRate": 3.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3907
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

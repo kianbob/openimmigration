@@ -1,0 +1,64 @@
+{
+  "code": "XXX",
+  "slug": "former-immigration-judge",
+  "name": "Former Immigration Judge",
+  "totalDecisions": 2202,
+  "grants": 47,
+  "denials": 358,
+  "removals": 358,
+  "absentia": 195,
+  "grantRate": 2.1,
+  "removalRate": 16.3,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1590
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 189
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 118
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 106
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 64
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

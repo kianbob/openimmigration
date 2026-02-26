@@ -1,0 +1,59 @@
+{
+  "code": "MJC",
+  "slug": "creppy-michael-j",
+  "name": "Creppy, Michael J.",
+  "totalDecisions": 109,
+  "grants": 8,
+  "denials": 84,
+  "removals": 84,
+  "absentia": 0,
+  "grantRate": 7.3,
+  "removalRate": 77.1,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 85
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

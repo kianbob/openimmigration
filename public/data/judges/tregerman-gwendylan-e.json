@@ -1,0 +1,64 @@
+{
+  "code": "GET",
+  "slug": "tregerman-gwendylan-e",
+  "name": "Tregerman, Gwendylan E.",
+  "totalDecisions": 5626,
+  "grants": 593,
+  "denials": 29,
+  "removals": 9,
+  "absentia": 1136,
+  "grantRate": 10.5,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 4479
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 500
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 162
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 135
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 85
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

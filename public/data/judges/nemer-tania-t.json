@@ -1,0 +1,44 @@
+{
+  "code": "TTN",
+  "slug": "nemer-tania-t",
+  "name": "Nemer, Tania T.",
+  "totalDecisions": 1981,
+  "grants": 19,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 545,
+  "grantRate": 1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 1976
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

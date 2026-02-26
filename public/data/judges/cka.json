@@ -1,0 +1,34 @@
+{
+  "code": "cka",
+  "slug": "cka",
+  "name": "Cka",
+  "totalDecisions": 261,
+  "grants": 59,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 6,
+  "grantRate": 22.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 186
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 59
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

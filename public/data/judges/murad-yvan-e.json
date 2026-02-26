@@ -1,0 +1,64 @@
+{
+  "code": "YEM",
+  "slug": "murad-yvan-e",
+  "name": "Murad, Yvan E.",
+  "totalDecisions": 2354,
+  "grants": 77,
+  "denials": 24,
+  "removals": 19,
+  "absentia": 1021,
+  "grantRate": 3.3,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4576
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 84
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

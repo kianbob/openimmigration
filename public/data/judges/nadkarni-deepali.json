@@ -1,0 +1,64 @@
+{
+  "code": "DNM",
+  "slug": "nadkarni-deepali",
+  "name": "Nadkarni, Deepali",
+  "totalDecisions": 7275,
+  "grants": 536,
+  "denials": 26,
+  "removals": 20,
+  "absentia": 1642,
+  "grantRate": 7.4,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 5653
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 2771
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 13
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

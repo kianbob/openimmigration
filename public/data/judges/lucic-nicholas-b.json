@@ -1,0 +1,29 @@
+{
+  "code": "NIL",
+  "slug": "lucic-nicholas-b",
+  "name": "Lucic, Nicholas B.",
+  "totalDecisions": 619,
+  "grants": 0,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 1,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 990
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 93
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "code": "LAN",
+  "slug": "lancaster",
+  "name": "Lancaster",
+  "state": "CA",
+  "address": "45100 60TH ST., WEST",
+  "active": false,
+  "cases": 101,
+  "completed": 24,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topNationalities": [
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "count": 22
+    },
+    {
+      "code": "  ",
+      "name": "  ",
+      "count": 4
+    },
+    {
+      "code": "ES",
+      "name": "El Salvador",
+      "count": 4
+    },
+    {
+      "code": "RP",
+      "name": "Philippines",
+      "count": 4
+    },
+    {
+      "code": "SY",
+      "name": "Syria",
+      "count": 3
+    },
+    {
+      "code": "TU",
+      "name": "Turkey",
+      "count": 2
+    },
+    {
+      "code": "HO",
+      "name": "Honduras",
+      "count": 2
+    },
+    {
+      "code": "MO",
+      "name": "Morocco",
+      "count": 1
+    },
+    {
+      "code": "CH",
+      "name": "China",
+      "count": 1
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "count": 1
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "count": 1
+    },
+    {
+      "code": "DA",
+      "name": "Denmark",
+      "count": 1
+    },
+    {
+      "code": "TS",
+      "name": "Tunisia",
+      "count": 1
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "count": 1
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "count": 1
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "count": 1
+    },
+    {
+      "code": "LH",
+      "name": "Lithuania",
+      "count": 1
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "count": 1
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "count": 1
+    },
+    {
+      "code": "KS",
+      "name": "South Korea",
+      "count": 1
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "CLR",
+      "name": "Clerical Transfer Code",
+      "decisions": 24,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2002,
+      "cases": 1
+    },
+    {
+      "year": 2006,
+      "cases": 1
+    },
+    {
+      "year": 2007,
+      "cases": 6
+    },
+    {
+      "year": 2008,
+      "cases": 3
+    },
+    {
+      "year": 2011,
+      "cases": 1
+    }
+  ]
+}

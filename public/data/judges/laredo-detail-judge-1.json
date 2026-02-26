@@ -1,0 +1,29 @@
+{
+  "code": "X10",
+  "slug": "laredo-detail-judge-1",
+  "name": "Laredo Detail Judge 1",
+  "totalDecisions": 1210,
+  "grants": 37,
+  "denials": 20,
+  "removals": 0,
+  "absentia": 1,
+  "grantRate": 3.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 1200
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

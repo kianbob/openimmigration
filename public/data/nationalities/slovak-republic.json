@@ -1,0 +1,251 @@
+{
+  "code": "SR",
+  "slug": "slovak-republic",
+  "name": "Slovak Republic",
+  "cases": 1003,
+  "completed": 1788,
+  "grants": 190,
+  "denials": 78,
+  "removals": 65,
+  "grantRate": 10.6,
+  "topCourts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 166
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 151
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 70
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 54
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 49
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 47
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 39
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 33
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 31
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 31
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 25
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 20
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "count": 19
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 18
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 15
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 15
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 12
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 10
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1992,
+      "cases": 1
+    },
+    {
+      "year": 1993,
+      "cases": 1
+    },
+    {
+      "year": 1994,
+      "cases": 9
+    },
+    {
+      "year": 1995,
+      "cases": 30
+    },
+    {
+      "year": 1996,
+      "cases": 37
+    },
+    {
+      "year": 1997,
+      "cases": 40
+    },
+    {
+      "year": 1998,
+      "cases": 10
+    },
+    {
+      "year": 1999,
+      "cases": 23
+    },
+    {
+      "year": 2000,
+      "cases": 18
+    },
+    {
+      "year": 2001,
+      "cases": 18
+    },
+    {
+      "year": 2002,
+      "cases": 19
+    },
+    {
+      "year": 2003,
+      "cases": 23
+    },
+    {
+      "year": 2004,
+      "cases": 29
+    },
+    {
+      "year": 2005,
+      "cases": 20
+    },
+    {
+      "year": 2006,
+      "cases": 8
+    },
+    {
+      "year": 2007,
+      "cases": 9
+    },
+    {
+      "year": 2008,
+      "cases": 12
+    },
+    {
+      "year": 2009,
+      "cases": 10
+    },
+    {
+      "year": 2010,
+      "cases": 16
+    },
+    {
+      "year": 2011,
+      "cases": 3
+    },
+    {
+      "year": 2012,
+      "cases": 13
+    },
+    {
+      "year": 2013,
+      "cases": 12
+    },
+    {
+      "year": 2014,
+      "cases": 13
+    },
+    {
+      "year": 2015,
+      "cases": 17
+    },
+    {
+      "year": 2016,
+      "cases": 14
+    },
+    {
+      "year": 2017,
+      "cases": 15
+    },
+    {
+      "year": 2018,
+      "cases": 21
+    },
+    {
+      "year": 2019,
+      "cases": 15
+    },
+    {
+      "year": 2020,
+      "cases": 17
+    },
+    {
+      "year": 2021,
+      "cases": 13
+    },
+    {
+      "year": 2022,
+      "cases": 14
+    },
+    {
+      "year": 2023,
+      "cases": 12
+    },
+    {
+      "year": 2024,
+      "cases": 3
+    },
+    {
+      "year": 2025,
+      "cases": 6
+    }
+  ]
+}

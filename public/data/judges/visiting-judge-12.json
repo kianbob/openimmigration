@@ -1,0 +1,64 @@
+{
+  "code": "V12",
+  "slug": "visiting-judge-12",
+  "name": "Visiting Judge 12",
+  "totalDecisions": 278,
+  "grants": 1,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 3,
+  "grantRate": 0.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 208
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

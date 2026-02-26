@@ -1,0 +1,64 @@
+{
+  "code": "EDP",
+  "slug": "pieters-edwin",
+  "name": "Pieters, Edwin",
+  "totalDecisions": 1422,
+  "grants": 113,
+  "denials": 3,
+  "removals": 3,
+  "absentia": 343,
+  "grantRate": 7.9,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1387
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

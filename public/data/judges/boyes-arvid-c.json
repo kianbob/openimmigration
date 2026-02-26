@@ -1,0 +1,34 @@
+{
+  "code": "ACB",
+  "slug": "boyes-arvid-c",
+  "name": "Boyes, Arvid C.",
+  "totalDecisions": 11295,
+  "grants": 144,
+  "denials": 6116,
+  "removals": 6116,
+  "absentia": 779,
+  "grantRate": 1.3,
+  "removalRate": 54.1,
+  "courts": [
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 5863
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5428
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

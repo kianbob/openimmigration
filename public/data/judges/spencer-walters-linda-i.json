@@ -1,0 +1,64 @@
+{
+  "code": "LSW",
+  "slug": "spencer-walters-linda-i",
+  "name": "Spencer-Walters, Linda I.",
+  "totalDecisions": 22375,
+  "grants": 636,
+  "denials": 130,
+  "removals": 22,
+  "absentia": 732,
+  "grantRate": 2.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 16849
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 5453
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

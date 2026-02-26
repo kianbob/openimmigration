@@ -1,0 +1,39 @@
+{
+  "code": "NSF",
+  "slug": "foster-neale",
+  "name": "Foster, Neale",
+  "totalDecisions": 16844,
+  "grants": 96,
+  "denials": 2662,
+  "removals": 2609,
+  "absentia": 357,
+  "grantRate": 0.6,
+  "removalRate": 15.5,
+  "courts": [
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 14390
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2439
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

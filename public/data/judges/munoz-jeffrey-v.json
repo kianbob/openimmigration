@@ -1,0 +1,44 @@
+{
+  "code": "JVM",
+  "slug": "munoz-jeffrey-v",
+  "name": "Munoz, Jeffrey V.",
+  "totalDecisions": 11890,
+  "grants": 240,
+  "denials": 11,
+  "removals": 0,
+  "absentia": 688,
+  "grantRate": 2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 12145
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

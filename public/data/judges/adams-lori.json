@@ -1,0 +1,64 @@
+{
+  "code": "LIA",
+  "slug": "adams-lori",
+  "name": "Adams, Lori",
+  "totalDecisions": 6278,
+  "grants": 770,
+  "denials": 14,
+  "removals": 12,
+  "absentia": 1069,
+  "grantRate": 12.3,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 13547
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

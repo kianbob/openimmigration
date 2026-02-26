@@ -1,0 +1,64 @@
+{
+  "code": "VGU",
+  "slug": "gordon-uruakpa-vivienne-e",
+  "name": "Gordon-Uruakpa, Vivienne E.",
+  "totalDecisions": 17083,
+  "grants": 5894,
+  "denials": 84,
+  "removals": 61,
+  "absentia": 2163,
+  "grantRate": 34.5,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 22608
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 11
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "GRN",
+  "slug": "najjar-george-r",
+  "name": "Najjar, George R.",
+  "totalDecisions": 2995,
+  "grants": 84,
+  "denials": 8,
+  "removals": 6,
+  "absentia": 335,
+  "grantRate": 2.8,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 2875
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 102
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 2
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

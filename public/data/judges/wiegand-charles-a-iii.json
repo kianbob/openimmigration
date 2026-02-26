@@ -1,0 +1,59 @@
+{
+  "code": "CAW",
+  "slug": "wiegand-charles-a-iii",
+  "name": "Wiegand, Charles A., Iii",
+  "totalDecisions": 12358,
+  "grants": 322,
+  "denials": 4340,
+  "removals": 4328,
+  "absentia": 251,
+  "grantRate": 2.6,
+  "removalRate": 35,
+  "courts": [
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 11209
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 530
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 197
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 195
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 140
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 72
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

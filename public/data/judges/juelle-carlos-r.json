@@ -1,0 +1,64 @@
+{
+  "code": "CRJ",
+  "slug": "juelle-carlos-r",
+  "name": "Juelle, Carlos R.",
+  "totalDecisions": 10193,
+  "grants": 461,
+  "denials": 122,
+  "removals": 103,
+  "absentia": 2461,
+  "grantRate": 4.5,
+  "removalRate": 1,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 12670
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

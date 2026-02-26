@@ -1,0 +1,64 @@
+{
+  "code": "JVJ",
+  "slug": "johnson-jeremiah",
+  "name": "Johnson, Jeremiah",
+  "totalDecisions": 7968,
+  "grants": 1642,
+  "denials": 10,
+  "removals": 5,
+  "absentia": 980,
+  "grantRate": 20.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 12860
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 835
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 355
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 110
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 66
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 61
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

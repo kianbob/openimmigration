@@ -1,0 +1,29 @@
+{
+  "code": "TYF",
+  "slug": "tyf",
+  "name": "Tyf",
+  "totalDecisions": 140,
+  "grants": 10,
+  "denials": 28,
+  "removals": 28,
+  "absentia": 25,
+  "grantRate": 7.1,
+  "removalRate": 20,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 106
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

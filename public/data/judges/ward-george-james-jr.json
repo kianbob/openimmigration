@@ -1,0 +1,64 @@
+{
+  "code": "GJW",
+  "slug": "ward-george-james-jr",
+  "name": "Ward, George James, Jr.",
+  "totalDecisions": 4426,
+  "grants": 207,
+  "denials": 20,
+  "removals": 0,
+  "absentia": 446,
+  "grantRate": 4.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 984
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 975
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 883
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 566
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 432
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 403
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 347
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 105
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 82
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 42
+    }
+  ]
+}

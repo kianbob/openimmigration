@@ -1,0 +1,64 @@
+{
+  "code": "DDW",
+  "slug": "white-david",
+  "name": "White, David",
+  "totalDecisions": 1209,
+  "grants": 23,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 50,
+  "grantRate": 1.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 764
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 671
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 77
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

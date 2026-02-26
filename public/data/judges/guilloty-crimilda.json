@@ -1,0 +1,64 @@
+{
+  "code": "GUC",
+  "slug": "guilloty-crimilda",
+  "name": "Guilloty, Crimilda",
+  "totalDecisions": 4099,
+  "grants": 539,
+  "denials": 21,
+  "removals": 15,
+  "absentia": 542,
+  "grantRate": 13.1,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 3270
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 430
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 287
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "TCC",
+  "slug": "christian-terry-c",
+  "name": "Christian, Terry C.",
+  "totalDecisions": 687,
+  "grants": 113,
+  "denials": 21,
+  "removals": 9,
+  "absentia": 147,
+  "grantRate": 16.4,
+  "removalRate": 1.3,
+  "courts": [
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 687
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "FGL",
+  "slug": "leeds-frederic-g",
+  "name": "Leeds, Frederic G.",
+  "totalDecisions": 17526,
+  "grants": 3049,
+  "denials": 86,
+  "removals": 79,
+  "absentia": 3165,
+  "grantRate": 17.4,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 18275
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 6064
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 121
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 113
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 15
+    }
+  ]
+}

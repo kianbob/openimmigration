@@ -1,0 +1,64 @@
+{
+  "code": "KCW",
+  "slug": "williams-keith-c",
+  "name": "Williams, Keith C.",
+  "totalDecisions": 20113,
+  "grants": 1572,
+  "denials": 5132,
+  "removals": 5115,
+  "absentia": 3075,
+  "grantRate": 7.8,
+  "removalRate": 25.4,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 13823
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 5462
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 299
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 228
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 173
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 84
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

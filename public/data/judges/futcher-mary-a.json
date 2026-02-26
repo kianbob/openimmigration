@@ -1,0 +1,64 @@
+{
+  "code": "MAF",
+  "slug": "futcher-mary-a",
+  "name": "Futcher, Mary A.",
+  "totalDecisions": 3576,
+  "grants": 43,
+  "denials": 3,
+  "removals": 3,
+  "absentia": 1046,
+  "grantRate": 1.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 6708
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "code": "BI",
+  "slug": "bosnia-herzegovina",
+  "name": "Bosnia-Herzegovina",
+  "cases": 2155,
+  "completed": 3457,
+  "grants": 758,
+  "denials": 34,
+  "removals": 26,
+  "grantRate": 21.9,
+  "topCourts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 242
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 191
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 166
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 132
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 119
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 106
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 97
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 67
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "count": 59
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 55
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 55
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "count": 48
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 48
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 47
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 44
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "count": 40
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 39
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "count": 38
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "count": 36
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 34
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1993,
+      "cases": 4
+    },
+    {
+      "year": 1994,
+      "cases": 13
+    },
+    {
+      "year": 1995,
+      "cases": 31
+    },
+    {
+      "year": 1996,
+      "cases": 42
+    },
+    {
+      "year": 1997,
+      "cases": 18
+    },
+    {
+      "year": 1998,
+      "cases": 13
+    },
+    {
+      "year": 1999,
+      "cases": 13
+    },
+    {
+      "year": 2000,
+      "cases": 25
+    },
+    {
+      "year": 2001,
+      "cases": 38
+    },
+    {
+      "year": 2002,
+      "cases": 36
+    },
+    {
+      "year": 2003,
+      "cases": 40
+    },
+    {
+      "year": 2004,
+      "cases": 25
+    },
+    {
+      "year": 2005,
+      "cases": 42
+    },
+    {
+      "year": 2006,
+      "cases": 33
+    },
+    {
+      "year": 2007,
+      "cases": 20
+    },
+    {
+      "year": 2008,
+      "cases": 29
+    },
+    {
+      "year": 2009,
+      "cases": 10
+    },
+    {
+      "year": 2010,
+      "cases": 22
+    },
+    {
+      "year": 2011,
+      "cases": 21
+    },
+    {
+      "year": 2012,
+      "cases": 32
+    },
+    {
+      "year": 2013,
+      "cases": 47
+    },
+    {
+      "year": 2014,
+      "cases": 49
+    },
+    {
+      "year": 2015,
+      "cases": 56
+    },
+    {
+      "year": 2016,
+      "cases": 64
+    },
+    {
+      "year": 2017,
+      "cases": 74
+    },
+    {
+      "year": 2018,
+      "cases": 55
+    },
+    {
+      "year": 2019,
+      "cases": 65
+    },
+    {
+      "year": 2020,
+      "cases": 39
+    },
+    {
+      "year": 2021,
+      "cases": 20
+    },
+    {
+      "year": 2022,
+      "cases": 40
+    },
+    {
+      "year": 2023,
+      "cases": 29
+    },
+    {
+      "year": 2024,
+      "cases": 38
+    },
+    {
+      "year": 2025,
+      "cases": 15
+    },
+    {
+      "year": 2026,
+      "cases": 1
+    }
+  ]
+}

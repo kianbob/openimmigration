@@ -1,0 +1,64 @@
+{
+  "code": "ANE",
+  "slug": "roe-adrian-n",
+  "name": "Roe, Adrian N.",
+  "totalDecisions": 599,
+  "grants": 145,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 25,
+  "grantRate": 24.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 580
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

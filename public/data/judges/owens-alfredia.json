@@ -1,0 +1,24 @@
+{
+  "code": "AAO",
+  "slug": "owens-alfredia",
+  "name": "Owens, Alfredia",
+  "totalDecisions": 120,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 3,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 117
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

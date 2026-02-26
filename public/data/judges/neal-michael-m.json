@@ -1,0 +1,64 @@
+{
+  "code": "MMN",
+  "slug": "neal-michael-m",
+  "name": "Neal, Michael M.",
+  "totalDecisions": 4124,
+  "grants": 85,
+  "denials": 13,
+  "removals": 9,
+  "absentia": 566,
+  "grantRate": 2.1,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 20381
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 526
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

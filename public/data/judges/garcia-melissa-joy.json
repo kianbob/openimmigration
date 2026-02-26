@@ -1,0 +1,64 @@
+{
+  "code": "MJG",
+  "slug": "garcia-melissa-joy",
+  "name": "Garcia, Melissa Joy",
+  "totalDecisions": 6252,
+  "grants": 72,
+  "denials": 8,
+  "removals": 8,
+  "absentia": 1626,
+  "grantRate": 1.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4115
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1631
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 302
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 130
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 89
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

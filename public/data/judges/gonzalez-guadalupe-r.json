@@ -1,0 +1,64 @@
+{
+  "code": "GRG",
+  "slug": "gonzalez-guadalupe-r",
+  "name": "Gonzalez, Guadalupe R.",
+  "totalDecisions": 9445,
+  "grants": 138,
+  "denials": 30,
+  "removals": 7,
+  "absentia": 730,
+  "grantRate": 1.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 3368
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3013
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 3013
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "code": "GNB",
+  "slug": "boone-gaylyn-n",
+  "name": "Boone, Gaylyn N.",
+  "totalDecisions": 10528,
+  "grants": 370,
+  "denials": 123,
+  "removals": 122,
+  "absentia": 521,
+  "grantRate": 3.5,
+  "removalRate": 1.2,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 10474
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

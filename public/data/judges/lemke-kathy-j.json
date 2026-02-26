@@ -1,0 +1,64 @@
+{
+  "code": "LEM",
+  "slug": "lemke-kathy-j",
+  "name": "Lemke, Kathy J.",
+  "totalDecisions": 1799,
+  "grants": 146,
+  "denials": 5,
+  "removals": 1,
+  "absentia": 204,
+  "grantRate": 8.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 1761
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

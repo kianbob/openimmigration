@@ -1,0 +1,64 @@
+{
+  "code": "LD",
+  "slug": "dornell-lisa",
+  "name": "Dornell, Lisa",
+  "totalDecisions": 19527,
+  "grants": 3598,
+  "denials": 379,
+  "removals": 332,
+  "absentia": 5356,
+  "grantRate": 18.4,
+  "removalRate": 1.7,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 18878
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 318
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 106
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

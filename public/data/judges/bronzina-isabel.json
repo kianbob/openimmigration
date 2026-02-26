@@ -1,0 +1,49 @@
+{
+  "code": "IBB",
+  "slug": "bronzina-isabel",
+  "name": "Bronzina, Isabel",
+  "totalDecisions": 15493,
+  "grants": 1487,
+  "denials": 4016,
+  "removals": 4010,
+  "absentia": 2842,
+  "grantRate": 9.6,
+  "removalRate": 25.9,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 10479
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4887
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 112
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

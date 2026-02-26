@@ -1,0 +1,34 @@
+{
+  "code": "ATB",
+  "slug": "bogdan-attila",
+  "name": "Bogdan, Attila",
+  "totalDecisions": 419,
+  "grants": 1,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 0.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 672
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 149
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

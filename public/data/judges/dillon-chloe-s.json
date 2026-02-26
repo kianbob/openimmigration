@@ -1,0 +1,64 @@
+{
+  "code": "CSD",
+  "slug": "dillon-chloe-s",
+  "name": "Dillon, Chloe S.",
+  "totalDecisions": 3859,
+  "grants": 704,
+  "denials": 5,
+  "removals": 4,
+  "absentia": 234,
+  "grantRate": 18.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 9029
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

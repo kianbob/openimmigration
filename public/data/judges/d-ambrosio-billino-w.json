@@ -1,0 +1,44 @@
+{
+  "code": "BWD",
+  "slug": "d-ambrosio-billino-w",
+  "name": "D'Ambrosio, Billino W",
+  "totalDecisions": 8975,
+  "grants": 902,
+  "denials": 2780,
+  "removals": 2774,
+  "absentia": 2007,
+  "grantRate": 10.1,
+  "removalRate": 30.9,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 6359
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 2592
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

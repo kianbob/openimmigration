@@ -1,0 +1,64 @@
+{
+  "code": "PKB",
+  "slug": "burke-patrick",
+  "name": "Burke, Patrick",
+  "totalDecisions": 3337,
+  "grants": 24,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 1322,
+  "grantRate": 0.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 8843
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 85
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "HEW",
+  "slug": "windrow-hayden-e",
+  "name": "Windrow, Hayden E.",
+  "totalDecisions": 5998,
+  "grants": 671,
+  "denials": 26,
+  "removals": 2,
+  "absentia": 864,
+  "grantRate": 11.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 11659
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

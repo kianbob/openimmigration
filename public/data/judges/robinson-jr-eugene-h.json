@@ -1,0 +1,39 @@
+{
+  "code": "EHR",
+  "slug": "robinson-jr-eugene-h",
+  "name": "Robinson Jr., Eugene H.",
+  "totalDecisions": 7503,
+  "grants": 264,
+  "denials": 30,
+  "removals": 2,
+  "absentia": 86,
+  "grantRate": 3.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 4407
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 3422
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

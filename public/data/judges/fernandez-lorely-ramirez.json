@@ -1,0 +1,64 @@
+{
+  "code": "LFZ",
+  "slug": "fernandez-lorely-ramirez",
+  "name": "Fernandez, Lorely Ramirez",
+  "totalDecisions": 15989,
+  "grants": 192,
+  "denials": 14,
+  "removals": 2,
+  "absentia": 2336,
+  "grantRate": 1.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 13966
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2039
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 1722
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 620
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 469
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 163
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 115
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 76
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 66
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 21
+    }
+  ]
+}

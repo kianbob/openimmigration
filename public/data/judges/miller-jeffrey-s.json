@@ -1,0 +1,64 @@
+{
+  "code": "JSM",
+  "slug": "miller-jeffrey-s",
+  "name": "Miller, Jeffrey S.",
+  "totalDecisions": 1409,
+  "grants": 204,
+  "denials": 14,
+  "removals": 12,
+  "absentia": 300,
+  "grantRate": 14.5,
+  "removalRate": 0.9,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 990
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 377
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

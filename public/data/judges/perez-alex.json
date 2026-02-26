@@ -1,0 +1,64 @@
+{
+  "code": "AXP",
+  "slug": "perez-alex",
+  "name": "Perez, Alex",
+  "totalDecisions": 6453,
+  "grants": 91,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 1129,
+  "grantRate": 1.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 7380
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 423
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

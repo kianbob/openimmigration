@@ -1,0 +1,64 @@
+{
+  "code": "LL1",
+  "slug": "lukose-lolita-m",
+  "name": "Lukose, Lolita M.",
+  "totalDecisions": 6106,
+  "grants": 424,
+  "denials": 15,
+  "removals": 1,
+  "absentia": 1337,
+  "grantRate": 6.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 4754
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 2582
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 6
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

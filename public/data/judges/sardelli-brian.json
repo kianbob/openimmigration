@@ -1,0 +1,64 @@
+{
+  "code": "BSI",
+  "slug": "sardelli-brian",
+  "name": "Sardelli, Brian",
+  "totalDecisions": 13215,
+  "grants": 214,
+  "denials": 8,
+  "removals": 1,
+  "absentia": 4897,
+  "grantRate": 1.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 19960
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

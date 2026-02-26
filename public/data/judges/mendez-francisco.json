@@ -1,0 +1,64 @@
+{
+  "code": "FMZ",
+  "slug": "mendez-francisco",
+  "name": "Mendez, Francisco",
+  "totalDecisions": 7962,
+  "grants": 555,
+  "denials": 10,
+  "removals": 4,
+  "absentia": 2001,
+  "grantRate": 7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 6440
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 2793
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 16
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "ING",
+  "slug": "ghasri-iman",
+  "name": "Ghasri, Iman",
+  "totalDecisions": 5109,
+  "grants": 191,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 1114,
+  "grantRate": 3.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 6237
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

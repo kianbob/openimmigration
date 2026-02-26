@@ -1,0 +1,64 @@
+{
+  "code": "DDB",
+  "slug": "dunkel-bradley-dorothy",
+  "name": "Dunkel-Bradley, Dorothy",
+  "totalDecisions": 14061,
+  "grants": 2671,
+  "denials": 482,
+  "removals": 459,
+  "absentia": 3176,
+  "grantRate": 19,
+  "removalRate": 3.3,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 13863
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 61
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 60
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

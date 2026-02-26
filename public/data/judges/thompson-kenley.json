@@ -1,0 +1,64 @@
+{
+  "code": "KYT",
+  "slug": "thompson-kenley",
+  "name": "Thompson, Kenley",
+  "totalDecisions": 5796,
+  "grants": 46,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 1468,
+  "grantRate": 0.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 5754
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

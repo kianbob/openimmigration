@@ -1,0 +1,49 @@
+{
+  "code": "TMR",
+  "slug": "ragno-thomas-m",
+  "name": "Ragno, Thomas M.",
+  "totalDecisions": 15491,
+  "grants": 1020,
+  "denials": 4049,
+  "removals": 4034,
+  "absentia": 4993,
+  "grantRate": 6.6,
+  "removalRate": 26,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 9922
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 4545
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 732
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 278
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

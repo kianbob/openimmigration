@@ -1,0 +1,64 @@
+{
+  "code": "CB1",
+  "slug": "brown-charlotte-d",
+  "name": "Brown, Charlotte D.",
+  "totalDecisions": 17505,
+  "grants": 412,
+  "denials": 28,
+  "removals": 21,
+  "absentia": 5237,
+  "grantRate": 2.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 20933
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2881
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2769
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 1306
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 111
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 67
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

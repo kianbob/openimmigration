@@ -1,0 +1,140 @@
+{
+  "code": "GI",
+  "slug": "gibraltar",
+  "name": "Gibraltar",
+  "cases": 25,
+  "completed": 52,
+  "grants": 3,
+  "denials": 1,
+  "removals": 1,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 1
+    },
+    {
+      "year": 1997,
+      "cases": 1
+    },
+    {
+      "year": 1998,
+      "cases": 1
+    },
+    {
+      "year": 1999,
+      "cases": 1
+    },
+    {
+      "year": 2001,
+      "cases": 3
+    },
+    {
+      "year": 2003,
+      "cases": 1
+    },
+    {
+      "year": 2014,
+      "cases": 1
+    },
+    {
+      "year": 2015,
+      "cases": 1
+    },
+    {
+      "year": 2021,
+      "cases": 1
+    },
+    {
+      "year": 2025,
+      "cases": 1
+    }
+  ]
+}

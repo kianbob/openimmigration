@@ -1,0 +1,64 @@
+{
+  "code": "RDC",
+  "slug": "cato-richard",
+  "name": "Cato, Richard",
+  "totalDecisions": 7593,
+  "grants": 128,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 1097,
+  "grantRate": 1.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 20277
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 764
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 4
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

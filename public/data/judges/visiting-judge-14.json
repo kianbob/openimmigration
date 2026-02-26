@@ -1,0 +1,59 @@
+{
+  "code": "V14",
+  "slug": "visiting-judge-14",
+  "name": "Visiting Judge 14",
+  "totalDecisions": 186,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 157
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

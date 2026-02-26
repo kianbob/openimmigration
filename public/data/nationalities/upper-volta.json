@@ -1,0 +1,93 @@
+{
+  "code": "UV",
+  "slug": "upper-volta",
+  "name": "Upper Volta",
+  "cases": 19,
+  "completed": 39,
+  "grants": 2,
+  "denials": 1,
+  "removals": 1,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1991,
+      "cases": 1
+    },
+    {
+      "year": 1995,
+      "cases": 1
+    },
+    {
+      "year": 2013,
+      "cases": 1
+    },
+    {
+      "year": 2015,
+      "cases": 1
+    },
+    {
+      "year": 2022,
+      "cases": 2
+    },
+    {
+      "year": 2023,
+      "cases": 3
+    },
+    {
+      "year": 2024,
+      "cases": 1
+    }
+  ]
+}

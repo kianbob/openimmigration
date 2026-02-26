@@ -1,0 +1,64 @@
+{
+  "code": "RWD",
+  "slug": "ward-robert-q",
+  "name": "Ward, Robert Q.",
+  "totalDecisions": 12191,
+  "grants": 202,
+  "denials": 7,
+  "removals": 0,
+  "absentia": 2706,
+  "grantRate": 1.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 21259
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

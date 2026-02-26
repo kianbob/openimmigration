@@ -1,0 +1,64 @@
+{
+  "code": "KWS",
+  "slug": "schulz-karen-w",
+  "name": "Schulz, Karen W.",
+  "totalDecisions": 6803,
+  "grants": 701,
+  "denials": 17,
+  "removals": 3,
+  "absentia": 685,
+  "grantRate": 10.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 12345
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 160
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 108
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

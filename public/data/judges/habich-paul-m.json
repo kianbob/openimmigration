@@ -1,0 +1,64 @@
+{
+  "code": "PMH",
+  "slug": "habich-paul-m",
+  "name": "Habich, Paul M.",
+  "totalDecisions": 16489,
+  "grants": 463,
+  "denials": 71,
+  "removals": 10,
+  "absentia": 1419,
+  "grantRate": 2.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 9880
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 8456
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 1670
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

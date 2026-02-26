@@ -1,0 +1,64 @@
+{
+  "code": "JLJ",
+  "slug": "jones-jason",
+  "name": "Jones, Jason",
+  "totalDecisions": 5392,
+  "grants": 67,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 922,
+  "grantRate": 1.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 4709
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 281
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 129
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 64
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 16
+    }
+  ]
+}

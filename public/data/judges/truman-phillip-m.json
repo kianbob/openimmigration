@@ -1,0 +1,64 @@
+{
+  "code": "PMT",
+  "slug": "truman-phillip-m",
+  "name": "Truman, Phillip M.",
+  "totalDecisions": 11295,
+  "grants": 1222,
+  "denials": 30,
+  "removals": 3,
+  "absentia": 2487,
+  "grantRate": 10.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 17039
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 1117
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 89
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

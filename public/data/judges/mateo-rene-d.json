@@ -1,0 +1,64 @@
+{
+  "code": "RDM",
+  "slug": "mateo-rene-d",
+  "name": "Mateo, Rene D.",
+  "totalDecisions": 17492,
+  "grants": 805,
+  "denials": 85,
+  "removals": 54,
+  "absentia": 2348,
+  "grantRate": 4.6,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 27569
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 1290
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 794
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 141
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

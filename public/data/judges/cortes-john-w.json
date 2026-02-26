@@ -1,0 +1,64 @@
+{
+  "code": "JOC",
+  "slug": "cortes-john-w",
+  "name": "Cortes, John W.",
+  "totalDecisions": 13273,
+  "grants": 433,
+  "denials": 53,
+  "removals": 14,
+  "absentia": 1894,
+  "grantRate": 3.3,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 10337
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4622
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 825
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 752
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 172
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

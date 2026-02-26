@@ -1,0 +1,64 @@
+{
+  "code": "CLG",
+  "slug": "lafuente-cynthia",
+  "name": "Lafuente, Cynthia",
+  "totalDecisions": 16805,
+  "grants": 304,
+  "denials": 63,
+  "removals": 53,
+  "absentia": 4656,
+  "grantRate": 1.8,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 24346
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 1527
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 696
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

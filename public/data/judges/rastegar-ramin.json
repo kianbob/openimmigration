@@ -1,0 +1,64 @@
+{
+  "code": "RR2",
+  "slug": "rastegar-ramin",
+  "name": "Rastegar, Ramin",
+  "totalDecisions": 15863,
+  "grants": 768,
+  "denials": 49,
+  "removals": 37,
+  "absentia": 2872,
+  "grantRate": 4.8,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 29136
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 1911
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

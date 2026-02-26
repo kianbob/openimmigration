@@ -1,0 +1,64 @@
+{
+  "code": "MZR",
+  "slug": "ramos-maritza-s",
+  "name": "Ramos, Maritza S.",
+  "totalDecisions": 6996,
+  "grants": 120,
+  "denials": 40,
+  "removals": 32,
+  "absentia": 2064,
+  "grantRate": 1.7,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 7957
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

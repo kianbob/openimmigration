@@ -1,0 +1,59 @@
+{
+  "code": "CDB",
+  "slug": "bernardis-craig-de",
+  "name": "Bernardis, Craig De",
+  "totalDecisions": 8089,
+  "grants": 1184,
+  "denials": 1821,
+  "removals": 1821,
+  "absentia": 1398,
+  "grantRate": 14.6,
+  "removalRate": 22.5,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 4429
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2104
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 609
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 573
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 317
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

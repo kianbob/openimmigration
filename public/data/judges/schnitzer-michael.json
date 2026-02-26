@@ -1,0 +1,59 @@
+{
+  "code": "MLS",
+  "slug": "schnitzer-michael",
+  "name": "Schnitzer, Michael",
+  "totalDecisions": 5647,
+  "grants": 157,
+  "denials": 29,
+  "removals": 3,
+  "absentia": 98,
+  "grantRate": 2.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4141
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 1233
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 197
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 171
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

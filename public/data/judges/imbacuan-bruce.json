@@ -1,0 +1,64 @@
+{
+  "code": "BIM",
+  "slug": "imbacuan-bruce",
+  "name": "Imbacuan, Bruce",
+  "totalDecisions": 6406,
+  "grants": 130,
+  "denials": 18,
+  "removals": 0,
+  "absentia": 1425,
+  "grantRate": 2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 11507
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 140
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 139
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

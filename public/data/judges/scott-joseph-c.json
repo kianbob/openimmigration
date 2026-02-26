@@ -1,0 +1,64 @@
+{
+  "code": "JHS",
+  "slug": "scott-joseph-c",
+  "name": "Scott, Joseph C.",
+  "totalDecisions": 11090,
+  "grants": 442,
+  "denials": 14,
+  "removals": 6,
+  "absentia": 2871,
+  "grantRate": 4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 20977
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

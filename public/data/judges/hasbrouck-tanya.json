@@ -1,0 +1,29 @@
+{
+  "code": "TAH",
+  "slug": "hasbrouck-tanya",
+  "name": "Hasbrouck, Tanya",
+  "totalDecisions": 1187,
+  "grants": 41,
+  "denials": 29,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 3.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 1164
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

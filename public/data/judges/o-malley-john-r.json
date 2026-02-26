@@ -1,0 +1,64 @@
+{
+  "code": "JRO",
+  "slug": "o-malley-john-r",
+  "name": "O'Malley, John R.",
+  "totalDecisions": 9668,
+  "grants": 814,
+  "denials": 20,
+  "removals": 10,
+  "absentia": 1476,
+  "grantRate": 8.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 9631
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

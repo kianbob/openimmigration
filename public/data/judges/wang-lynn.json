@@ -1,0 +1,64 @@
+{
+  "code": "LWA",
+  "slug": "wang-lynn",
+  "name": "Wang, Lynn",
+  "totalDecisions": 8302,
+  "grants": 53,
+  "denials": 46,
+  "removals": 37,
+  "absentia": 1832,
+  "grantRate": 0.6,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 9179
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 490
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 158
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

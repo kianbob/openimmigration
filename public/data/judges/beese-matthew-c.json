@@ -1,0 +1,19 @@
+{
+  "code": "MCB",
+  "slug": "beese-matthew-c",
+  "name": "Beese, Matthew C.",
+  "totalDecisions": 419,
+  "grants": 2,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 90,
+  "grantRate": 0.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 656
+    }
+  ]
+}

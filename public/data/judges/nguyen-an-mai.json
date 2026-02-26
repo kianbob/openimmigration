@@ -1,0 +1,64 @@
+{
+  "code": "AMN",
+  "slug": "nguyen-an-mai",
+  "name": "Nguyen, An Mai",
+  "totalDecisions": 13120,
+  "grants": 749,
+  "denials": 22,
+  "removals": 8,
+  "absentia": 1712,
+  "grantRate": 5.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 15584
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 859
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

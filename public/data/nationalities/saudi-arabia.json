@@ -1,0 +1,259 @@
+{
+  "code": "SA",
+  "slug": "saudi-arabia",
+  "name": "Saudi Arabia",
+  "cases": 2869,
+  "completed": 4657,
+  "grants": 446,
+  "denials": 65,
+  "removals": 64,
+  "grantRate": 9.6,
+  "topCourts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 181
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 178
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 168
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 140
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 123
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 106
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 104
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 92
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 89
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 88
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 86
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "count": 84
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 81
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 80
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 76
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 68
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 63
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 62
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 56
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "count": 55
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 10
+    },
+    {
+      "year": 1991,
+      "cases": 9
+    },
+    {
+      "year": 1992,
+      "cases": 5
+    },
+    {
+      "year": 1993,
+      "cases": 11
+    },
+    {
+      "year": 1994,
+      "cases": 7
+    },
+    {
+      "year": 1995,
+      "cases": 11
+    },
+    {
+      "year": 1996,
+      "cases": 23
+    },
+    {
+      "year": 1997,
+      "cases": 27
+    },
+    {
+      "year": 1998,
+      "cases": 19
+    },
+    {
+      "year": 1999,
+      "cases": 24
+    },
+    {
+      "year": 2000,
+      "cases": 17
+    },
+    {
+      "year": 2001,
+      "cases": 49
+    },
+    {
+      "year": 2002,
+      "cases": 72
+    },
+    {
+      "year": 2003,
+      "cases": 98
+    },
+    {
+      "year": 2004,
+      "cases": 45
+    },
+    {
+      "year": 2005,
+      "cases": 30
+    },
+    {
+      "year": 2006,
+      "cases": 55
+    },
+    {
+      "year": 2007,
+      "cases": 23
+    },
+    {
+      "year": 2008,
+      "cases": 16
+    },
+    {
+      "year": 2009,
+      "cases": 17
+    },
+    {
+      "year": 2010,
+      "cases": 33
+    },
+    {
+      "year": 2011,
+      "cases": 29
+    },
+    {
+      "year": 2012,
+      "cases": 32
+    },
+    {
+      "year": 2013,
+      "cases": 72
+    },
+    {
+      "year": 2014,
+      "cases": 57
+    },
+    {
+      "year": 2015,
+      "cases": 90
+    },
+    {
+      "year": 2016,
+      "cases": 92
+    },
+    {
+      "year": 2017,
+      "cases": 127
+    },
+    {
+      "year": 2018,
+      "cases": 109
+    },
+    {
+      "year": 2019,
+      "cases": 104
+    },
+    {
+      "year": 2020,
+      "cases": 62
+    },
+    {
+      "year": 2021,
+      "cases": 44
+    },
+    {
+      "year": 2022,
+      "cases": 44
+    },
+    {
+      "year": 2023,
+      "cases": 43
+    },
+    {
+      "year": 2024,
+      "cases": 40
+    },
+    {
+      "year": 2025,
+      "cases": 39
+    }
+  ]
+}

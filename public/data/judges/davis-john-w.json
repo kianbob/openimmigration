@@ -1,0 +1,64 @@
+{
+  "code": "JWD",
+  "slug": "davis-john-w",
+  "name": "Davis, John W.",
+  "totalDecisions": 35556,
+  "grants": 727,
+  "denials": 147,
+  "removals": 19,
+  "absentia": 425,
+  "grantRate": 2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 20337
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 8563
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 4179
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 1305
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 590
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 278
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 133
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 58
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 28
+    }
+  ]
+}

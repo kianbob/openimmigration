@@ -1,0 +1,64 @@
+{
+  "code": "JWR",
+  "slug": "richardson-john-w",
+  "name": "Richardson, John W.",
+  "totalDecisions": 50883,
+  "grants": 4155,
+  "denials": 9736,
+  "removals": 9727,
+  "absentia": 7540,
+  "grantRate": 8.2,
+  "removalRate": 19.1,
+  "courts": [
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 40512
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 7939
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 1322
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 729
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 118
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 25
+    }
+  ]
+}

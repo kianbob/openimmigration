@@ -1,0 +1,54 @@
+{
+  "code": "PS",
+  "slug": "sheppard-patricia",
+  "name": "Sheppard, Patricia",
+  "totalDecisions": 10521,
+  "grants": 1669,
+  "denials": 1860,
+  "removals": 1841,
+  "absentia": 3158,
+  "grantRate": 15.9,
+  "removalRate": 17.5,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 10367
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 104
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

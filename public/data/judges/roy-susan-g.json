@@ -1,0 +1,29 @@
+{
+  "code": "SGR",
+  "slug": "roy-susan-g",
+  "name": "Roy, Susan G.",
+  "totalDecisions": 1755,
+  "grants": 155,
+  "denials": 10,
+  "removals": 7,
+  "absentia": 273,
+  "grantRate": 8.8,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 1745
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

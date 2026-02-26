@@ -1,0 +1,64 @@
+{
+  "code": "LRD",
+  "slug": "dean-larry-r",
+  "name": "Dean, Larry R.",
+  "totalDecisions": 5094,
+  "grants": 117,
+  "denials": 45,
+  "removals": 40,
+  "absentia": 925,
+  "grantRate": 2.3,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1967
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 839
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 735
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 580
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 450
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 152
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 107
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 84
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 47
+    }
+  ]
+}

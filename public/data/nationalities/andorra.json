@@ -1,0 +1,166 @@
+{
+  "code": "AN",
+  "slug": "andorra",
+  "name": "Andorra",
+  "cases": 54,
+  "completed": 102,
+  "grants": 16,
+  "denials": 10,
+  "removals": 9,
+  "grantRate": 15.7,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 14
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "count": 1
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 2
+    },
+    {
+      "year": 1991,
+      "cases": 1
+    },
+    {
+      "year": 1994,
+      "cases": 1
+    },
+    {
+      "year": 1995,
+      "cases": 2
+    },
+    {
+      "year": 1997,
+      "cases": 2
+    },
+    {
+      "year": 1998,
+      "cases": 1
+    },
+    {
+      "year": 1999,
+      "cases": 1
+    },
+    {
+      "year": 2000,
+      "cases": 1
+    },
+    {
+      "year": 2001,
+      "cases": 6
+    },
+    {
+      "year": 2002,
+      "cases": 3
+    },
+    {
+      "year": 2004,
+      "cases": 1
+    },
+    {
+      "year": 2005,
+      "cases": 1
+    },
+    {
+      "year": 2011,
+      "cases": 1
+    },
+    {
+      "year": 2020,
+      "cases": 1
+    }
+  ]
+}

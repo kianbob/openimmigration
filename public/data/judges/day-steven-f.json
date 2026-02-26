@@ -1,0 +1,24 @@
+{
+  "code": "SFD",
+  "slug": "day-steven-f",
+  "name": "Day, Steven F.",
+  "totalDecisions": 6726,
+  "grants": 311,
+  "denials": 75,
+  "removals": 6,
+  "absentia": 24,
+  "grantRate": 4.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 6722
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

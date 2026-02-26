@@ -1,0 +1,49 @@
+{
+  "code": "MPD",
+  "slug": "davis-michael-p",
+  "name": "Davis, Michael P.",
+  "totalDecisions": 3441,
+  "grants": 168,
+  "denials": 7,
+  "removals": 0,
+  "absentia": 1141,
+  "grantRate": 4.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 3401
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

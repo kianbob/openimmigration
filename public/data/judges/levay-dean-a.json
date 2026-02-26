@@ -1,0 +1,44 @@
+{
+  "code": "DAL",
+  "slug": "levay-dean-a",
+  "name": "Levay, Dean A.",
+  "totalDecisions": 11926,
+  "grants": 821,
+  "denials": 4253,
+  "removals": 4250,
+  "absentia": 2548,
+  "grantRate": 6.9,
+  "removalRate": 35.6,
+  "courts": [
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 6778
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5076
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

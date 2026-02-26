@@ -1,0 +1,235 @@
+{
+  "code": "KV",
+  "slug": "kosovo",
+  "name": "Kosovo",
+  "cases": 1618,
+  "completed": 2335,
+  "grants": 655,
+  "denials": 31,
+  "removals": 0,
+  "grantRate": 28.1,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 709
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 323
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 50
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 44
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 41
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 31
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "count": 28
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "count": 27
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 26
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "count": 20
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "count": 18
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 18
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 17
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 16
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 15
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 15
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 15
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "count": 13
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 13
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 10
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1997,
+      "cases": 1
+    },
+    {
+      "year": 1998,
+      "cases": 4
+    },
+    {
+      "year": 1999,
+      "cases": 8
+    },
+    {
+      "year": 2000,
+      "cases": 2
+    },
+    {
+      "year": 2001,
+      "cases": 8
+    },
+    {
+      "year": 2002,
+      "cases": 8
+    },
+    {
+      "year": 2003,
+      "cases": 12
+    },
+    {
+      "year": 2004,
+      "cases": 7
+    },
+    {
+      "year": 2005,
+      "cases": 6
+    },
+    {
+      "year": 2006,
+      "cases": 1
+    },
+    {
+      "year": 2007,
+      "cases": 3
+    },
+    {
+      "year": 2008,
+      "cases": 3
+    },
+    {
+      "year": 2009,
+      "cases": 16
+    },
+    {
+      "year": 2010,
+      "cases": 13
+    },
+    {
+      "year": 2011,
+      "cases": 19
+    },
+    {
+      "year": 2012,
+      "cases": 27
+    },
+    {
+      "year": 2013,
+      "cases": 32
+    },
+    {
+      "year": 2014,
+      "cases": 37
+    },
+    {
+      "year": 2015,
+      "cases": 29
+    },
+    {
+      "year": 2016,
+      "cases": 71
+    },
+    {
+      "year": 2017,
+      "cases": 79
+    },
+    {
+      "year": 2018,
+      "cases": 112
+    },
+    {
+      "year": 2019,
+      "cases": 141
+    },
+    {
+      "year": 2020,
+      "cases": 68
+    },
+    {
+      "year": 2021,
+      "cases": 61
+    },
+    {
+      "year": 2022,
+      "cases": 113
+    },
+    {
+      "year": 2023,
+      "cases": 140
+    },
+    {
+      "year": 2024,
+      "cases": 142
+    },
+    {
+      "year": 2025,
+      "cases": 97
+    },
+    {
+      "year": 2026,
+      "cases": 1
+    }
+  ]
+}

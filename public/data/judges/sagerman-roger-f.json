@@ -1,0 +1,64 @@
+{
+  "code": "RFS",
+  "slug": "sagerman-roger-f",
+  "name": "Sagerman, Roger F.",
+  "totalDecisions": 11828,
+  "grants": 380,
+  "denials": 46,
+  "removals": 35,
+  "absentia": 66,
+  "grantRate": 3.2,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 9641
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 1596
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 204
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 162
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 96
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

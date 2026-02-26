@@ -1,0 +1,49 @@
+{
+  "code": "DLN",
+  "slug": "neal-david-l",
+  "name": "Neal, David L.",
+  "totalDecisions": 387,
+  "grants": 41,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 192,
+  "grantRate": 10.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 238
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 132
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

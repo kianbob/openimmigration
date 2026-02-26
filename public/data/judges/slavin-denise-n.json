@@ -1,0 +1,64 @@
+{
+  "code": "DNS",
+  "slug": "slavin-denise-n",
+  "name": "Slavin, Denise N.",
+  "totalDecisions": 24393,
+  "grants": 4981,
+  "denials": 604,
+  "removals": 539,
+  "absentia": 3176,
+  "grantRate": 20.4,
+  "removalRate": 2.2,
+  "courts": [
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 9395
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8591
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 5807
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 318
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 25
+    }
+  ]
+}

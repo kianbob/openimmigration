@@ -1,0 +1,64 @@
+{
+  "code": "MMT",
+  "slug": "tsankov-mimi",
+  "name": "Tsankov, Mimi",
+  "totalDecisions": 15979,
+  "grants": 1830,
+  "denials": 72,
+  "removals": 34,
+  "absentia": 3205,
+  "grantRate": 11.5,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 11872
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 3717
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2251
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 1419
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 955
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 247
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 100
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 21
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "code": "MB2",
+  "slug": "bjornerud-maria",
+  "name": "Bjornerud, Maria",
+  "totalDecisions": 841,
+  "grants": 138,
+  "denials": 22,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 16.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 838
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

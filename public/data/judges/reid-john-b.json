@@ -1,0 +1,44 @@
+{
+  "code": "JBR",
+  "slug": "reid-john-b",
+  "name": "Reid, John B.",
+  "totalDecisions": 16379,
+  "grants": 410,
+  "denials": 129,
+  "removals": 47,
+  "absentia": 17,
+  "grantRate": 2.5,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 16312
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

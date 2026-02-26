@@ -1,0 +1,64 @@
+{
+  "code": "ADL",
+  "slug": "lee-alexander",
+  "name": "Lee, Alexander",
+  "totalDecisions": 6567,
+  "grants": 108,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 1621,
+  "grantRate": 1.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 6762
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 273
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 147
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 133
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

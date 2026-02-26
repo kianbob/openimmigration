@@ -1,0 +1,64 @@
+{
+  "code": "HO",
+  "slug": "ho-anna",
+  "name": "Ho, Anna",
+  "totalDecisions": 25974,
+  "grants": 2098,
+  "denials": 2038,
+  "removals": 1971,
+  "absentia": 3717,
+  "grantRate": 8.1,
+  "removalRate": 7.6,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 8761
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 6715
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 6586
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 2080
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 1037
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 185
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 82
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 75
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 70
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 61
+    }
+  ]
+}

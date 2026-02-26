@@ -1,0 +1,64 @@
+{
+  "code": "NHB",
+  "slug": "herbert-nathan-l",
+  "name": "Herbert, Nathan L.",
+  "totalDecisions": 21846,
+  "grants": 106,
+  "denials": 7,
+  "removals": 5,
+  "absentia": 6781,
+  "grantRate": 0.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 21826
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 1675
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 169
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 76
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 6
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

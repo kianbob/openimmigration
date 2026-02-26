@@ -1,0 +1,64 @@
+{
+  "code": "AMO",
+  "slug": "munro-angela",
+  "name": "Munro, Angela",
+  "totalDecisions": 2983,
+  "grants": 232,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 64,
+  "grantRate": 7.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 1638
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 1053
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 861
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

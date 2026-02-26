@@ -1,0 +1,64 @@
+{
+  "code": "MJS",
+  "slug": "sturla-mario-j",
+  "name": "Sturla, Mario J.",
+  "totalDecisions": 14165,
+  "grants": 1215,
+  "denials": 57,
+  "removals": 14,
+  "absentia": 2280,
+  "grantRate": 8.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 23752
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 330
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 234
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

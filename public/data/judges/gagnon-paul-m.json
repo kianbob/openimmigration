@@ -1,0 +1,64 @@
+{
+  "code": "PMG",
+  "slug": "gagnon-paul-m",
+  "name": "Gagnon, Paul M.",
+  "totalDecisions": 17456,
+  "grants": 2894,
+  "denials": 85,
+  "removals": 36,
+  "absentia": 4208,
+  "grantRate": 16.6,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 15826
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 1138
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 213
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

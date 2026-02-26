@@ -1,0 +1,59 @@
+{
+  "code": "JLK",
+  "slug": "kneedler-jennie-l",
+  "name": "Kneedler, Jennie L.",
+  "totalDecisions": 3347,
+  "grants": 177,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 947,
+  "grantRate": 5.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 3331
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

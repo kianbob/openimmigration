@@ -1,0 +1,64 @@
+{
+  "code": "TSC",
+  "slug": "scala-theresa",
+  "name": "Scala, Theresa",
+  "totalDecisions": 17144,
+  "grants": 666,
+  "denials": 211,
+  "removals": 12,
+  "absentia": 646,
+  "grantRate": 3.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 14928
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 4091
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "POR",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

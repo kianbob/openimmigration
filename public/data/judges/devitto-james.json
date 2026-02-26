@@ -1,0 +1,64 @@
+{
+  "code": "JDV",
+  "slug": "devitto-james",
+  "name": "Devitto, James",
+  "totalDecisions": 22129,
+  "grants": 565,
+  "denials": 220,
+  "removals": 130,
+  "absentia": 796,
+  "grantRate": 2.6,
+  "removalRate": 0.6,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 13506
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 6858
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 1382
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 162
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 154
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

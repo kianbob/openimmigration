@@ -1,0 +1,64 @@
+{
+  "code": "CKI",
+  "slug": "krasinski-carolyn",
+  "name": "Krasinski, Carolyn",
+  "totalDecisions": 4943,
+  "grants": 357,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 1709,
+  "grantRate": 7.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 7009
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

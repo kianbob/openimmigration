@@ -1,0 +1,24 @@
+{
+  "code": "NSO",
+  "slug": "orechwa-nicolas",
+  "name": "Orechwa, Nicolas",
+  "totalDecisions": 4359,
+  "grants": 123,
+  "denials": 47,
+  "removals": 2,
+  "absentia": 2,
+  "grantRate": 2.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4451
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

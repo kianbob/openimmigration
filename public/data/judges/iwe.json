@@ -1,0 +1,19 @@
+{
+  "code": "IWE",
+  "slug": "iwe",
+  "name": "Iwe",
+  "totalDecisions": 53,
+  "grants": 3,
+  "denials": 7,
+  "removals": 7,
+  "absentia": 0,
+  "grantRate": 5.7,
+  "removalRate": 13.2,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 53
+    }
+  ]
+}

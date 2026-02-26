@@ -1,0 +1,64 @@
+{
+  "code": "JJC",
+  "slug": "joyce-jacquelyn-j",
+  "name": "Joyce, Jacquelyn J.",
+  "totalDecisions": 5684,
+  "grants": 21,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 1398,
+  "grantRate": 0.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 8431
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 226
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 171
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

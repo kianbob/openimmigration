@@ -1,0 +1,24 @@
+{
+  "code": "VLA",
+  "slug": "argumedo-victoria-l",
+  "name": "Argumedo, Victoria L.",
+  "totalDecisions": 286,
+  "grants": 8,
+  "denials": 8,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 2.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 269
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

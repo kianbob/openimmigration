@@ -1,0 +1,64 @@
+{
+  "code": "GMT",
+  "slug": "terrazas-gilda-m",
+  "name": "Terrazas, Gilda M",
+  "totalDecisions": 2899,
+  "grants": 360,
+  "denials": 6,
+  "removals": 3,
+  "absentia": 558,
+  "grantRate": 12.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 2473
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 359
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 290
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

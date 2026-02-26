@@ -1,0 +1,64 @@
+{
+  "code": "RPR",
+  "slug": "rojas-raphael",
+  "name": "Rojas, Raphael",
+  "totalDecisions": 8837,
+  "grants": 112,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 991,
+  "grantRate": 1.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 22026
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

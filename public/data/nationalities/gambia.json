@@ -1,0 +1,263 @@
+{
+  "code": "GA",
+  "slug": "gambia",
+  "name": "Gambia",
+  "cases": 6865,
+  "completed": 9855,
+  "grants": 2380,
+  "denials": 552,
+  "removals": 540,
+  "grantRate": 24.2,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 2551
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 646
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 426
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 378
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 324
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 234
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 187
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 139
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 128
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 126
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 122
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 120
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 118
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 114
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 110
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 96
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 84
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "count": 82
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 67
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 65
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 10
+    },
+    {
+      "year": 1991,
+      "cases": 8
+    },
+    {
+      "year": 1992,
+      "cases": 28
+    },
+    {
+      "year": 1993,
+      "cases": 16
+    },
+    {
+      "year": 1994,
+      "cases": 21
+    },
+    {
+      "year": 1995,
+      "cases": 133
+    },
+    {
+      "year": 1996,
+      "cases": 313
+    },
+    {
+      "year": 1997,
+      "cases": 172
+    },
+    {
+      "year": 1998,
+      "cases": 117
+    },
+    {
+      "year": 1999,
+      "cases": 76
+    },
+    {
+      "year": 2000,
+      "cases": 84
+    },
+    {
+      "year": 2001,
+      "cases": 59
+    },
+    {
+      "year": 2002,
+      "cases": 79
+    },
+    {
+      "year": 2003,
+      "cases": 111
+    },
+    {
+      "year": 2004,
+      "cases": 78
+    },
+    {
+      "year": 2005,
+      "cases": 181
+    },
+    {
+      "year": 2006,
+      "cases": 192
+    },
+    {
+      "year": 2007,
+      "cases": 90
+    },
+    {
+      "year": 2008,
+      "cases": 62
+    },
+    {
+      "year": 2009,
+      "cases": 70
+    },
+    {
+      "year": 2010,
+      "cases": 62
+    },
+    {
+      "year": 2011,
+      "cases": 102
+    },
+    {
+      "year": 2012,
+      "cases": 112
+    },
+    {
+      "year": 2013,
+      "cases": 99
+    },
+    {
+      "year": 2014,
+      "cases": 107
+    },
+    {
+      "year": 2015,
+      "cases": 106
+    },
+    {
+      "year": 2016,
+      "cases": 100
+    },
+    {
+      "year": 2017,
+      "cases": 140
+    },
+    {
+      "year": 2018,
+      "cases": 153
+    },
+    {
+      "year": 2019,
+      "cases": 121
+    },
+    {
+      "year": 2020,
+      "cases": 72
+    },
+    {
+      "year": 2021,
+      "cases": 91
+    },
+    {
+      "year": 2022,
+      "cases": 137
+    },
+    {
+      "year": 2023,
+      "cases": 183
+    },
+    {
+      "year": 2024,
+      "cases": 565
+    },
+    {
+      "year": 2025,
+      "cases": 317
+    },
+    {
+      "year": 2026,
+      "cases": 13
+    }
+  ]
+}

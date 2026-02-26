@@ -1,0 +1,64 @@
+{
+  "code": "ANA",
+  "slug": "adams-anna",
+  "name": "Adams, Anna",
+  "totalDecisions": 8723,
+  "grants": 174,
+  "denials": 11,
+  "removals": 0,
+  "absentia": 1227,
+  "grantRate": 2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 23840
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 5
+    }
+  ]
+}

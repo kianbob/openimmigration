@@ -1,0 +1,64 @@
+{
+  "code": "WDN",
+  "slug": "neumeister-william-david",
+  "name": "Neumeister, William David",
+  "totalDecisions": 10690,
+  "grants": 2452,
+  "denials": 101,
+  "removals": 85,
+  "absentia": 1707,
+  "grantRate": 22.9,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5789
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 4147
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 1044
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 104
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 79
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 55
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 37
+    }
+  ]
+}

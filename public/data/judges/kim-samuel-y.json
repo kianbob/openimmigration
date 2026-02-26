@@ -1,0 +1,44 @@
+{
+  "code": "SYK",
+  "slug": "kim-samuel-y",
+  "name": "Kim, Samuel Y.",
+  "totalDecisions": 728,
+  "grants": 203,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 17,
+  "grantRate": 27.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 707
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

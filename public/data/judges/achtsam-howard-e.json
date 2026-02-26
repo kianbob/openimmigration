@@ -1,0 +1,64 @@
+{
+  "code": "HEA",
+  "slug": "achtsam-howard-e",
+  "name": "Achtsam, Howard E.",
+  "totalDecisions": 67791,
+  "grants": 734,
+  "denials": 10515,
+  "removals": 10446,
+  "absentia": 12927,
+  "grantRate": 1.1,
+  "removalRate": 15.4,
+  "courts": [
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 36543
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 31147
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

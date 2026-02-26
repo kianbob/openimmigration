@@ -1,0 +1,64 @@
+{
+  "code": "JMM",
+  "slug": "mccarthy-james-m",
+  "name": "Mccarthy, James M.",
+  "totalDecisions": 7362,
+  "grants": 881,
+  "denials": 19,
+  "removals": 4,
+  "absentia": 1568,
+  "grantRate": 12,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 7353
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2181
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 156
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 94
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

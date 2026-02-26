@@ -1,0 +1,162 @@
+{
+  "code": "DM",
+  "slug": "people-s-republic-of-benin",
+  "name": "People'S Republic Of Benin",
+  "cases": 57,
+  "completed": 154,
+  "grants": 21,
+  "denials": 8,
+  "removals": 7,
+  "grantRate": 13.6,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 16
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "count": 1
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1992,
+      "cases": 1
+    },
+    {
+      "year": 1993,
+      "cases": 2
+    },
+    {
+      "year": 1994,
+      "cases": 1
+    },
+    {
+      "year": 1996,
+      "cases": 2
+    },
+    {
+      "year": 1998,
+      "cases": 2
+    },
+    {
+      "year": 1999,
+      "cases": 2
+    },
+    {
+      "year": 2000,
+      "cases": 3
+    },
+    {
+      "year": 2001,
+      "cases": 1
+    },
+    {
+      "year": 2002,
+      "cases": 1
+    },
+    {
+      "year": 2016,
+      "cases": 2
+    },
+    {
+      "year": 2017,
+      "cases": 2
+    },
+    {
+      "year": 2023,
+      "cases": 2
+    },
+    {
+      "year": 2024,
+      "cases": 1
+    }
+  ]
+}

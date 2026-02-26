@@ -1,0 +1,29 @@
+{
+  "code": "MLH",
+  "slug": "hussey-michael",
+  "name": "Hussey, Michael",
+  "totalDecisions": 80,
+  "grants": 20,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 25,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 116
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

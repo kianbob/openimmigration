@@ -1,0 +1,64 @@
+{
+  "code": "LIH",
+  "slug": "herman-lakshmi",
+  "name": "Herman, Lakshmi",
+  "totalDecisions": 9758,
+  "grants": 87,
+  "denials": 27,
+  "removals": 22,
+  "absentia": 1843,
+  "grantRate": 0.9,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 22773
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

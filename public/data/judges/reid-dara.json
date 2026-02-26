@@ -1,0 +1,64 @@
+{
+  "code": "DRD",
+  "slug": "reid-dara",
+  "name": "Reid, Dara",
+  "totalDecisions": 6023,
+  "grants": 398,
+  "denials": 7,
+  "removals": 0,
+  "absentia": 840,
+  "grantRate": 6.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 6334
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

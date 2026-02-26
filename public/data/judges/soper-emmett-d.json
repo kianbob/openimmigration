@@ -1,0 +1,64 @@
+{
+  "code": "EDS",
+  "slug": "soper-emmett-d",
+  "name": "Soper, Emmett D.",
+  "totalDecisions": 3766,
+  "grants": 543,
+  "denials": 10,
+  "removals": 4,
+  "absentia": 720,
+  "grantRate": 14.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 3326
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 325
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 16
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

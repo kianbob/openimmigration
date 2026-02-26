@@ -1,0 +1,19 @@
+{
+  "code": "X14",
+  "slug": "polk-detail-judge-2",
+  "name": "Polk Detail Judge 2",
+  "totalDecisions": 198,
+  "grants": 2,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 198
+    }
+  ]
+}

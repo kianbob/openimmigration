@@ -1,0 +1,64 @@
+{
+  "code": "DHF",
+  "slug": "freeman-d-anna-h",
+  "name": "Freeman, D'Anna H.",
+  "totalDecisions": 9346,
+  "grants": 319,
+  "denials": 153,
+  "removals": 1,
+  "absentia": 544,
+  "grantRate": 3.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 5095
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1961
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 594
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 454
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 356
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 257
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 157
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 149
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 112
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 105
+    }
+  ]
+}

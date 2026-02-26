@@ -1,0 +1,64 @@
+{
+  "code": "LYB",
+  "slug": "billings-lucy",
+  "name": "Billings, Lucy",
+  "totalDecisions": 2512,
+  "grants": 256,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 688,
+  "grantRate": 10.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 2385
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "hearings": 108
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

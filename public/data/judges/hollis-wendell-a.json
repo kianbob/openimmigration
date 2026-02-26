@@ -1,0 +1,64 @@
+{
+  "code": "WAH",
+  "slug": "hollis-wendell-a",
+  "name": "Hollis, Wendell A.",
+  "totalDecisions": 13552,
+  "grants": 1904,
+  "denials": 51,
+  "removals": 38,
+  "absentia": 2080,
+  "grantRate": 14,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 11429
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1515
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 185
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 71
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 68
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 59
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 28
+    }
+  ]
+}

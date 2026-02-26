@@ -1,0 +1,64 @@
+{
+  "code": "ACL",
+  "slug": "little-anna-c",
+  "name": "Little, Anna C.",
+  "totalDecisions": 9824,
+  "grants": 1581,
+  "denials": 17,
+  "removals": 13,
+  "absentia": 1118,
+  "grantRate": 16.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14099
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1754
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 254
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 97
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 93
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

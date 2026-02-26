@@ -1,0 +1,64 @@
+{
+  "code": "MBP",
+  "slug": "baldini-potermin-maria",
+  "name": "Baldini-Potermin, Maria",
+  "totalDecisions": 2067,
+  "grants": 85,
+  "denials": 5,
+  "removals": 1,
+  "absentia": 213,
+  "grantRate": 4.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 5995
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

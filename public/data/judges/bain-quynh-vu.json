@@ -1,0 +1,64 @@
+{
+  "code": "QVB",
+  "slug": "bain-quynh-vu",
+  "name": "Bain, Quynh Vu",
+  "totalDecisions": 5001,
+  "grants": 749,
+  "denials": 114,
+  "removals": 3,
+  "absentia": 1343,
+  "grantRate": 15,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2903
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 469
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 241
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 221
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 210
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 117
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 106
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 105
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 103
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 78
+    }
+  ]
+}

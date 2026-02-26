@@ -1,0 +1,64 @@
+{
+  "code": "BAZ",
+  "slug": "zuniga-bertha-a",
+  "name": "Zuniga, Bertha A.",
+  "totalDecisions": 57584,
+  "grants": 1772,
+  "denials": 2997,
+  "removals": 2944,
+  "absentia": 14697,
+  "grantRate": 3.1,
+  "removalRate": 5.1,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 26369
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 12258
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 10839
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 6827
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 1011
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 128
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 110
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

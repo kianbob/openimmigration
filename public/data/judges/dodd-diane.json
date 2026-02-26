@@ -1,0 +1,64 @@
+{
+  "code": "DED",
+  "slug": "dodd-diane",
+  "name": "Dodd, Diane",
+  "totalDecisions": 4603,
+  "grants": 151,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 1591,
+  "grantRate": 3.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 7008
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

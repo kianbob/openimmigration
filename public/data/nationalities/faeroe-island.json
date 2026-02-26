@@ -1,0 +1,75 @@
+{
+  "code": "FO",
+  "slug": "faeroe-island",
+  "name": "Faeroe Island",
+  "cases": 15,
+  "completed": 26,
+  "grants": 1,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1995,
+      "cases": 1
+    },
+    {
+      "year": 2014,
+      "cases": 1
+    },
+    {
+      "year": 2022,
+      "cases": 1
+    },
+    {
+      "year": 2023,
+      "cases": 5
+    },
+    {
+      "year": 2025,
+      "cases": 2
+    }
+  ]
+}

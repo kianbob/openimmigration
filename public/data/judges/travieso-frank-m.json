@@ -1,0 +1,64 @@
+{
+  "code": "FMT",
+  "slug": "travieso-frank-m",
+  "name": "Travieso, Frank M.",
+  "totalDecisions": 24917,
+  "grants": 1545,
+  "denials": 109,
+  "removals": 79,
+  "absentia": 5129,
+  "grantRate": 6.2,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 13612
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 9923
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 906
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 180
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 20
+    }
+  ]
+}

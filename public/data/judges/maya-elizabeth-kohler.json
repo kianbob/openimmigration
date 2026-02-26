@@ -1,0 +1,64 @@
+{
+  "code": "EKM",
+  "slug": "maya-elizabeth-kohler",
+  "name": "Maya, Elizabeth Kohler",
+  "totalDecisions": 3798,
+  "grants": 183,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 1255,
+  "grantRate": 4.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 3826
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "code": "JEH",
+  "slug": "harness-jerrica-a",
+  "name": "Harness, Jerrica A.",
+  "totalDecisions": 3647,
+  "grants": 24,
+  "denials": 16,
+  "removals": 0,
+  "absentia": 2,
+  "grantRate": 0.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 3944
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

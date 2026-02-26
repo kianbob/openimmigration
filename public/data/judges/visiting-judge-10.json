@@ -1,0 +1,64 @@
+{
+  "code": "V10",
+  "slug": "visiting-judge-10",
+  "name": "Visiting Judge 10",
+  "totalDecisions": 2719,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 3,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 2579
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

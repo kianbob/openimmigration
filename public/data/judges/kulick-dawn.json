@@ -1,0 +1,64 @@
+{
+  "code": "DKU",
+  "slug": "kulick-dawn",
+  "name": "Kulick, Dawn",
+  "totalDecisions": 8808,
+  "grants": 250,
+  "denials": 6,
+  "removals": 4,
+  "absentia": 2398,
+  "grantRate": 2.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 17841
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 234
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 77
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

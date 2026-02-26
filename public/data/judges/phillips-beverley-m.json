@@ -1,0 +1,29 @@
+{
+  "code": "BMP",
+  "slug": "phillips-beverley-m",
+  "name": "Phillips, Beverley M.",
+  "totalDecisions": 9149,
+  "grants": 2796,
+  "denials": 1335,
+  "removals": 1321,
+  "absentia": 1693,
+  "grantRate": 30.6,
+  "removalRate": 14.4,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 9097
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 19
+    }
+  ]
+}

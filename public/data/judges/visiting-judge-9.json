@@ -1,0 +1,64 @@
+{
+  "code": "VJ9",
+  "slug": "visiting-judge-9",
+  "name": "Visiting Judge 9",
+  "totalDecisions": 1839,
+  "grants": 1,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 71,
+  "grantRate": 0.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3493
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 144
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 101
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 67
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

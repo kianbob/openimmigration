@@ -1,0 +1,44 @@
+{
+  "code": "GWP",
+  "slug": "proctor-george-w",
+  "name": "Proctor, George W.",
+  "totalDecisions": 2950,
+  "grants": 975,
+  "denials": 30,
+  "removals": 24,
+  "absentia": 515,
+  "grantRate": 33.1,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1861
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1017
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 11
+    }
+  ]
+}

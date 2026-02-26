@@ -1,0 +1,54 @@
+{
+  "code": "KSH",
+  "slug": "hurewitz-kenneth-s",
+  "name": "Hurewitz, Kenneth S.",
+  "totalDecisions": 20602,
+  "grants": 927,
+  "denials": 417,
+  "removals": 289,
+  "absentia": 70,
+  "grantRate": 4.5,
+  "removalRate": 1.4,
+  "courts": [
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 20458
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

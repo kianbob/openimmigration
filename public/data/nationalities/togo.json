@@ -1,0 +1,263 @@
+{
+  "code": "TO",
+  "slug": "togo",
+  "name": "Togo",
+  "cases": 4247,
+  "completed": 5940,
+  "grants": 1415,
+  "denials": 108,
+  "removals": 97,
+  "grantRate": 23.8,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 643
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 595
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 491
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 289
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 287
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 199
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 186
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 118
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "count": 98
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 98
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "count": 90
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 76
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 64
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 51
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 47
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 43
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 42
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 38
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "count": 37
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "count": 32
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 2
+    },
+    {
+      "year": 1991,
+      "cases": 3
+    },
+    {
+      "year": 1992,
+      "cases": 7
+    },
+    {
+      "year": 1993,
+      "cases": 13
+    },
+    {
+      "year": 1994,
+      "cases": 18
+    },
+    {
+      "year": 1995,
+      "cases": 64
+    },
+    {
+      "year": 1996,
+      "cases": 91
+    },
+    {
+      "year": 1997,
+      "cases": 56
+    },
+    {
+      "year": 1998,
+      "cases": 47
+    },
+    {
+      "year": 1999,
+      "cases": 60
+    },
+    {
+      "year": 2000,
+      "cases": 55
+    },
+    {
+      "year": 2001,
+      "cases": 66
+    },
+    {
+      "year": 2002,
+      "cases": 106
+    },
+    {
+      "year": 2003,
+      "cases": 190
+    },
+    {
+      "year": 2004,
+      "cases": 140
+    },
+    {
+      "year": 2005,
+      "cases": 122
+    },
+    {
+      "year": 2006,
+      "cases": 76
+    },
+    {
+      "year": 2007,
+      "cases": 29
+    },
+    {
+      "year": 2008,
+      "cases": 20
+    },
+    {
+      "year": 2009,
+      "cases": 35
+    },
+    {
+      "year": 2010,
+      "cases": 28
+    },
+    {
+      "year": 2011,
+      "cases": 28
+    },
+    {
+      "year": 2012,
+      "cases": 33
+    },
+    {
+      "year": 2013,
+      "cases": 32
+    },
+    {
+      "year": 2014,
+      "cases": 36
+    },
+    {
+      "year": 2015,
+      "cases": 32
+    },
+    {
+      "year": 2016,
+      "cases": 41
+    },
+    {
+      "year": 2017,
+      "cases": 48
+    },
+    {
+      "year": 2018,
+      "cases": 56
+    },
+    {
+      "year": 2019,
+      "cases": 87
+    },
+    {
+      "year": 2020,
+      "cases": 54
+    },
+    {
+      "year": 2021,
+      "cases": 56
+    },
+    {
+      "year": 2022,
+      "cases": 116
+    },
+    {
+      "year": 2023,
+      "cases": 151
+    },
+    {
+      "year": 2024,
+      "cases": 537
+    },
+    {
+      "year": 2025,
+      "cases": 447
+    },
+    {
+      "year": 2026,
+      "cases": 14
+    }
+  ]
+}

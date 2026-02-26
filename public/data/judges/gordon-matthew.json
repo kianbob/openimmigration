@@ -1,0 +1,64 @@
+{
+  "code": "MWG",
+  "slug": "gordon-matthew",
+  "name": "Gordon, Matthew",
+  "totalDecisions": 3645,
+  "grants": 181,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 1015,
+  "grantRate": 5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 5131
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 100
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

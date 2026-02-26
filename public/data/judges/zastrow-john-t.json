@@ -1,0 +1,64 @@
+{
+  "code": "JTZ",
+  "slug": "zastrow-john-t",
+  "name": "Zastrow, John T.",
+  "totalDecisions": 22833,
+  "grants": 567,
+  "denials": 10302,
+  "removals": 10302,
+  "absentia": 2082,
+  "grantRate": 2.5,
+  "removalRate": 45.1,
+  "courts": [
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 7111
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 6341
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 4354
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3407
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 765
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 422
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 319
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 79
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

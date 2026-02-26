@@ -1,0 +1,29 @@
+{
+  "code": "AEG",
+  "slug": "gonzalez-alberto-e",
+  "name": "Gonzalez, Alberto E.",
+  "totalDecisions": 5815,
+  "grants": 2143,
+  "denials": 609,
+  "removals": 609,
+  "absentia": 961,
+  "grantRate": 36.9,
+  "removalRate": 10.5,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 5812
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

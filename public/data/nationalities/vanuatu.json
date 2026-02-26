@@ -1,0 +1,151 @@
+{
+  "code": "NH",
+  "slug": "vanuatu",
+  "name": "Vanuatu",
+  "cases": 65,
+  "completed": 137,
+  "grants": 10,
+  "denials": 1,
+  "removals": 1,
+  "grantRate": 7.3,
+  "topCourts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 10
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 9
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 7
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "count": 1
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1999,
+      "cases": 1
+    },
+    {
+      "year": 2008,
+      "cases": 1
+    },
+    {
+      "year": 2019,
+      "cases": 1
+    },
+    {
+      "year": 2020,
+      "cases": 1
+    },
+    {
+      "year": 2021,
+      "cases": 2
+    },
+    {
+      "year": 2022,
+      "cases": 3
+    },
+    {
+      "year": 2023,
+      "cases": 5
+    },
+    {
+      "year": 2024,
+      "cases": 4
+    },
+    {
+      "year": 2025,
+      "cases": 3
+    }
+  ]
+}

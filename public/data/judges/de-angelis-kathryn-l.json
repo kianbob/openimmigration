@@ -1,0 +1,64 @@
+{
+  "code": "KLD",
+  "slug": "de-angelis-kathryn-l",
+  "name": "De Angelis, Kathryn L.",
+  "totalDecisions": 10652,
+  "grants": 997,
+  "denials": 66,
+  "removals": 13,
+  "absentia": 1140,
+  "grantRate": 9.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6735
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 2867
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 890
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 231
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

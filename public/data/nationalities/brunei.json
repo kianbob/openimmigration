@@ -1,0 +1,104 @@
+{
+  "code": "BX",
+  "slug": "brunei",
+  "name": "Brunei",
+  "cases": 15,
+  "completed": 21,
+  "grants": 4,
+  "denials": 1,
+  "removals": 1,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 1
+    },
+    {
+      "year": 1992,
+      "cases": 1
+    },
+    {
+      "year": 2009,
+      "cases": 1
+    },
+    {
+      "year": 2018,
+      "cases": 1
+    },
+    {
+      "year": 2020,
+      "cases": 1
+    },
+    {
+      "year": 2025,
+      "cases": 1
+    }
+  ]
+}

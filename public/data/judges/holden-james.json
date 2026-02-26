@@ -1,0 +1,34 @@
+{
+  "code": "JMH",
+  "slug": "holden-james",
+  "name": "Holden, James",
+  "totalDecisions": 137,
+  "grants": 4,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 2.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 163
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "hearings": 2
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

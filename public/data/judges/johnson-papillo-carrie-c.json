@@ -1,0 +1,64 @@
+{
+  "code": "CCJ",
+  "slug": "johnson-papillo-carrie-c",
+  "name": "Johnson-Papillo, Carrie C.",
+  "totalDecisions": 11586,
+  "grants": 476,
+  "denials": 29,
+  "removals": 17,
+  "absentia": 2243,
+  "grantRate": 4.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14412
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 493
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 209
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 106
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

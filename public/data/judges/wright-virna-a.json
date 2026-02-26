@@ -1,0 +1,64 @@
+{
+  "code": "VAW",
+  "slug": "wright-virna-a",
+  "name": "Wright, Virna A.",
+  "totalDecisions": 12929,
+  "grants": 2426,
+  "denials": 59,
+  "removals": 41,
+  "absentia": 1438,
+  "grantRate": 18.8,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 19552
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 81
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

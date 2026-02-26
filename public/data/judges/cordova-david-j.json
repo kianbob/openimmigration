@@ -1,0 +1,64 @@
+{
+  "code": "DJC",
+  "slug": "cordova-david-j",
+  "name": "Cordova, David J.",
+  "totalDecisions": 23074,
+  "grants": 2677,
+  "denials": 2089,
+  "removals": 2086,
+  "absentia": 2599,
+  "grantRate": 11.6,
+  "removalRate": 9,
+  "courts": [
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 13135
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 9651
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 86
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 58
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

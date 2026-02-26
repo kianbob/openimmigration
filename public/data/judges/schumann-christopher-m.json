@@ -1,0 +1,64 @@
+{
+  "code": "CMS",
+  "slug": "schumann-christopher-m",
+  "name": "Schumann, Christopher M.",
+  "totalDecisions": 10107,
+  "grants": 67,
+  "denials": 11,
+  "removals": 4,
+  "absentia": 2688,
+  "grantRate": 0.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 12630
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 183
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

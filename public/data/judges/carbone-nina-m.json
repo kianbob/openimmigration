@@ -1,0 +1,64 @@
+{
+  "code": "NMC",
+  "slug": "carbone-nina-m",
+  "name": "Carbone, Nina M.",
+  "totalDecisions": 13034,
+  "grants": 498,
+  "denials": 36,
+  "removals": 2,
+  "absentia": 2975,
+  "grantRate": 3.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 15949
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 4813
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

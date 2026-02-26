@@ -1,0 +1,64 @@
+{
+  "code": "KWO",
+  "slug": "olmanson-kristin-w",
+  "name": "Olmanson, Kristin W.",
+  "totalDecisions": 22989,
+  "grants": 1707,
+  "denials": 97,
+  "removals": 34,
+  "absentia": 2397,
+  "grantRate": 7.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 22788
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

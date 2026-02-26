@@ -1,0 +1,64 @@
+{
+  "code": "TCR",
+  "slug": "roepke-thomas-c",
+  "name": "Roepke, Thomas C.",
+  "totalDecisions": 24006,
+  "grants": 446,
+  "denials": 102,
+  "removals": 73,
+  "absentia": 2453,
+  "grantRate": 1.9,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 9817
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 8850
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 4900
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 260
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 137
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

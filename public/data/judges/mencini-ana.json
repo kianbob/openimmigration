@@ -1,0 +1,64 @@
+{
+  "code": "AAM",
+  "slug": "mencini-ana",
+  "name": "Mencini, Ana",
+  "totalDecisions": 7574,
+  "grants": 272,
+  "denials": 8,
+  "removals": 0,
+  "absentia": 2412,
+  "grantRate": 3.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 15894
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

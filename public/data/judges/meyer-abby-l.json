@@ -1,0 +1,64 @@
+{
+  "code": "ALM",
+  "slug": "meyer-abby-l",
+  "name": "Meyer, Abby L.",
+  "totalDecisions": 14686,
+  "grants": 138,
+  "denials": 14,
+  "removals": 5,
+  "absentia": 2426,
+  "grantRate": 0.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 26471
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

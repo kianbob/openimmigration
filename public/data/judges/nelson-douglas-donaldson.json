@@ -1,0 +1,64 @@
+{
+  "code": "DDN",
+  "slug": "nelson-douglas-donaldson",
+  "name": "Nelson, Douglas Donaldson",
+  "totalDecisions": 3751,
+  "grants": 305,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 827,
+  "grantRate": 8.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 11170
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

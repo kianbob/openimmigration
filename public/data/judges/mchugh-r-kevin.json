@@ -1,0 +1,64 @@
+{
+  "code": "RKM",
+  "slug": "mchugh-r-kevin",
+  "name": "Mchugh, R. Kevin",
+  "totalDecisions": 25617,
+  "grants": 690,
+  "denials": 6421,
+  "removals": 6401,
+  "absentia": 900,
+  "grantRate": 2.7,
+  "removalRate": 25,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 15032
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 8512
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 1589
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 217
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 198
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "BDC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

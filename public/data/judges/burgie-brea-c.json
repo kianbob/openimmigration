@@ -1,0 +1,64 @@
+{
+  "code": "BAB",
+  "slug": "burgie-brea-c",
+  "name": "Burgie, Brea C.",
+  "totalDecisions": 9211,
+  "grants": 597,
+  "denials": 5,
+  "removals": 1,
+  "absentia": 1897,
+  "grantRate": 6.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 18001
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 657
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 450
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

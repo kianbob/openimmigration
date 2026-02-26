@@ -1,0 +1,54 @@
+{
+  "code": "CSK",
+  "slug": "koutras-charles",
+  "name": "Koutras, Charles",
+  "totalDecisions": 1184,
+  "grants": 2,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 258,
+  "grantRate": 0.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "POR",
+      "name": "Immigration Court",
+      "hearings": 363
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 351
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 338
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 122
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 108
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

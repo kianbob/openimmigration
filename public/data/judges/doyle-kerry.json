@@ -1,0 +1,44 @@
+{
+  "code": "KYD",
+  "slug": "doyle-kerry",
+  "name": "Doyle, Kerry",
+  "totalDecisions": 51,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

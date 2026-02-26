@@ -1,0 +1,64 @@
+{
+  "code": "WJM",
+  "slug": "martin-william-j",
+  "name": "Martin, William J.",
+  "totalDecisions": 23629,
+  "grants": 2871,
+  "denials": 6394,
+  "removals": 6391,
+  "absentia": 6858,
+  "grantRate": 12.2,
+  "removalRate": 27,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 23370
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 72
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 55
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "WRL",
+  "slug": "lee-wilbur",
+  "name": "Lee, Wilbur",
+  "totalDecisions": 5210,
+  "grants": 166,
+  "denials": 15,
+  "removals": 5,
+  "absentia": 988,
+  "grantRate": 3.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 6017
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 441
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

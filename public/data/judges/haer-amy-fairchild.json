@@ -1,0 +1,64 @@
+{
+  "code": "AFH",
+  "slug": "haer-amy-fairchild",
+  "name": "Haer, Amy Fairchild",
+  "totalDecisions": 11877,
+  "grants": 103,
+  "denials": 13,
+  "removals": 11,
+  "absentia": 4056,
+  "grantRate": 0.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 25026
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 321
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 68
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "SHH",
+  "slug": "hartnett-sarah",
+  "name": "Hartnett, Sarah",
+  "totalDecisions": 6430,
+  "grants": 76,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 1676,
+  "grantRate": 1.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4093
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 2266
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

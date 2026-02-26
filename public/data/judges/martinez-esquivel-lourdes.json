@@ -1,0 +1,64 @@
+{
+  "code": "LME",
+  "slug": "martinez-esquivel-lourdes",
+  "name": "Martinez-Esquivel, Lourdes",
+  "totalDecisions": 18436,
+  "grants": 1373,
+  "denials": 105,
+  "removals": 71,
+  "absentia": 3048,
+  "grantRate": 7.4,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 30707
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 194
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

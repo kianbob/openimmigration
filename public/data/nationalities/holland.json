@@ -1,0 +1,175 @@
+{
+  "code": "HL",
+  "slug": "holland",
+  "name": "Holland",
+  "cases": 214,
+  "completed": 1201,
+  "grants": 28,
+  "denials": 8,
+  "removals": 0,
+  "grantRate": 2.3,
+  "topCourts": [
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "count": 26
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 21
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 13
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 12
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 10
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 10
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "count": 7
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 3
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2002,
+      "cases": 2
+    },
+    {
+      "year": 2008,
+      "cases": 1
+    },
+    {
+      "year": 2011,
+      "cases": 1
+    },
+    {
+      "year": 2014,
+      "cases": 5
+    },
+    {
+      "year": 2015,
+      "cases": 5
+    },
+    {
+      "year": 2016,
+      "cases": 1
+    },
+    {
+      "year": 2017,
+      "cases": 2
+    },
+    {
+      "year": 2018,
+      "cases": 4
+    },
+    {
+      "year": 2019,
+      "cases": 7
+    },
+    {
+      "year": 2020,
+      "cases": 10
+    },
+    {
+      "year": 2021,
+      "cases": 6
+    },
+    {
+      "year": 2022,
+      "cases": 15
+    },
+    {
+      "year": 2023,
+      "cases": 9
+    },
+    {
+      "year": 2024,
+      "cases": 8
+    },
+    {
+      "year": 2025,
+      "cases": 5
+    }
+  ]
+}

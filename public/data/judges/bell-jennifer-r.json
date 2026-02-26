@@ -1,0 +1,64 @@
+{
+  "code": "JRB",
+  "slug": "bell-jennifer-r",
+  "name": "Bell, Jennifer R.",
+  "totalDecisions": 9313,
+  "grants": 57,
+  "denials": 5,
+  "removals": 3,
+  "absentia": 3482,
+  "grantRate": 0.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 22581
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 89
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

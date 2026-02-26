@@ -1,0 +1,64 @@
+{
+  "code": "SSG",
+  "slug": "griswold-stephen-s",
+  "name": "Griswold, Stephen S.",
+  "totalDecisions": 3673,
+  "grants": 1435,
+  "denials": 19,
+  "removals": 11,
+  "absentia": 419,
+  "grantRate": 39.1,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3568
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

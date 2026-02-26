@@ -1,0 +1,64 @@
+{
+  "code": "AEM",
+  "slug": "maingot-anthony-e",
+  "name": "Maingot, Anthony E.",
+  "totalDecisions": 14178,
+  "grants": 320,
+  "denials": 25,
+  "removals": 21,
+  "absentia": 2836,
+  "grantRate": 2.3,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 27050
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 153
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 103
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 65
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

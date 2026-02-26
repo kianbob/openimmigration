@@ -1,0 +1,64 @@
+{
+  "code": "AAK",
+  "slug": "khan-amiena-a",
+  "name": "Khan, Amiena A.",
+  "totalDecisions": 11888,
+  "grants": 1556,
+  "denials": 41,
+  "removals": 39,
+  "absentia": 1746,
+  "grantRate": 13.1,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 12365
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4211
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JJO",
+  "slug": "jasso-jaime",
+  "name": "Jasso, Jaime",
+  "totalDecisions": 6285,
+  "grants": 310,
+  "denials": 45,
+  "removals": 33,
+  "absentia": 704,
+  "grantRate": 4.9,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 5690
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4040
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 510
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 107
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "WWS",
+  "slug": "stogner-w-wayne",
+  "name": "Stogner, W. Wayne",
+  "totalDecisions": 8905,
+  "grants": 867,
+  "denials": 44,
+  "removals": 30,
+  "absentia": 2572,
+  "grantRate": 9.7,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 8603
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

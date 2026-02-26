@@ -1,0 +1,64 @@
+{
+  "code": "GDM",
+  "slug": "malphrus-garry-d",
+  "name": "Malphrus, Garry D.",
+  "totalDecisions": 4429,
+  "grants": 584,
+  "denials": 28,
+  "removals": 21,
+  "absentia": 1054,
+  "grantRate": 13.2,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 3616
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 591
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

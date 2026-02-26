@@ -1,0 +1,64 @@
+{
+  "code": "VAL",
+  "slug": "levin-victoria",
+  "name": "Levin, Victoria",
+  "totalDecisions": 3921,
+  "grants": 260,
+  "denials": 21,
+  "removals": 2,
+  "absentia": 245,
+  "grantRate": 6.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 2305
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 1658
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

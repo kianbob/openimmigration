@@ -1,0 +1,64 @@
+{
+  "code": "ZZD",
+  "slug": "depaolo-zsa-zsa",
+  "name": "Depaolo, Zsa Zsa",
+  "totalDecisions": 24321,
+  "grants": 1424,
+  "denials": 234,
+  "removals": 182,
+  "absentia": 1333,
+  "grantRate": 5.9,
+  "removalRate": 0.7,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 22975
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 1137
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 93
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "LJF",
+  "slug": "francis-leon-j",
+  "name": "Francis, Leon J.",
+  "totalDecisions": 7055,
+  "grants": 397,
+  "denials": 25,
+  "removals": 18,
+  "absentia": 1664,
+  "grantRate": 5.6,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 6083
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1939
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "code": "JAT",
+  "slug": "thomas-jason",
+  "name": "Thomas, Jason",
+  "totalDecisions": 68,
+  "grants": 3,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 4.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "BTR",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

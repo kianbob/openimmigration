@@ -1,0 +1,64 @@
+{
+  "code": "JJS",
+  "slug": "stender-jacob-j",
+  "name": "Stender, Jacob J.",
+  "totalDecisions": 2795,
+  "grants": 302,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 1049,
+  "grantRate": 10.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 8640
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 430
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

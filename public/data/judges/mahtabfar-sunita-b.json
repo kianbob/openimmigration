@@ -1,0 +1,64 @@
+{
+  "code": "SBM",
+  "slug": "mahtabfar-sunita-b",
+  "name": "Mahtabfar, Sunita B.",
+  "totalDecisions": 13608,
+  "grants": 101,
+  "denials": 441,
+  "removals": 415,
+  "absentia": 5216,
+  "grantRate": 0.7,
+  "removalRate": 3,
+  "courts": [
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 9116
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 3244
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 1094
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 109
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

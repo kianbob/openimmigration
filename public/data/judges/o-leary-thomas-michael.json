@@ -1,0 +1,64 @@
+{
+  "code": "TMO",
+  "slug": "o-leary-thomas-michael",
+  "name": "O'Leary, Thomas Michael",
+  "totalDecisions": 43664,
+  "grants": 1050,
+  "denials": 144,
+  "removals": 114,
+  "absentia": 424,
+  "grantRate": 2.4,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 21879
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 17956
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 3073
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 322
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 238
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

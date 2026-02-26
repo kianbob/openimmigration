@@ -1,0 +1,64 @@
+{
+  "code": "MWS",
+  "slug": "straus-michael-w",
+  "name": "Straus, Michael W.",
+  "totalDecisions": 37987,
+  "grants": 3758,
+  "denials": 282,
+  "removals": 155,
+  "absentia": 7931,
+  "grantRate": 9.9,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 39037
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 182
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 173
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 79
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

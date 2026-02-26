@@ -1,0 +1,59 @@
+{
+  "code": "SAB",
+  "slug": "begovich-samantha",
+  "name": "Begovich, Samantha",
+  "totalDecisions": 1123,
+  "grants": 37,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 140,
+  "grantRate": 3.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1197
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 681
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 293
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

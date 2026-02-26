@@ -1,0 +1,64 @@
+{
+  "code": "CFP",
+  "slug": "pierce-curtis-f",
+  "name": "Pierce, Curtis F.",
+  "totalDecisions": 5503,
+  "grants": 389,
+  "denials": 32,
+  "removals": 28,
+  "absentia": 1226,
+  "grantRate": 7.1,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5320
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3458
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

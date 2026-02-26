@@ -1,0 +1,39 @@
+{
+  "code": "ROD",
+  "slug": "donato-robin",
+  "name": "Donato, Robin",
+  "totalDecisions": 85,
+  "grants": 5,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 5.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 112
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

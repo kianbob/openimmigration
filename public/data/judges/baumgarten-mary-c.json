@@ -1,0 +1,64 @@
+{
+  "code": "KBJ",
+  "slug": "baumgarten-mary-c",
+  "name": "Baumgarten, Mary C.",
+  "totalDecisions": 7193,
+  "grants": 108,
+  "denials": 20,
+  "removals": 2,
+  "absentia": 1209,
+  "grantRate": 1.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 8210
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1472
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 748
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 238
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 98
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

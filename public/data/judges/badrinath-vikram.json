@@ -1,0 +1,64 @@
+{
+  "code": "VKB",
+  "slug": "badrinath-vikram",
+  "name": "Badrinath, Vikram",
+  "totalDecisions": 4277,
+  "grants": 902,
+  "denials": 3,
+  "removals": 1,
+  "absentia": 620,
+  "grantRate": 21.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 11143
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 549
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 156
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 21
+    }
+  ]
+}

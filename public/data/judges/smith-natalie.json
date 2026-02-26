@@ -1,0 +1,64 @@
+{
+  "code": "NSM",
+  "slug": "smith-natalie",
+  "name": "Smith, Natalie",
+  "totalDecisions": 2800,
+  "grants": 171,
+  "denials": 14,
+  "removals": 0,
+  "absentia": 88,
+  "grantRate": 6.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 8040
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 497
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 479
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

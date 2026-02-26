@@ -1,0 +1,34 @@
+{
+  "code": "KYM",
+  "slug": "mitchell-kyle",
+  "name": "Mitchell, Kyle",
+  "totalDecisions": 92,
+  "grants": 5,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 5.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 116
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

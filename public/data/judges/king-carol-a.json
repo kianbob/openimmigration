@@ -1,0 +1,64 @@
+{
+  "code": "CAK",
+  "slug": "king-carol-a",
+  "name": "King, Carol A.",
+  "totalDecisions": 11674,
+  "grants": 3225,
+  "denials": 308,
+  "removals": 289,
+  "absentia": 1874,
+  "grantRate": 27.6,
+  "removalRate": 2.5,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 11416
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 103
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

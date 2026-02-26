@@ -1,0 +1,64 @@
+{
+  "code": "BND",
+  "slug": "davey-benjamin",
+  "name": "Davey, Benjamin",
+  "totalDecisions": 2867,
+  "grants": 93,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 924,
+  "grantRate": 3.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 2354
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 627
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

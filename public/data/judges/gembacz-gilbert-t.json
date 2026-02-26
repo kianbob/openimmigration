@@ -1,0 +1,39 @@
+{
+  "code": "GTG",
+  "slug": "gembacz-gilbert-t",
+  "name": "Gembacz, Gilbert T.",
+  "totalDecisions": 8960,
+  "grants": 2363,
+  "denials": 630,
+  "removals": 627,
+  "absentia": 2127,
+  "grantRate": 26.4,
+  "removalRate": 7,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 8938
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "KLH",
+  "slug": "hansen-katherine-l",
+  "name": "Hansen, Katherine L.",
+  "totalDecisions": 12005,
+  "grants": 793,
+  "denials": 10,
+  "removals": 3,
+  "absentia": 2812,
+  "grantRate": 6.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 11430
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 9328
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

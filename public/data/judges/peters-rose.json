@@ -1,0 +1,64 @@
+{
+  "code": "RCP",
+  "slug": "peters-rose",
+  "name": "Peters, Rose",
+  "totalDecisions": 40899,
+  "grants": 2206,
+  "denials": 10397,
+  "removals": 10346,
+  "absentia": 2625,
+  "grantRate": 5.4,
+  "removalRate": 25.3,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 38640
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 2017
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

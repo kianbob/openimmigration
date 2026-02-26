@@ -1,0 +1,64 @@
+{
+  "code": "TAR",
+  "slug": "riley-teresa-l",
+  "name": "Riley, Teresa L.",
+  "totalDecisions": 5822,
+  "grants": 155,
+  "denials": 10,
+  "removals": 0,
+  "absentia": 1854,
+  "grantRate": 2.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 5837
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

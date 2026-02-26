@@ -1,0 +1,101 @@
+{
+  "code": "MV",
+  "slug": "maldives",
+  "name": "Maldives",
+  "cases": 24,
+  "completed": 29,
+  "grants": 7,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 7
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1992,
+      "cases": 7
+    },
+    {
+      "year": 1993,
+      "cases": 1
+    },
+    {
+      "year": 1999,
+      "cases": 1
+    },
+    {
+      "year": 2003,
+      "cases": 1
+    },
+    {
+      "year": 2004,
+      "cases": 2
+    },
+    {
+      "year": 2008,
+      "cases": 3
+    },
+    {
+      "year": 2022,
+      "cases": 1
+    },
+    {
+      "year": 2023,
+      "cases": 1
+    },
+    {
+      "year": 2024,
+      "cases": 1
+    }
+  ]
+}

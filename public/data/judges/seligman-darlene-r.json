@@ -1,0 +1,24 @@
+{
+  "code": "DRS",
+  "slug": "seligman-darlene-r",
+  "name": "Seligman, Darlene R.",
+  "totalDecisions": 7912,
+  "grants": 1273,
+  "denials": 1560,
+  "removals": 1558,
+  "absentia": 2064,
+  "grantRate": 16.1,
+  "removalRate": 19.7,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 7903
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

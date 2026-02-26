@@ -1,0 +1,64 @@
+{
+  "code": "JD",
+  "slug": "dierkes-joseph",
+  "name": "Dierkes, Joseph",
+  "totalDecisions": 15325,
+  "grants": 1615,
+  "denials": 441,
+  "removals": 421,
+  "absentia": 2493,
+  "grantRate": 10.5,
+  "removalRate": 2.7,
+  "courts": [
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 14279
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 750
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 76
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 67
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 62
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

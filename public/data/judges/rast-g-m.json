@@ -1,0 +1,64 @@
+{
+  "code": "GMR",
+  "slug": "rast-g-m",
+  "name": "Rast, G. M.",
+  "totalDecisions": 20329,
+  "grants": 694,
+  "denials": 5820,
+  "removals": 5810,
+  "absentia": 5366,
+  "grantRate": 3.4,
+  "removalRate": 28.6,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 11912
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 3179
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 2806
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 1225
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 560
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 432
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 120
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "WTN",
+  "slug": "napier-wade-thomas",
+  "name": "Napier, Wade Thomas",
+  "totalDecisions": 2319,
+  "grants": 237,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 220,
+  "grantRate": 10.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 2318
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 1405
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 940
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 207
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 16
+    }
+  ]
+}

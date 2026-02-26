@@ -1,0 +1,64 @@
+{
+  "code": "DCA",
+  "slug": "anderson-david-c",
+  "name": "Anderson, David C.",
+  "totalDecisions": 27692,
+  "grants": 3000,
+  "denials": 146,
+  "removals": 70,
+  "absentia": 5620,
+  "grantRate": 10.8,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 28753
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5225
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 3885
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 1332
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 172
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 123
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 104
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 85
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 36
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "ZJF",
+  "slug": "fenelon-zahra-jivani",
+  "name": "Fenelon, Zahra Jivani",
+  "totalDecisions": 3644,
+  "grants": 44,
+  "denials": 14,
+  "removals": 13,
+  "absentia": 1117,
+  "grantRate": 1.2,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4146
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

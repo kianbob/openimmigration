@@ -1,0 +1,34 @@
+{
+  "code": "RQ",
+  "slug": "rq",
+  "name": "Rq",
+  "cases": 15,
+  "completed": 15,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": []
+}

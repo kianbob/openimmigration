@@ -1,0 +1,64 @@
+{
+  "code": "TLP",
+  "slug": "pullen-thomas-l",
+  "name": "Pullen, Thomas L.",
+  "totalDecisions": 3896,
+  "grants": 527,
+  "denials": 656,
+  "removals": 656,
+  "absentia": 263,
+  "grantRate": 13.5,
+  "removalRate": 16.8,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 2047
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 1380
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 142
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 81
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 55
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 19
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "KHS",
+  "slug": "shahan-kenneth",
+  "name": "Shahan, Kenneth",
+  "totalDecisions": 2831,
+  "grants": 92,
+  "denials": 27,
+  "removals": 0,
+  "absentia": 212,
+  "grantRate": 3.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 2408
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 983
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 648
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 144
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 60
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 31
+    }
+  ]
+}

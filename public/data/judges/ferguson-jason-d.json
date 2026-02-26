@@ -1,0 +1,64 @@
+{
+  "code": "JDF",
+  "slug": "ferguson-jason-d",
+  "name": "Ferguson, Jason D.",
+  "totalDecisions": 3253,
+  "grants": 114,
+  "denials": 5,
+  "removals": 1,
+  "absentia": 451,
+  "grantRate": 3.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 2214
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 346
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 213
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 119
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 110
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 87
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 58
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

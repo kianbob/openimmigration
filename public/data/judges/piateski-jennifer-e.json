@@ -1,0 +1,64 @@
+{
+  "code": "JPI",
+  "slug": "piateski-jennifer-e",
+  "name": "Piateski, Jennifer E.",
+  "totalDecisions": 2833,
+  "grants": 184,
+  "denials": 15,
+  "removals": 0,
+  "absentia": 558,
+  "grantRate": 6.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 1929
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 604
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 266
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 120
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 58
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

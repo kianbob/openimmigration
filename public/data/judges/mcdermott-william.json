@@ -1,0 +1,64 @@
+{
+  "code": "WMD",
+  "slug": "mcdermott-william",
+  "name": "Mcdermott, William",
+  "totalDecisions": 4121,
+  "grants": 594,
+  "denials": 7,
+  "removals": 4,
+  "absentia": 547,
+  "grantRate": 14.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 2512
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2469
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

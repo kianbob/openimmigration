@@ -1,0 +1,64 @@
+{
+  "code": "JOB",
+  "slug": "barilla-jody",
+  "name": "Barilla, Jody",
+  "totalDecisions": 3898,
+  "grants": 189,
+  "denials": 10,
+  "removals": 0,
+  "absentia": 965,
+  "grantRate": 4.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 15689
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

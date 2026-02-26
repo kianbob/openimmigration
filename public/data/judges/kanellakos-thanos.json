@@ -1,0 +1,64 @@
+{
+  "code": "TSK",
+  "slug": "kanellakos-thanos",
+  "name": "Kanellakos, Thanos",
+  "totalDecisions": 5480,
+  "grants": 281,
+  "denials": 9,
+  "removals": 1,
+  "absentia": 890,
+  "grantRate": 5.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 5929
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 492
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 216
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 95
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 70
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

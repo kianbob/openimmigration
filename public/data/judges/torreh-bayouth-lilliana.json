@@ -1,0 +1,64 @@
+{
+  "code": "LTB",
+  "slug": "torreh-bayouth-lilliana",
+  "name": "Torreh-Bayouth, Lilliana",
+  "totalDecisions": 26557,
+  "grants": 3661,
+  "denials": 680,
+  "removals": 613,
+  "absentia": 4611,
+  "grantRate": 13.8,
+  "removalRate": 2.3,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 29578
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 109
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 65
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

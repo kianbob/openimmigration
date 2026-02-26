@@ -1,0 +1,64 @@
+{
+  "code": "CLR",
+  "slug": "clerical-transfer-code",
+  "name": "Clerical Transfer Code",
+  "totalDecisions": 72678,
+  "grants": 111,
+  "denials": 316,
+  "removals": 315,
+  "absentia": 96,
+  "grantRate": 0.2,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 12952
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 10007
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 8653
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 6736
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 5384
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3811
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3086
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3029
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 2337
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 2061
+    }
+  ]
+}

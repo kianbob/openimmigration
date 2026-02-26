@@ -1,0 +1,64 @@
+{
+  "code": "RPO",
+  "slug": "owens-robert-p",
+  "name": "Owens, Robert P.",
+  "totalDecisions": 7140,
+  "grants": 1105,
+  "denials": 211,
+  "removals": 149,
+  "absentia": 1550,
+  "grantRate": 15.5,
+  "removalRate": 2.1,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 3784
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 433
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 350
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 311
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 250
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 241
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 227
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 214
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 140
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 119
+    }
+  ]
+}

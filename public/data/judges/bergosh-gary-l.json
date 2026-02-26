@@ -1,0 +1,19 @@
+{
+  "code": "GYB",
+  "slug": "bergosh-gary-l",
+  "name": "Bergosh, Gary L.",
+  "totalDecisions": 254,
+  "grants": 4,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 439
+    }
+  ]
+}

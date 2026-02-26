@@ -1,0 +1,64 @@
+{
+  "code": "PD1",
+  "slug": "davis-paula-v",
+  "name": "Davis, Paula V.",
+  "totalDecisions": 9344,
+  "grants": 629,
+  "denials": 13,
+  "removals": 7,
+  "absentia": 1569,
+  "grantRate": 6.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 9247
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "code": "KT",
+  "slug": "christmas-islands",
+  "name": "Christmas Islands",
+  "cases": 9,
+  "completed": 30,
+  "grants": 6,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2017,
+      "cases": 1
+    },
+    {
+      "year": 2023,
+      "cases": 1
+    },
+    {
+      "year": 2024,
+      "cases": 1
+    },
+    {
+      "year": 2025,
+      "cases": 1
+    }
+  ]
+}

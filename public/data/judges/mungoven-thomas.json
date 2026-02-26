@@ -1,0 +1,64 @@
+{
+  "code": "TSM",
+  "slug": "mungoven-thomas",
+  "name": "Mungoven, Thomas",
+  "totalDecisions": 6064,
+  "grants": 626,
+  "denials": 6,
+  "removals": 2,
+  "absentia": 1042,
+  "grantRate": 10.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 8531
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 4
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

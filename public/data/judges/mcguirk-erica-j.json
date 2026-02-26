@@ -1,0 +1,64 @@
+{
+  "code": "EMK",
+  "slug": "mcguirk-erica-j",
+  "name": "Mcguirk, Erica J.",
+  "totalDecisions": 2147,
+  "grants": 23,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 711,
+  "grantRate": 1.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1249
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 841
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

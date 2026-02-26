@@ -1,0 +1,64 @@
+{
+  "code": "AJR",
+  "slug": "riefkohl-alberto-j",
+  "name": "Riefkohl, Alberto J.",
+  "totalDecisions": 32165,
+  "grants": 4486,
+  "denials": 776,
+  "removals": 753,
+  "absentia": 7699,
+  "grantRate": 13.9,
+  "removalRate": 2.3,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 48145
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 257
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 25
+    }
+  ]
+}

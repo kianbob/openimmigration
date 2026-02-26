@@ -1,0 +1,64 @@
+{
+  "code": "GEP",
+  "slug": "pappas-george",
+  "name": "Pappas, George",
+  "totalDecisions": 3864,
+  "grants": 181,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 102,
+  "grantRate": 4.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 2893
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1487
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 912
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

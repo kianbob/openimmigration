@@ -1,0 +1,64 @@
+{
+  "code": "DMB",
+  "slug": "beamer-dayna",
+  "name": "Beamer, Dayna",
+  "totalDecisions": 13444,
+  "grants": 2927,
+  "denials": 91,
+  "removals": 27,
+  "absentia": 1283,
+  "grantRate": 21.8,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 9722
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 3069
+    },
+    {
+      "code": "SAI",
+      "name": "Immigration Court",
+      "hearings": 179
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 110
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 109
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 72
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 60
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 20
+    }
+  ]
+}

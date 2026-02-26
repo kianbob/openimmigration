@@ -1,0 +1,49 @@
+{
+  "code": "RD1",
+  "slug": "duncan-randall-w",
+  "name": "Duncan, Randall W.",
+  "totalDecisions": 7925,
+  "grants": 136,
+  "denials": 39,
+  "removals": 0,
+  "absentia": 743,
+  "grantRate": 1.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 5367
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 2245
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 302
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

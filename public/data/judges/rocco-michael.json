@@ -1,0 +1,64 @@
+{
+  "code": "MR",
+  "slug": "rocco-michael",
+  "name": "Rocco, Michael",
+  "totalDecisions": 22824,
+  "grants": 350,
+  "denials": 1000,
+  "removals": 990,
+  "absentia": 6490,
+  "grantRate": 1.5,
+  "removalRate": 4.3,
+  "courts": [
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 22027
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 640
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

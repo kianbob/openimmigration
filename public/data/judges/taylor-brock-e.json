@@ -1,0 +1,64 @@
+{
+  "code": "BTR",
+  "slug": "taylor-brock-e",
+  "name": "Taylor, Brock E",
+  "totalDecisions": 9968,
+  "grants": 599,
+  "denials": 63,
+  "removals": 1,
+  "absentia": 1,
+  "grantRate": 6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 7049
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 741
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 641
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 503
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 303
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 281
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 227
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 163
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 106
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 93
+    }
+  ]
+}

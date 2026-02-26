@@ -1,0 +1,64 @@
+{
+  "code": "KJ",
+  "slug": "josephson-kenneth",
+  "name": "Josephson, Kenneth",
+  "totalDecisions": 50308,
+  "grants": 4777,
+  "denials": 8898,
+  "removals": 8836,
+  "absentia": 5955,
+  "grantRate": 9.5,
+  "removalRate": 17.6,
+  "courts": [
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 29813
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 15361
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 4029
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 171
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 161
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 160
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 130
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 102
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 71
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 61
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "RFH",
+  "slug": "fellrath-robert",
+  "name": "Fellrath, Robert",
+  "totalDecisions": 323,
+  "grants": 24,
+  "denials": 6,
+  "removals": 6,
+  "absentia": 56,
+  "grantRate": 7.4,
+  "removalRate": 1.9,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 305
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "code": "MJY",
+  "slug": "yamaguchi-michael-j",
+  "name": "Yamaguchi, Michael J.",
+  "totalDecisions": 19433,
+  "grants": 1257,
+  "denials": 256,
+  "removals": 124,
+  "absentia": 438,
+  "grantRate": 6.5,
+  "removalRate": 0.6,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 19430
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

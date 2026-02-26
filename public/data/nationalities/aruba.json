@@ -1,0 +1,175 @@
+{
+  "code": "AB",
+  "slug": "aruba",
+  "name": "Aruba",
+  "cases": 70,
+  "completed": 117,
+  "grants": 18,
+  "denials": 8,
+  "removals": 8,
+  "grantRate": 15.4,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 9
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 7
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1997,
+      "cases": 3
+    },
+    {
+      "year": 1999,
+      "cases": 2
+    },
+    {
+      "year": 2001,
+      "cases": 3
+    },
+    {
+      "year": 2003,
+      "cases": 2
+    },
+    {
+      "year": 2004,
+      "cases": 2
+    },
+    {
+      "year": 2006,
+      "cases": 2
+    },
+    {
+      "year": 2009,
+      "cases": 1
+    },
+    {
+      "year": 2010,
+      "cases": 1
+    },
+    {
+      "year": 2014,
+      "cases": 2
+    },
+    {
+      "year": 2015,
+      "cases": 1
+    },
+    {
+      "year": 2016,
+      "cases": 2
+    },
+    {
+      "year": 2020,
+      "cases": 1
+    },
+    {
+      "year": 2021,
+      "cases": 2
+    },
+    {
+      "year": 2024,
+      "cases": 1
+    },
+    {
+      "year": 2025,
+      "cases": 2
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JDA",
+  "slug": "archuleta-judy",
+  "name": "Archuleta, Judy",
+  "totalDecisions": 1019,
+  "grants": 30,
+  "denials": 12,
+  "removals": 0,
+  "absentia": 102,
+  "grantRate": 2.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 477
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 196
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 142
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 75
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

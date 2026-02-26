@@ -1,0 +1,64 @@
+{
+  "code": "ELT",
+  "slug": "treacy-elizabeth",
+  "name": "Treacy, Elizabeth",
+  "totalDecisions": 5630,
+  "grants": 266,
+  "denials": 4,
+  "removals": 1,
+  "absentia": 1584,
+  "grantRate": 4.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 15355
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

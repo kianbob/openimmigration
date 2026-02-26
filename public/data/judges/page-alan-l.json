@@ -1,0 +1,64 @@
+{
+  "code": "ALP",
+  "slug": "page-alan-l",
+  "name": "Page, Alan L.",
+  "totalDecisions": 16206,
+  "grants": 812,
+  "denials": 2755,
+  "removals": 2711,
+  "absentia": 1547,
+  "grantRate": 5,
+  "removalRate": 16.7,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 14462
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 1586
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 69
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

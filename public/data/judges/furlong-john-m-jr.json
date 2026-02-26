@@ -1,0 +1,64 @@
+{
+  "code": "JMF",
+  "slug": "furlong-john-m-jr",
+  "name": "Furlong, John M., Jr.",
+  "totalDecisions": 10119,
+  "grants": 371,
+  "denials": 24,
+  "removals": 8,
+  "absentia": 1186,
+  "grantRate": 3.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 20587
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

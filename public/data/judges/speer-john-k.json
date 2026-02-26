@@ -1,0 +1,39 @@
+{
+  "code": "JKS",
+  "slug": "speer-john-k",
+  "name": "Speer, John K.",
+  "totalDecisions": 17394,
+  "grants": 420,
+  "denials": 1671,
+  "removals": 1671,
+  "absentia": 2147,
+  "grantRate": 2.4,
+  "removalRate": 9.6,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 12098
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5254
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

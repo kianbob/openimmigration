@@ -1,0 +1,19 @@
+{
+  "code": "KGM",
+  "slug": "mullins-katie-g",
+  "name": "Mullins, Katie G.",
+  "totalDecisions": 1557,
+  "grants": 36,
+  "denials": 30,
+  "removals": 1,
+  "absentia": 0,
+  "grantRate": 2.3,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 1843
+    }
+  ]
+}

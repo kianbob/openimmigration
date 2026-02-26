@@ -1,0 +1,64 @@
+{
+  "code": "MWK",
+  "slug": "kaufman-matthew-w",
+  "name": "Kaufman, Matthew W.",
+  "totalDecisions": 18375,
+  "grants": 679,
+  "denials": 33,
+  "removals": 6,
+  "absentia": 4701,
+  "grantRate": 3.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 12692
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 5173
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 1987
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 15
+    }
+  ]
+}

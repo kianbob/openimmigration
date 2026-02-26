@@ -1,0 +1,24 @@
+{
+  "code": "GS",
+  "slug": "smith-gary-w",
+  "name": "Smith, Gary W.",
+  "totalDecisions": 406,
+  "grants": 113,
+  "denials": 3,
+  "removals": 3,
+  "absentia": 67,
+  "grantRate": 27.8,
+  "removalRate": 0.7,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 404
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "BV1",
+  "slug": "virchis-bridget",
+  "name": "Virchis, Bridget",
+  "totalDecisions": 6151,
+  "grants": 486,
+  "denials": 79,
+  "removals": 59,
+  "absentia": 1299,
+  "grantRate": 7.9,
+  "removalRate": 1,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4145
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 1807
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

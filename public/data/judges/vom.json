@@ -1,0 +1,19 @@
+{
+  "code": "VOM",
+  "slug": "vom",
+  "name": "Vom",
+  "totalDecisions": 103,
+  "grants": 3,
+  "denials": 71,
+  "removals": 71,
+  "absentia": 14,
+  "grantRate": 2.9,
+  "removalRate": 68.9,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 103
+    }
+  ]
+}

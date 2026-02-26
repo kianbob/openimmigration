@@ -1,0 +1,64 @@
+{
+  "code": "THW",
+  "slug": "wilson-tamar-h",
+  "name": "Wilson, Tamar H.",
+  "totalDecisions": 13082,
+  "grants": 459,
+  "denials": 73,
+  "removals": 21,
+  "absentia": 1841,
+  "grantRate": 3.5,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 25181
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 2989
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

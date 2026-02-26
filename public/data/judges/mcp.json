@@ -1,0 +1,19 @@
+{
+  "code": "MCP",
+  "slug": "mcp",
+  "name": "Mcp",
+  "totalDecisions": 97,
+  "grants": 0,
+  "denials": 69,
+  "removals": 69,
+  "absentia": 5,
+  "grantRate": 0,
+  "removalRate": 71.1,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 97
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JFG",
+  "slug": "gossart-john-f-jr",
+  "name": "Gossart, John F., Jr.",
+  "totalDecisions": 26831,
+  "grants": 4473,
+  "denials": 2970,
+  "removals": 2915,
+  "absentia": 4406,
+  "grantRate": 16.7,
+  "removalRate": 10.9,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 20254
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 3203
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 2195
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 293
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 245
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 144
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 111
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 110
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 61
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 44
+    }
+  ]
+}

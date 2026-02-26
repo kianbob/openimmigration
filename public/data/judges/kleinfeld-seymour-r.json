@@ -1,0 +1,29 @@
+{
+  "code": "SRK",
+  "slug": "kleinfeld-seymour-r",
+  "name": "Kleinfeld, Seymour R.",
+  "totalDecisions": 6989,
+  "grants": 1733,
+  "denials": 488,
+  "removals": 451,
+  "absentia": 1781,
+  "grantRate": 24.8,
+  "removalRate": 6.5,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 6890
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 79
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 20
+    }
+  ]
+}

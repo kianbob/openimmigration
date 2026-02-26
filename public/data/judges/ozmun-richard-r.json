@@ -1,0 +1,64 @@
+{
+  "code": "RRO",
+  "slug": "ozmun-richard-r",
+  "name": "Ozmun, Richard R.",
+  "totalDecisions": 47678,
+  "grants": 1112,
+  "denials": 65,
+  "removals": 21,
+  "absentia": 15090,
+  "grantRate": 2.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 49436
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 6013
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 3963
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 3723
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 486
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 402
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 99
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 69
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 65
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 52
+    }
+  ]
+}

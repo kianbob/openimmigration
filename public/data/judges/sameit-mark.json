@@ -1,0 +1,44 @@
+{
+  "code": "MST",
+  "slug": "sameit-mark",
+  "name": "Sameit, Mark",
+  "totalDecisions": 5722,
+  "grants": 145,
+  "denials": 22,
+  "removals": 0,
+  "absentia": 16,
+  "grantRate": 2.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 5901
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 59
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

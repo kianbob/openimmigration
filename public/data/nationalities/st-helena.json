@@ -1,0 +1,29 @@
+{
+  "code": "SH",
+  "slug": "st-helena",
+  "name": "St. Helena",
+  "cases": 3,
+  "completed": 8,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": []
+}

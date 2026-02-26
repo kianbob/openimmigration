@@ -1,0 +1,64 @@
+{
+  "code": "TRA",
+  "slug": "rivera-tamaira",
+  "name": "Rivera, Tamaira",
+  "totalDecisions": 465,
+  "grants": 61,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 52,
+  "grantRate": 13.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 399
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

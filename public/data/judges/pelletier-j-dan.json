@@ -1,0 +1,64 @@
+{
+  "code": "JDP",
+  "slug": "pelletier-j-dan",
+  "name": "Pelletier, J. Dan",
+  "totalDecisions": 21606,
+  "grants": 451,
+  "denials": 91,
+  "removals": 38,
+  "absentia": 4564,
+  "grantRate": 2.1,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 13948
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 4566
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 2855
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

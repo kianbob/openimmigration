@@ -1,0 +1,64 @@
+{
+  "code": "SEM",
+  "slug": "mander-stephen-e",
+  "name": "Mander, Stephen E.",
+  "totalDecisions": 25912,
+  "grants": 4396,
+  "denials": 672,
+  "removals": 582,
+  "absentia": 4879,
+  "grantRate": 17,
+  "removalRate": 2.2,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 38022
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 82
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

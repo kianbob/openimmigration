@@ -1,0 +1,64 @@
+{
+  "code": "ASH",
+  "slug": "hartye-alice-song",
+  "name": "Hartye, Alice Song",
+  "totalDecisions": 10202,
+  "grants": 691,
+  "denials": 58,
+  "removals": 9,
+  "absentia": 1299,
+  "grantRate": 6.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 10375
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 2055
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 125
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 116
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 76
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "code": "CM",
+  "slug": "cameroon",
+  "name": "Cameroon",
+  "cases": 18689,
+  "completed": 29962,
+  "grants": 9466,
+  "denials": 295,
+  "removals": 201,
+  "grantRate": 31.6,
+  "topCourts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 3659
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "count": 3263
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 1219
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 839
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 725
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 629
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 499
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 464
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 413
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "count": 397
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 332
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 326
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 285
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 259
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 254
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 234
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "count": 209
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "count": 199
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "count": 187
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "count": 185
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 17
+    },
+    {
+      "year": 1991,
+      "cases": 18
+    },
+    {
+      "year": 1992,
+      "cases": 10
+    },
+    {
+      "year": 1993,
+      "cases": 27
+    },
+    {
+      "year": 1994,
+      "cases": 45
+    },
+    {
+      "year": 1995,
+      "cases": 92
+    },
+    {
+      "year": 1996,
+      "cases": 136
+    },
+    {
+      "year": 1997,
+      "cases": 102
+    },
+    {
+      "year": 1998,
+      "cases": 127
+    },
+    {
+      "year": 1999,
+      "cases": 166
+    },
+    {
+      "year": 2000,
+      "cases": 236
+    },
+    {
+      "year": 2001,
+      "cases": 211
+    },
+    {
+      "year": 2002,
+      "cases": 366
+    },
+    {
+      "year": 2003,
+      "cases": 552
+    },
+    {
+      "year": 2004,
+      "cases": 431
+    },
+    {
+      "year": 2005,
+      "cases": 272
+    },
+    {
+      "year": 2006,
+      "cases": 147
+    },
+    {
+      "year": 2007,
+      "cases": 86
+    },
+    {
+      "year": 2008,
+      "cases": 86
+    },
+    {
+      "year": 2009,
+      "cases": 104
+    },
+    {
+      "year": 2010,
+      "cases": 111
+    },
+    {
+      "year": 2011,
+      "cases": 108
+    },
+    {
+      "year": 2012,
+      "cases": 129
+    },
+    {
+      "year": 2013,
+      "cases": 195
+    },
+    {
+      "year": 2014,
+      "cases": 250
+    },
+    {
+      "year": 2015,
+      "cases": 205
+    },
+    {
+      "year": 2016,
+      "cases": 342
+    },
+    {
+      "year": 2017,
+      "cases": 399
+    },
+    {
+      "year": 2018,
+      "cases": 557
+    },
+    {
+      "year": 2019,
+      "cases": 926
+    },
+    {
+      "year": 2020,
+      "cases": 1171
+    },
+    {
+      "year": 2021,
+      "cases": 465
+    },
+    {
+      "year": 2022,
+      "cases": 764
+    },
+    {
+      "year": 2023,
+      "cases": 1925
+    },
+    {
+      "year": 2024,
+      "cases": 2232
+    },
+    {
+      "year": 2025,
+      "cases": 1302
+    },
+    {
+      "year": 2026,
+      "cases": 53
+    }
+  ]
+}

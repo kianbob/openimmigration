@@ -1,0 +1,64 @@
+{
+  "code": "JJJ",
+  "slug": "jackson-jacqueline-j",
+  "name": "Jackson, Jacqueline J.",
+  "totalDecisions": 1946,
+  "grants": 441,
+  "denials": 3,
+  "removals": 1,
+  "absentia": 199,
+  "grantRate": 22.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1890
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

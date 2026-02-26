@@ -1,0 +1,64 @@
+{
+  "code": "BDG",
+  "slug": "doughty-blake",
+  "name": "Doughty, Blake",
+  "totalDecisions": 11477,
+  "grants": 164,
+  "denials": 37,
+  "removals": 32,
+  "absentia": 3534,
+  "grantRate": 1.4,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 24217
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 257
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

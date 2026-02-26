@@ -1,0 +1,24 @@
+{
+  "code": "PTM",
+  "slug": "mcdermott-patrick-t",
+  "name": "Mcdermott, Patrick T.",
+  "totalDecisions": 2243,
+  "grants": 425,
+  "denials": 16,
+  "removals": 14,
+  "absentia": 441,
+  "grantRate": 18.9,
+  "removalRate": 0.6,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2242
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

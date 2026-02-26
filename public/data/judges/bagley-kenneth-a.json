@@ -1,0 +1,64 @@
+{
+  "code": "KAB",
+  "slug": "bagley-kenneth-a",
+  "name": "Bagley, Kenneth A.",
+  "totalDecisions": 30761,
+  "grants": 1197,
+  "denials": 9825,
+  "removals": 9817,
+  "absentia": 5122,
+  "grantRate": 3.9,
+  "removalRate": 31.9,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 23747
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 6263
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 154
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 151
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 105
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 65
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 33
+    }
+  ]
+}

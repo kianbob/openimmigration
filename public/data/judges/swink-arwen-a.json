@@ -1,0 +1,64 @@
+{
+  "code": "AAS",
+  "slug": "swink-arwen-a",
+  "name": "Swink, Arwen A.",
+  "totalDecisions": 7780,
+  "grants": 1481,
+  "denials": 18,
+  "removals": 4,
+  "absentia": 992,
+  "grantRate": 19,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 13127
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 93
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 69
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

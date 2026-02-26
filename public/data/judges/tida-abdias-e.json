@@ -1,0 +1,64 @@
+{
+  "code": "AET",
+  "slug": "tida-abdias-e",
+  "name": "Tida, Abdias E.",
+  "totalDecisions": 5251,
+  "grants": 39,
+  "denials": 6,
+  "removals": 0,
+  "absentia": 536,
+  "grantRate": 0.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 2740
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1699
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 661
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 544
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

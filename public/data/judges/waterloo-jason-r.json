@@ -1,0 +1,64 @@
+{
+  "code": "JWO",
+  "slug": "waterloo-jason-r",
+  "name": "Waterloo, Jason R.",
+  "totalDecisions": 6249,
+  "grants": 411,
+  "denials": 32,
+  "removals": 22,
+  "absentia": 1024,
+  "grantRate": 6.6,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 4757
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1513
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

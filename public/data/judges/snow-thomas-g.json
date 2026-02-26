@@ -1,0 +1,64 @@
+{
+  "code": "TGS",
+  "slug": "snow-thomas-g",
+  "name": "Snow, Thomas G.",
+  "totalDecisions": 13743,
+  "grants": 1895,
+  "denials": 123,
+  "removals": 26,
+  "absentia": 2433,
+  "grantRate": 13.8,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 12249
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 1247
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

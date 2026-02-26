@@ -1,0 +1,64 @@
+{
+  "code": "TLF",
+  "slug": "fitting-tammy-l",
+  "name": "Fitting, Tammy L.",
+  "totalDecisions": 31223,
+  "grants": 1165,
+  "denials": 188,
+  "removals": 20,
+  "absentia": 729,
+  "grantRate": 3.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 29208
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 2067
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 102
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "POR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

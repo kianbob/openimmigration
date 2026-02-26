@@ -1,0 +1,39 @@
+{
+  "code": "GL",
+  "slug": "greenland",
+  "name": "Greenland",
+  "cases": 5,
+  "completed": 10,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2024,
+      "cases": 1
+    }
+  ]
+}

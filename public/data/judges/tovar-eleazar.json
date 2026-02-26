@@ -1,0 +1,64 @@
+{
+  "code": "ET",
+  "slug": "tovar-eleazar",
+  "name": "Tovar, Eleazar",
+  "totalDecisions": 74171,
+  "grants": 1177,
+  "denials": 1258,
+  "removals": 1247,
+  "absentia": 23151,
+  "grantRate": 1.6,
+  "removalRate": 1.7,
+  "courts": [
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 56599
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 15132
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2272
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 154
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

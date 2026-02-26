@@ -1,0 +1,64 @@
+{
+  "code": "CSE",
+  "slug": "sagesse-cathy",
+  "name": "Sagesse, Cathy",
+  "totalDecisions": 7141,
+  "grants": 886,
+  "denials": 28,
+  "removals": 22,
+  "absentia": 1354,
+  "grantRate": 12.4,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 13594
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

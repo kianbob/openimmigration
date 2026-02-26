@@ -1,0 +1,64 @@
+{
+  "code": "JEE",
+  "slug": "egy-julia-e",
+  "name": "Egy, Julia E.",
+  "totalDecisions": 3873,
+  "grants": 204,
+  "denials": 8,
+  "removals": 0,
+  "absentia": 1038,
+  "grantRate": 5.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 5449
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "RLE",
+  "slug": "erwin-r-lee",
+  "name": "Erwin, R. Lee",
+  "totalDecisions": 22523,
+  "grants": 283,
+  "denials": 11374,
+  "removals": 11374,
+  "absentia": 2161,
+  "grantRate": 1.3,
+  "removalRate": 50.5,
+  "courts": [
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 12319
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 9672
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 144
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 104
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 71
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "NYD",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

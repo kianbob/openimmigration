@@ -1,0 +1,64 @@
+{
+  "code": "CSO",
+  "slug": "ouslander-charles",
+  "name": "Ouslander, Charles",
+  "totalDecisions": 2256,
+  "grants": 159,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 82,
+  "grantRate": 7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 2206
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 370
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

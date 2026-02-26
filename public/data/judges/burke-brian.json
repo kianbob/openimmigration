@@ -1,0 +1,64 @@
+{
+  "code": "BB2",
+  "slug": "burke-brian",
+  "name": "Burke, Brian",
+  "totalDecisions": 13943,
+  "grants": 412,
+  "denials": 38,
+  "removals": 2,
+  "absentia": 1971,
+  "grantRate": 3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 21354
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 5251
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 388
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

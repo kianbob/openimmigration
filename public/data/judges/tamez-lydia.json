@@ -1,0 +1,64 @@
+{
+  "code": "LDT",
+  "slug": "tamez-lydia",
+  "name": "Tamez, Lydia",
+  "totalDecisions": 7740,
+  "grants": 123,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 2179,
+  "grantRate": 1.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 9448
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

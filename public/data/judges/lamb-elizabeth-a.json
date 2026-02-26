@@ -1,0 +1,64 @@
+{
+  "code": "EAL",
+  "slug": "lamb-elizabeth-a",
+  "name": "Lamb, Elizabeth A.",
+  "totalDecisions": 14992,
+  "grants": 5845,
+  "denials": 783,
+  "removals": 768,
+  "absentia": 2419,
+  "grantRate": 39,
+  "removalRate": 5.1,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14661
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 82
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 67
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

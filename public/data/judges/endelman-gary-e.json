@@ -1,0 +1,64 @@
+{
+  "code": "GEE",
+  "slug": "endelman-gary-e",
+  "name": "Endelman, Gary E.",
+  "totalDecisions": 17946,
+  "grants": 614,
+  "denials": 53,
+  "removals": 28,
+  "absentia": 5514,
+  "grantRate": 3.4,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 19162
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

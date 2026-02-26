@@ -1,0 +1,44 @@
+{
+  "code": "KFH",
+  "slug": "french-kathleen",
+  "name": "French, Kathleen",
+  "totalDecisions": 3714,
+  "grants": 18,
+  "denials": 12,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 0.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 3243
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 365
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "IRD",
+  "slug": "diaz-irma",
+  "name": "Diaz, Irma",
+  "totalDecisions": 1510,
+  "grants": 167,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 276,
+  "grantRate": 11.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 2712
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 169
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 109
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 2
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

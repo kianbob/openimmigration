@@ -1,0 +1,19 @@
+{
+  "code": "BJH",
+  "slug": "hornbach-bernard-j",
+  "name": "Hornbach, Bernard J.",
+  "totalDecisions": 14304,
+  "grants": 3636,
+  "denials": 2613,
+  "removals": 2613,
+  "absentia": 817,
+  "grantRate": 25.4,
+  "removalRate": 18.3,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 14304
+    }
+  ]
+}

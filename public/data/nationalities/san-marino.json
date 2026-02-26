@@ -1,0 +1,133 @@
+{
+  "code": "SM",
+  "slug": "san-marino",
+  "name": "San Marino",
+  "cases": 43,
+  "completed": 71,
+  "grants": 8,
+  "denials": 5,
+  "removals": 3,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 12
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 7
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "count": 1
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 1
+    },
+    {
+      "year": 1991,
+      "cases": 3
+    },
+    {
+      "year": 1997,
+      "cases": 3
+    },
+    {
+      "year": 1998,
+      "cases": 1
+    },
+    {
+      "year": 2000,
+      "cases": 1
+    },
+    {
+      "year": 2001,
+      "cases": 1
+    },
+    {
+      "year": 2004,
+      "cases": 4
+    },
+    {
+      "year": 2006,
+      "cases": 1
+    },
+    {
+      "year": 2009,
+      "cases": 1
+    },
+    {
+      "year": 2013,
+      "cases": 1
+    },
+    {
+      "year": 2019,
+      "cases": 1
+    },
+    {
+      "year": 2024,
+      "cases": 1
+    }
+  ]
+}

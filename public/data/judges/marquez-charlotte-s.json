@@ -1,0 +1,64 @@
+{
+  "code": "CM1",
+  "slug": "marquez-charlotte-s",
+  "name": "Marquez, Charlotte S.",
+  "totalDecisions": 22567,
+  "grants": 229,
+  "denials": 16,
+  "removals": 0,
+  "absentia": 7001,
+  "grantRate": 1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 27303
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 73
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

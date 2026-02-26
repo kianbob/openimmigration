@@ -1,0 +1,64 @@
+{
+  "code": "DNO",
+  "slug": "norkin-david",
+  "name": "Norkin, David",
+  "totalDecisions": 5484,
+  "grants": 397,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 1096,
+  "grantRate": 7.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 5055
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 364
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

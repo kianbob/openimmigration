@@ -1,0 +1,64 @@
+{
+  "code": "VJ7",
+  "slug": "visiting-judge-7",
+  "name": "Visiting Judge 7",
+  "totalDecisions": 651,
+  "grants": 2,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 8,
+  "grantRate": 0.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 4044
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 2492
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 937
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 269
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 98
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 69
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 19
+    }
+  ]
+}

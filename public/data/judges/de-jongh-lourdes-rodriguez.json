@@ -1,0 +1,64 @@
+{
+  "code": "LRJ",
+  "slug": "de-jongh-lourdes-rodriguez",
+  "name": "De Jongh, Lourdes Rodriguez",
+  "totalDecisions": 19419,
+  "grants": 1090,
+  "denials": 85,
+  "removals": 61,
+  "absentia": 1640,
+  "grantRate": 5.6,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 23151
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2827
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1403
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 788
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 391
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 68
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "code": "US",
+  "slug": "us",
+  "name": "Us",
+  "cases": 32,
+  "completed": 38,
+  "grants": 0,
+  "denials": 2,
+  "removals": 2,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 13
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1991,
+      "cases": 2
+    },
+    {
+      "year": 1992,
+      "cases": 1
+    },
+    {
+      "year": 1993,
+      "cases": 1
+    }
+  ]
+}

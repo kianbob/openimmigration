@@ -1,0 +1,49 @@
+{
+  "code": "RPL",
+  "slug": "powell-robert-l",
+  "name": "Powell, Robert L.",
+  "totalDecisions": 19665,
+  "grants": 586,
+  "denials": 221,
+  "removals": 6,
+  "absentia": 10,
+  "grantRate": 3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 10310
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 9231
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 320
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

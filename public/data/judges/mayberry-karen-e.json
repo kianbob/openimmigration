@@ -1,0 +1,29 @@
+{
+  "code": "KEM",
+  "slug": "mayberry-karen-e",
+  "name": "Mayberry, Karen E.",
+  "totalDecisions": 282,
+  "grants": 16,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 2,
+  "grantRate": 5.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 280
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "TF",
+  "slug": "fong-thomas",
+  "name": "Fong, Thomas",
+  "totalDecisions": 25249,
+  "grants": 2096,
+  "denials": 7489,
+  "removals": 7487,
+  "absentia": 7569,
+  "grantRate": 8.3,
+  "removalRate": 29.7,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 25124
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JNC",
+  "slug": "castaneda-julian",
+  "name": "Castaneda, Julian",
+  "totalDecisions": 16449,
+  "grants": 97,
+  "denials": 206,
+  "removals": 162,
+  "absentia": 4726,
+  "grantRate": 0.6,
+  "removalRate": 1,
+  "courts": [
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 14352
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1988
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1140
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 273
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 137
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

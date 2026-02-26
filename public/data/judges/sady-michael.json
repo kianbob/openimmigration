@@ -1,0 +1,64 @@
+{
+  "code": "MIS",
+  "slug": "sady-michael",
+  "name": "Sady, Michael",
+  "totalDecisions": 1859,
+  "grants": 163,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 278,
+  "grantRate": 8.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1844
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

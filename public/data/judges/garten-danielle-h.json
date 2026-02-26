@@ -1,0 +1,64 @@
+{
+  "code": "DHG",
+  "slug": "garten-danielle-h",
+  "name": "Garten, Danielle H.",
+  "totalDecisions": 4024,
+  "grants": 0,
+  "denials": 6,
+  "removals": 0,
+  "absentia": 624,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 4161
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 648
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 564
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 337
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 235
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

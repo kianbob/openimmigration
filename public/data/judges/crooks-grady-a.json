@@ -1,0 +1,29 @@
+{
+  "code": "GAC",
+  "slug": "crooks-grady-a",
+  "name": "Crooks, Grady A",
+  "totalDecisions": 1160,
+  "grants": 16,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 1148
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

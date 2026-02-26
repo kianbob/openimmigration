@@ -1,0 +1,64 @@
+{
+  "code": "WAC",
+  "slug": "cassidy-william-a",
+  "name": "Cassidy, William A.",
+  "totalDecisions": 69533,
+  "grants": 841,
+  "denials": 3746,
+  "removals": 3619,
+  "absentia": 9791,
+  "grantRate": 1.2,
+  "removalRate": 5.2,
+  "courts": [
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 23364
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 23237
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 19359
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2740
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 303
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 105
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 102
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 76
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 38
+    }
+  ]
+}

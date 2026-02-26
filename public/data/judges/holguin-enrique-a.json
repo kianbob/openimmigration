@@ -1,0 +1,64 @@
+{
+  "code": "EEH",
+  "slug": "holguin-enrique-a",
+  "name": "Holguin, Enrique A.",
+  "totalDecisions": 4144,
+  "grants": 37,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 1272,
+  "grantRate": 0.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4038
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

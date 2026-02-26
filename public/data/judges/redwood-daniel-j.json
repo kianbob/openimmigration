@@ -1,0 +1,49 @@
+{
+  "code": "DJR",
+  "slug": "redwood-daniel-j",
+  "name": "Redwood, Daniel J.",
+  "totalDecisions": 730,
+  "grants": 31,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 49,
+  "grantRate": 4.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 623
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

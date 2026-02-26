@@ -1,0 +1,64 @@
+{
+  "code": "CJS",
+  "slug": "sanders-charles-j",
+  "name": "Sanders, Charles J.",
+  "totalDecisions": 22813,
+  "grants": 3071,
+  "denials": 1576,
+  "removals": 1502,
+  "absentia": 5236,
+  "grantRate": 13.5,
+  "removalRate": 6.6,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 20659
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 348
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 281
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 157
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 155
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 154
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 138
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 121
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 120
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 110
+    }
+  ]
+}

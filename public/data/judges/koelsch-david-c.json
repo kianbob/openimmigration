@@ -1,0 +1,64 @@
+{
+  "code": "DK1",
+  "slug": "koelsch-david-c",
+  "name": "Koelsch, David C.",
+  "totalDecisions": 10021,
+  "grants": 1705,
+  "denials": 11,
+  "removals": 5,
+  "absentia": 2201,
+  "grantRate": 17,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 4145
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 3308
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 2768
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

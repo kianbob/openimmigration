@@ -1,0 +1,64 @@
+{
+  "code": "MJD",
+  "slug": "d-angelo-matthew-j",
+  "name": "D'Angelo, Matthew J.",
+  "totalDecisions": 13654,
+  "grants": 1919,
+  "denials": 108,
+  "removals": 81,
+  "absentia": 3814,
+  "grantRate": 14.1,
+  "removalRate": 0.6,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 11525
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 1972
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

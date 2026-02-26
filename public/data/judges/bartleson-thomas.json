@@ -1,0 +1,64 @@
+{
+  "code": "TSB",
+  "slug": "bartleson-thomas",
+  "name": "Bartleson, Thomas",
+  "totalDecisions": 4897,
+  "grants": 614,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 1201,
+  "grantRate": 12.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 7822
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

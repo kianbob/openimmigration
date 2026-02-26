@@ -1,0 +1,24 @@
+{
+  "code": "PF",
+  "slug": "pf",
+  "name": "Pf",
+  "cases": 6,
+  "completed": 9,
+  "grants": 0,
+  "denials": 2,
+  "removals": 2,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": []
+}

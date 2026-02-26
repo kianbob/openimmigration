@@ -1,0 +1,64 @@
+{
+  "code": "LSJ",
+  "slug": "jalelian-lincoln-s",
+  "name": "Jalelian, Lincoln S.",
+  "totalDecisions": 881,
+  "grants": 161,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 155,
+  "grantRate": 18.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 849
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "SEG",
+  "slug": "greenstein-saul-e",
+  "name": "Greenstein, Saul E.",
+  "totalDecisions": 33117,
+  "grants": 860,
+  "denials": 222,
+  "removals": 56,
+  "absentia": 3202,
+  "grantRate": 2.6,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 21261
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 11926
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 1259
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

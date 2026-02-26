@@ -1,0 +1,64 @@
+{
+  "code": "MH",
+  "slug": "hayward-miriam",
+  "name": "Hayward, Miriam",
+  "totalDecisions": 16089,
+  "grants": 3396,
+  "denials": 129,
+  "removals": 116,
+  "absentia": 2651,
+  "grantRate": 21.1,
+  "removalRate": 0.7,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 15761
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 94
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

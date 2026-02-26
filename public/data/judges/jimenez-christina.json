@@ -1,0 +1,64 @@
+{
+  "code": "CHJ",
+  "slug": "jimenez-christina",
+  "name": "Jimenez, Christina",
+  "totalDecisions": 3145,
+  "grants": 185,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 638,
+  "grantRate": 5.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2353
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 768
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

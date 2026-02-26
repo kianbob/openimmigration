@@ -1,0 +1,64 @@
+{
+  "code": "PJE",
+  "slug": "espinal-pedro-j",
+  "name": "Espinal, Pedro J.",
+  "totalDecisions": 10133,
+  "grants": 182,
+  "denials": 49,
+  "removals": 13,
+  "absentia": 556,
+  "grantRate": 1.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3718
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 1936
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1719
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 1529
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 1149
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 238
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 213
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 136
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 127
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 101
+    }
+  ]
+}

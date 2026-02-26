@@ -1,0 +1,64 @@
+{
+  "code": "DHS",
+  "slug": "sims-deitrich-h",
+  "name": "Sims, Deitrich H.",
+  "totalDecisions": 42467,
+  "grants": 1128,
+  "denials": 142,
+  "removals": 84,
+  "absentia": 8951,
+  "grantRate": 2.7,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 50435
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 4795
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1172
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 697
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 520
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 196
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "code": "BRD",
+  "slug": "davis-bryan",
+  "name": "Davis, Bryan",
+  "totalDecisions": 96,
+  "grants": 14,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 14.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 101
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

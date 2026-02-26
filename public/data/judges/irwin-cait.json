@@ -1,0 +1,64 @@
+{
+  "code": "CTI",
+  "slug": "irwin-cait",
+  "name": "Irwin, Cait",
+  "totalDecisions": 8342,
+  "grants": 90,
+  "denials": 2,
+  "removals": 2,
+  "absentia": 3368,
+  "grantRate": 1.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 23475
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

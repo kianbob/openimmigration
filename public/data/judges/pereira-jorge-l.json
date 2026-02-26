@@ -1,0 +1,64 @@
+{
+  "code": "JEP",
+  "slug": "pereira-jorge-l",
+  "name": "Pereira, Jorge L.",
+  "totalDecisions": 9478,
+  "grants": 262,
+  "denials": 91,
+  "removals": 4,
+  "absentia": 86,
+  "grantRate": 2.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 6942
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2806
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

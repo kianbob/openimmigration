@@ -1,0 +1,64 @@
+{
+  "code": "SFK",
+  "slug": "karden-stuart-f",
+  "name": "Karden, Stuart F.",
+  "totalDecisions": 13238,
+  "grants": 1004,
+  "denials": 17,
+  "removals": 7,
+  "absentia": 1984,
+  "grantRate": 7.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 14190
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 102
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

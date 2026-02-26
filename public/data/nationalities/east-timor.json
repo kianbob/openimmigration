@@ -1,0 +1,139 @@
+{
+  "code": "TM",
+  "slug": "east-timor",
+  "name": "East Timor",
+  "cases": 44,
+  "completed": 100,
+  "grants": 3,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2019,
+      "cases": 2
+    },
+    {
+      "year": 2020,
+      "cases": 3
+    },
+    {
+      "year": 2021,
+      "cases": 2
+    },
+    {
+      "year": 2022,
+      "cases": 6
+    },
+    {
+      "year": 2023,
+      "cases": 4
+    },
+    {
+      "year": 2025,
+      "cases": 4
+    }
+  ]
+}

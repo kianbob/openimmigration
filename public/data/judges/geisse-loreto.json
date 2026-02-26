@@ -1,0 +1,64 @@
+{
+  "code": "LSG",
+  "slug": "geisse-loreto",
+  "name": "Geisse, Loreto",
+  "totalDecisions": 13845,
+  "grants": 3525,
+  "denials": 33,
+  "removals": 19,
+  "absentia": 2094,
+  "grantRate": 25.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 8438
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 7194
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 182
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 102
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 61
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 29
+    }
+  ]
+}

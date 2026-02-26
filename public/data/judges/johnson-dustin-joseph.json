@@ -1,0 +1,64 @@
+{
+  "code": "DJJ",
+  "slug": "johnson-dustin-joseph",
+  "name": "Johnson, Dustin Joseph",
+  "totalDecisions": 3699,
+  "grants": 66,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 951,
+  "grantRate": 1.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "POR",
+      "name": "Immigration Court",
+      "hearings": 4684
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 1240
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

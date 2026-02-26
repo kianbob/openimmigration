@@ -1,0 +1,64 @@
+{
+  "code": "JGC",
+  "slug": "crews-john-g-ii",
+  "name": "Crews, John G., Ii",
+  "totalDecisions": 6222,
+  "grants": 154,
+  "denials": 82,
+  "removals": 11,
+  "absentia": 178,
+  "grantRate": 2.5,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 3262
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1184
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 651
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 454
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 183
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 120
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 97
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 78
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 33
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "code": "SC",
+  "slug": "st-christopher-nevis",
+  "name": "St. Christopher-Nevis",
+  "cases": 108,
+  "completed": 178,
+  "grants": 16,
+  "denials": 38,
+  "removals": 37,
+  "grantRate": 9,
+  "topCourts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 23
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 15
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 12
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 3
+    },
+    {
+      "year": 1991,
+      "cases": 2
+    },
+    {
+      "year": 1992,
+      "cases": 2
+    },
+    {
+      "year": 1993,
+      "cases": 1
+    },
+    {
+      "year": 1994,
+      "cases": 1
+    },
+    {
+      "year": 1995,
+      "cases": 1
+    },
+    {
+      "year": 1996,
+      "cases": 1
+    },
+    {
+      "year": 1997,
+      "cases": 8
+    },
+    {
+      "year": 1998,
+      "cases": 2
+    },
+    {
+      "year": 1999,
+      "cases": 1
+    },
+    {
+      "year": 2000,
+      "cases": 1
+    },
+    {
+      "year": 2001,
+      "cases": 2
+    },
+    {
+      "year": 2002,
+      "cases": 1
+    },
+    {
+      "year": 2003,
+      "cases": 1
+    },
+    {
+      "year": 2005,
+      "cases": 2
+    },
+    {
+      "year": 2006,
+      "cases": 2
+    },
+    {
+      "year": 2012,
+      "cases": 1
+    },
+    {
+      "year": 2013,
+      "cases": 3
+    },
+    {
+      "year": 2014,
+      "cases": 2
+    },
+    {
+      "year": 2025,
+      "cases": 3
+    }
+  ]
+}

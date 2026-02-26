@@ -1,0 +1,44 @@
+{
+  "code": "THA",
+  "slug": "aliferis-themistoklis",
+  "name": "Aliferis, Themistoklis",
+  "totalDecisions": 1003,
+  "grants": 91,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 165,
+  "grantRate": 9.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 996
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

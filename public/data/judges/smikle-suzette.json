@@ -1,0 +1,64 @@
+{
+  "code": "SES",
+  "slug": "smikle-suzette",
+  "name": "Smikle, Suzette",
+  "totalDecisions": 10798,
+  "grants": 76,
+  "denials": 11,
+  "removals": 9,
+  "absentia": 3990,
+  "grantRate": 0.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 22958
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 277
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

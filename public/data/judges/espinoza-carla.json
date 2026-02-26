@@ -1,0 +1,64 @@
+{
+  "code": "CAE",
+  "slug": "espinoza-carla",
+  "name": "Espinoza, Carla",
+  "totalDecisions": 5329,
+  "grants": 209,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 912,
+  "grantRate": 3.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 14151
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

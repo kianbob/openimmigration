@@ -1,0 +1,64 @@
+{
+  "code": "WVW",
+  "slug": "wyke-william-van",
+  "name": "Wyke, William Van",
+  "totalDecisions": 13631,
+  "grants": 4351,
+  "denials": 356,
+  "removals": 341,
+  "absentia": 1048,
+  "grantRate": 31.9,
+  "removalRate": 2.5,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8349
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 4918
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 168
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

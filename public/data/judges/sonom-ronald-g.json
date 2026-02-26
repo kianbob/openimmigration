@@ -1,0 +1,59 @@
+{
+  "code": "RGS",
+  "slug": "sonom-ronald-g",
+  "name": "Sonom, Ronald G.",
+  "totalDecisions": 7449,
+  "grants": 1688,
+  "denials": 589,
+  "removals": 545,
+  "absentia": 1764,
+  "grantRate": 22.7,
+  "removalRate": 7.3,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 7318
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

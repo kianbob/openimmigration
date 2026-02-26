@@ -1,0 +1,64 @@
+{
+  "code": "LRM",
+  "slug": "mathon-lauren-r",
+  "name": "Mathon, Lauren R.",
+  "totalDecisions": 12439,
+  "grants": 380,
+  "denials": 5443,
+  "removals": 5439,
+  "absentia": 1625,
+  "grantRate": 3.1,
+  "removalRate": 43.7,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 11857
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 270
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 107
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 100
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

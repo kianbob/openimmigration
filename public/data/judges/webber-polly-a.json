@@ -1,0 +1,64 @@
+{
+  "code": "PAW",
+  "slug": "webber-polly-a",
+  "name": "Webber, Polly A.",
+  "totalDecisions": 12944,
+  "grants": 3767,
+  "denials": 401,
+  "removals": 389,
+  "absentia": 2113,
+  "grantRate": 29.1,
+  "removalRate": 3,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 12586
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 212
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

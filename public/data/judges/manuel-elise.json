@@ -1,0 +1,64 @@
+{
+  "code": "EM1",
+  "slug": "manuel-elise",
+  "name": "Manuel, Elise",
+  "totalDecisions": 5343,
+  "grants": 294,
+  "denials": 8,
+  "removals": 2,
+  "absentia": 1054,
+  "grantRate": 5.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2700
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2468
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 9
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code": "XS",
+  "slug": "south-sudan",
+  "name": "South Sudan",
+  "cases": 213,
+  "completed": 276,
+  "grants": 66,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": 23.9,
+  "topCourts": [
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 80
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 56
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 12
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "count": 2
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2013,
+      "cases": 4
+    },
+    {
+      "year": 2014,
+      "cases": 9
+    },
+    {
+      "year": 2016,
+      "cases": 3
+    },
+    {
+      "year": 2017,
+      "cases": 6
+    },
+    {
+      "year": 2018,
+      "cases": 14
+    },
+    {
+      "year": 2019,
+      "cases": 10
+    },
+    {
+      "year": 2020,
+      "cases": 9
+    },
+    {
+      "year": 2021,
+      "cases": 8
+    },
+    {
+      "year": 2022,
+      "cases": 5
+    },
+    {
+      "year": 2023,
+      "cases": 8
+    },
+    {
+      "year": 2024,
+      "cases": 8
+    },
+    {
+      "year": 2025,
+      "cases": 11
+    }
+  ]
+}

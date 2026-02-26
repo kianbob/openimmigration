@@ -1,0 +1,64 @@
+{
+  "code": "SMK",
+  "slug": "kirchner-steven-m",
+  "name": "Kirchner, Steven M.",
+  "totalDecisions": 4530,
+  "grants": 930,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 900,
+  "grantRate": 20.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 8342
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

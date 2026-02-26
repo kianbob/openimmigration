@@ -1,0 +1,64 @@
+{
+  "code": "DLK",
+  "slug": "kahn-daniel-l",
+  "name": "Kahn, Daniel L.",
+  "totalDecisions": 10633,
+  "grants": 180,
+  "denials": 6644,
+  "removals": 6644,
+  "absentia": 1273,
+  "grantRate": 1.7,
+  "removalRate": 62.5,
+  "courts": [
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 3937
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 2872
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2149
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 866
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 702
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 64
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

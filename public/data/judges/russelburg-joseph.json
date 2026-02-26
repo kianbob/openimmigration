@@ -1,0 +1,29 @@
+{
+  "code": "JR",
+  "slug": "russelburg-joseph",
+  "name": "Russelburg, Joseph",
+  "totalDecisions": 570,
+  "grants": 132,
+  "denials": 19,
+  "removals": 7,
+  "absentia": 52,
+  "grantRate": 23.2,
+  "removalRate": 1.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 565
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

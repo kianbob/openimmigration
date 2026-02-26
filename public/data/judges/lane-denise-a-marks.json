@@ -1,0 +1,64 @@
+{
+  "code": "DML",
+  "slug": "lane-denise-a-marks",
+  "name": "Lane, Denise A. Marks",
+  "totalDecisions": 29747,
+  "grants": 3348,
+  "denials": 957,
+  "removals": 853,
+  "absentia": 5346,
+  "grantRate": 11.3,
+  "removalRate": 2.9,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 41384
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 797
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 457
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 149
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 68
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

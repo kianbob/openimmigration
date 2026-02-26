@@ -1,0 +1,29 @@
+{
+  "code": "BJE",
+  "slug": "einhorn-bruce-j",
+  "name": "Einhorn, Bruce J.",
+  "totalDecisions": 20004,
+  "grants": 3015,
+  "denials": 5911,
+  "removals": 5908,
+  "absentia": 6509,
+  "grantRate": 15.1,
+  "removalRate": 29.5,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 19967
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

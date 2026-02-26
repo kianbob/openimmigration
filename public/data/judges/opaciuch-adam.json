@@ -1,0 +1,64 @@
+{
+  "code": "AO",
+  "slug": "opaciuch-adam",
+  "name": "Opaciuch, Adam",
+  "totalDecisions": 18235,
+  "grants": 1546,
+  "denials": 214,
+  "removals": 70,
+  "absentia": 1397,
+  "grantRate": 8.5,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 9897
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3553
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3412
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 1326
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

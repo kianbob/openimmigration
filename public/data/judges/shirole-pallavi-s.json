@@ -1,0 +1,64 @@
+{
+  "code": "PLE",
+  "slug": "shirole-pallavi-s",
+  "name": "Shirole, Pallavi S.",
+  "totalDecisions": 7118,
+  "grants": 305,
+  "denials": 24,
+  "removals": 2,
+  "absentia": 1438,
+  "grantRate": 4.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 7141
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 1329
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 1171
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

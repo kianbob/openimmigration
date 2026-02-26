@@ -1,0 +1,44 @@
+{
+  "code": "KCM",
+  "slug": "mcbride-kimberly-c",
+  "name": "Mcbride, Kimberly C.",
+  "totalDecisions": 540,
+  "grants": 53,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 21,
+  "grantRate": 9.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 524
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

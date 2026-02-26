@@ -1,0 +1,59 @@
+{
+  "code": "CAG",
+  "slug": "goodman-cynthia",
+  "name": "Goodman, Cynthia",
+  "totalDecisions": 2136,
+  "grants": 94,
+  "denials": 43,
+  "removals": 0,
+  "absentia": 84,
+  "grantRate": 4.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1633
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 272
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 234
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 87
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

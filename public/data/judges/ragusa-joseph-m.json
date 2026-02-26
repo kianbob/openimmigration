@@ -1,0 +1,39 @@
+{
+  "code": "JMR",
+  "slug": "ragusa-joseph-m",
+  "name": "Ragusa, Joseph M.",
+  "totalDecisions": 9916,
+  "grants": 189,
+  "denials": 87,
+  "removals": 84,
+  "absentia": 764,
+  "grantRate": 1.9,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 9838
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

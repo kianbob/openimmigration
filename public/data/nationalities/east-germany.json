@@ -1,0 +1,171 @@
+{
+  "code": "GC",
+  "slug": "east-germany",
+  "name": "East Germany",
+  "cases": 143,
+  "completed": 856,
+  "grants": 30,
+  "denials": 2,
+  "removals": 0,
+  "grantRate": 3.5,
+  "topCourts": [
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "count": 16
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "count": 12
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 9
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 9
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 7
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "count": 2
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2008,
+      "cases": 1
+    },
+    {
+      "year": 2009,
+      "cases": 1
+    },
+    {
+      "year": 2013,
+      "cases": 5
+    },
+    {
+      "year": 2014,
+      "cases": 4
+    },
+    {
+      "year": 2015,
+      "cases": 2
+    },
+    {
+      "year": 2016,
+      "cases": 6
+    },
+    {
+      "year": 2017,
+      "cases": 5
+    },
+    {
+      "year": 2018,
+      "cases": 7
+    },
+    {
+      "year": 2019,
+      "cases": 2
+    },
+    {
+      "year": 2020,
+      "cases": 2
+    },
+    {
+      "year": 2021,
+      "cases": 1
+    },
+    {
+      "year": 2022,
+      "cases": 1
+    },
+    {
+      "year": 2023,
+      "cases": 3
+    },
+    {
+      "year": 2025,
+      "cases": 1
+    }
+  ]
+}

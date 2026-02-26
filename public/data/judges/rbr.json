@@ -1,0 +1,19 @@
+{
+  "code": "RBR",
+  "slug": "rbr",
+  "name": "Rbr",
+  "totalDecisions": 676,
+  "grants": 50,
+  "denials": 215,
+  "removals": 215,
+  "absentia": 97,
+  "grantRate": 7.4,
+  "removalRate": 31.8,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 676
+    }
+  ]
+}

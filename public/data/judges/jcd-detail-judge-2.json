@@ -1,0 +1,19 @@
+{
+  "code": "X31",
+  "slug": "jcd-detail-judge-2",
+  "name": "Jcd Detail Judge 2",
+  "totalDecisions": 325,
+  "grants": 6,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 325
+    }
+  ]
+}

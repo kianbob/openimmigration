@@ -1,0 +1,29 @@
+{
+  "code": "JAG",
+  "slug": "grimmer-jared",
+  "name": "Grimmer, Jared",
+  "totalDecisions": 90,
+  "grants": 1,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 85
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 16
+    }
+  ]
+}

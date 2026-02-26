@@ -1,0 +1,64 @@
+{
+  "code": "MJO",
+  "slug": "jaimes-salgado-maria",
+  "name": "Jaimes-Salgado, Maria",
+  "totalDecisions": 5844,
+  "grants": 70,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 1678,
+  "grantRate": 1.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 7483
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

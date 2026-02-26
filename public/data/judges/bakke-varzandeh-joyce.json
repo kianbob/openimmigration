@@ -1,0 +1,64 @@
+{
+  "code": "JBV",
+  "slug": "bakke-varzandeh-joyce",
+  "name": "Bakke Varzandeh, Joyce",
+  "totalDecisions": 15626,
+  "grants": 1493,
+  "denials": 165,
+  "removals": 154,
+  "absentia": 3107,
+  "grantRate": 9.6,
+  "removalRate": 1,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 18920
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 211
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

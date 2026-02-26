@@ -1,0 +1,64 @@
+{
+  "code": "KJN",
+  "slug": "johnson-kelly-s",
+  "name": "Johnson, Kelly S.",
+  "totalDecisions": 10064,
+  "grants": 144,
+  "denials": 16,
+  "removals": 1,
+  "absentia": 1302,
+  "grantRate": 1.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 14835
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 355
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "code": "ELC",
+  "slug": "el-centro",
+  "name": "El Centro",
+  "state": "CA",
+  "address": "1115 NORTH IMPERIAL AVE",
+  "active": false,
+  "cases": 1,
+  "completed": 1,
+  "grants": 0,
+  "denials": 1,
+  "removals": 1,
+  "grantRate": null,
+  "topNationalities": [
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "count": 1
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "VJ1",
+      "name": "Visiting Judge 1",
+      "decisions": 1,
+      "grants": 0,
+      "denials": 1,
+      "removals": 1,
+      "grantRate": null
+    }
+  ],
+  "yearlyTrend": []
+}

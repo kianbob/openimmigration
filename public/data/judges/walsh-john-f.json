@@ -1,0 +1,64 @@
+{
+  "code": "JFW",
+  "slug": "walsh-john-f",
+  "name": "Walsh, John F.",
+  "totalDecisions": 18588,
+  "grants": 2628,
+  "denials": 841,
+  "removals": 805,
+  "absentia": 3397,
+  "grantRate": 14.1,
+  "removalRate": 4.3,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 7457
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 5259
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 3178
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 2395
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 87
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

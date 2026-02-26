@@ -1,0 +1,64 @@
+{
+  "code": "JLR",
+  "slug": "romig-jeffrey-l",
+  "name": "Romig, Jeffrey L.",
+  "totalDecisions": 18635,
+  "grants": 1088,
+  "denials": 147,
+  "removals": 45,
+  "absentia": 2180,
+  "grantRate": 5.8,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 9041
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3719
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3344
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 689
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 459
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 341
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 183
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 146
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 123
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 110
+    }
+  ]
+}

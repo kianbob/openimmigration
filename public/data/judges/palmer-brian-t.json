@@ -1,0 +1,64 @@
+{
+  "code": "BTP",
+  "slug": "palmer-brian-t",
+  "name": "Palmer, Brian T.",
+  "totalDecisions": 4962,
+  "grants": 394,
+  "denials": 35,
+  "removals": 6,
+  "absentia": 698,
+  "grantRate": 7.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 2186
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1586
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 768
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 695
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 75
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 19
+    }
+  ]
+}

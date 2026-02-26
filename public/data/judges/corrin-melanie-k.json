@@ -1,0 +1,64 @@
+{
+  "code": "MKC",
+  "slug": "corrin-melanie-k",
+  "name": "Corrin, Melanie K.",
+  "totalDecisions": 13142,
+  "grants": 676,
+  "denials": 20,
+  "removals": 1,
+  "absentia": 3333,
+  "grantRate": 5.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 18774
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 1978
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

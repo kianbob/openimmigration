@@ -1,0 +1,64 @@
+{
+  "code": "EVS",
+  "slug": "schultz-evan",
+  "name": "Schultz, Evan",
+  "totalDecisions": 932,
+  "grants": 132,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 44,
+  "grantRate": 14.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 894
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

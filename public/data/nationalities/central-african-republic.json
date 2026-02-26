@@ -1,0 +1,251 @@
+{
+  "code": "CT",
+  "slug": "central-african-republic",
+  "name": "Central African Republic",
+  "cases": 455,
+  "completed": 806,
+  "grants": 226,
+  "denials": 14,
+  "removals": 12,
+  "grantRate": 28,
+  "topCourts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 101
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 84
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 30
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 27
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 24
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 23
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 14
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 10
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 9
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 7
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "count": 7
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 5
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1993,
+      "cases": 1
+    },
+    {
+      "year": 1994,
+      "cases": 2
+    },
+    {
+      "year": 1995,
+      "cases": 1
+    },
+    {
+      "year": 1996,
+      "cases": 11
+    },
+    {
+      "year": 1997,
+      "cases": 4
+    },
+    {
+      "year": 1998,
+      "cases": 3
+    },
+    {
+      "year": 1999,
+      "cases": 4
+    },
+    {
+      "year": 2000,
+      "cases": 4
+    },
+    {
+      "year": 2001,
+      "cases": 3
+    },
+    {
+      "year": 2002,
+      "cases": 25
+    },
+    {
+      "year": 2003,
+      "cases": 32
+    },
+    {
+      "year": 2004,
+      "cases": 29
+    },
+    {
+      "year": 2005,
+      "cases": 18
+    },
+    {
+      "year": 2006,
+      "cases": 6
+    },
+    {
+      "year": 2007,
+      "cases": 9
+    },
+    {
+      "year": 2008,
+      "cases": 2
+    },
+    {
+      "year": 2009,
+      "cases": 5
+    },
+    {
+      "year": 2010,
+      "cases": 3
+    },
+    {
+      "year": 2011,
+      "cases": 6
+    },
+    {
+      "year": 2012,
+      "cases": 5
+    },
+    {
+      "year": 2013,
+      "cases": 9
+    },
+    {
+      "year": 2014,
+      "cases": 7
+    },
+    {
+      "year": 2015,
+      "cases": 10
+    },
+    {
+      "year": 2016,
+      "cases": 19
+    },
+    {
+      "year": 2017,
+      "cases": 7
+    },
+    {
+      "year": 2018,
+      "cases": 6
+    },
+    {
+      "year": 2019,
+      "cases": 20
+    },
+    {
+      "year": 2020,
+      "cases": 4
+    },
+    {
+      "year": 2021,
+      "cases": 7
+    },
+    {
+      "year": 2022,
+      "cases": 11
+    },
+    {
+      "year": 2023,
+      "cases": 9
+    },
+    {
+      "year": 2024,
+      "cases": 14
+    },
+    {
+      "year": 2025,
+      "cases": 16
+    },
+    {
+      "year": 2026,
+      "cases": 1
+    }
+  ]
+}

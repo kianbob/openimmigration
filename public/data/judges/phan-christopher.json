@@ -1,0 +1,64 @@
+{
+  "code": "CPH",
+  "slug": "phan-christopher",
+  "name": "Phan, Christopher",
+  "totalDecisions": 4304,
+  "grants": 218,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 285,
+  "grantRate": 5.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 3566
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1066
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 316
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 193
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 79
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

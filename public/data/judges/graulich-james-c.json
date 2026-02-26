@@ -1,0 +1,64 @@
+{
+  "code": "JGH",
+  "slug": "graulich-james-c",
+  "name": "Graulich, James C.",
+  "totalDecisions": 848,
+  "grants": 66,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 27,
+  "grantRate": 7.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 674
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 535
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 71
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 9
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

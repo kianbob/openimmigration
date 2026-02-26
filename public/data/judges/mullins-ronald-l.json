@@ -1,0 +1,64 @@
+{
+  "code": "RLM",
+  "slug": "mullins-ronald-l",
+  "name": "Mullins, Ronald L.",
+  "totalDecisions": 16729,
+  "grants": 1264,
+  "denials": 157,
+  "removals": 139,
+  "absentia": 1638,
+  "grantRate": 7.6,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 14910
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 1533
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 140
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

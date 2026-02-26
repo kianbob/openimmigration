@@ -1,0 +1,64 @@
+{
+  "code": "BCC",
+  "slug": "curran-brendan-c",
+  "name": "Curran, Brendan C.",
+  "totalDecisions": 7679,
+  "grants": 228,
+  "denials": 4,
+  "removals": 1,
+  "absentia": 976,
+  "grantRate": 3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 18227
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "UUL",
+  "slug": "ul-haq-ubaid",
+  "name": "Ul-Haq, Ubaid",
+  "totalDecisions": 2649,
+  "grants": 62,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 190,
+  "grantRate": 2.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 2558
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 104
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

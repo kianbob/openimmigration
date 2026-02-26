@@ -1,0 +1,64 @@
+{
+  "code": "CPN",
+  "slug": "pressman-christian-m",
+  "name": "Pressman, Christian M.",
+  "totalDecisions": 10251,
+  "grants": 209,
+  "denials": 25,
+  "removals": 6,
+  "absentia": 921,
+  "grantRate": 2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 9980
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4434
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 257
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 95
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

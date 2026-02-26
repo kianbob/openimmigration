@@ -1,0 +1,64 @@
+{
+  "code": "ARL",
+  "slug": "larsen-alexandra-r",
+  "name": "Larsen, Alexandra R.",
+  "totalDecisions": 12914,
+  "grants": 53,
+  "denials": 12,
+  "removals": 0,
+  "absentia": 2990,
+  "grantRate": 0.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 24969
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

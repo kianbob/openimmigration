@@ -1,0 +1,64 @@
+{
+  "code": "NWG",
+  "slug": "gordon-nathan-w",
+  "name": "Gordon, Nathan W.",
+  "totalDecisions": 20204,
+  "grants": 2544,
+  "denials": 5949,
+  "removals": 5948,
+  "absentia": 5008,
+  "grantRate": 12.6,
+  "removalRate": 29.4,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 18701
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 1298
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 77
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

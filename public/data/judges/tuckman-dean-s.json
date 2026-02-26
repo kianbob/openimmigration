@@ -1,0 +1,39 @@
+{
+  "code": "DST",
+  "slug": "tuckman-dean-s",
+  "name": "Tuckman, Dean S.",
+  "totalDecisions": 10067,
+  "grants": 124,
+  "denials": 51,
+  "removals": 0,
+  "absentia": 171,
+  "grantRate": 1.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 8071
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 1632
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 531
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 525
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

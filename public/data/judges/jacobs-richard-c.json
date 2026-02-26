@@ -1,0 +1,64 @@
+{
+  "code": "RCJ",
+  "slug": "jacobs-richard-c",
+  "name": "Jacobs, Richard C.",
+  "totalDecisions": 4955,
+  "grants": 200,
+  "denials": 34,
+  "removals": 0,
+  "absentia": 433,
+  "grantRate": 4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 1282
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1127
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 777
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 415
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 352
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 303
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 230
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 193
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 160
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 120
+    }
+  ]
+}

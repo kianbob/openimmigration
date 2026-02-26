@@ -1,0 +1,64 @@
+{
+  "code": "DHP",
+  "slug": "paruch-david-h",
+  "name": "Paruch, David H.",
+  "totalDecisions": 13858,
+  "grants": 937,
+  "denials": 78,
+  "removals": 38,
+  "absentia": 1870,
+  "grantRate": 6.8,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 21091
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

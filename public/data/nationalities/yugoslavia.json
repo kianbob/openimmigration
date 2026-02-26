@@ -1,0 +1,259 @@
+{
+  "code": "YO",
+  "slug": "yugoslavia",
+  "name": "Yugoslavia",
+  "cases": 10954,
+  "completed": 19116,
+  "grants": 5159,
+  "denials": 1489,
+  "removals": 1189,
+  "grantRate": 27,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 5318
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 1345
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 1175
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 644
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 258
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "count": 235
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 140
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "count": 136
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 115
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 111
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 107
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 96
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 94
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 93
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "count": 85
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 82
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 67
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "count": 57
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "count": 55
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 55
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 138
+    },
+    {
+      "year": 1991,
+      "cases": 170
+    },
+    {
+      "year": 1992,
+      "cases": 187
+    },
+    {
+      "year": 1993,
+      "cases": 351
+    },
+    {
+      "year": 1994,
+      "cases": 356
+    },
+    {
+      "year": 1995,
+      "cases": 461
+    },
+    {
+      "year": 1996,
+      "cases": 796
+    },
+    {
+      "year": 1997,
+      "cases": 572
+    },
+    {
+      "year": 1998,
+      "cases": 608
+    },
+    {
+      "year": 1999,
+      "cases": 574
+    },
+    {
+      "year": 2000,
+      "cases": 609
+    },
+    {
+      "year": 2001,
+      "cases": 545
+    },
+    {
+      "year": 2002,
+      "cases": 490
+    },
+    {
+      "year": 2003,
+      "cases": 367
+    },
+    {
+      "year": 2004,
+      "cases": 255
+    },
+    {
+      "year": 2005,
+      "cases": 191
+    },
+    {
+      "year": 2006,
+      "cases": 153
+    },
+    {
+      "year": 2007,
+      "cases": 101
+    },
+    {
+      "year": 2008,
+      "cases": 65
+    },
+    {
+      "year": 2009,
+      "cases": 52
+    },
+    {
+      "year": 2010,
+      "cases": 60
+    },
+    {
+      "year": 2011,
+      "cases": 57
+    },
+    {
+      "year": 2012,
+      "cases": 57
+    },
+    {
+      "year": 2013,
+      "cases": 55
+    },
+    {
+      "year": 2014,
+      "cases": 54
+    },
+    {
+      "year": 2015,
+      "cases": 48
+    },
+    {
+      "year": 2016,
+      "cases": 60
+    },
+    {
+      "year": 2017,
+      "cases": 47
+    },
+    {
+      "year": 2018,
+      "cases": 66
+    },
+    {
+      "year": 2019,
+      "cases": 31
+    },
+    {
+      "year": 2020,
+      "cases": 14
+    },
+    {
+      "year": 2021,
+      "cases": 7
+    },
+    {
+      "year": 2022,
+      "cases": 24
+    },
+    {
+      "year": 2023,
+      "cases": 15
+    },
+    {
+      "year": 2024,
+      "cases": 13
+    },
+    {
+      "year": 2025,
+      "cases": 14
+    }
+  ]
+}

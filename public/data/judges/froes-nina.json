@@ -1,0 +1,64 @@
+{
+  "code": "NIF",
+  "slug": "froes-nina",
+  "name": "Froes, Nina",
+  "totalDecisions": 2573,
+  "grants": 195,
+  "denials": 10,
+  "removals": 0,
+  "absentia": 272,
+  "grantRate": 7.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 13302
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 586
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

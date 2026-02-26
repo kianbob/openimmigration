@@ -1,0 +1,59 @@
+{
+  "code": "BNJ",
+  "slug": "jaroch-brandon",
+  "name": "Jaroch, Brandon",
+  "totalDecisions": 670,
+  "grants": 1,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 51,
+  "grantRate": 0.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 307
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 161
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 82
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

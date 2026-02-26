@@ -1,0 +1,64 @@
+{
+  "code": "AAB",
+  "slug": "batko-taylor-abby-anna",
+  "name": "Batko-Taylor, Abby Anna.",
+  "totalDecisions": 3216,
+  "grants": 119,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 1314,
+  "grantRate": 3.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 11828
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 300
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 109
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 10
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

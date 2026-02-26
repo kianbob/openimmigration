@@ -1,0 +1,54 @@
+{
+  "code": "HSD",
+  "slug": "dogin-henry-s",
+  "name": "Dogin, Henry S.",
+  "totalDecisions": 13640,
+  "grants": 1756,
+  "denials": 755,
+  "removals": 717,
+  "absentia": 2701,
+  "grantRate": 12.9,
+  "removalRate": 5.3,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 13234
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 191
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 176
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "SDC",
+  "slug": "caley-steven",
+  "name": "Caley, Steven",
+  "totalDecisions": 12469,
+  "grants": 523,
+  "denials": 75,
+  "removals": 6,
+  "absentia": 627,
+  "grantRate": 4.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "POR",
+      "name": "Immigration Court",
+      "hearings": 16173
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 5615
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 2677
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 385
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

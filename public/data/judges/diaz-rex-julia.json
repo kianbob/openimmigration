@@ -1,0 +1,64 @@
+{
+  "code": "JDR",
+  "slug": "diaz-rex-julia",
+  "name": "Diaz-Rex, Julia",
+  "totalDecisions": 6287,
+  "grants": 191,
+  "denials": 53,
+  "removals": 10,
+  "absentia": 850,
+  "grantRate": 3,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 7064
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 2486
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1181
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 387
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

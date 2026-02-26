@@ -1,0 +1,29 @@
+{
+  "code": "MCV",
+  "slug": "vergona-mary-catherine",
+  "name": "Vergona, Mary Catherine.",
+  "totalDecisions": 357,
+  "grants": 19,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 17,
+  "grantRate": 5.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 321
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

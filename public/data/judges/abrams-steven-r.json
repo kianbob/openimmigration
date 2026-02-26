@@ -1,0 +1,64 @@
+{
+  "code": "SRA",
+  "slug": "abrams-steven-r",
+  "name": "Abrams, Steven R.",
+  "totalDecisions": 9764,
+  "grants": 1596,
+  "denials": 245,
+  "removals": 69,
+  "absentia": 1237,
+  "grantRate": 16.3,
+  "removalRate": 0.7,
+  "courts": [
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 3381
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 2955
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2640
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 623
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

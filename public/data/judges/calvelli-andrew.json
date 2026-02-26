@@ -1,0 +1,64 @@
+{
+  "code": "AWC",
+  "slug": "calvelli-andrew",
+  "name": "Calvelli, Andrew",
+  "totalDecisions": 5513,
+  "grants": 611,
+  "denials": 7,
+  "removals": 0,
+  "absentia": 1441,
+  "grantRate": 11.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 7958
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

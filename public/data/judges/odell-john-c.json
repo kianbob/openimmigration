@@ -1,0 +1,64 @@
+{
+  "code": "JCO",
+  "slug": "odell-john-c",
+  "name": "Odell, John C.",
+  "totalDecisions": 14168,
+  "grants": 488,
+  "denials": 211,
+  "removals": 9,
+  "absentia": 809,
+  "grantRate": 3.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 12162
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 2181
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "POR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

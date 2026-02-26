@@ -1,0 +1,64 @@
+{
+  "code": "JSL",
+  "slug": "salinardi-jayme",
+  "name": "Salinardi, Jayme",
+  "totalDecisions": 19034,
+  "grants": 326,
+  "denials": 51,
+  "removals": 4,
+  "absentia": 3945,
+  "grantRate": 1.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 29916
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 103
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 70
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 59
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 18
+    }
+  ]
+}

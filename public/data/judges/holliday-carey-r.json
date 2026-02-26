@@ -1,0 +1,44 @@
+{
+  "code": "CRH",
+  "slug": "holliday-carey-r",
+  "name": "Holliday, Carey R.",
+  "totalDecisions": 2729,
+  "grants": 395,
+  "denials": 21,
+  "removals": 5,
+  "absentia": 566,
+  "grantRate": 14.5,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2599
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 93
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

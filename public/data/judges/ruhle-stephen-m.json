@@ -1,0 +1,34 @@
+{
+  "code": "SMR",
+  "slug": "ruhle-stephen-m",
+  "name": "Ruhle, Stephen M.",
+  "totalDecisions": 19328,
+  "grants": 391,
+  "denials": 124,
+  "removals": 1,
+  "absentia": 45,
+  "grantRate": 2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 10870
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 7057
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1576
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 234
+    }
+  ]
+}

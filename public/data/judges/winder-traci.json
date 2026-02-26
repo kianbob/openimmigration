@@ -1,0 +1,24 @@
+{
+  "code": "TIW",
+  "slug": "winder-traci",
+  "name": "Winder, Traci",
+  "totalDecisions": 93,
+  "grants": 4,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 4.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 153
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

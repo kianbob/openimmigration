@@ -1,0 +1,64 @@
+{
+  "code": "EBW",
+  "slug": "wilson-earle-b",
+  "name": "Wilson, Earle B",
+  "totalDecisions": 21628,
+  "grants": 1269,
+  "denials": 140,
+  "removals": 44,
+  "absentia": 4103,
+  "grantRate": 5.9,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 10986
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3782
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 3710
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1568
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 863
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 154
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 149
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 89
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 72
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 47
+    }
+  ]
+}

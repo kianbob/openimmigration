@@ -1,0 +1,64 @@
+{
+  "code": "ETP",
+  "slug": "talavera-peraza-elvin",
+  "name": "Talavera-Peraza, Elvin",
+  "totalDecisions": 4899,
+  "grants": 122,
+  "denials": 30,
+  "removals": 8,
+  "absentia": 655,
+  "grantRate": 2.5,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 7339
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 1664
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 632
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 442
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

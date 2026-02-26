@@ -1,0 +1,64 @@
+{
+  "code": "SCN",
+  "slug": "chen-shana-w",
+  "name": "Chen, Shana W.",
+  "totalDecisions": 18091,
+  "grants": 271,
+  "denials": 34,
+  "removals": 25,
+  "absentia": 4257,
+  "grantRate": 1.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 31373
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 2201
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

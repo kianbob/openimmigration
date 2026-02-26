@@ -1,0 +1,84 @@
+{
+  "code": "BV",
+  "slug": "bouvet-island",
+  "name": "Bouvet Island",
+  "cases": 13,
+  "completed": 28,
+  "grants": 2,
+  "denials": 1,
+  "removals": 1,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2003,
+      "cases": 1
+    },
+    {
+      "year": 2019,
+      "cases": 1
+    },
+    {
+      "year": 2022,
+      "cases": 2
+    },
+    {
+      "year": 2023,
+      "cases": 2
+    },
+    {
+      "year": 2024,
+      "cases": 1
+    },
+    {
+      "year": 2025,
+      "cases": 1
+    }
+  ]
+}

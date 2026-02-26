@@ -1,0 +1,64 @@
+{
+  "code": "SR1",
+  "slug": "rubin-shifra",
+  "name": "Rubin, Shifra",
+  "totalDecisions": 9478,
+  "grants": 961,
+  "denials": 20,
+  "removals": 15,
+  "absentia": 1976,
+  "grantRate": 10.1,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 8201
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 1611
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

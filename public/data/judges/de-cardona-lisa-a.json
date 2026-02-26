@@ -1,0 +1,64 @@
+{
+  "code": "LDC",
+  "slug": "de-cardona-lisa-a",
+  "name": "De Cardona, Lisa A.",
+  "totalDecisions": 5667,
+  "grants": 413,
+  "denials": 37,
+  "removals": 13,
+  "absentia": 335,
+  "grantRate": 7.3,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 1416
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 1352
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 886
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 771
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 765
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 514
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 166
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 102
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 62
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 52
+    }
+  ]
+}

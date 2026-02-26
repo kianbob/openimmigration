@@ -1,0 +1,24 @@
+{
+  "code": "LNA",
+  "slug": "adams-lydia-nance",
+  "name": "Adams, Lydia Nance.",
+  "totalDecisions": 65,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 64
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

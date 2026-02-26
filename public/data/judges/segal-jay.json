@@ -1,0 +1,34 @@
+{
+  "code": "JS",
+  "slug": "segal-jay",
+  "name": "Segal, Jay",
+  "totalDecisions": 10512,
+  "grants": 1335,
+  "denials": 2165,
+  "removals": 2156,
+  "absentia": 2614,
+  "grantRate": 12.7,
+  "removalRate": 20.5,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 10504
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

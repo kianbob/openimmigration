@@ -1,0 +1,64 @@
+{
+  "code": "EPD",
+  "slug": "douchy-evalyn-p",
+  "name": "Douchy, Evalyn P.",
+  "totalDecisions": 11552,
+  "grants": 1999,
+  "denials": 32,
+  "removals": 24,
+  "absentia": 2295,
+  "grantRate": 17.3,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 18702
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

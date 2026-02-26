@@ -1,0 +1,54 @@
+{
+  "code": "DBP",
+  "slug": "pead-dustin",
+  "name": "Pead, Dustin",
+  "totalDecisions": 5800,
+  "grants": 287,
+  "denials": 6,
+  "removals": 4,
+  "absentia": 154,
+  "grantRate": 4.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 5763
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "SAI",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "CMP",
+  "slug": "picton-cory-m",
+  "name": "Picton, Cory M.",
+  "totalDecisions": 1899,
+  "grants": 380,
+  "denials": 6,
+  "removals": 2,
+  "absentia": 333,
+  "grantRate": 20,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1761
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

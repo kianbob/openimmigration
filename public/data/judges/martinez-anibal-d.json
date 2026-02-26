@@ -1,0 +1,64 @@
+{
+  "code": "ADM",
+  "slug": "martinez-anibal-d",
+  "name": "Martinez, Anibal D.",
+  "totalDecisions": 38376,
+  "grants": 522,
+  "denials": 167,
+  "removals": 3,
+  "absentia": 3594,
+  "grantRate": 1.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 35107
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 9040
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 167
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "LSM",
+  "slug": "maldonado-luis",
+  "name": "Maldonado, Luis",
+  "totalDecisions": 7187,
+  "grants": 92,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 1809,
+  "grantRate": 1.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 16941
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

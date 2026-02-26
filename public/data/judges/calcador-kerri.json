@@ -1,0 +1,64 @@
+{
+  "code": "KC1",
+  "slug": "calcador-kerri",
+  "name": "Calcador, Kerri",
+  "totalDecisions": 9667,
+  "grants": 610,
+  "denials": 42,
+  "removals": 21,
+  "absentia": 2756,
+  "grantRate": 6.3,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 7946
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1952
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 142
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 107
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 69
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 61
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

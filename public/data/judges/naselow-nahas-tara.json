@@ -1,0 +1,64 @@
+{
+  "code": "TNN",
+  "slug": "naselow-nahas-tara",
+  "name": "Naselow-Nahas, Tara",
+  "totalDecisions": 22485,
+  "grants": 769,
+  "denials": 93,
+  "removals": 58,
+  "absentia": 6673,
+  "grantRate": 3.4,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 11488
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 7674
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 3228
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 1333
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 925
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 31
+    }
+  ]
+}

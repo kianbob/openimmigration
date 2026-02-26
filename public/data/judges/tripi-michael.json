@@ -1,0 +1,64 @@
+{
+  "code": "MLT",
+  "slug": "tripi-michael",
+  "name": "Tripi, Michael",
+  "totalDecisions": 6487,
+  "grants": 142,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 2096,
+  "grantRate": 2.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 12083
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "CEA",
+  "slug": "cea",
+  "name": "Cea",
+  "totalDecisions": 9073,
+  "grants": 262,
+  "denials": 2983,
+  "removals": 2983,
+  "absentia": 173,
+  "grantRate": 2.9,
+  "removalRate": 32.9,
+  "courts": [
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 3615
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 3432
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 624
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 584
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 409
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 248
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 104
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

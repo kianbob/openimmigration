@@ -1,0 +1,64 @@
+{
+  "code": "VAB",
+  "slug": "burch-valerie-a",
+  "name": "Burch, Valerie A.",
+  "totalDecisions": 6777,
+  "grants": 361,
+  "denials": 60,
+  "removals": 2,
+  "absentia": 76,
+  "grantRate": 5.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "hearings": 10089
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 3813
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1462
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 328
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

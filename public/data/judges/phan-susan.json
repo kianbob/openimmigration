@@ -1,0 +1,64 @@
+{
+  "code": "SPN",
+  "slug": "phan-susan",
+  "name": "Phan, Susan",
+  "totalDecisions": 8258,
+  "grants": 1562,
+  "denials": 5,
+  "removals": 1,
+  "absentia": 1690,
+  "grantRate": 18.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 12388
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2922
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 525
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 15
+    }
+  ]
+}

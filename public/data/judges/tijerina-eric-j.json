@@ -1,0 +1,64 @@
+{
+  "code": "EJT",
+  "slug": "tijerina-eric-j",
+  "name": "Tijerina, Eric J.",
+  "totalDecisions": 18149,
+  "grants": 272,
+  "denials": 69,
+  "removals": 3,
+  "absentia": 4860,
+  "grantRate": 1.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 17694
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4246
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 2563
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

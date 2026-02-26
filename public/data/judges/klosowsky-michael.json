@@ -1,0 +1,64 @@
+{
+  "code": "MLK",
+  "slug": "klosowsky-michael",
+  "name": "Klosowsky, Michael",
+  "totalDecisions": 9320,
+  "grants": 437,
+  "denials": 27,
+  "removals": 1,
+  "absentia": 2278,
+  "grantRate": 4.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 20047
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

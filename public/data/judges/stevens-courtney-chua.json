@@ -1,0 +1,24 @@
+{
+  "code": "CCS",
+  "slug": "stevens-courtney-chua",
+  "name": "Stevens, Courtney Chua.",
+  "totalDecisions": 1330,
+  "grants": 20,
+  "denials": 16,
+  "removals": 3,
+  "absentia": 56,
+  "grantRate": 1.5,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 1442
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

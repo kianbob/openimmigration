@@ -1,0 +1,64 @@
+{
+  "code": "SML",
+  "slug": "levine-shira-m",
+  "name": "Levine, Shira M.",
+  "totalDecisions": 4677,
+  "grants": 1377,
+  "denials": 7,
+  "removals": 7,
+  "absentia": 186,
+  "grantRate": 29.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 10219
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

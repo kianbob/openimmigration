@@ -1,0 +1,64 @@
+{
+  "code": "PAR",
+  "slug": "rohan-patricia-a",
+  "name": "Rohan, Patricia A.",
+  "totalDecisions": 26008,
+  "grants": 6107,
+  "denials": 1926,
+  "removals": 1898,
+  "absentia": 3635,
+  "grantRate": 23.5,
+  "removalRate": 7.3,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 25350
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 210
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 108
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 73
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 16
+    }
+  ]
+}

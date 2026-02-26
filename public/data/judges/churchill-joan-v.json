@@ -1,0 +1,64 @@
+{
+  "code": "JVC",
+  "slug": "churchill-joan-v",
+  "name": "Churchill, Joan V.",
+  "totalDecisions": 22277,
+  "grants": 2535,
+  "denials": 2277,
+  "removals": 2241,
+  "absentia": 2391,
+  "grantRate": 11.4,
+  "removalRate": 10.1,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 17437
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 2210
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 799
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 740
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 559
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 408
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

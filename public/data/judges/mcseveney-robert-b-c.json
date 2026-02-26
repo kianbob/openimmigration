@@ -1,0 +1,64 @@
+{
+  "code": "RBM",
+  "slug": "mcseveney-robert-b-c",
+  "name": "Mcseveney, Robert B.C.",
+  "totalDecisions": 9380,
+  "grants": 1119,
+  "denials": 74,
+  "removals": 1,
+  "absentia": 982,
+  "grantRate": 11.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 11350
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3118
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 82
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 68
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

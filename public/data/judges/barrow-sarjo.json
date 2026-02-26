@@ -1,0 +1,64 @@
+{
+  "code": "SJB",
+  "slug": "barrow-sarjo",
+  "name": "Barrow, Sarjo",
+  "totalDecisions": 2229,
+  "grants": 121,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 274,
+  "grantRate": 5.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "hearings": 10107
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 771
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 155
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

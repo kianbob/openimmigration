@@ -1,0 +1,64 @@
+{
+  "code": "BAR",
+  "slug": "bartolomei-rico-j",
+  "name": "Bartolomei, Rico J.",
+  "totalDecisions": 24529,
+  "grants": 1685,
+  "denials": 1398,
+  "removals": 1353,
+  "absentia": 3285,
+  "grantRate": 6.9,
+  "removalRate": 5.5,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 23089
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 667
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 210
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 202
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 71
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 64
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 34
+    }
+  ]
+}

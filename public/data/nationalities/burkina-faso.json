@@ -1,0 +1,263 @@
+{
+  "code": "BO",
+  "slug": "burkina-faso",
+  "name": "Burkina Faso",
+  "cases": 4516,
+  "completed": 5604,
+  "grants": 1554,
+  "denials": 57,
+  "removals": 50,
+  "grantRate": 27.7,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 1890
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 841
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 293
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 191
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 100
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 85
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 78
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 70
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 54
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "count": 51
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 49
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 49
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 45
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 45
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 43
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 40
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "count": 38
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "count": 33
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 33
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "count": 33
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 3
+    },
+    {
+      "year": 1991,
+      "cases": 7
+    },
+    {
+      "year": 1992,
+      "cases": 14
+    },
+    {
+      "year": 1993,
+      "cases": 10
+    },
+    {
+      "year": 1994,
+      "cases": 6
+    },
+    {
+      "year": 1995,
+      "cases": 18
+    },
+    {
+      "year": 1996,
+      "cases": 23
+    },
+    {
+      "year": 1997,
+      "cases": 18
+    },
+    {
+      "year": 1998,
+      "cases": 13
+    },
+    {
+      "year": 1999,
+      "cases": 14
+    },
+    {
+      "year": 2000,
+      "cases": 12
+    },
+    {
+      "year": 2001,
+      "cases": 15
+    },
+    {
+      "year": 2002,
+      "cases": 15
+    },
+    {
+      "year": 2003,
+      "cases": 16
+    },
+    {
+      "year": 2004,
+      "cases": 19
+    },
+    {
+      "year": 2005,
+      "cases": 33
+    },
+    {
+      "year": 2006,
+      "cases": 37
+    },
+    {
+      "year": 2007,
+      "cases": 19
+    },
+    {
+      "year": 2008,
+      "cases": 27
+    },
+    {
+      "year": 2009,
+      "cases": 33
+    },
+    {
+      "year": 2010,
+      "cases": 23
+    },
+    {
+      "year": 2011,
+      "cases": 34
+    },
+    {
+      "year": 2012,
+      "cases": 61
+    },
+    {
+      "year": 2013,
+      "cases": 96
+    },
+    {
+      "year": 2014,
+      "cases": 104
+    },
+    {
+      "year": 2015,
+      "cases": 87
+    },
+    {
+      "year": 2016,
+      "cases": 132
+    },
+    {
+      "year": 2017,
+      "cases": 141
+    },
+    {
+      "year": 2018,
+      "cases": 312
+    },
+    {
+      "year": 2019,
+      "cases": 216
+    },
+    {
+      "year": 2020,
+      "cases": 86
+    },
+    {
+      "year": 2021,
+      "cases": 102
+    },
+    {
+      "year": 2022,
+      "cases": 180
+    },
+    {
+      "year": 2023,
+      "cases": 307
+    },
+    {
+      "year": 2024,
+      "cases": 609
+    },
+    {
+      "year": 2025,
+      "cases": 523
+    },
+    {
+      "year": 2026,
+      "cases": 19
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JEB",
+  "slug": "balasquide-javier-e",
+  "name": "Balasquide, Javier E.",
+  "totalDecisions": 19721,
+  "grants": 2780,
+  "denials": 108,
+  "removals": 86,
+  "absentia": 3458,
+  "grantRate": 14.1,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 26878
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5456
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 178
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 85
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 82
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 73
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 66
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 27
+    }
+  ]
+}

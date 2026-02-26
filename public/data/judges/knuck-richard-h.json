@@ -1,0 +1,64 @@
+{
+  "code": "RHK",
+  "slug": "knuck-richard-h",
+  "name": "Knuck, Richard H.",
+  "totalDecisions": 31522,
+  "grants": 802,
+  "denials": 2626,
+  "removals": 2626,
+  "absentia": 641,
+  "grantRate": 2.5,
+  "removalRate": 8.3,
+  "courts": [
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 22199
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 5877
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2183
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 667
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 286
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 165
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 24
+    }
+  ]
+}

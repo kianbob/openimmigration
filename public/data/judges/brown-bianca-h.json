@@ -1,0 +1,34 @@
+{
+  "code": "BHB",
+  "slug": "brown-bianca-h",
+  "name": "Brown, Bianca, H",
+  "totalDecisions": 10302,
+  "grants": 126,
+  "denials": 98,
+  "removals": 3,
+  "absentia": 1,
+  "grantRate": 1.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 10424
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 79
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

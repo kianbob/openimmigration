@@ -1,0 +1,24 @@
+{
+  "code": "SUR",
+  "slug": "rodgers-sujata",
+  "name": "Rodgers, Sujata",
+  "totalDecisions": 96,
+  "grants": 5,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 5.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 129
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 11
+    }
+  ]
+}

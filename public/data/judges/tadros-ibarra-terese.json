@@ -1,0 +1,64 @@
+{
+  "code": "TTI",
+  "slug": "tadros-ibarra-terese",
+  "name": "Tadros-Ibarra, Terese",
+  "totalDecisions": 4902,
+  "grants": 314,
+  "denials": 6,
+  "removals": 0,
+  "absentia": 1066,
+  "grantRate": 6.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 5798
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

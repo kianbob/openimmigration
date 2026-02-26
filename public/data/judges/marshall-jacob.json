@@ -1,0 +1,24 @@
+{
+  "code": "JBM",
+  "slug": "marshall-jacob",
+  "name": "Marshall, Jacob",
+  "totalDecisions": 110,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 123
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

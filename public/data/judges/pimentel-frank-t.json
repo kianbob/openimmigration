@@ -1,0 +1,64 @@
+{
+  "code": "FTP",
+  "slug": "pimentel-frank-t",
+  "name": "Pimentel, Frank T.",
+  "totalDecisions": 13407,
+  "grants": 147,
+  "denials": 132,
+  "removals": 16,
+  "absentia": 1058,
+  "grantRate": 1.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 8545
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 2600
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1807
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 355
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

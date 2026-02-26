@@ -1,0 +1,38 @@
+{
+  "code": "PC",
+  "slug": "pitcairn-islands",
+  "name": "Pitcairn Islands",
+  "cases": 4,
+  "completed": 3,
+  "grants": 2,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2017,
+      "cases": 1
+    },
+    {
+      "year": 2024,
+      "cases": 1
+    }
+  ]
+}

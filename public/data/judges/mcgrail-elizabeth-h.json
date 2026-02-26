@@ -1,0 +1,59 @@
+{
+  "code": "EHM",
+  "slug": "mcgrail-elizabeth-h",
+  "name": "Mcgrail, Elizabeth H.",
+  "totalDecisions": 10944,
+  "grants": 471,
+  "denials": 136,
+  "removals": 12,
+  "absentia": 78,
+  "grantRate": 4.3,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 6585
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 3700
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 589
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

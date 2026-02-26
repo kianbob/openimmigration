@@ -1,0 +1,64 @@
+{
+  "code": "GRB",
+  "slug": "baker-glen-r",
+  "name": "Baker, Glen R.",
+  "totalDecisions": 20438,
+  "grants": 1214,
+  "denials": 97,
+  "removals": 9,
+  "absentia": 2706,
+  "grantRate": 5.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 16062
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 6227
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 427
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 415
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 36
+    }
+  ]
+}

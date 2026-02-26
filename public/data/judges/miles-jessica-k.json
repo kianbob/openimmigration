@@ -1,0 +1,29 @@
+{
+  "code": "JKM",
+  "slug": "miles-jessica-k",
+  "name": "Miles, Jessica K.",
+  "totalDecisions": 4230,
+  "grants": 63,
+  "denials": 30,
+  "removals": 0,
+  "absentia": 65,
+  "grantRate": 1.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 3033
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 1371
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 252
+    }
+  ]
+}

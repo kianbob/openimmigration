@@ -1,0 +1,247 @@
+{
+  "code": "FM",
+  "slug": "federated-states-of-micronesia",
+  "name": "Federated States Of Micronesia",
+  "cases": 1616,
+  "completed": 2327,
+  "grants": 87,
+  "denials": 156,
+  "removals": 150,
+  "grantRate": 3.7,
+  "topCourts": [
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "count": 437
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "count": 393
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "count": 93
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 71
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 59
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 35
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 31
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 29
+    },
+    {
+      "code": "SAI",
+      "name": "Immigration Court",
+      "count": 28
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 27
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 26
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 25
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 24
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 20
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 19
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 18
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 18
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 15
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "count": 15
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "count": 14
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 22
+    },
+    {
+      "year": 1991,
+      "cases": 9
+    },
+    {
+      "year": 1992,
+      "cases": 13
+    },
+    {
+      "year": 1993,
+      "cases": 8
+    },
+    {
+      "year": 1994,
+      "cases": 26
+    },
+    {
+      "year": 1995,
+      "cases": 21
+    },
+    {
+      "year": 1996,
+      "cases": 21
+    },
+    {
+      "year": 1997,
+      "cases": 35
+    },
+    {
+      "year": 1998,
+      "cases": 13
+    },
+    {
+      "year": 1999,
+      "cases": 16
+    },
+    {
+      "year": 2000,
+      "cases": 15
+    },
+    {
+      "year": 2001,
+      "cases": 18
+    },
+    {
+      "year": 2002,
+      "cases": 8
+    },
+    {
+      "year": 2003,
+      "cases": 8
+    },
+    {
+      "year": 2004,
+      "cases": 6
+    },
+    {
+      "year": 2005,
+      "cases": 4
+    },
+    {
+      "year": 2006,
+      "cases": 2
+    },
+    {
+      "year": 2008,
+      "cases": 4
+    },
+    {
+      "year": 2009,
+      "cases": 1
+    },
+    {
+      "year": 2010,
+      "cases": 1
+    },
+    {
+      "year": 2012,
+      "cases": 1
+    },
+    {
+      "year": 2013,
+      "cases": 7
+    },
+    {
+      "year": 2014,
+      "cases": 14
+    },
+    {
+      "year": 2015,
+      "cases": 8
+    },
+    {
+      "year": 2016,
+      "cases": 11
+    },
+    {
+      "year": 2017,
+      "cases": 15
+    },
+    {
+      "year": 2018,
+      "cases": 7
+    },
+    {
+      "year": 2019,
+      "cases": 4
+    },
+    {
+      "year": 2020,
+      "cases": 10
+    },
+    {
+      "year": 2021,
+      "cases": 2
+    },
+    {
+      "year": 2023,
+      "cases": 4
+    },
+    {
+      "year": 2024,
+      "cases": 5
+    },
+    {
+      "year": 2025,
+      "cases": 8
+    }
+  ]
+}

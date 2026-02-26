@@ -1,0 +1,64 @@
+{
+  "code": "PAM",
+  "slug": "miranda-pedro-a",
+  "name": "Miranda, Pedro A.",
+  "totalDecisions": 14056,
+  "grants": 3136,
+  "denials": 1034,
+  "removals": 959,
+  "absentia": 3696,
+  "grantRate": 22.3,
+  "removalRate": 6.8,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 13781
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 116
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 82
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

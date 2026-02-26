@@ -1,0 +1,64 @@
+{
+  "code": "MIN",
+  "slug": "hoeppner-mindy-e",
+  "name": "Hoeppner, Mindy E.",
+  "totalDecisions": 9391,
+  "grants": 358,
+  "denials": 12,
+  "removals": 3,
+  "absentia": 1666,
+  "grantRate": 3.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 7019
+    },
+    {
+      "code": "POR",
+      "name": "Immigration Court",
+      "hearings": 2164
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

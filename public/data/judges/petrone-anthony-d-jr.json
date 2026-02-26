@@ -1,0 +1,64 @@
+{
+  "code": "ADP",
+  "slug": "petrone-anthony-d-jr",
+  "name": "Petrone, Anthony D., Jr.",
+  "totalDecisions": 13241,
+  "grants": 1115,
+  "denials": 2151,
+  "removals": 2151,
+  "absentia": 2695,
+  "grantRate": 8.4,
+  "removalRate": 16.2,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 7419
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 5500
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 210
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

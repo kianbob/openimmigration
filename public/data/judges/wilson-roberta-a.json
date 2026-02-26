@@ -1,0 +1,64 @@
+{
+  "code": "RAW",
+  "slug": "wilson-roberta-a",
+  "name": "Wilson, Roberta A.",
+  "totalDecisions": 2382,
+  "grants": 330,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 475,
+  "grantRate": 13.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 2199
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 88
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JIP",
+  "slug": "peyton-jennifer-i",
+  "name": "Peyton, Jennifer I.",
+  "totalDecisions": 7568,
+  "grants": 1111,
+  "denials": 6,
+  "removals": 4,
+  "absentia": 1153,
+  "grantRate": 14.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 8701
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "code": "TST",
+  "slug": "tst",
+  "name": "Tst",
+  "state": "",
+  "address": "",
+  "active": false,
+  "cases": 1,
+  "completed": 0,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "topNationalities": [
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "count": 1
+    }
+  ],
+  "topJudges": [],
+  "yearlyTrend": []
+}

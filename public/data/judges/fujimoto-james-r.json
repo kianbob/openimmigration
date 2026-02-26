@@ -1,0 +1,64 @@
+{
+  "code": "JRF",
+  "slug": "fujimoto-james-r",
+  "name": "Fujimoto, James R.",
+  "totalDecisions": 44748,
+  "grants": 2889,
+  "denials": 3206,
+  "removals": 3156,
+  "absentia": 7981,
+  "grantRate": 6.5,
+  "removalRate": 7.1,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 21154
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 19313
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 3634
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 230
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 198
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 15
+    }
+  ]
+}

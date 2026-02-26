@@ -1,0 +1,64 @@
+{
+  "code": "GPM",
+  "slug": "mcphaul-glenn-p",
+  "name": "Mcphaul, Glenn P.",
+  "totalDecisions": 61516,
+  "grants": 1570,
+  "denials": 8191,
+  "removals": 8129,
+  "absentia": 14725,
+  "grantRate": 2.6,
+  "removalRate": 13.2,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 36645
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 10614
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 6114
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 4958
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2310
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 660
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 59
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 18
+    }
+  ]
+}

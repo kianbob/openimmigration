@@ -1,0 +1,64 @@
+{
+  "code": "MBK",
+  "slug": "karlen-melissa-beth",
+  "name": "Karlen, Melissa Beth",
+  "totalDecisions": 7460,
+  "grants": 290,
+  "denials": 19,
+  "removals": 9,
+  "absentia": 1440,
+  "grantRate": 3.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 11635
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 170
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "code": "MAA",
+  "slug": "andrasko-matthew",
+  "name": "Andrasko, Matthew",
+  "totalDecisions": 123,
+  "grants": 6,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 26,
+  "grantRate": 4.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 81
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 34
+    }
+  ]
+}

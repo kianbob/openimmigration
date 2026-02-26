@@ -1,0 +1,64 @@
+{
+  "code": "JZ",
+  "slug": "zlatow-jeffrey",
+  "name": "Zlatow, Jeffrey",
+  "totalDecisions": 35233,
+  "grants": 811,
+  "denials": 9004,
+  "removals": 8972,
+  "absentia": 1628,
+  "grantRate": 2.3,
+  "removalRate": 25.5,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 10088
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 9255
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 6119
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 5241
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3737
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 277
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 149
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 115
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 100
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 60
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "FHR",
+  "slug": "hoover-forrest-w-iii",
+  "name": "Hoover, Forrest W., Iii",
+  "totalDecisions": 11402,
+  "grants": 424,
+  "denials": 16,
+  "removals": 4,
+  "absentia": 2910,
+  "grantRate": 3.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 20005
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 1117
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 419
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "code": "MAT",
+  "slug": "adrian-matthew-t",
+  "name": "Adrian, Matthew T.",
+  "totalDecisions": 3163,
+  "grants": 605,
+  "denials": 569,
+  "removals": 567,
+  "absentia": 765,
+  "grantRate": 19.1,
+  "removalRate": 17.9,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3151
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

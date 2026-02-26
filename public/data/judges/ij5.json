@@ -1,0 +1,19 @@
+{
+  "code": "IJ5",
+  "slug": "ij5",
+  "name": "Ij5",
+  "totalDecisions": 116,
+  "grants": 0,
+  "denials": 4,
+  "removals": 4,
+  "absentia": 0,
+  "grantRate": 0,
+  "removalRate": 3.4,
+  "courts": [
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 116
+    }
+  ]
+}

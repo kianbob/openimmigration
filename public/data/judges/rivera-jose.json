@@ -1,0 +1,64 @@
+{
+  "code": "JRA",
+  "slug": "rivera-jose",
+  "name": "Rivera, Jose",
+  "totalDecisions": 10499,
+  "grants": 211,
+  "denials": 28,
+  "removals": 25,
+  "absentia": 1505,
+  "grantRate": 2,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 22560
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 153
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

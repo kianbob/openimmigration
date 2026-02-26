@@ -1,0 +1,64 @@
+{
+  "code": "VJ1",
+  "slug": "visiting-judge-1",
+  "name": "Visiting Judge 1",
+  "totalDecisions": 16626,
+  "grants": 240,
+  "denials": 368,
+  "removals": 358,
+  "absentia": 225,
+  "grantRate": 1.4,
+  "removalRate": 2.2,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 14619
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 10781
+    },
+    {
+      "code": "POR",
+      "name": "Immigration Court",
+      "hearings": 10127
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 8285
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 7340
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3825
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3815
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 3441
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 2397
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 2367
+    }
+  ]
+}

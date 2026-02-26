@@ -1,0 +1,49 @@
+{
+  "code": "JCK",
+  "slug": "king-jean-c",
+  "name": "King, Jean C.",
+  "totalDecisions": 66,
+  "grants": 3,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 4.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

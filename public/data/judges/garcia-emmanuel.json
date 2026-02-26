@@ -1,0 +1,29 @@
+{
+  "code": "ELG",
+  "slug": "garcia-emmanuel",
+  "name": "Garcia, Emmanuel",
+  "totalDecisions": 3780,
+  "grants": 3,
+  "denials": 26,
+  "removals": 1,
+  "absentia": 215,
+  "grantRate": 0.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 3995
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "DL",
+  "slug": "lippman-daniel",
+  "name": "Lippman, Daniel",
+  "totalDecisions": 12339,
+  "grants": 1177,
+  "denials": 115,
+  "removals": 26,
+  "absentia": 2058,
+  "grantRate": 9.5,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 7814
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 2678
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 794
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 499
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 349
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

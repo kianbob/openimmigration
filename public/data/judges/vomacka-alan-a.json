@@ -1,0 +1,64 @@
+{
+  "code": "AAV",
+  "slug": "vomacka-alan-a",
+  "name": "Vomacka, Alan A.",
+  "totalDecisions": 29519,
+  "grants": 1737,
+  "denials": 6886,
+  "removals": 6811,
+  "absentia": 4442,
+  "grantRate": 5.9,
+  "removalRate": 23.1,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 9811
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 9783
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5354
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 2987
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 719
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 455
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 140
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 26
+    }
+  ]
+}

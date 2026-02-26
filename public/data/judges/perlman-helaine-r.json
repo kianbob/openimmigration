@@ -1,0 +1,54 @@
+{
+  "code": "HRP",
+  "slug": "perlman-helaine-r",
+  "name": "Perlman, Helaine R.",
+  "totalDecisions": 2072,
+  "grants": 201,
+  "denials": 35,
+  "removals": 0,
+  "absentia": 179,
+  "grantRate": 9.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2052
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

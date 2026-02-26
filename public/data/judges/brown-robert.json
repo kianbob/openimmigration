@@ -1,0 +1,64 @@
+{
+  "code": "RB",
+  "slug": "brown-robert",
+  "name": "Brown, Robert",
+  "totalDecisions": 23058,
+  "grants": 1453,
+  "denials": 7110,
+  "removals": 7108,
+  "absentia": 4413,
+  "grantRate": 6.3,
+  "removalRate": 30.8,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 18152
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 3670
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 370
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 298
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 176
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 115
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 64
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 29
+    }
+  ]
+}

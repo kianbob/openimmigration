@@ -1,0 +1,64 @@
+{
+  "code": "AWS",
+  "slug": "stawar-andrew",
+  "name": "Stawar, Andrew",
+  "totalDecisions": 3123,
+  "grants": 35,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 785,
+  "grantRate": 1.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 5778
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 504
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

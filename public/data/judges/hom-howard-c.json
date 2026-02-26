@@ -1,0 +1,64 @@
+{
+  "code": "HH",
+  "slug": "hom-howard-c",
+  "name": "Hom, Howard C.",
+  "totalDecisions": 6864,
+  "grants": 554,
+  "denials": 11,
+  "removals": 5,
+  "absentia": 1795,
+  "grantRate": 8.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 6266
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1847
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

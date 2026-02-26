@@ -1,0 +1,64 @@
+{
+  "code": "VIS",
+  "slug": "visiting-judge",
+  "name": "Visiting Judge",
+  "totalDecisions": 1171,
+  "grants": 29,
+  "denials": 421,
+  "removals": 421,
+  "absentia": 36,
+  "grantRate": 2.5,
+  "removalRate": 36,
+  "courts": [
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 304
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 281
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 175
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 106
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 83
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

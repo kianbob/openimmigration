@@ -1,0 +1,64 @@
+{
+  "code": "KRM",
+  "slug": "mcdonald-kristofer-r",
+  "name": "Mcdonald, Kristofer R.",
+  "totalDecisions": 2726,
+  "grants": 118,
+  "denials": 36,
+  "removals": 30,
+  "absentia": 942,
+  "grantRate": 4.3,
+  "removalRate": 1.1,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4753
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

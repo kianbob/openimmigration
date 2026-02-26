@@ -1,0 +1,64 @@
+{
+  "code": "RHC",
+  "slug": "harris-rodger-c",
+  "name": "Harris, Rodger C.",
+  "totalDecisions": 22703,
+  "grants": 1492,
+  "denials": 130,
+  "removals": 15,
+  "absentia": 5696,
+  "grantRate": 6.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 21136
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 7195
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 4402
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1749
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 424
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 410
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 305
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 81
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 35
+    }
+  ]
+}

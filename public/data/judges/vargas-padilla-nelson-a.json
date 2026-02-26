@@ -1,0 +1,64 @@
+{
+  "code": "NVP",
+  "slug": "vargas-padilla-nelson-a",
+  "name": "Vargas-Padilla, Nelson A.",
+  "totalDecisions": 10776,
+  "grants": 825,
+  "denials": 25,
+  "removals": 6,
+  "absentia": 2809,
+  "grantRate": 7.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 12832
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 343
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

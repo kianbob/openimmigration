@@ -1,0 +1,64 @@
+{
+  "code": "KBR",
+  "slug": "brown-kevin",
+  "name": "Brown, Kevin",
+  "totalDecisions": 10753,
+  "grants": 66,
+  "denials": 8,
+  "removals": 0,
+  "absentia": 3049,
+  "grantRate": 0.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 13172
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 521
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 213
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

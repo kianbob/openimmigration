@@ -1,0 +1,29 @@
+{
+  "code": "RBB",
+  "slug": "boudreau-robert",
+  "name": "Boudreau, Robert",
+  "totalDecisions": 167,
+  "grants": 8,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 4.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 159
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

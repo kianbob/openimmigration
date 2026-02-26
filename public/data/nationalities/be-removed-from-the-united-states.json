@@ -1,0 +1,57 @@
+{
+  "code": "XX",
+  "slug": "be-removed-from-the-united-states",
+  "name": "Be Removed From The United States",
+  "cases": 9,
+  "completed": 36,
+  "grants": 2,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2000,
+      "cases": 1
+    },
+    {
+      "year": 2002,
+      "cases": 1
+    },
+    {
+      "year": 2016,
+      "cases": 1
+    }
+  ]
+}

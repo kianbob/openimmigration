@@ -1,0 +1,64 @@
+{
+  "code": "JNP",
+  "slug": "pope-jason-l",
+  "name": "Pope, Jason L.",
+  "totalDecisions": 7916,
+  "grants": 530,
+  "denials": 45,
+  "removals": 3,
+  "absentia": 1562,
+  "grantRate": 6.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 5879
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2183
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 1393
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

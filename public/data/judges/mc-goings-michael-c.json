@@ -1,0 +1,29 @@
+{
+  "code": "MCM",
+  "slug": "mc-goings-michael-c",
+  "name": "Mc Goings, Michael C.",
+  "totalDecisions": 306,
+  "grants": 6,
+  "denials": 93,
+  "removals": 93,
+  "absentia": 0,
+  "grantRate": 2,
+  "removalRate": 30.4,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 199
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 89
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 18
+    }
+  ]
+}

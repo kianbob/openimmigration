@@ -1,0 +1,64 @@
+{
+  "code": "EMZ",
+  "slug": "martinez-elizabeth",
+  "name": "Martinez, Elizabeth",
+  "totalDecisions": 15195,
+  "grants": 92,
+  "denials": 60,
+  "removals": 4,
+  "absentia": 2260,
+  "grantRate": 0.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 16668
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 8369
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 72
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

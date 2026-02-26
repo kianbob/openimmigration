@@ -1,0 +1,49 @@
+{
+  "code": "JNH",
+  "slug": "henderson-john",
+  "name": "Henderson, John",
+  "totalDecisions": 448,
+  "grants": 34,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 18,
+  "grantRate": 7.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 428
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

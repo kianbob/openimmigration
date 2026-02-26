@@ -1,0 +1,64 @@
+{
+  "code": "SDG",
+  "slug": "gambill-scott-d",
+  "name": "Gambill, Scott D.",
+  "totalDecisions": 6581,
+  "grants": 695,
+  "denials": 7,
+  "removals": 7,
+  "absentia": 628,
+  "grantRate": 10.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 8557
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 884
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 138
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 77
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

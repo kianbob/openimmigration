@@ -1,0 +1,64 @@
+{
+  "code": "SH",
+  "slug": "hom-sandy",
+  "name": "Hom, Sandy",
+  "totalDecisions": 18860,
+  "grants": 2654,
+  "denials": 1645,
+  "removals": 1575,
+  "absentia": 3902,
+  "grantRate": 14.1,
+  "removalRate": 8.4,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 18430
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 107
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 72
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

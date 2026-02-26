@@ -1,0 +1,39 @@
+{
+  "code": "RAP",
+  "slug": "phelps-richard-a",
+  "name": "Phelps, Richard A.",
+  "totalDecisions": 18099,
+  "grants": 422,
+  "denials": 150,
+  "removals": 11,
+  "absentia": 30,
+  "grantRate": 2.3,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 18058
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

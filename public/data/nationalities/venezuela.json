@@ -1,0 +1,263 @@
+{
+  "code": "VE",
+  "slug": "venezuela",
+  "name": "Venezuela",
+  "cases": 620933,
+  "completed": 476913,
+  "grants": 18632,
+  "denials": 1749,
+  "removals": 977,
+  "grantRate": 3.9,
+  "topCourts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 70056
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 65343
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 57194
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 48905
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 33209
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "count": 27153
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 26960
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 22958
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 22673
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "count": 22649
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 19247
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "count": 14871
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "count": 12383
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 11850
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 10176
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 8782
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 8273
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "count": 7839
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "count": 7564
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "count": 7205
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 81
+    },
+    {
+      "year": 1991,
+      "cases": 75
+    },
+    {
+      "year": 1992,
+      "cases": 56
+    },
+    {
+      "year": 1993,
+      "cases": 64
+    },
+    {
+      "year": 1994,
+      "cases": 82
+    },
+    {
+      "year": 1995,
+      "cases": 112
+    },
+    {
+      "year": 1996,
+      "cases": 188
+    },
+    {
+      "year": 1997,
+      "cases": 153
+    },
+    {
+      "year": 1998,
+      "cases": 156
+    },
+    {
+      "year": 1999,
+      "cases": 120
+    },
+    {
+      "year": 2000,
+      "cases": 115
+    },
+    {
+      "year": 2001,
+      "cases": 150
+    },
+    {
+      "year": 2002,
+      "cases": 220
+    },
+    {
+      "year": 2003,
+      "cases": 416
+    },
+    {
+      "year": 2004,
+      "cases": 785
+    },
+    {
+      "year": 2005,
+      "cases": 696
+    },
+    {
+      "year": 2006,
+      "cases": 764
+    },
+    {
+      "year": 2007,
+      "cases": 461
+    },
+    {
+      "year": 2008,
+      "cases": 470
+    },
+    {
+      "year": 2009,
+      "cases": 419
+    },
+    {
+      "year": 2010,
+      "cases": 327
+    },
+    {
+      "year": 2011,
+      "cases": 267
+    },
+    {
+      "year": 2012,
+      "cases": 312
+    },
+    {
+      "year": 2013,
+      "cases": 316
+    },
+    {
+      "year": 2014,
+      "cases": 306
+    },
+    {
+      "year": 2015,
+      "cases": 243
+    },
+    {
+      "year": 2016,
+      "cases": 384
+    },
+    {
+      "year": 2017,
+      "cases": 434
+    },
+    {
+      "year": 2018,
+      "cases": 2062
+    },
+    {
+      "year": 2019,
+      "cases": 5990
+    },
+    {
+      "year": 2020,
+      "cases": 4876
+    },
+    {
+      "year": 2021,
+      "cases": 5299
+    },
+    {
+      "year": 2022,
+      "cases": 22399
+    },
+    {
+      "year": 2023,
+      "cases": 30496
+    },
+    {
+      "year": 2024,
+      "cases": 30433
+    },
+    {
+      "year": 2025,
+      "cases": 45572
+    },
+    {
+      "year": 2026,
+      "cases": 2891
+    }
+  ]
+}

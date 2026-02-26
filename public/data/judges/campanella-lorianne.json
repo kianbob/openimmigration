@@ -1,0 +1,64 @@
+{
+  "code": "LCA",
+  "slug": "campanella-lorianne",
+  "name": "Campanella, Lorianne",
+  "totalDecisions": 4581,
+  "grants": 611,
+  "denials": 15,
+  "removals": 8,
+  "absentia": 370,
+  "grantRate": 13.3,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 1837
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1684
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 1610
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 6
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "VJ8",
+  "slug": "visiting-judge-8",
+  "name": "Visiting Judge 8",
+  "totalDecisions": 158,
+  "grants": 1,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 3,
+  "grantRate": 0.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 2090
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "hearings": 7
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

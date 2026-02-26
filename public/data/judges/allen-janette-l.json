@@ -1,0 +1,64 @@
+{
+  "code": "JAN",
+  "slug": "allen-janette-l",
+  "name": "Allen, Janette L.",
+  "totalDecisions": 7723,
+  "grants": 366,
+  "denials": 20,
+  "removals": 15,
+  "absentia": 1354,
+  "grantRate": 4.7,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4421
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3818
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 407
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 265
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

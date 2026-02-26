@@ -1,0 +1,64 @@
+{
+  "code": "WYW",
+  "slug": "wedderburn-wendy",
+  "name": "Wedderburn, Wendy",
+  "totalDecisions": 2462,
+  "grants": 148,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 823,
+  "grantRate": 6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 2423
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

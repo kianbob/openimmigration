@@ -1,0 +1,450 @@
+{
+  "code": "PEP",
+  "slug": "los-fresnos-2",
+  "name": "Los Fresnos",
+  "state": "TX",
+  "address": "27991 BUENA VISTA BLVD",
+  "active": true,
+  "cases": 5309,
+  "completed": 12465,
+  "grants": 215,
+  "denials": 73,
+  "removals": 0,
+  "grantRate": 1.7,
+  "topNationalities": [
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "count": 1298
+    },
+    {
+      "code": "HO",
+      "name": "Honduras",
+      "count": 537
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "count": 519
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "count": 494
+    },
+    {
+      "code": "ES",
+      "name": "El Salvador",
+      "count": 333
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "count": 332
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "count": 282
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "count": 177
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "count": 146
+    },
+    {
+      "code": "DR",
+      "name": "Dominican Republic",
+      "count": 113
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "count": 101
+    },
+    {
+      "code": "NU",
+      "name": "Nicaragua",
+      "count": 99
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "count": 75
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "count": 64
+    },
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "count": 60
+    },
+    {
+      "code": "CH",
+      "name": "China",
+      "count": 57
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "count": 49
+    },
+    {
+      "code": "TU",
+      "name": "Turkey",
+      "count": 38
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "count": 37
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "count": 34
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "MMG",
+      "name": "Macgregor, Margaret R.",
+      "decisions": 3342,
+      "grants": 61,
+      "denials": 6,
+      "removals": 0,
+      "grantRate": 1.8
+    },
+    {
+      "code": "PHE",
+      "name": "Hable, Paul A.",
+      "decisions": 2556,
+      "grants": 26,
+      "denials": 16,
+      "removals": 0,
+      "grantRate": 1
+    },
+    {
+      "code": "FTP",
+      "name": "Pimentel, Frank T.",
+      "decisions": 2487,
+      "grants": 18,
+      "denials": 13,
+      "removals": 0,
+      "grantRate": 0.7
+    },
+    {
+      "code": "AVP",
+      "name": "Poczter, Aviva L.",
+      "decisions": 390,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "CRP",
+      "name": "Pineda, Christopher",
+      "decisions": 349,
+      "grants": 10,
+      "denials": 6,
+      "removals": 0,
+      "grantRate": 2.9
+    },
+    {
+      "code": "JTL",
+      "name": "Leonard, Joseph T.",
+      "decisions": 329,
+      "grants": 7,
+      "denials": 2,
+      "removals": 0,
+      "grantRate": 2.1
+    },
+    {
+      "code": "FPO",
+      "name": "Prieto, Francisco R.",
+      "decisions": 322,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "MIO",
+      "name": "Onyewuchi, Morris I.",
+      "decisions": 322,
+      "grants": 7,
+      "denials": 5,
+      "removals": 0,
+      "grantRate": 2.2
+    },
+    {
+      "code": "JNC",
+      "name": "Castaneda, Julian",
+      "decisions": 273,
+      "grants": 3,
+      "denials": 5,
+      "removals": 0,
+      "grantRate": 1.1
+    },
+    {
+      "code": "SSL",
+      "name": "Schools, Shelly W.",
+      "decisions": 263,
+      "grants": 12,
+      "denials": 5,
+      "removals": 0,
+      "grantRate": 4.6
+    },
+    {
+      "code": "BTR",
+      "name": "Taylor, Brock E",
+      "decisions": 227,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "JBN",
+      "name": "Brown, Jefferson",
+      "decisions": 192,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "MJG",
+      "name": "Garcia, Melissa Joy",
+      "decisions": 130,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "RML",
+      "name": "Lewandowski, Robert M.",
+      "decisions": 99,
+      "grants": 8,
+      "denials": 3,
+      "removals": 0,
+      "grantRate": 8.1
+    },
+    {
+      "code": "BTJ",
+      "name": "Jostad, Brent",
+      "decisions": 93,
+      "grants": 4,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 4.3
+    },
+    {
+      "code": "DKJ",
+      "name": "Julius, Derek",
+      "decisions": 85,
+      "grants": 9,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 10.6
+    },
+    {
+      "code": "BRC",
+      "name": "Counihan, Brian",
+      "decisions": 81,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "BAT",
+      "name": "Taylor, Bruce A.",
+      "decisions": 77,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "NAM",
+      "name": "Martz, Nicholas A.",
+      "decisions": 72,
+      "grants": 5,
+      "denials": 4,
+      "removals": 0,
+      "grantRate": 6.9
+    },
+    {
+      "code": "DIG",
+      "name": "Gonzalez, Delia I.",
+      "decisions": 70,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "JOS",
+      "name": "Smith, Jason",
+      "decisions": 65,
+      "grants": 4,
+      "denials": 2,
+      "removals": 0,
+      "grantRate": 6.2
+    },
+    {
+      "code": "BC2",
+      "name": "Cigarroa, Barbara Gonzalez",
+      "decisions": 52,
+      "grants": 6,
+      "denials": 1,
+      "removals": 0,
+      "grantRate": 11.5
+    },
+    {
+      "code": "JHK",
+      "name": "Kassell, Joseph",
+      "decisions": 50,
+      "grants": 4,
+      "denials": 2,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "MGC",
+      "name": "Cordero Gonzalez, Miguel A.",
+      "decisions": 45,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "KAR",
+      "name": "Karesh, Ellen",
+      "decisions": 40,
+      "grants": 2,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "JGH",
+      "name": "Graulich, James C.",
+      "decisions": 35,
+      "grants": 6,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "GJW",
+      "name": "Ward, George James, Jr.",
+      "decisions": 31,
+      "grants": 6,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "JAN",
+      "name": "Allen, Janette L.",
+      "decisions": 28,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "PJE",
+      "name": "Espinal, Pedro J.",
+      "decisions": 26,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "MNS",
+      "name": "Mannion, Steve",
+      "decisions": 24,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2011,
+      "cases": 1
+    },
+    {
+      "year": 2013,
+      "cases": 1
+    },
+    {
+      "year": 2014,
+      "cases": 1
+    },
+    {
+      "year": 2015,
+      "cases": 4
+    },
+    {
+      "year": 2016,
+      "cases": 2
+    },
+    {
+      "year": 2017,
+      "cases": 10
+    },
+    {
+      "year": 2018,
+      "cases": 4
+    },
+    {
+      "year": 2019,
+      "cases": 7
+    },
+    {
+      "year": 2020,
+      "cases": 14
+    },
+    {
+      "year": 2021,
+      "cases": 5
+    },
+    {
+      "year": 2022,
+      "cases": 22
+    },
+    {
+      "year": 2023,
+      "cases": 51
+    },
+    {
+      "year": 2024,
+      "cases": 698
+    },
+    {
+      "year": 2025,
+      "cases": 1288
+    },
+    {
+      "year": 2026,
+      "cases": 46
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "MIL",
+  "slug": "lewis-michael-a",
+  "name": "Lewis, Michael A.",
+  "totalDecisions": 4153,
+  "grants": 198,
+  "denials": 4,
+  "removals": 1,
+  "absentia": 1044,
+  "grantRate": 4.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2746
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 2381
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 4
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

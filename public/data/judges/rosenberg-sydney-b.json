@@ -1,0 +1,44 @@
+{
+  "code": "SBR",
+  "slug": "rosenberg-sydney-b",
+  "name": "Rosenberg, Sydney B.",
+  "totalDecisions": 8270,
+  "grants": 112,
+  "denials": 1401,
+  "removals": 1401,
+  "absentia": 1274,
+  "grantRate": 1.4,
+  "removalRate": 16.9,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8061
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 18
+    }
+  ]
+}

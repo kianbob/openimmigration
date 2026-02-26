@@ -1,0 +1,19 @@
+{
+  "code": "JSW",
+  "slug": "ward-james",
+  "name": "Ward, James",
+  "totalDecisions": 1893,
+  "grants": 10,
+  "denials": 7,
+  "removals": 1,
+  "absentia": 0,
+  "grantRate": 0.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 2059
+    }
+  ]
+}

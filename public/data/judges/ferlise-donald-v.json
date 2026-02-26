@@ -1,0 +1,39 @@
+{
+  "code": "DVF",
+  "slug": "ferlise-donald-v",
+  "name": "Ferlise, Donald V.",
+  "totalDecisions": 8207,
+  "grants": 938,
+  "denials": 823,
+  "removals": 809,
+  "absentia": 1806,
+  "grantRate": 11.4,
+  "removalRate": 9.9,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 7739
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 462
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "code": "HLK",
+  "slug": "king-jr-h-lloyd",
+  "name": "King Jr., H. Lloyd",
+  "totalDecisions": 3416,
+  "grants": 803,
+  "denials": 46,
+  "removals": 33,
+  "absentia": 1021,
+  "grantRate": 23.5,
+  "removalRate": 1,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3378
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "EP",
+  "slug": "pugliese-eugene",
+  "name": "Pugliese, Eugene",
+  "totalDecisions": 12629,
+  "grants": 1053,
+  "denials": 649,
+  "removals": 607,
+  "absentia": 2988,
+  "grantRate": 8.3,
+  "removalRate": 4.8,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 12512
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 80
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

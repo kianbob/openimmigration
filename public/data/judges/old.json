@@ -1,0 +1,24 @@
+{
+  "code": "OLD",
+  "slug": "old",
+  "name": "Old",
+  "totalDecisions": 88,
+  "grants": 18,
+  "denials": 7,
+  "removals": 7,
+  "absentia": 0,
+  "grantRate": 20.5,
+  "removalRate": 8,
+  "courts": [
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 38
+    }
+  ]
+}

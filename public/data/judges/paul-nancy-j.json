@@ -1,0 +1,64 @@
+{
+  "code": "NJP",
+  "slug": "paul-nancy-j",
+  "name": "Paul, Nancy J.",
+  "totalDecisions": 1880,
+  "grants": 65,
+  "denials": 4,
+  "removals": 1,
+  "absentia": 448,
+  "grantRate": 3.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 1743
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 65
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

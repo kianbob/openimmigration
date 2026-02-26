@@ -1,0 +1,64 @@
+{
+  "code": "VJ5",
+  "slug": "visiting-judge-5",
+  "name": "Visiting Judge 5",
+  "totalDecisions": 497,
+  "grants": 3,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 9,
+  "grantRate": 0.6,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 1202
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 138
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 92
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 67
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 62
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 20
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "ATG",
+  "slug": "giattina-anthony-t",
+  "name": "Giattina, Anthony T.",
+  "totalDecisions": 7123,
+  "grants": 1616,
+  "denials": 109,
+  "removals": 86,
+  "absentia": 1535,
+  "grantRate": 22.7,
+  "removalRate": 1.2,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 6738
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 353
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

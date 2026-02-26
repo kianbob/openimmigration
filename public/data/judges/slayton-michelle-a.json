@@ -1,0 +1,64 @@
+{
+  "code": "MAS",
+  "slug": "slayton-michelle-a",
+  "name": "Slayton, Michelle A.",
+  "totalDecisions": 4323,
+  "grants": 425,
+  "denials": 6,
+  "removals": 2,
+  "absentia": 756,
+  "grantRate": 9.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 11611
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 124
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

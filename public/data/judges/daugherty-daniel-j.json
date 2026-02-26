@@ -1,0 +1,64 @@
+{
+  "code": "DJD",
+  "slug": "daugherty-daniel-j",
+  "name": "Daugherty, Daniel J.",
+  "totalDecisions": 8805,
+  "grants": 463,
+  "denials": 36,
+  "removals": 6,
+  "absentia": 986,
+  "grantRate": 5.3,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 11408
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 726
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

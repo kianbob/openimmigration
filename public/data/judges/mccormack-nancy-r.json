@@ -1,0 +1,64 @@
+{
+  "code": "NRM",
+  "slug": "mccormack-nancy-r",
+  "name": "Mccormack, Nancy R.",
+  "totalDecisions": 16859,
+  "grants": 3129,
+  "denials": 1362,
+  "removals": 1213,
+  "absentia": 4121,
+  "grantRate": 18.6,
+  "removalRate": 7.2,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 16556
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 77
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

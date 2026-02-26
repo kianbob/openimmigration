@@ -1,0 +1,29 @@
+{
+  "code": "AJD",
+  "slug": "dicamillo-angelo-j",
+  "name": "Dicamillo, Angelo J.",
+  "totalDecisions": 86,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 2,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 77
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

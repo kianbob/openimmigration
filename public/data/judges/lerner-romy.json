@@ -1,0 +1,34 @@
+{
+  "code": "RYL",
+  "slug": "lerner-romy",
+  "name": "Lerner, Romy",
+  "totalDecisions": 5188,
+  "grants": 223,
+  "denials": 48,
+  "removals": 0,
+  "absentia": 95,
+  "grantRate": 4.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 4823
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 702
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

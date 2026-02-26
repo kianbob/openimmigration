@@ -1,0 +1,64 @@
+{
+  "code": "SMN",
+  "slug": "mcnulty-sheila",
+  "name": "Mcnulty, Sheila",
+  "totalDecisions": 7318,
+  "grants": 633,
+  "denials": 36,
+  "removals": 9,
+  "absentia": 1078,
+  "grantRate": 8.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 7199
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 55
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "TAL",
+  "slug": "lebreton-tanawa",
+  "name": "Lebreton, Tanawa",
+  "totalDecisions": 3931,
+  "grants": 374,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 847,
+  "grantRate": 9.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 6137
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 234
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 81
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

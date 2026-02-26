@@ -1,0 +1,64 @@
+{
+  "code": "JYP",
+  "slug": "park-joseph-y",
+  "name": "Park, Joseph Y.",
+  "totalDecisions": 7364,
+  "grants": 546,
+  "denials": 66,
+  "removals": 2,
+  "absentia": 1093,
+  "grantRate": 7.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 10294
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

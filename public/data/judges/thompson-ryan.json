@@ -1,0 +1,19 @@
+{
+  "code": "RNT",
+  "slug": "thompson-ryan",
+  "name": "Thompson, Ryan",
+  "totalDecisions": 550,
+  "grants": 2,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 135,
+  "grantRate": 0.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 1074
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JOH",
+  "slug": "huang-jonathan",
+  "name": "Huang, Jonathan",
+  "totalDecisions": 5331,
+  "grants": 157,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 1337,
+  "grantRate": 2.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 6526
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 4
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

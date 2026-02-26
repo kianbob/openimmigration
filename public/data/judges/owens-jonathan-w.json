@@ -1,0 +1,64 @@
+{
+  "code": "JNO",
+  "slug": "owens-jonathan-w",
+  "name": "Owens, Jonathan W.",
+  "totalDecisions": 8716,
+  "grants": 86,
+  "denials": 7,
+  "removals": 2,
+  "absentia": 2541,
+  "grantRate": 1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 13741
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

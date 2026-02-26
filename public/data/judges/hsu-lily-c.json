@@ -1,0 +1,64 @@
+{
+  "code": "LCH",
+  "slug": "hsu-lily-c",
+  "name": "Hsu, Lily C",
+  "totalDecisions": 8276,
+  "grants": 451,
+  "denials": 9,
+  "removals": 0,
+  "absentia": 1707,
+  "grantRate": 5.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 5184
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 4097
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

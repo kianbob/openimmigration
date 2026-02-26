@@ -1,0 +1,64 @@
+{
+  "code": "KC",
+  "slug": "chapman-kevin-jerome",
+  "name": "Chapman, Kevin Jerome.",
+  "totalDecisions": 14285,
+  "grants": 1424,
+  "denials": 84,
+  "removals": 13,
+  "absentia": 4101,
+  "grantRate": 10,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 10019
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 3247
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 565
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 114
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 88
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 71
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "code": "JFM",
+  "slug": "mccarthy-james-f-iii",
+  "name": "Mccarthy, James F., Iii",
+  "totalDecisions": 544,
+  "grants": 51,
+  "denials": 6,
+  "removals": 1,
+  "absentia": 67,
+  "grantRate": 9.4,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 539
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

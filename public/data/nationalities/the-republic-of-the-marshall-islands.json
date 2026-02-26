@@ -1,0 +1,195 @@
+{
+  "code": "RM",
+  "slug": "the-republic-of-the-marshall-islands",
+  "name": "The Republic Of The Marshall Islands",
+  "cases": 411,
+  "completed": 571,
+  "grants": 17,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": 3,
+  "topCourts": [
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "count": 98
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 95
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "count": 82
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "count": 27
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 12
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "SAI",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 2
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2001,
+      "cases": 2
+    },
+    {
+      "year": 2002,
+      "cases": 11
+    },
+    {
+      "year": 2003,
+      "cases": 3
+    },
+    {
+      "year": 2004,
+      "cases": 3
+    },
+    {
+      "year": 2005,
+      "cases": 1
+    },
+    {
+      "year": 2007,
+      "cases": 1
+    },
+    {
+      "year": 2008,
+      "cases": 3
+    },
+    {
+      "year": 2012,
+      "cases": 1
+    },
+    {
+      "year": 2013,
+      "cases": 7
+    },
+    {
+      "year": 2014,
+      "cases": 3
+    },
+    {
+      "year": 2015,
+      "cases": 8
+    },
+    {
+      "year": 2016,
+      "cases": 4
+    },
+    {
+      "year": 2017,
+      "cases": 3
+    },
+    {
+      "year": 2018,
+      "cases": 8
+    },
+    {
+      "year": 2019,
+      "cases": 2
+    },
+    {
+      "year": 2020,
+      "cases": 3
+    },
+    {
+      "year": 2021,
+      "cases": 1
+    },
+    {
+      "year": 2022,
+      "cases": 3
+    },
+    {
+      "year": 2023,
+      "cases": 4
+    },
+    {
+      "year": 2024,
+      "cases": 3
+    }
+  ]
+}

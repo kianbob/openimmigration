@@ -1,0 +1,64 @@
+{
+  "code": "IMY",
+  "slug": "midgley-ian-d",
+  "name": "Midgley, Ian D.",
+  "totalDecisions": 7125,
+  "grants": 66,
+  "denials": 13,
+  "removals": 7,
+  "absentia": 417,
+  "grantRate": 0.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3719
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3294
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 168
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "MNN",
+  "slug": "neumann-monica",
+  "name": "Neumann, Monica",
+  "totalDecisions": 7723,
+  "grants": 32,
+  "denials": 6,
+  "removals": 5,
+  "absentia": 870,
+  "grantRate": 0.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 20009
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "code": "BT",
+  "slug": "bhutan",
+  "name": "Bhutan",
+  "cases": 241,
+  "completed": 551,
+  "grants": 121,
+  "denials": 1,
+  "removals": 1,
+  "grantRate": 22,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 69
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 20
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 17
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 15
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 15
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 9
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 2
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1996,
+      "cases": 2
+    },
+    {
+      "year": 1997,
+      "cases": 1
+    },
+    {
+      "year": 1998,
+      "cases": 1
+    },
+    {
+      "year": 1999,
+      "cases": 1
+    },
+    {
+      "year": 2000,
+      "cases": 2
+    },
+    {
+      "year": 2001,
+      "cases": 3
+    },
+    {
+      "year": 2002,
+      "cases": 2
+    },
+    {
+      "year": 2003,
+      "cases": 1
+    },
+    {
+      "year": 2006,
+      "cases": 2
+    },
+    {
+      "year": 2008,
+      "cases": 2
+    },
+    {
+      "year": 2009,
+      "cases": 3
+    },
+    {
+      "year": 2011,
+      "cases": 1
+    },
+    {
+      "year": 2012,
+      "cases": 2
+    },
+    {
+      "year": 2013,
+      "cases": 4
+    },
+    {
+      "year": 2014,
+      "cases": 4
+    },
+    {
+      "year": 2015,
+      "cases": 7
+    },
+    {
+      "year": 2016,
+      "cases": 7
+    },
+    {
+      "year": 2017,
+      "cases": 11
+    },
+    {
+      "year": 2018,
+      "cases": 23
+    },
+    {
+      "year": 2019,
+      "cases": 17
+    },
+    {
+      "year": 2020,
+      "cases": 8
+    },
+    {
+      "year": 2021,
+      "cases": 8
+    },
+    {
+      "year": 2022,
+      "cases": 12
+    },
+    {
+      "year": 2023,
+      "cases": 5
+    },
+    {
+      "year": 2024,
+      "cases": 10
+    },
+    {
+      "year": 2025,
+      "cases": 15
+    }
+  ]
+}

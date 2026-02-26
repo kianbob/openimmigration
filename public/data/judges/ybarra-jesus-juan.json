@@ -1,0 +1,19 @@
+{
+  "code": "JJY",
+  "slug": "ybarra-jesus-juan",
+  "name": "Ybarra, Jesus Juan.",
+  "totalDecisions": 295,
+  "grants": 2,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 13,
+  "grantRate": 0.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 471
+    }
+  ]
+}

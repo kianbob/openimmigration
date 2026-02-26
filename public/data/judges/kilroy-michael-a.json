@@ -1,0 +1,34 @@
+{
+  "code": "MAK",
+  "slug": "kilroy-michael-a",
+  "name": "Kilroy, Michael A.",
+  "totalDecisions": 6215,
+  "grants": 112,
+  "denials": 37,
+  "removals": 15,
+  "absentia": 10,
+  "grantRate": 1.8,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 6143
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

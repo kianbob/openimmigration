@@ -1,0 +1,64 @@
+{
+  "code": "AOC",
+  "slug": "capistrano-antonio",
+  "name": "Capistrano, Antonio",
+  "totalDecisions": 6968,
+  "grants": 247,
+  "denials": 5,
+  "removals": 1,
+  "absentia": 1288,
+  "grantRate": 3.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 17517
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

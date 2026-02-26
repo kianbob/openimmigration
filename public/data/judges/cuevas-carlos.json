@@ -1,0 +1,64 @@
+{
+  "code": "CC",
+  "slug": "cuevas-carlos",
+  "name": "Cuevas, Carlos",
+  "totalDecisions": 24726,
+  "grants": 3273,
+  "denials": 1466,
+  "removals": 1432,
+  "absentia": 5884,
+  "grantRate": 13.2,
+  "removalRate": 5.8,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 18511
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 4114
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 1134
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 872
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

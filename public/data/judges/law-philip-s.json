@@ -1,0 +1,64 @@
+{
+  "code": "PSL",
+  "slug": "law-philip-s",
+  "name": "Law, Philip S.",
+  "totalDecisions": 27683,
+  "grants": 2079,
+  "denials": 391,
+  "removals": 349,
+  "absentia": 7693,
+  "grantRate": 7.5,
+  "removalRate": 1.3,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 12767
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 11944
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1959
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 425
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 195
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 150
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 30
+    }
+  ]
+}

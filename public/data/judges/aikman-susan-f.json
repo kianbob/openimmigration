@@ -1,0 +1,44 @@
+{
+  "code": "SFA",
+  "slug": "aikman-susan-f",
+  "name": "Aikman, Susan, F",
+  "totalDecisions": 1074,
+  "grants": 65,
+  "denials": 15,
+  "removals": 1,
+  "absentia": 0,
+  "grantRate": 6.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 843
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 155
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 58
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

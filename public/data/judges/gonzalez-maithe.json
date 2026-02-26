@@ -1,0 +1,49 @@
+{
+  "code": "MEG",
+  "slug": "gonzalez-maithe",
+  "name": "Gonzalez, Maithe",
+  "totalDecisions": 4027,
+  "grants": 45,
+  "denials": 19,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 4206
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

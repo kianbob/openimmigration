@@ -1,0 +1,64 @@
+{
+  "code": "MT",
+  "slug": "tadal-mirlande",
+  "name": "Tadal, Mirlande",
+  "totalDecisions": 24257,
+  "grants": 1301,
+  "denials": 776,
+  "removals": 513,
+  "absentia": 1894,
+  "grantRate": 5.4,
+  "removalRate": 2.1,
+  "courts": [
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 20823
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1490
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1365
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 229
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 33
+    }
+  ]
+}

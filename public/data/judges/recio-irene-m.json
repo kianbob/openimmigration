@@ -1,0 +1,64 @@
+{
+  "code": "IRO",
+  "slug": "recio-irene-m",
+  "name": "Recio, Irene M.",
+  "totalDecisions": 10723,
+  "grants": 184,
+  "denials": 17,
+  "removals": 11,
+  "absentia": 1411,
+  "grantRate": 1.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 23472
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "PWS",
+  "slug": "schmidt-paul-w",
+  "name": "Schmidt, Paul W.",
+  "totalDecisions": 16502,
+  "grants": 2316,
+  "denials": 104,
+  "removals": 53,
+  "absentia": 3337,
+  "grantRate": 14,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 15014
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 1341
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

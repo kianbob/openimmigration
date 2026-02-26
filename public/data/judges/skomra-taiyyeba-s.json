@@ -1,0 +1,64 @@
+{
+  "code": "TSS",
+  "slug": "skomra-taiyyeba-s",
+  "name": "Skomra, Taiyyeba S.",
+  "totalDecisions": 6339,
+  "grants": 208,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 1560,
+  "grantRate": 3.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 11083
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

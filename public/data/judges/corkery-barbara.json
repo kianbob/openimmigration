@@ -1,0 +1,29 @@
+{
+  "code": "BBC",
+  "slug": "corkery-barbara",
+  "name": "Corkery, Barbara",
+  "totalDecisions": 74,
+  "grants": 8,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 10.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 115
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "code": "SY",
+  "slug": "yarbrough-susan",
+  "name": "Yarbrough, Susan",
+  "totalDecisions": 32443,
+  "grants": 499,
+  "denials": 10088,
+  "removals": 10058,
+  "absentia": 1988,
+  "grantRate": 1.5,
+  "removalRate": 31,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 27304
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3806
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 642
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 196
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 184
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 135
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 91
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 84
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

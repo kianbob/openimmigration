@@ -1,0 +1,64 @@
+{
+  "code": "ABE",
+  "slug": "behne-audra-r",
+  "name": "Behne, Audra R.",
+  "totalDecisions": 10420,
+  "grants": 409,
+  "denials": 35,
+  "removals": 9,
+  "absentia": 1992,
+  "grantRate": 3.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 11455
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 248
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 137
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 121
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 68
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

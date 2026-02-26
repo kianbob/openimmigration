@@ -1,0 +1,64 @@
+{
+  "code": "ENA",
+  "slug": "alexander-erin",
+  "name": "Alexander, Erin",
+  "totalDecisions": 3053,
+  "grants": 282,
+  "denials": 3,
+  "removals": 1,
+  "absentia": 849,
+  "grantRate": 9.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 2690
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 239
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

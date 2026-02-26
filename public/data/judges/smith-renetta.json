@@ -1,0 +1,59 @@
+{
+  "code": "RS",
+  "slug": "smith-renetta",
+  "name": "Smith, Renetta",
+  "totalDecisions": 11110,
+  "grants": 1508,
+  "denials": 825,
+  "removals": 817,
+  "absentia": 2102,
+  "grantRate": 13.6,
+  "removalRate": 7.4,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4999
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3918
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 1004
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 617
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 566
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "BHL",
+  "slug": "landis-brent-h",
+  "name": "Landis, Brent H.",
+  "totalDecisions": 8816,
+  "grants": 73,
+  "denials": 23,
+  "removals": 2,
+  "absentia": 1977,
+  "grantRate": 0.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 8325
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 1741
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 373
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 111
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

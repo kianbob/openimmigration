@@ -1,0 +1,38 @@
+{
+  "code": "SB",
+  "slug": "st-pierre-and-miquelon",
+  "name": "St. Pierre And Miquelon",
+  "cases": 3,
+  "completed": 7,
+  "grants": 0,
+  "denials": 1,
+  "removals": 1,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1995,
+      "cases": 1
+    },
+    {
+      "year": 2009,
+      "cases": 1
+    }
+  ]
+}

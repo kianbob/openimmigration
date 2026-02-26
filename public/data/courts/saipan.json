@@ -1,0 +1,292 @@
+{
+  "code": "SAI",
+  "slug": "saipan",
+  "name": "Saipan",
+  "state": "MP",
+  "address": "MARINA HEIGHTS II, SUITE 301",
+  "active": true,
+  "cases": 984,
+  "completed": 1313,
+  "grants": 64,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": 4.9,
+  "topNationalities": [
+    {
+      "code": "CH",
+      "name": "China",
+      "count": 676
+    },
+    {
+      "code": "RP",
+      "name": "Philippines",
+      "count": 180
+    },
+    {
+      "code": "BG",
+      "name": "Bangladesh",
+      "count": 56
+    },
+    {
+      "code": "FM",
+      "name": "Federated States Of Micronesia",
+      "count": 28
+    },
+    {
+      "code": "PS",
+      "name": "The Republic Of Palau",
+      "count": 18
+    },
+    {
+      "code": "JA",
+      "name": "Japan",
+      "count": 4
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "count": 4
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "count": 3
+    },
+    {
+      "code": "RM",
+      "name": "The Republic Of The Marshall Islands",
+      "count": 2
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "count": 2
+    },
+    {
+      "code": "KS",
+      "name": "South Korea",
+      "count": 2
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "count": 2
+    },
+    {
+      "code": "VM",
+      "name": "Vietnam",
+      "count": 1
+    },
+    {
+      "code": "BM",
+      "name": "Burma (Myanmar)",
+      "count": 1
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "count": 1
+    },
+    {
+      "code": "CE",
+      "name": "Sri Lanka",
+      "count": 1
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "count": 1
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "count": 1
+    },
+    {
+      "code": "AS",
+      "name": "Australia",
+      "count": 1
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "CMW",
+      "name": "Wagner, Clarence M., Jr.",
+      "decisions": 956,
+      "grants": 55,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 5.8
+    },
+    {
+      "code": "DMB",
+      "name": "Beamer, Dayna",
+      "decisions": 179,
+      "grants": 5,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 2.8
+    },
+    {
+      "code": "JCL",
+      "name": "Clemente, Jesus",
+      "decisions": 86,
+      "grants": 4,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 4.7
+    },
+    {
+      "code": "DCA",
+      "name": "Anderson, David C.",
+      "decisions": 24,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "PDM",
+      "name": "Dimarzio, Philip L.",
+      "decisions": 16,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "DBP",
+      "name": "Pead, Dustin",
+      "decisions": 13,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "RCP",
+      "name": "Peters, Rose",
+      "decisions": 9,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "IAD",
+      "name": "Iad Judge",
+      "decisions": 9,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "REF",
+      "name": "Feder, Robin E.",
+      "decisions": 5,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "JDD",
+      "name": "Dowell, J. Daniel",
+      "decisions": 5,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "VAB",
+      "name": "Burch, Valerie A.",
+      "decisions": 3,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "RAI",
+      "name": "Ishimoto, Rhana",
+      "decisions": 1,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "BAR",
+      "name": "Bartolomei, Rico J.",
+      "decisions": 1,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2011,
+      "cases": 4
+    },
+    {
+      "year": 2012,
+      "cases": 14
+    },
+    {
+      "year": 2013,
+      "cases": 22
+    },
+    {
+      "year": 2014,
+      "cases": 18
+    },
+    {
+      "year": 2015,
+      "cases": 9
+    },
+    {
+      "year": 2016,
+      "cases": 4
+    },
+    {
+      "year": 2017,
+      "cases": 54
+    },
+    {
+      "year": 2018,
+      "cases": 15
+    },
+    {
+      "year": 2019,
+      "cases": 10
+    },
+    {
+      "year": 2020,
+      "cases": 9
+    },
+    {
+      "year": 2021,
+      "cases": 32
+    },
+    {
+      "year": 2022,
+      "cases": 150
+    },
+    {
+      "year": 2023,
+      "cases": 35
+    },
+    {
+      "year": 2024,
+      "cases": 10
+    },
+    {
+      "year": 2025,
+      "cases": 8
+    }
+  ]
+}

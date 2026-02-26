@@ -1,0 +1,54 @@
+{
+  "code": "ECC",
+  "slug": "cabrera-esmeralda",
+  "name": "Cabrera, Esmeralda",
+  "totalDecisions": 6018,
+  "grants": 477,
+  "denials": 393,
+  "removals": 357,
+  "absentia": 897,
+  "grantRate": 7.9,
+  "removalRate": 5.9,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2495
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 2305
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1194
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

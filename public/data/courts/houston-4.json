@@ -1,0 +1,22 @@
+{
+  "code": "HOD",
+  "slug": "houston-4",
+  "name": "Houston",
+  "state": "TX",
+  "address": "5520 GREENS ROAD",
+  "active": false,
+  "cases": 3,
+  "completed": 0,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "topNationalities": [
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "count": 3
+    }
+  ],
+  "topJudges": [],
+  "yearlyTrend": []
+}

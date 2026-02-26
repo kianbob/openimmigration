@@ -1,0 +1,64 @@
+{
+  "code": "AED",
+  "slug": "daw-alison-e",
+  "name": "Daw, Alison E",
+  "totalDecisions": 10709,
+  "grants": 1979,
+  "denials": 83,
+  "removals": 35,
+  "absentia": 1402,
+  "grantRate": 18.5,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 5919
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 3265
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2582
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 211
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 76
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

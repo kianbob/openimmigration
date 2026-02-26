@@ -1,0 +1,29 @@
+{
+  "code": "EJC",
+  "slug": "cintron-elanie-j",
+  "name": "Cintron, Elanie J.",
+  "totalDecisions": 1777,
+  "grants": 111,
+  "denials": 20,
+  "removals": 1,
+  "absentia": 86,
+  "grantRate": 6.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 1215
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 561
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

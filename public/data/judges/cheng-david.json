@@ -1,0 +1,64 @@
+{
+  "code": "DC1",
+  "slug": "cheng-david",
+  "name": "Cheng, David",
+  "totalDecisions": 12204,
+  "grants": 640,
+  "denials": 29,
+  "removals": 10,
+  "absentia": 2474,
+  "grantRate": 5.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 18818
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 142
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 55
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

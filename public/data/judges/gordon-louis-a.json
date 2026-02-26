@@ -1,0 +1,64 @@
+{
+  "code": "LAG",
+  "slug": "gordon-louis-a",
+  "name": "Gordon, Louis A.",
+  "totalDecisions": 6010,
+  "grants": 1026,
+  "denials": 7,
+  "removals": 4,
+  "absentia": 899,
+  "grantRate": 17.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 12969
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

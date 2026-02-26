@@ -1,0 +1,64 @@
+{
+  "code": "MAU",
+  "slug": "ubarri-maria",
+  "name": "Ubarri, Maria",
+  "totalDecisions": 9390,
+  "grants": 288,
+  "denials": 8,
+  "removals": 8,
+  "absentia": 1743,
+  "grantRate": 3.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 20776
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 518
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 273
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

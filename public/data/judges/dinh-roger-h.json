@@ -1,0 +1,59 @@
+{
+  "code": "RHD",
+  "slug": "dinh-roger-h",
+  "name": "Dinh, Roger H.",
+  "totalDecisions": 1706,
+  "grants": 110,
+  "denials": 5,
+  "removals": 5,
+  "absentia": 268,
+  "grantRate": 6.4,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4891
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

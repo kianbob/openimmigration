@@ -1,0 +1,29 @@
+{
+  "code": "RNO",
+  "slug": "ohata-ronald-n",
+  "name": "Ohata, Ronald N.",
+  "totalDecisions": 5021,
+  "grants": 838,
+  "denials": 1233,
+  "removals": 1233,
+  "absentia": 1539,
+  "grantRate": 16.7,
+  "removalRate": 24.6,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4875
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 136
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

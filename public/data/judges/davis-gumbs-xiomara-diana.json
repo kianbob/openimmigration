@@ -1,0 +1,64 @@
+{
+  "code": "XDD",
+  "slug": "davis-gumbs-xiomara-diana",
+  "name": "Davis-Gumbs, Xiomara Diana",
+  "totalDecisions": 23124,
+  "grants": 496,
+  "denials": 50,
+  "removals": 6,
+  "absentia": 6649,
+  "grantRate": 2.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 40010
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 798
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 660
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 177
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 154
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 132
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

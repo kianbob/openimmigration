@@ -1,0 +1,64 @@
+{
+  "code": "IEG",
+  "slug": "gardzelewski-ivan-e",
+  "name": "Gardzelewski, Ivan E.",
+  "totalDecisions": 12901,
+  "grants": 556,
+  "denials": 14,
+  "removals": 0,
+  "absentia": 4241,
+  "grantRate": 4.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 18961
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 1414
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 160
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

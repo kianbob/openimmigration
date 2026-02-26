@@ -1,0 +1,34 @@
+{
+  "code": "JUB",
+  "slug": "bennett-justin",
+  "name": "Bennett, Justin",
+  "totalDecisions": 85,
+  "grants": 11,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 12.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 96
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "hearings": 2
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

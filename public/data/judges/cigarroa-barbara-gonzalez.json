@@ -1,0 +1,59 @@
+{
+  "code": "BC2",
+  "slug": "cigarroa-barbara-gonzalez",
+  "name": "Cigarroa, Barbara Gonzalez",
+  "totalDecisions": 10721,
+  "grants": 157,
+  "denials": 88,
+  "removals": 12,
+  "absentia": 941,
+  "grantRate": 1.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 6377
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1830
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1607
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 587
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 144
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 100
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

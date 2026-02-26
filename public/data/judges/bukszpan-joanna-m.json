@@ -1,0 +1,64 @@
+{
+  "code": "JB",
+  "slug": "bukszpan-joanna-m",
+  "name": "Bukszpan, Joanna M.",
+  "totalDecisions": 14828,
+  "grants": 3823,
+  "denials": 891,
+  "removals": 868,
+  "absentia": 2769,
+  "grantRate": 25.8,
+  "removalRate": 5.9,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14688
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

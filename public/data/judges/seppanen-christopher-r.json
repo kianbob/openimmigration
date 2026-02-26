@@ -1,0 +1,64 @@
+{
+  "code": "CRS",
+  "slug": "seppanen-christopher-r",
+  "name": "Seppanen, Christopher R.",
+  "totalDecisions": 1767,
+  "grants": 126,
+  "denials": 9,
+  "removals": 1,
+  "absentia": 438,
+  "grantRate": 7.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 1508
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 125
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 114
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

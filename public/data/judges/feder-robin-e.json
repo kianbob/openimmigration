@@ -1,0 +1,64 @@
+{
+  "code": "REF",
+  "slug": "feder-robin-e",
+  "name": "Feder, Robin E.",
+  "totalDecisions": 17468,
+  "grants": 3381,
+  "denials": 86,
+  "removals": 76,
+  "absentia": 2345,
+  "grantRate": 19.4,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 16231
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 1415
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 252
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 66
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

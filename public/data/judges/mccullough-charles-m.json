@@ -1,0 +1,64 @@
+{
+  "code": "CMM",
+  "slug": "mccullough-charles-m",
+  "name": "Mccullough, Charles M.",
+  "totalDecisions": 18694,
+  "grants": 470,
+  "denials": 29,
+  "removals": 17,
+  "absentia": 5057,
+  "grantRate": 2.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 25733
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 1098
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 297
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 224
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 70
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

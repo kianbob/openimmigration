@@ -1,0 +1,49 @@
+{
+  "code": "WPJ",
+  "slug": "joyce-william",
+  "name": "Joyce, William",
+  "totalDecisions": 3717,
+  "grants": 840,
+  "denials": 208,
+  "removals": 205,
+  "absentia": 996,
+  "grantRate": 22.6,
+  "removalRate": 5.5,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 3062
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 559
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

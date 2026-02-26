@@ -1,0 +1,64 @@
+{
+  "code": "RKP",
+  "slug": "paulino-robin-k",
+  "name": "Paulino, Robin K.",
+  "totalDecisions": 3095,
+  "grants": 767,
+  "denials": 14,
+  "removals": 6,
+  "absentia": 311,
+  "grantRate": 24.8,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3005
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

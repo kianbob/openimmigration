@@ -1,0 +1,29 @@
+{
+  "code": "NK",
+  "slug": "kim-nicole",
+  "name": "Kim, Nicole",
+  "totalDecisions": 4571,
+  "grants": 338,
+  "denials": 515,
+  "removals": 507,
+  "absentia": 1107,
+  "grantRate": 7.4,
+  "removalRate": 11.1,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4471
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 90
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

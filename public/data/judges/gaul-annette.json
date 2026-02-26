@@ -1,0 +1,59 @@
+{
+  "code": "ANG",
+  "slug": "gaul-annette",
+  "name": "Gaul, Annette",
+  "totalDecisions": 136,
+  "grants": 17,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 3,
+  "grantRate": 12.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 116
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

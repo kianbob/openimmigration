@@ -1,0 +1,64 @@
+{
+  "code": "CMN",
+  "slug": "nunez-cynthia-m",
+  "name": "Nunez, Cynthia M.",
+  "totalDecisions": 348,
+  "grants": 73,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 23,
+  "grantRate": 21,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 321
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

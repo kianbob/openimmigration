@@ -1,0 +1,64 @@
+{
+  "code": "HPI",
+  "slug": "ipema-henry-p",
+  "name": "Ipema, Henry P.",
+  "totalDecisions": 21856,
+  "grants": 2466,
+  "denials": 1251,
+  "removals": 1218,
+  "absentia": 3083,
+  "grantRate": 11.3,
+  "removalRate": 5.6,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 12183
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 8634
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 681
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 150
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 60
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

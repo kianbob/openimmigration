@@ -1,0 +1,64 @@
+{
+  "code": "JLN",
+  "slug": "nelson-julie-l",
+  "name": "Nelson, Julie L.",
+  "totalDecisions": 6542,
+  "grants": 313,
+  "denials": 113,
+  "removals": 9,
+  "absentia": 1124,
+  "grantRate": 4.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4871
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 1884
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

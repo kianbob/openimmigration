@@ -1,0 +1,39 @@
+{
+  "code": "PDB",
+  "slug": "barrett-patrick-d",
+  "name": "Barrett, Patrick D.",
+  "totalDecisions": 1525,
+  "grants": 23,
+  "denials": 20,
+  "removals": 1,
+  "absentia": 4,
+  "grantRate": 1.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 1742
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "DAG",
+  "slug": "gardey-david-a",
+  "name": "Gardey, David A.",
+  "totalDecisions": 2300,
+  "grants": 69,
+  "denials": 10,
+  "removals": 1,
+  "absentia": 147,
+  "grantRate": 3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 1370
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 1338
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 3
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

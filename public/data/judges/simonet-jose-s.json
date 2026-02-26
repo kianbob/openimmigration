@@ -1,0 +1,49 @@
+{
+  "code": "JSS",
+  "slug": "simonet-jose-s",
+  "name": "Simonet, Jose S.",
+  "totalDecisions": 9433,
+  "grants": 495,
+  "denials": 2042,
+  "removals": 2042,
+  "absentia": 1824,
+  "grantRate": 5.2,
+  "removalRate": 21.6,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 9145
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 148
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 87
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "code": "MMG",
+  "slug": "macgregor-margaret-r",
+  "name": "Macgregor, Margaret R.",
+  "totalDecisions": 4693,
+  "grants": 115,
+  "denials": 25,
+  "removals": 3,
+  "absentia": 19,
+  "grantRate": 2.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 3438
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1174
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 256
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 23
+    }
+  ]
+}

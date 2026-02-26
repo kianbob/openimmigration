@@ -1,0 +1,64 @@
+{
+  "code": "BAT",
+  "slug": "taylor-bruce-a",
+  "name": "Taylor, Bruce A.",
+  "totalDecisions": 33053,
+  "grants": 587,
+  "denials": 224,
+  "removals": 15,
+  "absentia": 2,
+  "grantRate": 1.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 31827
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 879
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 123
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 97
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 77
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 19
+    }
+  ]
+}

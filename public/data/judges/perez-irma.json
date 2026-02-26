@@ -1,0 +1,64 @@
+{
+  "code": "IRP",
+  "slug": "perez-irma",
+  "name": "Perez, Irma",
+  "totalDecisions": 2424,
+  "grants": 116,
+  "denials": 14,
+  "removals": 11,
+  "absentia": 716,
+  "grantRate": 4.8,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3353
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

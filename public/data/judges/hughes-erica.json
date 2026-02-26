@@ -1,0 +1,64 @@
+{
+  "code": "EHS",
+  "slug": "hughes-erica",
+  "name": "Hughes, Erica",
+  "totalDecisions": 3266,
+  "grants": 45,
+  "denials": 11,
+  "removals": 9,
+  "absentia": 302,
+  "grantRate": 1.4,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3231
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

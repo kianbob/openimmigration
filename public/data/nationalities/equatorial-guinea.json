@@ -1,0 +1,207 @@
+{
+  "code": "EK",
+  "slug": "equatorial-guinea",
+  "name": "Equatorial Guinea",
+  "cases": 417,
+  "completed": 629,
+  "grants": 59,
+  "denials": 6,
+  "removals": 3,
+  "grantRate": 9.4,
+  "topCourts": [
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "count": 54
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "count": 25
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 25
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 22
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 21
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 20
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "count": 18
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "count": 17
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 15
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "count": 13
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 10
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 10
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "count": 9
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 7
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 7
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1996,
+      "cases": 2
+    },
+    {
+      "year": 1998,
+      "cases": 1
+    },
+    {
+      "year": 2001,
+      "cases": 1
+    },
+    {
+      "year": 2004,
+      "cases": 1
+    },
+    {
+      "year": 2005,
+      "cases": 2
+    },
+    {
+      "year": 2007,
+      "cases": 9
+    },
+    {
+      "year": 2009,
+      "cases": 1
+    },
+    {
+      "year": 2010,
+      "cases": 2
+    },
+    {
+      "year": 2012,
+      "cases": 1
+    },
+    {
+      "year": 2013,
+      "cases": 2
+    },
+    {
+      "year": 2014,
+      "cases": 1
+    },
+    {
+      "year": 2015,
+      "cases": 1
+    },
+    {
+      "year": 2016,
+      "cases": 1
+    },
+    {
+      "year": 2017,
+      "cases": 7
+    },
+    {
+      "year": 2018,
+      "cases": 7
+    },
+    {
+      "year": 2019,
+      "cases": 10
+    },
+    {
+      "year": 2020,
+      "cases": 9
+    },
+    {
+      "year": 2021,
+      "cases": 7
+    },
+    {
+      "year": 2022,
+      "cases": 21
+    },
+    {
+      "year": 2023,
+      "cases": 37
+    },
+    {
+      "year": 2024,
+      "cases": 58
+    },
+    {
+      "year": 2025,
+      "cases": 80
+    },
+    {
+      "year": 2026,
+      "cases": 3
+    }
+  ]
+}

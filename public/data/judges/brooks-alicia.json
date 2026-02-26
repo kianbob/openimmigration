@@ -1,0 +1,64 @@
+{
+  "code": "ABK",
+  "slug": "brooks-alicia",
+  "name": "Brooks, Alicia",
+  "totalDecisions": 5292,
+  "grants": 287,
+  "denials": 8,
+  "removals": 0,
+  "absentia": 1099,
+  "grantRate": 5.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 6051
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

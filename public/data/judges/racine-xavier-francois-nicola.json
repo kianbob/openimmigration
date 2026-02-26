@@ -1,0 +1,64 @@
+{
+  "code": "XFR",
+  "slug": "racine-xavier-francois-nicola",
+  "name": "Racine, Xavier Francois Nicola.",
+  "totalDecisions": 3927,
+  "grants": 302,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 1213,
+  "grantRate": 7.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 5451
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

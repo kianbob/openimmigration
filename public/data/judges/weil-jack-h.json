@@ -1,0 +1,64 @@
+{
+  "code": "JHW",
+  "slug": "weil-jack-h",
+  "name": "Weil, Jack H.",
+  "totalDecisions": 33932,
+  "grants": 1223,
+  "denials": 5288,
+  "removals": 5275,
+  "absentia": 741,
+  "grantRate": 3.6,
+  "removalRate": 15.5,
+  "courts": [
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 25565
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 7063
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 868
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 144
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 120
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

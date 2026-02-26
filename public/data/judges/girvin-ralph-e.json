@@ -1,0 +1,24 @@
+{
+  "code": "REG",
+  "slug": "girvin-ralph-e",
+  "name": "Girvin, Ralph E.",
+  "totalDecisions": 5302,
+  "grants": 40,
+  "denials": 60,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 0.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 5549
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

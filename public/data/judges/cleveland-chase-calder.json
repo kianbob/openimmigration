@@ -1,0 +1,64 @@
+{
+  "code": "CCC",
+  "slug": "cleveland-chase-calder",
+  "name": "Cleveland, Chase Calder.",
+  "totalDecisions": 1384,
+  "grants": 82,
+  "denials": 9,
+  "removals": 0,
+  "absentia": 446,
+  "grantRate": 5.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 2993
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

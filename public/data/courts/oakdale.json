@@ -1,0 +1,538 @@
+{
+  "code": "OAK",
+  "slug": "oakdale",
+  "name": "Oakdale",
+  "state": "LA",
+  "address": "1900 E. WHATLEY RD. POBOX 750",
+  "active": true,
+  "cases": 97419,
+  "completed": 148789,
+  "grants": 2543,
+  "denials": 17279,
+  "removals": 16640,
+  "grantRate": 1.7,
+  "topNationalities": [
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "count": 31407
+    },
+    {
+      "code": "HO",
+      "name": "Honduras",
+      "count": 8292
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "count": 7138
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "count": 7117
+    },
+    {
+      "code": "DR",
+      "name": "Dominican Republic",
+      "count": 4500
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "count": 4120
+    },
+    {
+      "code": "ES",
+      "name": "El Salvador",
+      "count": 3985
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "count": 3887
+    },
+    {
+      "code": "NU",
+      "name": "Nicaragua",
+      "count": 2204
+    },
+    {
+      "code": "HA",
+      "name": "Haiti",
+      "count": 1886
+    },
+    {
+      "code": "NI",
+      "name": "Nigeria",
+      "count": 1701
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "count": 1614
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "count": 1269
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "count": 1262
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "count": 1178
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "count": 1048
+    },
+    {
+      "code": "??",
+      "name": "Unknown Country",
+      "count": 861
+    },
+    {
+      "code": "CH",
+      "name": "China",
+      "count": 784
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "count": 613
+    },
+    {
+      "code": "TD",
+      "name": "Trinidad And Tobago",
+      "count": 585
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "JAD",
+      "name": "Duck, John A., Jr.",
+      "decisions": 39065,
+      "grants": 727,
+      "denials": 6494,
+      "removals": 6447,
+      "grantRate": 1.9
+    },
+    {
+      "code": "ALR",
+      "name": "Reese, Agnelis L.",
+      "decisions": 26287,
+      "grants": 151,
+      "denials": 228,
+      "removals": 178,
+      "grantRate": 0.6
+    },
+    {
+      "code": "CAW",
+      "name": "Wiegand, Charles A., Iii",
+      "decisions": 11209,
+      "grants": 279,
+      "denials": 3948,
+      "removals": 3948,
+      "grantRate": 2.5
+    },
+    {
+      "code": "JN",
+      "name": "Nugent, James A.",
+      "decisions": 9261,
+      "grants": 54,
+      "denials": 13,
+      "removals": 12,
+      "grantRate": 0.6
+    },
+    {
+      "code": "RKM",
+      "name": "Mchugh, R. Kevin",
+      "decisions": 8512,
+      "grants": 72,
+      "denials": 5478,
+      "removals": 5478,
+      "grantRate": 0.8
+    },
+    {
+      "code": "JBS",
+      "name": "Beatmann, Jerry A., Sr.",
+      "decisions": 6163,
+      "grants": 49,
+      "denials": 22,
+      "removals": 4,
+      "grantRate": 0.8
+    },
+    {
+      "code": "WSL",
+      "name": "Laragy, W. Scott",
+      "decisions": 5913,
+      "grants": 45,
+      "denials": 46,
+      "removals": 3,
+      "grantRate": 0.8
+    },
+    {
+      "code": "SAH",
+      "name": "Ashworth, Sherron",
+      "decisions": 5626,
+      "grants": 29,
+      "denials": 33,
+      "removals": 3,
+      "grantRate": 0.5
+    },
+    {
+      "code": "CAT",
+      "name": "Thogersen, Cassie A.",
+      "decisions": 2286,
+      "grants": 17,
+      "denials": 31,
+      "removals": 1,
+      "grantRate": 0.7
+    },
+    {
+      "code": "JBE",
+      "name": "Bashore, Jacob D.",
+      "decisions": 2017,
+      "grants": 34,
+      "denials": 35,
+      "removals": 0,
+      "grantRate": 1.7
+    },
+    {
+      "code": "SJC",
+      "name": "Connelly, Steven J.",
+      "decisions": 1802,
+      "grants": 14,
+      "denials": 10,
+      "removals": 0,
+      "grantRate": 0.8
+    },
+    {
+      "code": "PJE",
+      "name": "Espinal, Pedro J.",
+      "decisions": 1719,
+      "grants": 115,
+      "denials": 25,
+      "removals": 0,
+      "grantRate": 6.7
+    },
+    {
+      "code": "KBJ",
+      "name": "Baumgarten, Mary C.",
+      "decisions": 1472,
+      "grants": 9,
+      "denials": 7,
+      "removals": 0,
+      "grantRate": 0.6
+    },
+    {
+      "code": "CAG",
+      "name": "Goodman, Cynthia",
+      "decisions": 1447,
+      "grants": 65,
+      "denials": 28,
+      "removals": 0,
+      "grantRate": 4.5
+    },
+    {
+      "code": "SSL",
+      "name": "Schools, Shelly W.",
+      "decisions": 1209,
+      "grants": 64,
+      "denials": 51,
+      "removals": 0,
+      "grantRate": 5.3
+    },
+    {
+      "code": "JEC",
+      "name": "Comans, Jamee E.",
+      "decisions": 1196,
+      "grants": 0,
+      "denials": 2,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "JDR",
+      "name": "Diaz-Rex, Julia",
+      "decisions": 1181,
+      "grants": 40,
+      "denials": 29,
+      "removals": 0,
+      "grantRate": 3.4
+    },
+    {
+      "code": "JND",
+      "name": "Dinsdale, Justin",
+      "decisions": 1028,
+      "grants": 3,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0.3
+    },
+    {
+      "code": "DER",
+      "name": "Eller, Donald R., Jr.",
+      "decisions": 945,
+      "grants": 29,
+      "denials": 25,
+      "removals": 0,
+      "grantRate": 3.1
+    },
+    {
+      "code": "CPH",
+      "name": "Phan, Christopher",
+      "decisions": 921,
+      "grants": 6,
+      "denials": 3,
+      "removals": 0,
+      "grantRate": 0.7
+    },
+    {
+      "code": "HRG",
+      "name": "Martinez, Hugo R.",
+      "decisions": 800,
+      "grants": 29,
+      "denials": 17,
+      "removals": 0,
+      "grantRate": 3.6
+    },
+    {
+      "code": "ERH",
+      "name": "Hughes, Edwin R.",
+      "decisions": 780,
+      "grants": 6,
+      "denials": 343,
+      "removals": 343,
+      "grantRate": 0.8
+    },
+    {
+      "code": "BTR",
+      "name": "Taylor, Brock E",
+      "decisions": 741,
+      "grants": 97,
+      "denials": 2,
+      "removals": 0,
+      "grantRate": 13.1
+    },
+    {
+      "code": "KHS",
+      "name": "Shahan, Kenneth",
+      "decisions": 648,
+      "grants": 44,
+      "denials": 22,
+      "removals": 0,
+      "grantRate": 6.8
+    },
+    {
+      "code": "ETP",
+      "name": "Talavera-Peraza, Elvin",
+      "decisions": 632,
+      "grants": 24,
+      "denials": 12,
+      "removals": 0,
+      "grantRate": 3.8
+    },
+    {
+      "code": "LFZ",
+      "name": "Fernandez, Lorely Ramirez",
+      "decisions": 620,
+      "grants": 32,
+      "denials": 2,
+      "removals": 0,
+      "grantRate": 5.2
+    },
+    {
+      "code": "DHF",
+      "name": "Freeman, D'Anna H.",
+      "decisions": 594,
+      "grants": 26,
+      "denials": 9,
+      "removals": 0,
+      "grantRate": 4.4
+    },
+    {
+      "code": "X38",
+      "name": "Oakdale Detail Judge 1",
+      "decisions": 522,
+      "grants": 1,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0.2
+    },
+    {
+      "code": "DL",
+      "name": "Lippman, Daniel",
+      "decisions": 499,
+      "grants": 6,
+      "denials": 7,
+      "removals": 0,
+      "grantRate": 1.2
+    },
+    {
+      "code": "JLS",
+      "name": "Stern, Jason L.",
+      "decisions": 488,
+      "grants": 3,
+      "denials": 4,
+      "removals": 0,
+      "grantRate": 0.6
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 231
+    },
+    {
+      "year": 1991,
+      "cases": 249
+    },
+    {
+      "year": 1992,
+      "cases": 375
+    },
+    {
+      "year": 1993,
+      "cases": 361
+    },
+    {
+      "year": 1994,
+      "cases": 458
+    },
+    {
+      "year": 1995,
+      "cases": 424
+    },
+    {
+      "year": 1996,
+      "cases": 468
+    },
+    {
+      "year": 1997,
+      "cases": 467
+    },
+    {
+      "year": 1998,
+      "cases": 479
+    },
+    {
+      "year": 1999,
+      "cases": 418
+    },
+    {
+      "year": 2000,
+      "cases": 300
+    },
+    {
+      "year": 2001,
+      "cases": 261
+    },
+    {
+      "year": 2002,
+      "cases": 193
+    },
+    {
+      "year": 2003,
+      "cases": 271
+    },
+    {
+      "year": 2004,
+      "cases": 318
+    },
+    {
+      "year": 2005,
+      "cases": 388
+    },
+    {
+      "year": 2006,
+      "cases": 304
+    },
+    {
+      "year": 2007,
+      "cases": 121
+    },
+    {
+      "year": 2008,
+      "cases": 130
+    },
+    {
+      "year": 2009,
+      "cases": 91
+    },
+    {
+      "year": 2010,
+      "cases": 59
+    },
+    {
+      "year": 2011,
+      "cases": 81
+    },
+    {
+      "year": 2012,
+      "cases": 88
+    },
+    {
+      "year": 2013,
+      "cases": 257
+    },
+    {
+      "year": 2014,
+      "cases": 251
+    },
+    {
+      "year": 2015,
+      "cases": 342
+    },
+    {
+      "year": 2016,
+      "cases": 307
+    },
+    {
+      "year": 2017,
+      "cases": 701
+    },
+    {
+      "year": 2018,
+      "cases": 1094
+    },
+    {
+      "year": 2019,
+      "cases": 1506
+    },
+    {
+      "year": 2020,
+      "cases": 756
+    },
+    {
+      "year": 2021,
+      "cases": 754
+    },
+    {
+      "year": 2022,
+      "cases": 1199
+    },
+    {
+      "year": 2023,
+      "cases": 1374
+    },
+    {
+      "year": 2024,
+      "cases": 1546
+    },
+    {
+      "year": 2025,
+      "cases": 2086
+    },
+    {
+      "year": 2026,
+      "cases": 62
+    }
+  ]
+}

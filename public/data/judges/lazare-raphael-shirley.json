@@ -1,0 +1,64 @@
+{
+  "code": "SLR",
+  "slug": "lazare-raphael-shirley",
+  "name": "Lazare-Raphael, Shirley",
+  "totalDecisions": 4491,
+  "grants": 494,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 892,
+  "grantRate": 11,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 5110
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 83
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 3
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

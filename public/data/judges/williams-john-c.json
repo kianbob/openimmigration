@@ -1,0 +1,64 @@
+{
+  "code": "JCW",
+  "slug": "williams-john-c",
+  "name": "Williams, John C.",
+  "totalDecisions": 39084,
+  "grants": 2092,
+  "denials": 15334,
+  "removals": 15326,
+  "absentia": 4444,
+  "grantRate": 5.4,
+  "removalRate": 39.2,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 33721
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 4454
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 249
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 242
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 143
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 102
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 32
+    }
+  ]
+}

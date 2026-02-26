@@ -1,0 +1,64 @@
+{
+  "code": "JML",
+  "slug": "left-james-m",
+  "name": "Left, James M.",
+  "totalDecisions": 12056,
+  "grants": 477,
+  "denials": 71,
+  "removals": 1,
+  "absentia": 1235,
+  "grantRate": 4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 7737
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 4207
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

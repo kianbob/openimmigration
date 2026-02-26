@@ -1,0 +1,64 @@
+{
+  "code": "JNG",
+  "slug": "goulding-jonathan",
+  "name": "Goulding, Jonathan",
+  "totalDecisions": 3041,
+  "grants": 115,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 508,
+  "grantRate": 3.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 3347
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

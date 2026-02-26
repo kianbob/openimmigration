@@ -1,0 +1,64 @@
+{
+  "code": "PSO",
+  "slug": "o-brien-patrick-s",
+  "name": "O'Brien, Patrick S.",
+  "totalDecisions": 8197,
+  "grants": 719,
+  "denials": 53,
+  "removals": 2,
+  "absentia": 965,
+  "grantRate": 8.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 13004
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

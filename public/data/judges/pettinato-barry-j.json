@@ -1,0 +1,64 @@
+{
+  "code": "BJP",
+  "slug": "pettinato-barry-j",
+  "name": "Pettinato, Barry J.",
+  "totalDecisions": 14987,
+  "grants": 754,
+  "denials": 41,
+  "removals": 12,
+  "absentia": 4841,
+  "grantRate": 5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 14748
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

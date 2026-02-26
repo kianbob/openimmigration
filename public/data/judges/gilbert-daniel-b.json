@@ -1,0 +1,44 @@
+{
+  "code": "DGT",
+  "slug": "gilbert-daniel-b",
+  "name": "Gilbert, Daniel B.",
+  "totalDecisions": 3243,
+  "grants": 49,
+  "denials": 14,
+  "removals": 12,
+  "absentia": 854,
+  "grantRate": 1.5,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3214
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "VSC",
+  "slug": "couch-v-stuart",
+  "name": "Couch, V. Stuart",
+  "totalDecisions": 13294,
+  "grants": 501,
+  "denials": 30,
+  "removals": 6,
+  "absentia": 4743,
+  "grantRate": 3.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 13097
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

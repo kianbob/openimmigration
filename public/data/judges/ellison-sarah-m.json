@@ -1,0 +1,64 @@
+{
+  "code": "SME",
+  "slug": "ellison-sarah-m",
+  "name": "Ellison, Sarah M.",
+  "totalDecisions": 12459,
+  "grants": 259,
+  "denials": 14,
+  "removals": 5,
+  "absentia": 3234,
+  "grantRate": 2.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 24039
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 265
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 203
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 202
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 82
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 78
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 73
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 60
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 31
+    }
+  ]
+}

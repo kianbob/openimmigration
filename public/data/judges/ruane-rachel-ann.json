@@ -1,0 +1,64 @@
+{
+  "code": "RAR",
+  "slug": "ruane-rachel-ann",
+  "name": "Ruane, Rachel Ann",
+  "totalDecisions": 16912,
+  "grants": 647,
+  "denials": 113,
+  "removals": 82,
+  "absentia": 3389,
+  "grantRate": 3.8,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 11547
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 11077
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 119
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 15
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "code": "BMO",
+  "slug": "o-leary-brian-m",
+  "name": "O'Leary, Brian M.",
+  "totalDecisions": 3032,
+  "grants": 471,
+  "denials": 30,
+  "removals": 26,
+  "absentia": 626,
+  "grantRate": 15.5,
+  "removalRate": 0.9,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2162
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 789
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

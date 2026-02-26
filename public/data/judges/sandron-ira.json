@@ -1,0 +1,64 @@
+{
+  "code": "IS",
+  "slug": "sandron-ira",
+  "name": "Sandron, Ira",
+  "totalDecisions": 8705,
+  "grants": 1630,
+  "denials": 1647,
+  "removals": 1647,
+  "absentia": 2046,
+  "grantRate": 18.7,
+  "removalRate": 18.9,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8490
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 64
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JME",
+  "slug": "mckee-james",
+  "name": "Mckee, James",
+  "totalDecisions": 6549,
+  "grants": 187,
+  "denials": 6,
+  "removals": 0,
+  "absentia": 2048,
+  "grantRate": 2.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 7530
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 92
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

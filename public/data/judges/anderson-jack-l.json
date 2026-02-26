@@ -1,0 +1,64 @@
+{
+  "code": "JLA",
+  "slug": "anderson-jack-l",
+  "name": "Anderson, Jack L.",
+  "totalDecisions": 12812,
+  "grants": 504,
+  "denials": 41,
+  "removals": 12,
+  "absentia": 1823,
+  "grantRate": 3.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 12613
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

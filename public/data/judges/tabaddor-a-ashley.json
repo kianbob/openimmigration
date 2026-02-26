@@ -1,0 +1,64 @@
+{
+  "code": "AAT",
+  "slug": "tabaddor-a-ashley",
+  "name": "Tabaddor, A. Ashley",
+  "totalDecisions": 13331,
+  "grants": 1530,
+  "denials": 95,
+  "removals": 80,
+  "absentia": 2508,
+  "grantRate": 11.5,
+  "removalRate": 0.6,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 12788
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 190
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 131
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 11
+    }
+  ]
+}

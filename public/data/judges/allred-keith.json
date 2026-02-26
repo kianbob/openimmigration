@@ -1,0 +1,24 @@
+{
+  "code": "KAL",
+  "slug": "allred-keith",
+  "name": "Allred, Keith",
+  "totalDecisions": 2013,
+  "grants": 87,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 1,
+  "grantRate": 4.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 2006
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

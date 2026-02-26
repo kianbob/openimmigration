@@ -1,0 +1,64 @@
+{
+  "code": "RTG",
+  "slug": "gundlach-robert",
+  "name": "Gundlach, Robert",
+  "totalDecisions": 7607,
+  "grants": 824,
+  "denials": 470,
+  "removals": 469,
+  "absentia": 1649,
+  "grantRate": 10.8,
+  "removalRate": 6.2,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 6861
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2533
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 298
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

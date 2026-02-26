@@ -1,0 +1,49 @@
+{
+  "code": "PLB",
+  "slug": "buchanan-patricia-l",
+  "name": "Buchanan, Patricia L.",
+  "totalDecisions": 1144,
+  "grants": 53,
+  "denials": 24,
+  "removals": 3,
+  "absentia": 17,
+  "grantRate": 4.6,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 923
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 157
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

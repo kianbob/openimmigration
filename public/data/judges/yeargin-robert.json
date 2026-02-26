@@ -1,0 +1,64 @@
+{
+  "code": "RY",
+  "slug": "yeargin-robert",
+  "name": "Yeargin, Robert",
+  "totalDecisions": 5914,
+  "grants": 1393,
+  "denials": 39,
+  "removals": 19,
+  "absentia": 819,
+  "grantRate": 23.6,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 5479
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 342
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

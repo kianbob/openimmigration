@@ -1,0 +1,54 @@
+{
+  "code": "BDW",
+  "slug": "watson-bryan-d",
+  "name": "Watson, Bryan D.",
+  "totalDecisions": 2215,
+  "grants": 103,
+  "denials": 5,
+  "removals": 4,
+  "absentia": 401,
+  "grantRate": 4.7,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 2179
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

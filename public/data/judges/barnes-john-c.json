@@ -1,0 +1,64 @@
+{
+  "code": "JCB",
+  "slug": "barnes-john-c",
+  "name": "Barnes, John C.",
+  "totalDecisions": 4253,
+  "grants": 212,
+  "denials": 19,
+  "removals": 0,
+  "absentia": 280,
+  "grantRate": 5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2705
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 1704
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 16
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

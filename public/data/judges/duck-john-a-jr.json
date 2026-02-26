@@ -1,0 +1,64 @@
+{
+  "code": "JAD",
+  "slug": "duck-john-a-jr",
+  "name": "Duck, John A., Jr.",
+  "totalDecisions": 58433,
+  "grants": 1220,
+  "denials": 7974,
+  "removals": 7872,
+  "absentia": 984,
+  "grantRate": 2.1,
+  "removalRate": 13.5,
+  "courts": [
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 39065
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 11871
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2093
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 1284
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 987
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 916
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 513
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 399
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 281
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 159
+    }
+  ]
+}

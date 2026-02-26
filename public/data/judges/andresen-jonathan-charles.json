@@ -1,0 +1,29 @@
+{
+  "code": "JOA",
+  "slug": "andresen-jonathan-charles",
+  "name": "Andresen, Jonathan Charles.",
+  "totalDecisions": 338,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 16,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 1217
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 250
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 91
+    }
+  ]
+}

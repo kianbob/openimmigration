@@ -1,0 +1,64 @@
+{
+  "code": "JNK",
+  "slug": "kerby-jennifer",
+  "name": "Kerby, Jennifer",
+  "totalDecisions": 746,
+  "grants": 28,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 8,
+  "grantRate": 3.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 334
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 129
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 76
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 61
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 4
+    }
+  ]
+}

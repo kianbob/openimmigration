@@ -1,0 +1,64 @@
+{
+  "code": "ILD",
+  "slug": "defillo-irma-lopez",
+  "name": "Defillo, Irma Lopez",
+  "totalDecisions": 28923,
+  "grants": 1148,
+  "denials": 149,
+  "removals": 117,
+  "absentia": 2941,
+  "grantRate": 4,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 17673
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 9978
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 590
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 462
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 60
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "ATL",
+  "slug": "lee-amy-t",
+  "name": "Lee, Amy T.",
+  "totalDecisions": 32530,
+  "grants": 415,
+  "denials": 116,
+  "removals": 5,
+  "absentia": 12840,
+  "grantRate": 1.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 50045
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 8801
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 79
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

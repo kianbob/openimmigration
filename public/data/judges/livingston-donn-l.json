@@ -1,0 +1,64 @@
+{
+  "code": "DLL",
+  "slug": "livingston-donn-l",
+  "name": "Livingston, Donn L.",
+  "totalDecisions": 21914,
+  "grants": 2930,
+  "denials": 691,
+  "removals": 632,
+  "absentia": 2373,
+  "grantRate": 13.4,
+  "removalRate": 2.9,
+  "courts": [
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 12498
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 5923
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 1265
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 880
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 649
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 452
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 83
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 23
+    }
+  ]
+}

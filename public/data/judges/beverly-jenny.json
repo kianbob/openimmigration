@@ -1,0 +1,64 @@
+{
+  "code": "JBY",
+  "slug": "beverly-jenny",
+  "name": "Beverly, Jenny",
+  "totalDecisions": 2364,
+  "grants": 161,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 64,
+  "grantRate": 6.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 1686
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 1020
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

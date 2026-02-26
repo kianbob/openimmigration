@@ -1,0 +1,64 @@
+{
+  "code": "JEC",
+  "slug": "comans-jamee-e",
+  "name": "Comans, Jamee E.",
+  "totalDecisions": 4664,
+  "grants": 14,
+  "denials": 12,
+  "removals": 2,
+  "absentia": 104,
+  "grantRate": 0.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 2437
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1196
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 858
+    },
+    {
+      "code": "BTR",
+      "name": "Immigration Court",
+      "hearings": 72
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

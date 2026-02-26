@@ -1,0 +1,64 @@
+{
+  "code": "PJM",
+  "slug": "montante-jr-philip-j",
+  "name": "Montante Jr., Philip J.",
+  "totalDecisions": 33562,
+  "grants": 1031,
+  "denials": 2354,
+  "removals": 2325,
+  "absentia": 10079,
+  "grantRate": 3.1,
+  "removalRate": 6.9,
+  "courts": [
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 23824
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 6105
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 1794
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 838
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 804
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 11
+    }
+  ]
+}

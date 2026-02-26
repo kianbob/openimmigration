@@ -1,0 +1,59 @@
+{
+  "code": "SMJ",
+  "slug": "jefferies-scott-m",
+  "name": "Jefferies, Scott M.",
+  "totalDecisions": 44133,
+  "grants": 729,
+  "denials": 3653,
+  "removals": 3614,
+  "absentia": 129,
+  "grantRate": 1.7,
+  "removalRate": 8.2,
+  "courts": [
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 42833
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 820
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 354
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

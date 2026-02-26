@@ -1,0 +1,64 @@
+{
+  "code": "CHR",
+  "slug": "halliday-roberts-catherine-e",
+  "name": "Halliday-Roberts, Catherine E.",
+  "totalDecisions": 8561,
+  "grants": 181,
+  "denials": 73,
+  "removals": 14,
+  "absentia": 718,
+  "grantRate": 2.1,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 7127
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 2039
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 254
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 145
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

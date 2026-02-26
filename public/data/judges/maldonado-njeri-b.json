@@ -1,0 +1,64 @@
+{
+  "code": "NBM",
+  "slug": "maldonado-njeri-b",
+  "name": "Maldonado, Njeri B.",
+  "totalDecisions": 16909,
+  "grants": 152,
+  "denials": 25,
+  "removals": 12,
+  "absentia": 5033,
+  "grantRate": 0.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 26078
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 3086
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 437
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 286
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 86
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 58
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 21
+    }
+  ]
+}

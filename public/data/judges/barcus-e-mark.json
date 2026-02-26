@@ -1,0 +1,64 @@
+{
+  "code": "EMB",
+  "slug": "barcus-e-mark",
+  "name": "Barcus, E. Mark",
+  "totalDecisions": 8772,
+  "grants": 415,
+  "denials": 31,
+  "removals": 1,
+  "absentia": 722,
+  "grantRate": 4.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 6330
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 1594
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 339
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 180
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 145
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 95
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

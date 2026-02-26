@@ -1,0 +1,538 @@
+{
+  "code": "DEN",
+  "slug": "denver",
+  "name": "Denver",
+  "state": "CO",
+  "address": "1961 STOUT STREET, STE. 3101",
+  "active": true,
+  "cases": 116005,
+  "completed": 146250,
+  "grants": 12616,
+  "denials": 2493,
+  "removals": 2440,
+  "grantRate": 8.6,
+  "topNationalities": [
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "count": 30389
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "count": 27153
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "count": 11434
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "count": 8134
+    },
+    {
+      "code": "HO",
+      "name": "Honduras",
+      "count": 6757
+    },
+    {
+      "code": "NU",
+      "name": "Nicaragua",
+      "count": 5723
+    },
+    {
+      "code": "ES",
+      "name": "El Salvador",
+      "count": 5616
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "count": 3415
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "count": 3116
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "count": 926
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "count": 778
+    },
+    {
+      "code": "HA",
+      "name": "Haiti",
+      "count": 662
+    },
+    {
+      "code": "CH",
+      "name": "China",
+      "count": 658
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "count": 537
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "count": 525
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "count": 451
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "count": 426
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "count": 409
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "count": 409
+    },
+    {
+      "code": "SG",
+      "name": "Senegal",
+      "count": 376
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "DJC",
+      "name": "Cordova, David J.",
+      "decisions": 13135,
+      "grants": 2588,
+      "denials": 652,
+      "removals": 651,
+      "grantRate": 19.7
+    },
+    {
+      "code": "DLL",
+      "name": "Livingston, Donn L.",
+      "decisions": 12498,
+      "grants": 2317,
+      "denials": 17,
+      "removals": 11,
+      "grantRate": 18.5
+    },
+    {
+      "code": "ARK",
+      "name": "Kane, Alison R.",
+      "decisions": 11675,
+      "grants": 866,
+      "denials": 5,
+      "removals": 1,
+      "grantRate": 7.4
+    },
+    {
+      "code": "IEG",
+      "name": "Gardzelewski, Ivan E.",
+      "decisions": 11190,
+      "grants": 490,
+      "denials": 7,
+      "removals": 0,
+      "grantRate": 4.4
+    },
+    {
+      "code": "MKC",
+      "name": "Corrin, Melanie K.",
+      "decisions": 11159,
+      "grants": 576,
+      "denials": 7,
+      "removals": 1,
+      "grantRate": 5.2
+    },
+    {
+      "code": "MWK",
+      "name": "Kaufman, Matthew W.",
+      "decisions": 10912,
+      "grants": 486,
+      "denials": 3,
+      "removals": 0,
+      "grantRate": 4.5
+    },
+    {
+      "code": "ERT",
+      "name": "Trujillo, Eileen R.",
+      "decisions": 10566,
+      "grants": 1044,
+      "denials": 10,
+      "removals": 4,
+      "grantRate": 9.9
+    },
+    {
+      "code": "JPV",
+      "name": "Vandello, J. P.",
+      "decisions": 9377,
+      "grants": 1656,
+      "denials": 1086,
+      "removals": 1086,
+      "grantRate": 17.7
+    },
+    {
+      "code": "TRW",
+      "name": "Wood, Tyler",
+      "decisions": 8564,
+      "grants": 78,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0.9
+    },
+    {
+      "code": "NMC",
+      "name": "Carbone, Nina M.",
+      "decisions": 8325,
+      "grants": 249,
+      "denials": 3,
+      "removals": 0,
+      "grantRate": 3
+    },
+    {
+      "code": "BAB",
+      "name": "Burgie, Brea C.",
+      "decisions": 7875,
+      "grants": 569,
+      "denials": 3,
+      "removals": 1,
+      "grantRate": 7.2
+    },
+    {
+      "code": "KC1",
+      "name": "Calcador, Kerri",
+      "decisions": 7174,
+      "grants": 334,
+      "denials": 11,
+      "removals": 2,
+      "grantRate": 4.7
+    },
+    {
+      "code": "AKR",
+      "name": "Koppenhofer, Andrea",
+      "decisions": 5315,
+      "grants": 106,
+      "denials": 1,
+      "removals": 0,
+      "grantRate": 2
+    },
+    {
+      "code": "MMT",
+      "name": "Tsankov, Mimi",
+      "decisions": 3717,
+      "grants": 338,
+      "denials": 1,
+      "removals": 1,
+      "grantRate": 9.1
+    },
+    {
+      "code": "DCO",
+      "name": "O'Hare, Donald C.",
+      "decisions": 3407,
+      "grants": 279,
+      "denials": 4,
+      "removals": 0,
+      "grantRate": 8.2
+    },
+    {
+      "code": "JMS",
+      "name": "Sellers, Jesse M.",
+      "decisions": 2361,
+      "grants": 63,
+      "denials": 251,
+      "removals": 251,
+      "grantRate": 2.7
+    },
+    {
+      "code": "JWD",
+      "name": "Davis, John W.",
+      "decisions": 1305,
+      "grants": 121,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 9.3
+    },
+    {
+      "code": "GMR",
+      "name": "Rast, G. M.",
+      "decisions": 1225,
+      "grants": 235,
+      "denials": 335,
+      "removals": 335,
+      "grantRate": 19.2
+    },
+    {
+      "code": "VJ1",
+      "name": "Visiting Judge 1",
+      "decisions": 778,
+      "grants": 0,
+      "denials": 1,
+      "removals": 1,
+      "grantRate": 0
+    },
+    {
+      "code": "BCM",
+      "name": "Masters, Bobbie C.",
+      "decisions": 595,
+      "grants": 24,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 4
+    },
+    {
+      "code": "EHM",
+      "name": "Mcgrail, Elizabeth H.",
+      "decisions": 588,
+      "grants": 24,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 4.1
+    },
+    {
+      "code": "SDC",
+      "name": "Caley, Steven",
+      "decisions": 383,
+      "grants": 12,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 3.1
+    },
+    {
+      "code": "IAD",
+      "name": "Iad Judge",
+      "decisions": 289,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "DLN",
+      "name": "Neal, David L.",
+      "decisions": 238,
+      "grants": 36,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 15.1
+    },
+    {
+      "code": "JBE",
+      "name": "Bashore, Jacob D.",
+      "decisions": 219,
+      "grants": 19,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 8.7
+    },
+    {
+      "code": "JDA",
+      "name": "Archuleta, Judy",
+      "decisions": 142,
+      "grants": 10,
+      "denials": 1,
+      "removals": 0,
+      "grantRate": 7
+    },
+    {
+      "code": "RPO",
+      "name": "Owens, Robert P.",
+      "decisions": 140,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "WFN",
+      "name": "Nail, William F., Jr.",
+      "decisions": 109,
+      "grants": 0,
+      "denials": 36,
+      "removals": 36,
+      "grantRate": 0
+    },
+    {
+      "code": "QVB",
+      "name": "Bain, Quynh Vu",
+      "decisions": 103,
+      "grants": 5,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 4.9
+    },
+    {
+      "code": "VJ3",
+      "name": "Visiting Judge 3",
+      "decisions": 101,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 232
+    },
+    {
+      "year": 1991,
+      "cases": 202
+    },
+    {
+      "year": 1992,
+      "cases": 178
+    },
+    {
+      "year": 1993,
+      "cases": 248
+    },
+    {
+      "year": 1994,
+      "cases": 246
+    },
+    {
+      "year": 1995,
+      "cases": 314
+    },
+    {
+      "year": 1996,
+      "cases": 479
+    },
+    {
+      "year": 1997,
+      "cases": 713
+    },
+    {
+      "year": 1998,
+      "cases": 509
+    },
+    {
+      "year": 1999,
+      "cases": 449
+    },
+    {
+      "year": 2000,
+      "cases": 605
+    },
+    {
+      "year": 2001,
+      "cases": 577
+    },
+    {
+      "year": 2002,
+      "cases": 798
+    },
+    {
+      "year": 2003,
+      "cases": 785
+    },
+    {
+      "year": 2004,
+      "cases": 655
+    },
+    {
+      "year": 2005,
+      "cases": 506
+    },
+    {
+      "year": 2006,
+      "cases": 522
+    },
+    {
+      "year": 2007,
+      "cases": 254
+    },
+    {
+      "year": 2008,
+      "cases": 252
+    },
+    {
+      "year": 2009,
+      "cases": 301
+    },
+    {
+      "year": 2010,
+      "cases": 410
+    },
+    {
+      "year": 2011,
+      "cases": 457
+    },
+    {
+      "year": 2012,
+      "cases": 629
+    },
+    {
+      "year": 2013,
+      "cases": 794
+    },
+    {
+      "year": 2014,
+      "cases": 866
+    },
+    {
+      "year": 2015,
+      "cases": 677
+    },
+    {
+      "year": 2016,
+      "cases": 928
+    },
+    {
+      "year": 2017,
+      "cases": 1530
+    },
+    {
+      "year": 2018,
+      "cases": 1633
+    },
+    {
+      "year": 2019,
+      "cases": 2477
+    },
+    {
+      "year": 2020,
+      "cases": 2318
+    },
+    {
+      "year": 2021,
+      "cases": 1661
+    },
+    {
+      "year": 2022,
+      "cases": 2991
+    },
+    {
+      "year": 2023,
+      "cases": 3980
+    },
+    {
+      "year": 2024,
+      "cases": 5419
+    },
+    {
+      "year": 2025,
+      "cases": 4314
+    },
+    {
+      "year": 2026,
+      "cases": 178
+    }
+  ]
+}

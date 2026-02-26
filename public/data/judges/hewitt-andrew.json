@@ -1,0 +1,64 @@
+{
+  "code": "AWH",
+  "slug": "hewitt-andrew",
+  "name": "Hewitt, Andrew",
+  "totalDecisions": 3935,
+  "grants": 30,
+  "denials": 8,
+  "removals": 0,
+  "absentia": 851,
+  "grantRate": 0.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 3823
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 1451
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 794
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 90
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

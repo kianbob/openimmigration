@@ -1,0 +1,64 @@
+{
+  "code": "DH",
+  "slug": "harbeck-dorothy-a",
+  "name": "Harbeck, Dorothy A.",
+  "totalDecisions": 18341,
+  "grants": 1673,
+  "denials": 96,
+  "removals": 17,
+  "absentia": 1796,
+  "grantRate": 9.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14580
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 10082
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 466
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 275
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 16
+    }
+  ]
+}

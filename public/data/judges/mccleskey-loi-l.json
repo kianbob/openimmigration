@@ -1,0 +1,64 @@
+{
+  "code": "LLM",
+  "slug": "mccleskey-loi-l",
+  "name": "Mccleskey, Loi L.",
+  "totalDecisions": 3437,
+  "grants": 319,
+  "denials": 10,
+  "removals": 5,
+  "absentia": 391,
+  "grantRate": 9.3,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4588
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 502
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 230
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 121
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

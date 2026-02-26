@@ -1,0 +1,49 @@
+{
+  "code": "MKW",
+  "slug": "whitworth-mark",
+  "name": "Whitworth, Mark",
+  "totalDecisions": 1452,
+  "grants": 39,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 350,
+  "grantRate": 2.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 1397
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

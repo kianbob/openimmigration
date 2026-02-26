@@ -1,0 +1,64 @@
+{
+  "code": "BIL",
+  "slug": "lohr-brandi",
+  "name": "Lohr, Brandi",
+  "totalDecisions": 3486,
+  "grants": 98,
+  "denials": 5,
+  "removals": 2,
+  "absentia": 824,
+  "grantRate": 2.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 6621
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 169
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

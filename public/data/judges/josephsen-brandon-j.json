@@ -1,0 +1,64 @@
+{
+  "code": "BJJ",
+  "slug": "josephsen-brandon-j",
+  "name": "Josephsen, Brandon J.",
+  "totalDecisions": 12692,
+  "grants": 148,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 5186,
+  "grantRate": 1.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 23000
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

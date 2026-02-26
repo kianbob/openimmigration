@@ -1,0 +1,64 @@
+{
+  "code": "MB",
+  "slug": "burkhart-margaret-d",
+  "name": "Burkhart, Margaret D.",
+  "totalDecisions": 69921,
+  "grants": 1305,
+  "denials": 1853,
+  "removals": 1803,
+  "absentia": 12625,
+  "grantRate": 1.9,
+  "removalRate": 2.6,
+  "courts": [
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 31004
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 28687
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 10683
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 6218
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 806
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 630
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 158
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 128
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 38
+    }
+  ]
+}

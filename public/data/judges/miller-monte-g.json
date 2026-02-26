@@ -1,0 +1,64 @@
+{
+  "code": "MMR",
+  "slug": "miller-monte-g",
+  "name": "Miller, Monte G.",
+  "totalDecisions": 11624,
+  "grants": 256,
+  "denials": 21,
+  "removals": 7,
+  "absentia": 3521,
+  "grantRate": 2.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 18226
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "code": "APS",
+  "slug": "panopoulos-adam",
+  "name": "Panopoulos, Adam",
+  "totalDecisions": 3255,
+  "grants": 216,
+  "denials": 37,
+  "removals": 0,
+  "absentia": 24,
+  "grantRate": 6.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 3118
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 252
+    }
+  ]
+}

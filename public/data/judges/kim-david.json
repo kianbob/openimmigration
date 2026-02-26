@@ -1,0 +1,64 @@
+{
+  "code": "DDK",
+  "slug": "kim-david",
+  "name": "Kim, David",
+  "totalDecisions": 3852,
+  "grants": 461,
+  "denials": 11,
+  "removals": 9,
+  "absentia": 712,
+  "grantRate": 12,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9407
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

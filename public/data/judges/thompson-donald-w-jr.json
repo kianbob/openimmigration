@@ -1,0 +1,64 @@
+{
+  "code": "DWT",
+  "slug": "thompson-donald-w-jr",
+  "name": "Thompson, Donald W., Jr.",
+  "totalDecisions": 9819,
+  "grants": 2033,
+  "denials": 52,
+  "removals": 39,
+  "absentia": 1691,
+  "grantRate": 20.7,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 17143
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 104
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

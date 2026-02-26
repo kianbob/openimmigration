@@ -1,0 +1,64 @@
+{
+  "code": "JDD",
+  "slug": "dowell-j-daniel",
+  "name": "Dowell, J. Daniel",
+  "totalDecisions": 45927,
+  "grants": 4369,
+  "denials": 2699,
+  "removals": 2573,
+  "absentia": 8052,
+  "grantRate": 9.5,
+  "removalRate": 5.6,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 51611
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3694
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2297
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 91
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 60
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 23
+    }
+  ]
+}

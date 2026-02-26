@@ -1,0 +1,259 @@
+{
+  "code": "NG",
+  "slug": "niger",
+  "name": "Niger",
+  "cases": 1991,
+  "completed": 3477,
+  "grants": 509,
+  "denials": 64,
+  "removals": 54,
+  "grantRate": 14.6,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 448
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 167
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 162
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 114
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 91
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 74
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 74
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 59
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 58
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 57
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 53
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 49
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 38
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 32
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "count": 26
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 26
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 26
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "count": 25
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "count": 24
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 22
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1991,
+      "cases": 2
+    },
+    {
+      "year": 1992,
+      "cases": 2
+    },
+    {
+      "year": 1993,
+      "cases": 4
+    },
+    {
+      "year": 1994,
+      "cases": 6
+    },
+    {
+      "year": 1995,
+      "cases": 17
+    },
+    {
+      "year": 1996,
+      "cases": 16
+    },
+    {
+      "year": 1997,
+      "cases": 13
+    },
+    {
+      "year": 1998,
+      "cases": 22
+    },
+    {
+      "year": 1999,
+      "cases": 15
+    },
+    {
+      "year": 2000,
+      "cases": 14
+    },
+    {
+      "year": 2001,
+      "cases": 30
+    },
+    {
+      "year": 2002,
+      "cases": 36
+    },
+    {
+      "year": 2003,
+      "cases": 37
+    },
+    {
+      "year": 2004,
+      "cases": 34
+    },
+    {
+      "year": 2005,
+      "cases": 27
+    },
+    {
+      "year": 2006,
+      "cases": 23
+    },
+    {
+      "year": 2007,
+      "cases": 26
+    },
+    {
+      "year": 2008,
+      "cases": 12
+    },
+    {
+      "year": 2009,
+      "cases": 24
+    },
+    {
+      "year": 2010,
+      "cases": 22
+    },
+    {
+      "year": 2011,
+      "cases": 29
+    },
+    {
+      "year": 2012,
+      "cases": 28
+    },
+    {
+      "year": 2013,
+      "cases": 33
+    },
+    {
+      "year": 2014,
+      "cases": 28
+    },
+    {
+      "year": 2015,
+      "cases": 24
+    },
+    {
+      "year": 2016,
+      "cases": 32
+    },
+    {
+      "year": 2017,
+      "cases": 29
+    },
+    {
+      "year": 2018,
+      "cases": 43
+    },
+    {
+      "year": 2019,
+      "cases": 38
+    },
+    {
+      "year": 2020,
+      "cases": 36
+    },
+    {
+      "year": 2021,
+      "cases": 28
+    },
+    {
+      "year": 2022,
+      "cases": 40
+    },
+    {
+      "year": 2023,
+      "cases": 101
+    },
+    {
+      "year": 2024,
+      "cases": 85
+    },
+    {
+      "year": 2025,
+      "cases": 97
+    },
+    {
+      "year": 2026,
+      "cases": 6
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "SHK",
+  "slug": "keenan-sean-h",
+  "name": "Keenan, Sean H.",
+  "totalDecisions": 37048,
+  "grants": 1160,
+  "denials": 332,
+  "removals": 308,
+  "absentia": 301,
+  "grantRate": 3.1,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 25964
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 10302
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 373
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 174
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 19
+    }
+  ]
+}

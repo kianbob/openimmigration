@@ -1,0 +1,64 @@
+{
+  "code": "CEO",
+  "slug": "olson-christine",
+  "name": "Olson, Christine",
+  "totalDecisions": 2305,
+  "grants": 71,
+  "denials": 7,
+  "removals": 1,
+  "absentia": 11,
+  "grantRate": 3.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 11340
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

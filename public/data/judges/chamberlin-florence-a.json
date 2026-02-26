@@ -1,0 +1,64 @@
+{
+  "code": "FAC",
+  "slug": "chamberlin-florence-a",
+  "name": "Chamberlin, Florence A.",
+  "totalDecisions": 2062,
+  "grants": 275,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 558,
+  "grantRate": 13.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 1868
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 150
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

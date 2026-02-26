@@ -1,0 +1,39 @@
+{
+  "code": "RRM",
+  "slug": "mckee-robert-r",
+  "name": "Mckee, Robert R.",
+  "totalDecisions": 21650,
+  "grants": 197,
+  "denials": 407,
+  "removals": 0,
+  "absentia": 3,
+  "grantRate": 0.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 22281
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 132
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "KJB",
+  "slug": "bonet-illya-karina-j",
+  "name": "Bonet, Illya-Karina J.",
+  "totalDecisions": 4170,
+  "grants": 195,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 1319,
+  "grantRate": 4.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 5260
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 419
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

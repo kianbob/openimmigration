@@ -1,0 +1,64 @@
+{
+  "code": "MOB",
+  "slug": "o-brien-matthew-j",
+  "name": "O'Brien, Matthew J.",
+  "totalDecisions": 1488,
+  "grants": 24,
+  "denials": 6,
+  "removals": 0,
+  "absentia": 119,
+  "grantRate": 1.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 1386
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 45
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 7
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

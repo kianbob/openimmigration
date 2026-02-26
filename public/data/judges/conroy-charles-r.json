@@ -1,0 +1,64 @@
+{
+  "code": "CC1",
+  "slug": "conroy-charles-r",
+  "name": "Conroy, Charles R.",
+  "totalDecisions": 6827,
+  "grants": 485,
+  "denials": 47,
+  "removals": 7,
+  "absentia": 724,
+  "grantRate": 7.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 5399
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1333
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 66
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 59
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

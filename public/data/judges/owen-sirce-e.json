@@ -1,0 +1,59 @@
+{
+  "code": "SEO",
+  "slug": "owen-sirce-e",
+  "name": "Owen, Sirce E.",
+  "totalDecisions": 1154,
+  "grants": 2,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 581,
+  "grantRate": 0.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 715
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 124
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 109
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 94
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 92
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "PIE",
+  "slug": "piepmeier-kristin",
+  "name": "Piepmeier, Kristin",
+  "totalDecisions": 6233,
+  "grants": 102,
+  "denials": 9,
+  "removals": 0,
+  "absentia": 1498,
+  "grantRate": 1.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 4753
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 2636
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

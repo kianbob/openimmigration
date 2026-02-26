@@ -1,0 +1,24 @@
+{
+  "code": "GM",
+  "slug": "gm",
+  "name": "Gm",
+  "totalDecisions": 173,
+  "grants": 2,
+  "denials": 95,
+  "removals": 95,
+  "absentia": 80,
+  "grantRate": 1.2,
+  "removalRate": 54.9,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 147
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 26
+    }
+  ]
+}

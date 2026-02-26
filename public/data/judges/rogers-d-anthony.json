@@ -1,0 +1,64 @@
+{
+  "code": "DAR",
+  "slug": "rogers-d-anthony",
+  "name": "Rogers, D. Anthony",
+  "totalDecisions": 46719,
+  "grants": 1451,
+  "denials": 4810,
+  "removals": 4805,
+  "absentia": 9645,
+  "grantRate": 3.1,
+  "removalRate": 10.3,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 29908
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 8356
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4906
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1658
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 694
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 589
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 572
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

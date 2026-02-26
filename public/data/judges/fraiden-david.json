@@ -1,0 +1,34 @@
+{
+  "code": "DDF",
+  "slug": "fraiden-david",
+  "name": "Fraiden, David",
+  "totalDecisions": 518,
+  "grants": 45,
+  "denials": 3,
+  "removals": 3,
+  "absentia": 12,
+  "grantRate": 8.7,
+  "removalRate": 0.6,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 502
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

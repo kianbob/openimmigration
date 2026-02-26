@@ -1,0 +1,64 @@
+{
+  "code": "JAM",
+  "slug": "may-jennifer-a",
+  "name": "May, Jennifer A.",
+  "totalDecisions": 4945,
+  "grants": 127,
+  "denials": 63,
+  "removals": 2,
+  "absentia": 134,
+  "grantRate": 2.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 2651
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1292
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 212
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 184
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 157
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 150
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 97
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 83
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 58
+    }
+  ]
+}

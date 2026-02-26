@@ -1,0 +1,232 @@
+{
+  "code": "NYD",
+  "slug": "new-york-4",
+  "name": "New York",
+  "state": "NY",
+  "address": "201 VARICK ST., ROOM 1140",
+  "active": true,
+  "cases": 142,
+  "completed": 199,
+  "grants": 0,
+  "denials": 94,
+  "removals": 94,
+  "grantRate": 0,
+  "topNationalities": [
+    {
+      "code": "DR",
+      "name": "Dominican Republic",
+      "count": 32
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "count": 18
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "count": 14
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "count": 6
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "count": 4
+    },
+    {
+      "code": "TD",
+      "name": "Trinidad And Tobago",
+      "count": 4
+    },
+    {
+      "code": "PM",
+      "name": "Panama",
+      "count": 4
+    },
+    {
+      "code": "ES",
+      "name": "El Salvador",
+      "count": 4
+    },
+    {
+      "code": "UK",
+      "name": "United Kingdom",
+      "count": 3
+    },
+    {
+      "code": "HA",
+      "name": "Haiti",
+      "count": 2
+    },
+    {
+      "code": "CH",
+      "name": "China",
+      "count": 2
+    },
+    {
+      "code": "YO",
+      "name": "Yugoslavia",
+      "count": 1
+    },
+    {
+      "code": "CR",
+      "name": "Czech Republic",
+      "count": 1
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "count": 1
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "count": 1
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "count": 1
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "count": 1
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "count": 1
+    },
+    {
+      "code": "GE",
+      "name": "Germany",
+      "count": 1
+    },
+    {
+      "code": "NU",
+      "name": "Nicaragua",
+      "count": 1
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "DAM",
+      "name": "Meisner, Daniel A.",
+      "decisions": 66,
+      "grants": 0,
+      "denials": 39,
+      "removals": 39,
+      "grantRate": 0
+    },
+    {
+      "code": "CLR",
+      "name": "Clerical Transfer Code",
+      "decisions": 57,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "RLE",
+      "name": "Erwin, R. Lee",
+      "decisions": 23,
+      "grants": 0,
+      "denials": 23,
+      "removals": 23,
+      "grantRate": null
+    },
+    {
+      "code": "HIC",
+      "name": "Cohen, Howard I.",
+      "decisions": 23,
+      "grants": 0,
+      "denials": 10,
+      "removals": 10,
+      "grantRate": null
+    },
+    {
+      "code": "WFN",
+      "name": "Nail, William F., Jr.",
+      "decisions": 18,
+      "grants": 0,
+      "denials": 17,
+      "removals": 17,
+      "grantRate": null
+    },
+    {
+      "code": "SJM",
+      "name": "Marks, Stephanie J.",
+      "decisions": 9,
+      "grants": 0,
+      "denials": 3,
+      "removals": 3,
+      "grantRate": null
+    },
+    {
+      "code": "PAR",
+      "name": "Rohan, Patricia A.",
+      "decisions": 2,
+      "grants": 0,
+      "denials": 2,
+      "removals": 2,
+      "grantRate": null
+    },
+    {
+      "code": "WLA",
+      "name": "Abbott, William L.",
+      "decisions": 1,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1992,
+      "cases": 2
+    },
+    {
+      "year": 1993,
+      "cases": 4
+    },
+    {
+      "year": 1997,
+      "cases": 1
+    },
+    {
+      "year": 2005,
+      "cases": 2
+    },
+    {
+      "year": 2006,
+      "cases": 2
+    },
+    {
+      "year": 2007,
+      "cases": 7
+    },
+    {
+      "year": 2008,
+      "cases": 12
+    },
+    {
+      "year": 2013,
+      "cases": 1
+    },
+    {
+      "year": 2014,
+      "cases": 1
+    },
+    {
+      "year": 2024,
+      "cases": 1
+    }
+  ]
+}

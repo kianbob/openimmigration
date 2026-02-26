@@ -1,0 +1,29 @@
+{
+  "code": "CQ",
+  "slug": "cq",
+  "name": "Cq",
+  "cases": 12,
+  "completed": 14,
+  "grants": 0,
+  "denials": 9,
+  "removals": 9,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 2
+    }
+  ]
+}

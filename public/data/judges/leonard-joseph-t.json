@@ -1,0 +1,64 @@
+{
+  "code": "JTL",
+  "slug": "leonard-joseph-t",
+  "name": "Leonard, Joseph T.",
+  "totalDecisions": 17064,
+  "grants": 151,
+  "denials": 192,
+  "removals": 176,
+  "absentia": 5322,
+  "grantRate": 0.9,
+  "removalRate": 1,
+  "courts": [
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 17210
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 329
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 277
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 140
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 89
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 62
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 34
+    }
+  ]
+}

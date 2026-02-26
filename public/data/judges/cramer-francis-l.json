@@ -1,0 +1,39 @@
+{
+  "code": "FLC",
+  "slug": "cramer-francis-l",
+  "name": "Cramer, Francis L.",
+  "totalDecisions": 5695,
+  "grants": 808,
+  "denials": 20,
+  "removals": 7,
+  "absentia": 2100,
+  "grantRate": 14.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 5670
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

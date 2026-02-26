@@ -1,0 +1,64 @@
+{
+  "code": "LIS",
+  "slug": "shapiro-leonard-i",
+  "name": "Shapiro, Leonard I.",
+  "totalDecisions": 23665,
+  "grants": 3756,
+  "denials": 2591,
+  "removals": 2550,
+  "absentia": 6058,
+  "grantRate": 15.9,
+  "removalRate": 10.8,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 22017
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 1525
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

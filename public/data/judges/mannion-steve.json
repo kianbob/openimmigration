@@ -1,0 +1,64 @@
+{
+  "code": "MNS",
+  "slug": "mannion-steve",
+  "name": "Mannion, Steve",
+  "totalDecisions": 2577,
+  "grants": 104,
+  "denials": 5,
+  "removals": 1,
+  "absentia": 283,
+  "grantRate": 4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 3095
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 724
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 415
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 207
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

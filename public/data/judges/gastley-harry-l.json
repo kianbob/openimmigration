@@ -1,0 +1,64 @@
+{
+  "code": "HLG",
+  "slug": "gastley-harry-l",
+  "name": "Gastley, Harry L.",
+  "totalDecisions": 17382,
+  "grants": 1633,
+  "denials": 1872,
+  "removals": 1849,
+  "absentia": 2799,
+  "grantRate": 9.4,
+  "removalRate": 10.6,
+  "courts": [
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 11169
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3421
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 1529
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1127
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

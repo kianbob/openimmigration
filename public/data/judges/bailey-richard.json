@@ -1,0 +1,44 @@
+{
+  "code": "RDB",
+  "slug": "bailey-richard",
+  "name": "Bailey, Richard",
+  "totalDecisions": 4050,
+  "grants": 273,
+  "denials": 34,
+  "removals": 2,
+  "absentia": 255,
+  "grantRate": 6.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 2984
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 1063
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

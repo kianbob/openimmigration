@@ -1,0 +1,64 @@
+{
+  "code": "SD1",
+  "slug": "status-docket",
+  "name": "Status Docket",
+  "totalDecisions": 174,
+  "grants": 2,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 10,
+  "grantRate": 1.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 853
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 615
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 138
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 75
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 66
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

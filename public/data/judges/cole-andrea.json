@@ -1,0 +1,24 @@
+{
+  "code": "ADC",
+  "slug": "cole-andrea",
+  "name": "Cole, Andrea",
+  "totalDecisions": 2976,
+  "grants": 54,
+  "denials": 43,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 3337
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

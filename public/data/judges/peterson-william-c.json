@@ -1,0 +1,64 @@
+{
+  "code": "WCP",
+  "slug": "peterson-william-c",
+  "name": "Peterson, William C.",
+  "totalDecisions": 39174,
+  "grants": 977,
+  "denials": 131,
+  "removals": 67,
+  "absentia": 14641,
+  "grantRate": 2.5,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 28855
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 4756
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3821
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1023
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 483
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 94
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 88
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 15
+    }
+  ]
+}

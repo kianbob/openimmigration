@@ -1,0 +1,64 @@
+{
+  "code": "WI",
+  "slug": "iskra-wayne",
+  "name": "Iskra, Wayne",
+  "totalDecisions": 23398,
+  "grants": 3364,
+  "denials": 1143,
+  "removals": 1070,
+  "absentia": 4948,
+  "grantRate": 14.4,
+  "removalRate": 4.6,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 19522
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2135
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 1471
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 84
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

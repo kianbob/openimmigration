@@ -1,0 +1,59 @@
+{
+  "code": "MEP",
+  "slug": "prud-homme-m-edwin",
+  "name": "Prud'Homme, M. Edwin",
+  "totalDecisions": 6563,
+  "grants": 153,
+  "denials": 2256,
+  "removals": 2256,
+  "absentia": 615,
+  "grantRate": 2.3,
+  "removalRate": 34.4,
+  "courts": [
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 4208
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1568
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 664
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 59
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

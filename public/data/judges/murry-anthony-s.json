@@ -1,0 +1,44 @@
+{
+  "code": "ASM",
+  "slug": "murry-anthony-s",
+  "name": "Murry, Anthony S.",
+  "totalDecisions": 19444,
+  "grants": 1034,
+  "denials": 277,
+  "removals": 66,
+  "absentia": 208,
+  "grantRate": 5.3,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 19421
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

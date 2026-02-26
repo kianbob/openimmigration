@@ -1,0 +1,243 @@
+{
+  "code": "CF",
+  "slug": "congo",
+  "name": "Congo",
+  "cases": 5810,
+  "completed": 8436,
+  "grants": 2106,
+  "denials": 62,
+  "removals": 10,
+  "grantRate": 25,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 575
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 536
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "count": 500
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 436
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 292
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 256
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 222
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 219
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 203
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 190
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 163
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 158
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 144
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 127
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "count": 118
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 117
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 102
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 89
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 82
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 75
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1995,
+      "cases": 1
+    },
+    {
+      "year": 1996,
+      "cases": 2
+    },
+    {
+      "year": 1997,
+      "cases": 28
+    },
+    {
+      "year": 1998,
+      "cases": 115
+    },
+    {
+      "year": 1999,
+      "cases": 176
+    },
+    {
+      "year": 2000,
+      "cases": 238
+    },
+    {
+      "year": 2001,
+      "cases": 223
+    },
+    {
+      "year": 2002,
+      "cases": 282
+    },
+    {
+      "year": 2003,
+      "cases": 215
+    },
+    {
+      "year": 2004,
+      "cases": 116
+    },
+    {
+      "year": 2005,
+      "cases": 95
+    },
+    {
+      "year": 2006,
+      "cases": 70
+    },
+    {
+      "year": 2007,
+      "cases": 45
+    },
+    {
+      "year": 2008,
+      "cases": 27
+    },
+    {
+      "year": 2009,
+      "cases": 44
+    },
+    {
+      "year": 2010,
+      "cases": 27
+    },
+    {
+      "year": 2011,
+      "cases": 29
+    },
+    {
+      "year": 2012,
+      "cases": 31
+    },
+    {
+      "year": 2013,
+      "cases": 53
+    },
+    {
+      "year": 2014,
+      "cases": 56
+    },
+    {
+      "year": 2015,
+      "cases": 63
+    },
+    {
+      "year": 2016,
+      "cases": 47
+    },
+    {
+      "year": 2017,
+      "cases": 61
+    },
+    {
+      "year": 2018,
+      "cases": 95
+    },
+    {
+      "year": 2019,
+      "cases": 102
+    },
+    {
+      "year": 2020,
+      "cases": 123
+    },
+    {
+      "year": 2021,
+      "cases": 86
+    },
+    {
+      "year": 2022,
+      "cases": 174
+    },
+    {
+      "year": 2023,
+      "cases": 305
+    },
+    {
+      "year": 2024,
+      "cases": 418
+    },
+    {
+      "year": 2025,
+      "cases": 360
+    },
+    {
+      "year": 2026,
+      "cases": 11
+    }
+  ]
+}

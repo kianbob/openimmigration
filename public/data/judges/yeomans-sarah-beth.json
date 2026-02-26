@@ -1,0 +1,64 @@
+{
+  "code": "SBY",
+  "slug": "yeomans-sarah-beth",
+  "name": "Yeomans, Sarah Beth.",
+  "totalDecisions": 3878,
+  "grants": 281,
+  "denials": 6,
+  "removals": 0,
+  "absentia": 1276,
+  "grantRate": 7.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 5478
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

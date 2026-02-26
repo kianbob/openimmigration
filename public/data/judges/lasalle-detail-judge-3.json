@@ -1,0 +1,24 @@
+{
+  "code": "X03",
+  "slug": "lasalle-detail-judge-3",
+  "name": "Lasalle Detail Judge 3",
+  "totalDecisions": 343,
+  "grants": 4,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 339
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

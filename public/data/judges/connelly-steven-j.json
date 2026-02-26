@@ -1,0 +1,64 @@
+{
+  "code": "SJC",
+  "slug": "connelly-steven-j",
+  "name": "Connelly, Steven J.",
+  "totalDecisions": 13346,
+  "grants": 426,
+  "denials": 68,
+  "removals": 8,
+  "absentia": 995,
+  "grantRate": 3.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 6471
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 6168
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1802
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 294
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 272
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 83
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

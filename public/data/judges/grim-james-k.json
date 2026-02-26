@@ -1,0 +1,64 @@
+{
+  "code": "JG",
+  "slug": "grim-james-k",
+  "name": "Grim, James K.",
+  "totalDecisions": 16245,
+  "grants": 1269,
+  "denials": 36,
+  "removals": 18,
+  "absentia": 2481,
+  "grantRate": 7.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 13996
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 1828
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 136
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

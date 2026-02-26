@@ -1,0 +1,29 @@
+{
+  "code": "WFJ",
+  "slug": "jankun-william-f",
+  "name": "Jankun, William F.",
+  "totalDecisions": 6563,
+  "grants": 232,
+  "denials": 899,
+  "removals": 856,
+  "absentia": 1108,
+  "grantRate": 3.5,
+  "removalRate": 13,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6545
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

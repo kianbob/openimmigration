@@ -1,0 +1,64 @@
+{
+  "code": "ALB",
+  "slug": "burgess-abraham-l",
+  "name": "Burgess, Abraham L.",
+  "totalDecisions": 12565,
+  "grants": 402,
+  "denials": 17,
+  "removals": 15,
+  "absentia": 2242,
+  "grantRate": 3.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 25419
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

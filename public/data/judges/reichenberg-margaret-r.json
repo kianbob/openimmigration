@@ -1,0 +1,64 @@
+{
+  "code": "MRR",
+  "slug": "reichenberg-margaret-r",
+  "name": "Reichenberg, Margaret R.",
+  "totalDecisions": 16592,
+  "grants": 1723,
+  "denials": 1285,
+  "removals": 1188,
+  "absentia": 3062,
+  "grantRate": 10.4,
+  "removalRate": 7.2,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 7047
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5466
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 2250
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1453
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 142
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 85
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

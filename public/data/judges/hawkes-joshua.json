@@ -1,0 +1,24 @@
+{
+  "code": "JHH",
+  "slug": "hawkes-joshua",
+  "name": "Hawkes, Joshua",
+  "totalDecisions": 117,
+  "grants": 2,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 145
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 11
+    }
+  ]
+}

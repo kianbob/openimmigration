@@ -1,0 +1,64 @@
+{
+  "code": "CRE",
+  "slug": "reis-christine",
+  "name": "Reis, Christine",
+  "totalDecisions": 9489,
+  "grants": 202,
+  "denials": 7,
+  "removals": 7,
+  "absentia": 1505,
+  "grantRate": 2.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 22657
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

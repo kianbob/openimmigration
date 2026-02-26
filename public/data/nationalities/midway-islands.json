@@ -1,0 +1,155 @@
+{
+  "code": "MQ",
+  "slug": "midway-islands",
+  "name": "Midway Islands",
+  "cases": 44,
+  "completed": 170,
+  "grants": 7,
+  "denials": 2,
+  "removals": 0,
+  "grantRate": 4.1,
+  "topCourts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 17
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "count": 1
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2003,
+      "cases": 1
+    },
+    {
+      "year": 2012,
+      "cases": 2
+    },
+    {
+      "year": 2016,
+      "cases": 1
+    },
+    {
+      "year": 2017,
+      "cases": 1
+    },
+    {
+      "year": 2018,
+      "cases": 2
+    },
+    {
+      "year": 2019,
+      "cases": 3
+    },
+    {
+      "year": 2022,
+      "cases": 1
+    },
+    {
+      "year": 2023,
+      "cases": 1
+    },
+    {
+      "year": 2024,
+      "cases": 2
+    },
+    {
+      "year": 2025,
+      "cases": 1
+    }
+  ]
+}

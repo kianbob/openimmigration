@@ -1,0 +1,64 @@
+{
+  "code": "JAZ",
+  "slug": "menezes-de-araujo-juliana",
+  "name": "Menezes De Araujo, Juliana",
+  "totalDecisions": 1472,
+  "grants": 69,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 81,
+  "grantRate": 4.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 692
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 522
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 398
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

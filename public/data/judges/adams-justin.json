@@ -1,0 +1,64 @@
+{
+  "code": "JA1",
+  "slug": "adams-justin",
+  "name": "Adams, Justin",
+  "totalDecisions": 18264,
+  "grants": 164,
+  "denials": 146,
+  "removals": 3,
+  "absentia": 3061,
+  "grantRate": 0.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 17119
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 3521
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 2870
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

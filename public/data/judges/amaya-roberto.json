@@ -1,0 +1,64 @@
+{
+  "code": "ROA",
+  "slug": "amaya-roberto",
+  "name": "Amaya, Roberto",
+  "totalDecisions": 5624,
+  "grants": 127,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 1422,
+  "grantRate": 2.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 6539
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 189
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 93
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

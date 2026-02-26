@@ -15,7 +15,7 @@ export const metadata: Metadata = {
 }
 
 export default function NationalitiesPage() {
-  const nationalities = loadData('nationalities.json')
+  const nationalities = loadData('nationality-index.json')
   const stats = loadData('stats.json')
   const top5 = nationalities.slice(0, 5)
 

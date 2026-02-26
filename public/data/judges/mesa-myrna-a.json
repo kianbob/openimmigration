@@ -1,0 +1,64 @@
+{
+  "code": "MMA",
+  "slug": "mesa-myrna-a",
+  "name": "Mesa, Myrna A.",
+  "totalDecisions": 2984,
+  "grants": 24,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 607,
+  "grantRate": 0.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2933
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

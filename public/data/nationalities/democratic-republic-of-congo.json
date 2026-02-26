@@ -1,0 +1,227 @@
+{
+  "code": "DC",
+  "slug": "democratic-republic-of-congo",
+  "name": "Democratic Republic Of Congo",
+  "cases": 5516,
+  "completed": 6331,
+  "grants": 986,
+  "denials": 22,
+  "removals": 1,
+  "grantRate": 15.6,
+  "topCourts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "count": 853
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 571
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 385
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 306
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 292
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 291
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 206
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 187
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "count": 149
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 135
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 131
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 127
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 119
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 117
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 105
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "count": 105
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "count": 102
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 91
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "count": 78
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 77
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1999,
+      "cases": 5
+    },
+    {
+      "year": 2000,
+      "cases": 9
+    },
+    {
+      "year": 2001,
+      "cases": 20
+    },
+    {
+      "year": 2002,
+      "cases": 67
+    },
+    {
+      "year": 2003,
+      "cases": 46
+    },
+    {
+      "year": 2004,
+      "cases": 44
+    },
+    {
+      "year": 2005,
+      "cases": 53
+    },
+    {
+      "year": 2006,
+      "cases": 22
+    },
+    {
+      "year": 2007,
+      "cases": 14
+    },
+    {
+      "year": 2008,
+      "cases": 11
+    },
+    {
+      "year": 2009,
+      "cases": 20
+    },
+    {
+      "year": 2010,
+      "cases": 7
+    },
+    {
+      "year": 2011,
+      "cases": 14
+    },
+    {
+      "year": 2012,
+      "cases": 11
+    },
+    {
+      "year": 2013,
+      "cases": 34
+    },
+    {
+      "year": 2014,
+      "cases": 50
+    },
+    {
+      "year": 2015,
+      "cases": 39
+    },
+    {
+      "year": 2016,
+      "cases": 61
+    },
+    {
+      "year": 2017,
+      "cases": 66
+    },
+    {
+      "year": 2018,
+      "cases": 145
+    },
+    {
+      "year": 2019,
+      "cases": 192
+    },
+    {
+      "year": 2020,
+      "cases": 231
+    },
+    {
+      "year": 2021,
+      "cases": 210
+    },
+    {
+      "year": 2022,
+      "cases": 331
+    },
+    {
+      "year": 2023,
+      "cases": 377
+    },
+    {
+      "year": 2024,
+      "cases": 495
+    },
+    {
+      "year": 2025,
+      "cases": 470
+    },
+    {
+      "year": 2026,
+      "cases": 28
+    }
+  ]
+}

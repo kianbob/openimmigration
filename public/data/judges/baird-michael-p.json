@@ -1,0 +1,64 @@
+{
+  "code": "MPB",
+  "slug": "baird-michael-p",
+  "name": "Baird, Michael P.",
+  "totalDecisions": 22423,
+  "grants": 569,
+  "denials": 56,
+  "removals": 12,
+  "absentia": 3958,
+  "grantRate": 2.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 13046
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 3701
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 2739
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 1805
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 525
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 139
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 92
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 64
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 50
+    }
+  ]
+}

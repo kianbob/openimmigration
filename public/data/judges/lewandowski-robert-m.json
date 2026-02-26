@@ -1,0 +1,64 @@
+{
+  "code": "RML",
+  "slug": "lewandowski-robert-m",
+  "name": "Lewandowski, Robert M.",
+  "totalDecisions": 3203,
+  "grants": 76,
+  "denials": 14,
+  "removals": 2,
+  "absentia": 94,
+  "grantRate": 2.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 720
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 641
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 577
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 374
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 256
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 188
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 175
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 114
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 99
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 57
+    }
+  ]
+}

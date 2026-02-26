@@ -1,0 +1,64 @@
+{
+  "code": "MKN",
+  "slug": "nettles-marsha-k",
+  "name": "Nettles, Marsha K.",
+  "totalDecisions": 21542,
+  "grants": 805,
+  "denials": 123,
+  "removals": 54,
+  "absentia": 2686,
+  "grantRate": 3.7,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 23105
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 10745
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 673
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 323
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 145
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

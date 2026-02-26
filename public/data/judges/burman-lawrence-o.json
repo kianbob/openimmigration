@@ -1,0 +1,64 @@
+{
+  "code": "LOB",
+  "slug": "burman-lawrence-o",
+  "name": "Burman, Lawrence O.",
+  "totalDecisions": 29928,
+  "grants": 5266,
+  "denials": 162,
+  "removals": 90,
+  "absentia": 6430,
+  "grantRate": 17.6,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 16006
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 8208
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3245
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 1342
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 437
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 125
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 97
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 72
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 69
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 66
+    }
+  ]
+}

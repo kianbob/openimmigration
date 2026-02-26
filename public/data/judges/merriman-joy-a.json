@@ -1,0 +1,34 @@
+{
+  "code": "JMN",
+  "slug": "merriman-joy-a",
+  "name": "Merriman, Joy A.",
+  "totalDecisions": 640,
+  "grants": 17,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 2.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 465
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 157
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

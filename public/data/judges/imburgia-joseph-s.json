@@ -1,0 +1,64 @@
+{
+  "code": "JSI",
+  "slug": "imburgia-joseph-s",
+  "name": "Imburgia, Joseph S.",
+  "totalDecisions": 6693,
+  "grants": 123,
+  "denials": 10,
+  "removals": 3,
+  "absentia": 2504,
+  "grantRate": 1.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 3453
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 1348
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 1181
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 251
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 210
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 151
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 123
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 88
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 68
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 22
+    }
+  ]
+}

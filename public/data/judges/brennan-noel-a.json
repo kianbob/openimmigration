@@ -1,0 +1,64 @@
+{
+  "code": "NB",
+  "slug": "brennan-noel-a",
+  "name": "Brennan, Noel A.",
+  "totalDecisions": 17038,
+  "grants": 7193,
+  "denials": 154,
+  "removals": 130,
+  "absentia": 2568,
+  "grantRate": 42.2,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 13431
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 3868
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 134
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 79
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

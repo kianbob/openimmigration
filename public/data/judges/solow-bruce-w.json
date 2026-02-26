@@ -1,0 +1,64 @@
+{
+  "code": "BWS",
+  "slug": "solow-bruce-w",
+  "name": "Solow, Bruce W.",
+  "totalDecisions": 25912,
+  "grants": 3339,
+  "denials": 3854,
+  "removals": 3821,
+  "absentia": 5769,
+  "grantRate": 12.9,
+  "removalRate": 14.7,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 25495
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 149
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 149
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

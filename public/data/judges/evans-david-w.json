@@ -1,0 +1,64 @@
+{
+  "code": "DDE",
+  "slug": "evans-david-w",
+  "name": "Evans, David W.",
+  "totalDecisions": 6969,
+  "grants": 562,
+  "denials": 20,
+  "removals": 8,
+  "absentia": 1442,
+  "grantRate": 8.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 11680
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 2717
+    },
+    {
+      "code": "POR",
+      "name": "Immigration Court",
+      "hearings": 2480
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

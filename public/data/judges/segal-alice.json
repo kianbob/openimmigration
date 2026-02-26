@@ -1,0 +1,64 @@
+{
+  "code": "ASL",
+  "slug": "segal-alice",
+  "name": "Segal, Alice",
+  "totalDecisions": 13084,
+  "grants": 2818,
+  "denials": 54,
+  "removals": 38,
+  "absentia": 2674,
+  "grantRate": 21.5,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 19941
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 105
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

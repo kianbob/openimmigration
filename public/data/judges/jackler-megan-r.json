@@ -1,0 +1,64 @@
+{
+  "code": "MRJ",
+  "slug": "jackler-megan-r",
+  "name": "Jackler, Megan R.",
+  "totalDecisions": 5649,
+  "grants": 48,
+  "denials": 2,
+  "removals": 2,
+  "absentia": 923,
+  "grantRate": 0.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 5614
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "code": "HBM",
+  "slug": "marple-harriet-b",
+  "name": "Marple, Harriet B.",
+  "totalDecisions": 1768,
+  "grants": 235,
+  "denials": 758,
+  "removals": 758,
+  "absentia": 225,
+  "grantRate": 13.3,
+  "removalRate": 42.9,
+  "courts": [
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 1759
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

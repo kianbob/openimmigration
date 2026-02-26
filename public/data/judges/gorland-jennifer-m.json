@@ -1,0 +1,64 @@
+{
+  "code": "JMG",
+  "slug": "gorland-jennifer-m",
+  "name": "Gorland, Jennifer M.",
+  "totalDecisions": 8611,
+  "grants": 825,
+  "denials": 26,
+  "removals": 6,
+  "absentia": 1535,
+  "grantRate": 9.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 8516
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

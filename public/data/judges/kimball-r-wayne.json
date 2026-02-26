@@ -1,0 +1,64 @@
+{
+  "code": "RWK",
+  "slug": "kimball-r-wayne",
+  "name": "Kimball, R. Wayne",
+  "totalDecisions": 13127,
+  "grants": 398,
+  "denials": 45,
+  "removals": 6,
+  "absentia": 3780,
+  "grantRate": 3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 11255
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 1133
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 192
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 158
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 103
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 85
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 20
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "PAK",
+  "slug": "kim-peter-a",
+  "name": "Kim, Peter A.",
+  "totalDecisions": 6156,
+  "grants": 319,
+  "denials": 7,
+  "removals": 1,
+  "absentia": 1686,
+  "grantRate": 5.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 10226
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "GTC",
+  "slug": "chew-george-t",
+  "name": "Chew, George T.",
+  "totalDecisions": 15376,
+  "grants": 6394,
+  "denials": 704,
+  "removals": 637,
+  "absentia": 2486,
+  "grantRate": 41.6,
+  "removalRate": 4.1,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 15114
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

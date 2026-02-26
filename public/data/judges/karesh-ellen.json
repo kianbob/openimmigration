@@ -1,0 +1,64 @@
+{
+  "code": "KAR",
+  "slug": "karesh-ellen",
+  "name": "Karesh, Ellen",
+  "totalDecisions": 2684,
+  "grants": 108,
+  "denials": 25,
+  "removals": 0,
+  "absentia": 123,
+  "grantRate": 4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 5291
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 935
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 399
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

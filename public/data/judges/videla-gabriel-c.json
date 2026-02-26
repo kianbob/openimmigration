@@ -1,0 +1,64 @@
+{
+  "code": "GCV",
+  "slug": "videla-gabriel-c",
+  "name": "Videla, Gabriel C.",
+  "totalDecisions": 21825,
+  "grants": 2703,
+  "denials": 1292,
+  "removals": 1228,
+  "absentia": 4082,
+  "grantRate": 12.4,
+  "removalRate": 5.6,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14546
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4553
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 1600
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 441
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 136
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 77
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 73
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 31
+    }
+  ]
+}

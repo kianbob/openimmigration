@@ -1,0 +1,24 @@
+{
+  "code": "MCK",
+  "slug": "king-metcalfe-c",
+  "name": "King, Metcalfe C.",
+  "totalDecisions": 514,
+  "grants": 70,
+  "denials": 99,
+  "removals": 99,
+  "absentia": 102,
+  "grantRate": 13.6,
+  "removalRate": 19.3,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 513
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

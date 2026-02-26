@@ -1,0 +1,44 @@
+{
+  "code": "MFS",
+  "slug": "spiegel-martin-f",
+  "name": "Spiegel, Martin F.",
+  "totalDecisions": 17427,
+  "grants": 147,
+  "denials": 8078,
+  "removals": 8078,
+  "absentia": 1196,
+  "grantRate": 0.8,
+  "removalRate": 46.4,
+  "courts": [
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 9913
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 7246
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 138
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 123
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

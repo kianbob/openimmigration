@@ -1,0 +1,64 @@
+{
+  "code": "DDS",
+  "slug": "sitgraves-d-d",
+  "name": "Sitgraves, D.D.",
+  "totalDecisions": 23521,
+  "grants": 1879,
+  "denials": 3537,
+  "removals": 3522,
+  "absentia": 1193,
+  "grantRate": 8,
+  "removalRate": 15,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 23088
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 206
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 118
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

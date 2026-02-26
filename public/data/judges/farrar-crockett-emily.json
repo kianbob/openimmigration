@@ -1,0 +1,64 @@
+{
+  "code": "EFC",
+  "slug": "farrar-crockett-emily",
+  "name": "Farrar-Crockett, Emily",
+  "totalDecisions": 6188,
+  "grants": 294,
+  "denials": 15,
+  "removals": 2,
+  "absentia": 1901,
+  "grantRate": 4.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2352
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 2352
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 1790
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 295
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 101
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 79
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 64
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 25
+    }
+  ]
+}

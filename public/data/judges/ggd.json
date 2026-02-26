@@ -1,0 +1,44 @@
+{
+  "code": "GGD",
+  "slug": "ggd",
+  "name": "Ggd",
+  "totalDecisions": 2403,
+  "grants": 398,
+  "denials": 271,
+  "removals": 271,
+  "absentia": 131,
+  "grantRate": 16.6,
+  "removalRate": 11.3,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 1900
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 484
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

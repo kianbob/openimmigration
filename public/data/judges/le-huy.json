@@ -1,0 +1,64 @@
+{
+  "code": "HUL",
+  "slug": "le-huy",
+  "name": "Le, Huy",
+  "totalDecisions": 1323,
+  "grants": 86,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 10,
+  "grantRate": 6.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 5101
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 55
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

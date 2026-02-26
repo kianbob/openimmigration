@@ -1,0 +1,64 @@
+{
+  "code": "STT",
+  "slug": "thomsen-scott",
+  "name": "Thomsen, Scott",
+  "totalDecisions": 6669,
+  "grants": 839,
+  "denials": 18,
+  "removals": 16,
+  "absentia": 1092,
+  "grantRate": 12.6,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "hearings": 9737
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8929
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

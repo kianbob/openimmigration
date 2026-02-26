@@ -1,0 +1,64 @@
+{
+  "code": "KNH",
+  "slug": "hope-karen",
+  "name": "Hope, Karen",
+  "totalDecisions": 3596,
+  "grants": 139,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 989,
+  "grantRate": 3.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3892
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 509
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 189
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

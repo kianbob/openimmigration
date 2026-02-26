@@ -1,0 +1,68 @@
+{
+  "code": "NQ",
+  "slug": "nq",
+  "name": "Nq",
+  "cases": 15,
+  "completed": 41,
+  "grants": 1,
+  "denials": 4,
+  "removals": 4,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 1
+    },
+    {
+      "year": 1992,
+      "cases": 1
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "code": "WKZ",
+  "slug": "zimmer-william-k",
+  "name": "Zimmer, William K.",
+  "totalDecisions": 17556,
+  "grants": 2159,
+  "denials": 791,
+  "removals": 781,
+  "absentia": 7261,
+  "grantRate": 12.3,
+  "removalRate": 4.4,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 16159
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 930
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 256
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

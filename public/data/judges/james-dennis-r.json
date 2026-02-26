@@ -1,0 +1,59 @@
+{
+  "code": "DRJ",
+  "slug": "james-dennis-r",
+  "name": "James, Dennis R.",
+  "totalDecisions": 29604,
+  "grants": 1332,
+  "denials": 3541,
+  "removals": 3537,
+  "absentia": 860,
+  "grantRate": 4.5,
+  "removalRate": 11.9,
+  "courts": [
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 29210
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 191
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 127
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

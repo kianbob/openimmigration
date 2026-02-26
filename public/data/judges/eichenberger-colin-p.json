@@ -1,0 +1,64 @@
+{
+  "code": "CPE",
+  "slug": "eichenberger-colin-p",
+  "name": "Eichenberger, Colin P.",
+  "totalDecisions": 3925,
+  "grants": 228,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 1312,
+  "grantRate": 5.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 3350
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 466
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

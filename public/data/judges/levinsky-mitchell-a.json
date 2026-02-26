@@ -1,0 +1,44 @@
+{
+  "code": "MAL",
+  "slug": "levinsky-mitchell-a",
+  "name": "Levinsky, Mitchell A.",
+  "totalDecisions": 5955,
+  "grants": 75,
+  "denials": 1144,
+  "removals": 1143,
+  "absentia": 150,
+  "grantRate": 1.3,
+  "removalRate": 19.2,
+  "courts": [
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 5788
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 109
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

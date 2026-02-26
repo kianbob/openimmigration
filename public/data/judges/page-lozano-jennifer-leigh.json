@@ -1,0 +1,64 @@
+{
+  "code": "JPL",
+  "slug": "page-lozano-jennifer-leigh",
+  "name": "Page-Lozano, Jennifer Leigh",
+  "totalDecisions": 14519,
+  "grants": 373,
+  "denials": 27,
+  "removals": 10,
+  "absentia": 3278,
+  "grantRate": 2.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 27218
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 650
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 125
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 60
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

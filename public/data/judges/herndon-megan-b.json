@@ -1,0 +1,64 @@
+{
+  "code": "MBH",
+  "slug": "herndon-megan-b",
+  "name": "Herndon, Megan B.",
+  "totalDecisions": 928,
+  "grants": 144,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 98,
+  "grantRate": 15.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 337
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 254
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 228
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 58
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

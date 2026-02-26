@@ -1,0 +1,64 @@
+{
+  "code": "ASR",
+  "slug": "ranasinghe-arya-s",
+  "name": "Ranasinghe, Arya S.",
+  "totalDecisions": 8865,
+  "grants": 509,
+  "denials": 23,
+  "removals": 10,
+  "absentia": 1296,
+  "grantRate": 5.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 25326
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 1191
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

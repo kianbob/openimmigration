@@ -1,0 +1,64 @@
+{
+  "code": "JCL",
+  "slug": "clemente-jesus",
+  "name": "Clemente, Jesus",
+  "totalDecisions": 9184,
+  "grants": 326,
+  "denials": 101,
+  "removals": 15,
+  "absentia": 625,
+  "grantRate": 3.5,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 7081
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 812
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 327
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 148
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 146
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 113
+    },
+    {
+      "code": "SAI",
+      "name": "Immigration Court",
+      "hearings": 86
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 73
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 70
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 64
+    }
+  ]
+}

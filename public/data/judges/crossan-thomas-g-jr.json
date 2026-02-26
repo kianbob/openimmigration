@@ -1,0 +1,64 @@
+{
+  "code": "TGC",
+  "slug": "crossan-thomas-g-jr",
+  "name": "Crossan, Thomas G., Jr.",
+  "totalDecisions": 24517,
+  "grants": 412,
+  "denials": 229,
+  "removals": 4,
+  "absentia": 1495,
+  "grantRate": 1.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 14477
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11381
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 2705
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 139
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "JRW",
+  "slug": "riedthaler-williams-jennifer-m",
+  "name": "Riedthaler-Williams, Jennifer M.",
+  "totalDecisions": 7179,
+  "grants": 230,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 1712,
+  "grantRate": 3.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 11170
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 307
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "ELY",
+  "slug": "young-elizabeth-l",
+  "name": "Young, Elizabeth L.",
+  "totalDecisions": 6188,
+  "grants": 1012,
+  "denials": 12,
+  "removals": 5,
+  "absentia": 553,
+  "grantRate": 16.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 6028
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

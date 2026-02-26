@@ -1,0 +1,64 @@
+{
+  "code": "DDR",
+  "slug": "russo-david",
+  "name": "Russo, David",
+  "totalDecisions": 11491,
+  "grants": 263,
+  "denials": 5,
+  "removals": 1,
+  "absentia": 4380,
+  "grantRate": 2.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 20706
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

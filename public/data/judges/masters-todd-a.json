@@ -1,0 +1,64 @@
+{
+  "code": "TAM",
+  "slug": "masters-todd-a",
+  "name": "Masters, Todd A.",
+  "totalDecisions": 10923,
+  "grants": 632,
+  "denials": 29,
+  "removals": 13,
+  "absentia": 1188,
+  "grantRate": 5.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 21483
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

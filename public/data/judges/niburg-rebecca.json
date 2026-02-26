@@ -1,0 +1,64 @@
+{
+  "code": "RAN",
+  "slug": "niburg-rebecca",
+  "name": "Niburg, Rebecca",
+  "totalDecisions": 4163,
+  "grants": 497,
+  "denials": 6,
+  "removals": 2,
+  "absentia": 821,
+  "grantRate": 11.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 5605
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 164
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "code": "WA",
+  "slug": "namibia",
+  "name": "Namibia",
+  "cases": 168,
+  "completed": 294,
+  "grants": 32,
+  "denials": 7,
+  "removals": 7,
+  "grantRate": 10.9,
+  "topCourts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 15
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 7
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 7
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 7
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 7
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 7
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 3
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1992,
+      "cases": 3
+    },
+    {
+      "year": 1993,
+      "cases": 1
+    },
+    {
+      "year": 1994,
+      "cases": 1
+    },
+    {
+      "year": 1995,
+      "cases": 1
+    },
+    {
+      "year": 1996,
+      "cases": 1
+    },
+    {
+      "year": 2002,
+      "cases": 3
+    },
+    {
+      "year": 2003,
+      "cases": 3
+    },
+    {
+      "year": 2004,
+      "cases": 2
+    },
+    {
+      "year": 2005,
+      "cases": 1
+    },
+    {
+      "year": 2006,
+      "cases": 3
+    },
+    {
+      "year": 2008,
+      "cases": 3
+    },
+    {
+      "year": 2009,
+      "cases": 3
+    },
+    {
+      "year": 2011,
+      "cases": 1
+    },
+    {
+      "year": 2012,
+      "cases": 3
+    },
+    {
+      "year": 2015,
+      "cases": 1
+    },
+    {
+      "year": 2016,
+      "cases": 2
+    },
+    {
+      "year": 2017,
+      "cases": 4
+    },
+    {
+      "year": 2018,
+      "cases": 3
+    },
+    {
+      "year": 2019,
+      "cases": 5
+    },
+    {
+      "year": 2020,
+      "cases": 3
+    },
+    {
+      "year": 2021,
+      "cases": 2
+    },
+    {
+      "year": 2022,
+      "cases": 2
+    },
+    {
+      "year": 2023,
+      "cases": 6
+    },
+    {
+      "year": 2024,
+      "cases": 10
+    },
+    {
+      "year": 2025,
+      "cases": 13
+    }
+  ]
+}

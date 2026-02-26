@@ -1,0 +1,64 @@
+{
+  "code": "DHO",
+  "slug": "hochul-denise",
+  "name": "Hochul, Denise",
+  "totalDecisions": 10564,
+  "grants": 609,
+  "denials": 18,
+  "removals": 10,
+  "absentia": 1972,
+  "grantRate": 5.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 9626
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 324
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 212
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 210
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 129
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "TJM",
+  "slug": "mulligan-thomas-j",
+  "name": "Mulligan, Thomas J.",
+  "totalDecisions": 14420,
+  "grants": 3296,
+  "denials": 103,
+  "removals": 32,
+  "absentia": 1959,
+  "grantRate": 22.9,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 10518
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5548
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 100
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

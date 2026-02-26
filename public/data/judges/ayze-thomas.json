@@ -1,0 +1,64 @@
+{
+  "code": "TSA",
+  "slug": "ayze-thomas",
+  "name": "Ayze, Thomas",
+  "totalDecisions": 9956,
+  "grants": 180,
+  "denials": 22,
+  "removals": 17,
+  "absentia": 1915,
+  "grantRate": 1.8,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 22682
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

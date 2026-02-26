@@ -1,0 +1,64 @@
+{
+  "code": "NBL",
+  "slug": "lane-nicole",
+  "name": "Lane, Nicole",
+  "totalDecisions": 7936,
+  "grants": 140,
+  "denials": 9,
+  "removals": 9,
+  "absentia": 1760,
+  "grantRate": 1.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 27081
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 259
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

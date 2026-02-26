@@ -1,0 +1,64 @@
+{
+  "code": "JIG",
+  "slug": "gaz-jennifer-i",
+  "name": "Gaz, Jennifer I.",
+  "totalDecisions": 17850,
+  "grants": 389,
+  "denials": 93,
+  "removals": 12,
+  "absentia": 1707,
+  "grantRate": 2.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 10909
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 10428
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

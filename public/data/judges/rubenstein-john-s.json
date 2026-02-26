@@ -1,0 +1,64 @@
+{
+  "code": "JSR",
+  "slug": "rubenstein-john-s",
+  "name": "Rubenstein, John S.",
+  "totalDecisions": 4641,
+  "grants": 420,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 853,
+  "grantRate": 9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 6299
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 78
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

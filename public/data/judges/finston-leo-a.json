@@ -1,0 +1,64 @@
+{
+  "code": "LAF",
+  "slug": "finston-leo-a",
+  "name": "Finston, Leo A.",
+  "totalDecisions": 16870,
+  "grants": 1162,
+  "denials": 95,
+  "removals": 37,
+  "absentia": 1601,
+  "grantRate": 6.9,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 30885
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 2565
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

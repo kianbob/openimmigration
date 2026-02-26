@@ -1,0 +1,39 @@
+{
+  "code": "CLD",
+  "slug": "dishman-charles",
+  "name": "Dishman, Charles",
+  "totalDecisions": 92,
+  "grants": 12,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 13,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 113
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

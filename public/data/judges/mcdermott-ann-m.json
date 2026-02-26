@@ -1,0 +1,64 @@
+{
+  "code": "MCD",
+  "slug": "mcdermott-ann-m",
+  "name": "Mcdermott, Ann M.",
+  "totalDecisions": 11341,
+  "grants": 719,
+  "denials": 30,
+  "removals": 7,
+  "absentia": 1521,
+  "grantRate": 6.3,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 14535
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

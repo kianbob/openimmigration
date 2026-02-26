@@ -1,0 +1,159 @@
+{
+  "code": "FG",
+  "slug": "french-guiana",
+  "name": "French Guiana",
+  "cases": 333,
+  "completed": 210,
+  "grants": 7,
+  "denials": 2,
+  "removals": 1,
+  "grantRate": 3.3,
+  "topCourts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 92
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 41
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 30
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "count": 26
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 20
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 17
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 17
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 12
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 11
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "count": 10
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 9
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 2
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2014,
+      "cases": 1
+    },
+    {
+      "year": 2016,
+      "cases": 1
+    },
+    {
+      "year": 2017,
+      "cases": 1
+    },
+    {
+      "year": 2018,
+      "cases": 2
+    },
+    {
+      "year": 2019,
+      "cases": 2
+    },
+    {
+      "year": 2020,
+      "cases": 2
+    },
+    {
+      "year": 2022,
+      "cases": 1
+    },
+    {
+      "year": 2023,
+      "cases": 5
+    },
+    {
+      "year": 2024,
+      "cases": 20
+    },
+    {
+      "year": 2025,
+      "cases": 14
+    },
+    {
+      "year": 2026,
+      "cases": 1
+    }
+  ]
+}

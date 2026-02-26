@@ -1,0 +1,123 @@
+{
+  "code": "IU",
+  "slug": "in-absentia-unknown",
+  "name": "In Absentia/Unknown",
+  "cases": 27,
+  "completed": 96,
+  "grants": 6,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2019,
+      "cases": 9
+    },
+    {
+      "year": 2020,
+      "cases": 1
+    },
+    {
+      "year": 2021,
+      "cases": 1
+    },
+    {
+      "year": 2022,
+      "cases": 2
+    },
+    {
+      "year": 2023,
+      "cases": 4
+    },
+    {
+      "year": 2024,
+      "cases": 3
+    },
+    {
+      "year": 2025,
+      "cases": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "code": "CLE",
+  "slug": "cle",
+  "name": "Cle",
+  "totalDecisions": 78,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 55
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

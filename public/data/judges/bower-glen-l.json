@@ -1,0 +1,34 @@
+{
+  "code": "GLB",
+  "slug": "bower-glen-l",
+  "name": "Bower, Glen L.",
+  "totalDecisions": 2511,
+  "grants": 590,
+  "denials": 20,
+  "removals": 19,
+  "absentia": 572,
+  "grantRate": 23.5,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 2476
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

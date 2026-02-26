@@ -1,0 +1,24 @@
+{
+  "code": "CAD",
+  "slug": "del-bene-charles-a",
+  "name": "Del Bene, Charles A.",
+  "totalDecisions": 4295,
+  "grants": 595,
+  "denials": 33,
+  "removals": 32,
+  "absentia": 1298,
+  "grantRate": 13.9,
+  "removalRate": 0.7,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4288
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

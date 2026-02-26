@@ -1,0 +1,49 @@
+{
+  "code": "KW",
+  "slug": "warren-kendall",
+  "name": "Warren, Kendall",
+  "totalDecisions": 17889,
+  "grants": 750,
+  "denials": 5813,
+  "removals": 5802,
+  "absentia": 3533,
+  "grantRate": 4.2,
+  "removalRate": 32.4,
+  "courts": [
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 6821
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 6301
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 4753
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

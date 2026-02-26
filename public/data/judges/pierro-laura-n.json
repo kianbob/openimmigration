@@ -1,0 +1,64 @@
+{
+  "code": "LPO",
+  "slug": "pierro-laura-n",
+  "name": "Pierro, Laura N.",
+  "totalDecisions": 6569,
+  "grants": 364,
+  "denials": 10,
+  "removals": 5,
+  "absentia": 791,
+  "grantRate": 5.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 7027
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 516
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "IRS",
+  "slug": "simons-ian-r",
+  "name": "Simons, Ian R.",
+  "totalDecisions": 10407,
+  "grants": 742,
+  "denials": 43,
+  "removals": 7,
+  "absentia": 1521,
+  "grantRate": 7.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 16325
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 1660
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 59
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

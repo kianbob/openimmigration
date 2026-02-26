@@ -1,0 +1,64 @@
+{
+  "code": "GDJ",
+  "slug": "jones-gabrielle",
+  "name": "Jones, Gabrielle",
+  "totalDecisions": 7303,
+  "grants": 194,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 1504,
+  "grantRate": 2.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 7286
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

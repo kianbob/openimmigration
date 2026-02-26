@@ -1,0 +1,64 @@
+{
+  "code": "RDV",
+  "slug": "vinikoor-robert-d",
+  "name": "Vinikoor, Robert D.",
+  "totalDecisions": 45397,
+  "grants": 4097,
+  "denials": 4011,
+  "removals": 3959,
+  "absentia": 6042,
+  "grantRate": 9,
+  "removalRate": 8.7,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 31423
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 8236
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 4650
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 610
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 89
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 55
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 55
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 29
+    }
+  ]
+}

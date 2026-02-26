@@ -1,0 +1,64 @@
+{
+  "code": "JBP",
+  "slug": "perry-jamie-b",
+  "name": "Perry, Jamie B.",
+  "totalDecisions": 1450,
+  "grants": 121,
+  "denials": 6,
+  "removals": 0,
+  "absentia": 104,
+  "grantRate": 8.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 747
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 689
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 2
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

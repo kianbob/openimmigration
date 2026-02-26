@@ -1,0 +1,64 @@
+{
+  "code": "JDO",
+  "slug": "osborn-joshua-d",
+  "name": "Osborn, Joshua D.",
+  "totalDecisions": 8369,
+  "grants": 133,
+  "denials": 37,
+  "removals": 25,
+  "absentia": 2492,
+  "grantRate": 1.6,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 7211
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2672
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 64
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

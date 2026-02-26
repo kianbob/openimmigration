@@ -1,0 +1,64 @@
+{
+  "code": "DYR",
+  "slug": "razo-danny",
+  "name": "Razo, Danny",
+  "totalDecisions": 5508,
+  "grants": 89,
+  "denials": 14,
+  "removals": 4,
+  "absentia": 1272,
+  "grantRate": 1.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 6232
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 534
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

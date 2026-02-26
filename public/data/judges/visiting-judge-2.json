@@ -1,0 +1,64 @@
+{
+  "code": "VJ2",
+  "slug": "visiting-judge-2",
+  "name": "Visiting Judge 2",
+  "totalDecisions": 8739,
+  "grants": 153,
+  "denials": 215,
+  "removals": 205,
+  "absentia": 77,
+  "grantRate": 1.8,
+  "removalRate": 2.3,
+  "courts": [
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 12967
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 7753
+    },
+    {
+      "code": "POR",
+      "name": "Immigration Court",
+      "hearings": 6293
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4278
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 3331
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 3265
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 2503
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 2436
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 2041
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 703
+    }
+  ]
+}

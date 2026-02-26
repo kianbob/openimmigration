@@ -1,0 +1,49 @@
+{
+  "code": "DLC",
+  "slug": "caudillo-daniel",
+  "name": "Caudillo, Daniel",
+  "totalDecisions": 3560,
+  "grants": 36,
+  "denials": 4,
+  "removals": 3,
+  "absentia": 379,
+  "grantRate": 1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 3562
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

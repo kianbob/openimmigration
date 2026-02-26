@@ -1,0 +1,39 @@
+{
+  "code": "CGA",
+  "slug": "glaser-allen-colleen",
+  "name": "Glaser-Allen, Colleen",
+  "totalDecisions": 3988,
+  "grants": 11,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 45,
+  "grantRate": 0.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3956
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

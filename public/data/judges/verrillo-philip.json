@@ -1,0 +1,64 @@
+{
+  "code": "PV",
+  "slug": "verrillo-philip",
+  "name": "Verrillo, Philip",
+  "totalDecisions": 13262,
+  "grants": 1857,
+  "denials": 39,
+  "removals": 25,
+  "absentia": 2686,
+  "grantRate": 14,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 12976
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 217
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 113
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 96
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 81
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 20
+    }
+  ]
+}

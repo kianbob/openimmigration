@@ -1,0 +1,64 @@
+{
+  "code": "PMC",
+  "slug": "mccloskey-paul-a",
+  "name": "Mccloskey, Paul A.",
+  "totalDecisions": 6785,
+  "grants": 158,
+  "denials": 20,
+  "removals": 2,
+  "absentia": 950,
+  "grantRate": 2.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 5721
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 2089
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 15
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

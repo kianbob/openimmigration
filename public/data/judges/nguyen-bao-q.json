@@ -1,0 +1,64 @@
+{
+  "code": "BQN",
+  "slug": "nguyen-bao-q",
+  "name": "Nguyen, Bao Q.",
+  "totalDecisions": 9858,
+  "grants": 282,
+  "denials": 45,
+  "removals": 43,
+  "absentia": 2481,
+  "grantRate": 2.9,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 10846
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 348
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

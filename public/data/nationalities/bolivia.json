@@ -1,0 +1,263 @@
+{
+  "code": "BL",
+  "slug": "bolivia",
+  "name": "Bolivia",
+  "cases": 16034,
+  "completed": 19411,
+  "grants": 1488,
+  "denials": 561,
+  "removals": 534,
+  "grantRate": 7.7,
+  "topCourts": [
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "count": 3765
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 2744
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 990
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "count": 669
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "count": 596
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 501
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 411
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 397
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 393
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 369
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 326
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 320
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 198
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 198
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "count": 176
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 175
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 158
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 156
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 151
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "count": 146
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 35
+    },
+    {
+      "year": 1991,
+      "cases": 22
+    },
+    {
+      "year": 1992,
+      "cases": 37
+    },
+    {
+      "year": 1993,
+      "cases": 61
+    },
+    {
+      "year": 1994,
+      "cases": 85
+    },
+    {
+      "year": 1995,
+      "cases": 78
+    },
+    {
+      "year": 1996,
+      "cases": 118
+    },
+    {
+      "year": 1997,
+      "cases": 156
+    },
+    {
+      "year": 1998,
+      "cases": 69
+    },
+    {
+      "year": 1999,
+      "cases": 60
+    },
+    {
+      "year": 2000,
+      "cases": 68
+    },
+    {
+      "year": 2001,
+      "cases": 69
+    },
+    {
+      "year": 2002,
+      "cases": 103
+    },
+    {
+      "year": 2003,
+      "cases": 83
+    },
+    {
+      "year": 2004,
+      "cases": 92
+    },
+    {
+      "year": 2005,
+      "cases": 75
+    },
+    {
+      "year": 2006,
+      "cases": 71
+    },
+    {
+      "year": 2007,
+      "cases": 42
+    },
+    {
+      "year": 2008,
+      "cases": 59
+    },
+    {
+      "year": 2009,
+      "cases": 55
+    },
+    {
+      "year": 2010,
+      "cases": 65
+    },
+    {
+      "year": 2011,
+      "cases": 105
+    },
+    {
+      "year": 2012,
+      "cases": 84
+    },
+    {
+      "year": 2013,
+      "cases": 82
+    },
+    {
+      "year": 2014,
+      "cases": 116
+    },
+    {
+      "year": 2015,
+      "cases": 112
+    },
+    {
+      "year": 2016,
+      "cases": 111
+    },
+    {
+      "year": 2017,
+      "cases": 112
+    },
+    {
+      "year": 2018,
+      "cases": 122
+    },
+    {
+      "year": 2019,
+      "cases": 132
+    },
+    {
+      "year": 2020,
+      "cases": 83
+    },
+    {
+      "year": 2021,
+      "cases": 75
+    },
+    {
+      "year": 2022,
+      "cases": 199
+    },
+    {
+      "year": 2023,
+      "cases": 698
+    },
+    {
+      "year": 2024,
+      "cases": 1551
+    },
+    {
+      "year": 2025,
+      "cases": 1851
+    },
+    {
+      "year": 2026,
+      "cases": 81
+    }
+  ]
+}

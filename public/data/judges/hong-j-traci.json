@@ -1,0 +1,64 @@
+{
+  "code": "JTH",
+  "slug": "hong-j-traci",
+  "name": "Hong, J. Traci",
+  "totalDecisions": 5194,
+  "grants": 492,
+  "denials": 43,
+  "removals": 34,
+  "absentia": 994,
+  "grantRate": 9.5,
+  "removalRate": 0.7,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2839
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 1893
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 178
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 103
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

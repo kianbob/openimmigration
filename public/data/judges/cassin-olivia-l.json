@@ -1,0 +1,64 @@
+{
+  "code": "OLC",
+  "slug": "cassin-olivia-l",
+  "name": "Cassin, Olivia L.",
+  "totalDecisions": 8009,
+  "grants": 2005,
+  "denials": 22,
+  "removals": 12,
+  "absentia": 1102,
+  "grantRate": 25,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 5640
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4222
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 105
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

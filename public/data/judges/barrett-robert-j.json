@@ -1,0 +1,59 @@
+{
+  "code": "RJB",
+  "slug": "barrett-robert-j",
+  "name": "Barrett, Robert J.",
+  "totalDecisions": 34719,
+  "grants": 1203,
+  "denials": 15498,
+  "removals": 15496,
+  "absentia": 4462,
+  "grantRate": 3.5,
+  "removalRate": 44.6,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 33197
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 835
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 296
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 170
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 115
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

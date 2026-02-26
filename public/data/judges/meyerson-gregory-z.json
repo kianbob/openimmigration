@@ -1,0 +1,64 @@
+{
+  "code": "GZM",
+  "slug": "meyerson-gregory-z",
+  "name": "Meyerson, Gregory Z.",
+  "totalDecisions": 10050,
+  "grants": 68,
+  "denials": 4915,
+  "removals": 4915,
+  "absentia": 1391,
+  "grantRate": 0.7,
+  "removalRate": 48.9,
+  "courts": [
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 4951
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4859
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 82
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 80
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

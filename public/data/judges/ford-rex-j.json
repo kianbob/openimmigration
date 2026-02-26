@@ -1,0 +1,64 @@
+{
+  "code": "RJF",
+  "slug": "ford-rex-j",
+  "name": "Ford, Rex J.",
+  "totalDecisions": 47367,
+  "grants": 2449,
+  "denials": 1984,
+  "removals": 1763,
+  "absentia": 3493,
+  "grantRate": 5.2,
+  "removalRate": 3.7,
+  "courts": [
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 32282
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 13378
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 1165
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 453
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

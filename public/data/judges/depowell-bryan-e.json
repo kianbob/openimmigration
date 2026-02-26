@@ -1,0 +1,64 @@
+{
+  "code": "BDP",
+  "slug": "depowell-bryan-e",
+  "name": "Depowell, Bryan E.",
+  "totalDecisions": 2965,
+  "grants": 67,
+  "denials": 37,
+  "removals": 2,
+  "absentia": 5,
+  "grantRate": 2.3,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 3134
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

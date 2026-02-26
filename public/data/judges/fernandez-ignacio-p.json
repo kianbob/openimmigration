@@ -1,0 +1,64 @@
+{
+  "code": "IPF",
+  "slug": "fernandez-ignacio-p",
+  "name": "Fernandez, Ignacio P.",
+  "totalDecisions": 18588,
+  "grants": 1431,
+  "denials": 485,
+  "removals": 476,
+  "absentia": 1943,
+  "grantRate": 7.7,
+  "removalRate": 2.6,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 17946
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 346
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 87
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

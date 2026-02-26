@@ -1,0 +1,155 @@
+{
+  "code": "WI",
+  "slug": "western-sahara",
+  "name": "Western Sahara",
+  "cases": 90,
+  "completed": 112,
+  "grants": 7,
+  "denials": 6,
+  "removals": 6,
+  "grantRate": 6.3,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 27
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 1
+    },
+    {
+      "year": 1994,
+      "cases": 1
+    },
+    {
+      "year": 1998,
+      "cases": 4
+    },
+    {
+      "year": 2012,
+      "cases": 1
+    },
+    {
+      "year": 2014,
+      "cases": 1
+    },
+    {
+      "year": 2019,
+      "cases": 2
+    },
+    {
+      "year": 2023,
+      "cases": 8
+    },
+    {
+      "year": 2024,
+      "cases": 13
+    },
+    {
+      "year": 2025,
+      "cases": 10
+    },
+    {
+      "year": 2026,
+      "cases": 1
+    }
+  ]
+}

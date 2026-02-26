@@ -1,0 +1,64 @@
+{
+  "code": "IAD",
+  "slug": "iad-judge",
+  "name": "Iad Judge",
+  "totalDecisions": 35865,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 1,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 16653
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 9626
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4004
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3407
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2831
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 2318
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2170
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1618
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 1532
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 1515
+    }
+  ]
+}

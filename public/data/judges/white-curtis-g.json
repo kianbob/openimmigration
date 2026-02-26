@@ -1,0 +1,64 @@
+{
+  "code": "CGW",
+  "slug": "white-curtis-g",
+  "name": "White, Curtis G.",
+  "totalDecisions": 3919,
+  "grants": 172,
+  "denials": 40,
+  "removals": 0,
+  "absentia": 273,
+  "grantRate": 4.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 3212
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 814
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 123
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "code": "PPL",
+  "slug": "leadbetter-philip-p",
+  "name": "Leadbetter, Philip P.",
+  "totalDecisions": 13608,
+  "grants": 2464,
+  "denials": 3750,
+  "removals": 3750,
+  "absentia": 598,
+  "grantRate": 18.1,
+  "removalRate": 27.6,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 11541
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2045
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

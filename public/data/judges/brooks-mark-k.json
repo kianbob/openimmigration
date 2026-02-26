@@ -1,0 +1,64 @@
+{
+  "code": "MKB",
+  "slug": "brooks-mark-k",
+  "name": "Brooks, Mark K.",
+  "totalDecisions": 10714,
+  "grants": 213,
+  "denials": 91,
+  "removals": 88,
+  "absentia": 2629,
+  "grantRate": 2,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8410
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 3928
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 178
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "WMH",
+  "slug": "hanrahan-william",
+  "name": "Hanrahan, William",
+  "totalDecisions": 78,
+  "grants": 1,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 78
+    }
+  ]
+}

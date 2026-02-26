@@ -1,0 +1,64 @@
+{
+  "code": "RSO",
+  "slug": "sogocio-rico-m",
+  "name": "Sogocio, Rico M.",
+  "totalDecisions": 11779,
+  "grants": 343,
+  "denials": 35,
+  "removals": 17,
+  "absentia": 2388,
+  "grantRate": 2.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 24313
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 108
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

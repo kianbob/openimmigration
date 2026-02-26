@@ -1,0 +1,64 @@
+{
+  "code": "LSY",
+  "slug": "saldana-mistry-lucero",
+  "name": "Saldana Mistry, Lucero",
+  "totalDecisions": 2804,
+  "grants": 255,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 97,
+  "grantRate": 9.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 1625
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 989
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 858
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

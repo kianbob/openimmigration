@@ -1,0 +1,29 @@
+{
+  "code": "SGW",
+  "slug": "williams-samuel-g",
+  "name": "Williams, Samuel G.",
+  "totalDecisions": 1697,
+  "grants": 39,
+  "denials": 14,
+  "removals": 0,
+  "absentia": 13,
+  "grantRate": 2.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 1743
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 69
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 36
+    }
+  ]
+}

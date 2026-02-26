@@ -1,0 +1,64 @@
+{
+  "code": "GA",
+  "slug": "vahid-tehrani-gita",
+  "name": "Vahid-Tehrani, Gita",
+  "totalDecisions": 16659,
+  "grants": 3067,
+  "denials": 184,
+  "removals": 170,
+  "absentia": 3377,
+  "grantRate": 18.4,
+  "removalRate": 1,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 16336
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 89
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 55
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

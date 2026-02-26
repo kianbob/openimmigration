@@ -1,0 +1,64 @@
+{
+  "code": "MSY",
+  "slug": "yam-mimi",
+  "name": "Yam, Mimi",
+  "totalDecisions": 15487,
+  "grants": 1467,
+  "denials": 573,
+  "removals": 557,
+  "absentia": 3751,
+  "grantRate": 9.5,
+  "removalRate": 3.6,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 8496
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4926
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 905
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 674
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 353
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 119
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

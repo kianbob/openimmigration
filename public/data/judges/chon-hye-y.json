@@ -1,0 +1,64 @@
+{
+  "code": "HYC",
+  "slug": "chon-hye-y",
+  "name": "Chon, Hye Y.",
+  "totalDecisions": 9643,
+  "grants": 427,
+  "denials": 46,
+  "removals": 40,
+  "absentia": 2019,
+  "grantRate": 4.4,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 7771
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4855
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

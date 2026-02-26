@@ -1,0 +1,64 @@
+{
+  "code": "DDO",
+  "slug": "ostrom-donald",
+  "name": "Ostrom, Donald",
+  "totalDecisions": 2114,
+  "grants": 114,
+  "denials": 3,
+  "removals": 1,
+  "absentia": 102,
+  "grantRate": 5.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 1477
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 605
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 364
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

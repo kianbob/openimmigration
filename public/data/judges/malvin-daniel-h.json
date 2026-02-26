@@ -1,0 +1,64 @@
+{
+  "code": "DHM",
+  "slug": "malvin-daniel-h",
+  "name": "Malvin, Daniel H.",
+  "totalDecisions": 7996,
+  "grants": 260,
+  "denials": 113,
+  "removals": 102,
+  "absentia": 1395,
+  "grantRate": 3.3,
+  "removalRate": 1.3,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 11064
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

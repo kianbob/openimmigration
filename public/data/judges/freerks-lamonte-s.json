@@ -1,0 +1,64 @@
+{
+  "code": "LSF",
+  "slug": "freerks-lamonte-s",
+  "name": "Freerks, Lamonte S.",
+  "totalDecisions": 50520,
+  "grants": 2682,
+  "denials": 5189,
+  "removals": 5158,
+  "absentia": 2532,
+  "grantRate": 5.3,
+  "removalRate": 10.2,
+  "courts": [
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 28330
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 21477
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 114
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 94
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 83
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 42
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "LIY",
+  "slug": "yokoyama-lori",
+  "name": "Yokoyama, Lori",
+  "totalDecisions": 2434,
+  "grants": 23,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 44,
+  "grantRate": 0.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 9517
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

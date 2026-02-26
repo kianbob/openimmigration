@@ -1,0 +1,64 @@
+{
+  "code": "VG",
+  "slug": "ghartey-victoria-l",
+  "name": "Ghartey, Victoria L.",
+  "totalDecisions": 30045,
+  "grants": 4033,
+  "denials": 645,
+  "removals": 609,
+  "absentia": 6527,
+  "grantRate": 13.4,
+  "removalRate": 2,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 34861
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4757
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 69
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

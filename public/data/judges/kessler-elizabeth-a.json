@@ -1,0 +1,64 @@
+{
+  "code": "EAK",
+  "slug": "kessler-elizabeth-a",
+  "name": "Kessler, Elizabeth A.",
+  "totalDecisions": 15321,
+  "grants": 2231,
+  "denials": 149,
+  "removals": 21,
+  "absentia": 2390,
+  "grantRate": 14.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 11899
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 4170
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 91
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

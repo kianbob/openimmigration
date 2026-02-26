@@ -1,0 +1,64 @@
+{
+  "code": "SAM",
+  "slug": "morley-steven-a",
+  "name": "Morley, Steven A.",
+  "totalDecisions": 11288,
+  "grants": 1450,
+  "denials": 42,
+  "removals": 15,
+  "absentia": 1859,
+  "grantRate": 12.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 10873
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 202
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

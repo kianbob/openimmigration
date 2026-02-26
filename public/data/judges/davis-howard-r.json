@@ -1,0 +1,64 @@
+{
+  "code": "HRD",
+  "slug": "davis-howard-r",
+  "name": "Davis, Howard R.",
+  "totalDecisions": 4286,
+  "grants": 469,
+  "denials": 8,
+  "removals": 3,
+  "absentia": 824,
+  "grantRate": 10.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 9429
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

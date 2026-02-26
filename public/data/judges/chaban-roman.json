@@ -1,0 +1,29 @@
+{
+  "code": "ROC",
+  "slug": "chaban-roman",
+  "name": "Chaban, Roman",
+  "totalDecisions": 188,
+  "grants": 3,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 185
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

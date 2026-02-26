@@ -1,0 +1,24 @@
+{
+  "code": "COK",
+  "slug": "knapp-cara-o-driscoll",
+  "name": "Knapp, Cara O'Driscoll",
+  "totalDecisions": 1326,
+  "grants": 16,
+  "denials": 33,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1317
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

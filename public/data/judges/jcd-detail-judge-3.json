@@ -1,0 +1,19 @@
+{
+  "code": "X32",
+  "slug": "jcd-detail-judge-3",
+  "name": "Jcd Detail Judge 3",
+  "totalDecisions": 350,
+  "grants": 9,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 1,
+  "grantRate": 2.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 350
+    }
+  ]
+}

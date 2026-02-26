@@ -1,0 +1,44 @@
+{
+  "code": "ARA",
+  "slug": "arthur-andrew-r",
+  "name": "Arthur, Andrew R.",
+  "totalDecisions": 16697,
+  "grants": 352,
+  "denials": 107,
+  "removals": 22,
+  "absentia": 4,
+  "grantRate": 2.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 14863
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 1119
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 712
+    },
+    {
+      "code": "YOR",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

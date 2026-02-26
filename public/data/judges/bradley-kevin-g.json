@@ -1,0 +1,64 @@
+{
+  "code": "KGB",
+  "slug": "bradley-kevin-g",
+  "name": "Bradley, Kevin G.",
+  "totalDecisions": 12046,
+  "grants": 2026,
+  "denials": 280,
+  "removals": 199,
+  "absentia": 2131,
+  "grantRate": 16.8,
+  "removalRate": 1.7,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 11543
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 183
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 102
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 73
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "EC3",
+  "slug": "castrolugo-elisa",
+  "name": "Castrolugo, Elisa",
+  "totalDecisions": 1250,
+  "grants": 18,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 274,
+  "grantRate": 1.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1245
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

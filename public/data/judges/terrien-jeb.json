@@ -1,0 +1,64 @@
+{
+  "code": "JBT",
+  "slug": "terrien-jeb",
+  "name": "Terrien, Jeb",
+  "totalDecisions": 3475,
+  "grants": 216,
+  "denials": 6,
+  "removals": 0,
+  "absentia": 366,
+  "grantRate": 6.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 1994
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1579
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 134
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 22
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

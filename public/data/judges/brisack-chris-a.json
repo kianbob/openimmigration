@@ -1,0 +1,64 @@
+{
+  "code": "CBA",
+  "slug": "brisack-chris-a",
+  "name": "Brisack, Chris A.",
+  "totalDecisions": 39690,
+  "grants": 1429,
+  "denials": 128,
+  "removals": 68,
+  "absentia": 7614,
+  "grantRate": 3.6,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 21023
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 11229
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 5248
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 2325
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

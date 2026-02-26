@@ -1,0 +1,49 @@
+{
+  "code": "SK",
+  "slug": "kandah-sabri",
+  "name": "Kandah, Sabri",
+  "totalDecisions": 9497,
+  "grants": 135,
+  "denials": 756,
+  "removals": 756,
+  "absentia": 699,
+  "grantRate": 1.4,
+  "removalRate": 8,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9306
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

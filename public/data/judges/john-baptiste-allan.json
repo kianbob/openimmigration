@@ -1,0 +1,64 @@
+{
+  "code": "AJB",
+  "slug": "john-baptiste-allan",
+  "name": "John-Baptiste, Allan",
+  "totalDecisions": 3817,
+  "grants": 149,
+  "denials": 16,
+  "removals": 0,
+  "absentia": 492,
+  "grantRate": 3.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 1333
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 1138
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 340
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 333
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 252
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 203
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 187
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 73
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 26
+    }
+  ]
+}

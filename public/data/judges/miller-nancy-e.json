@@ -1,0 +1,64 @@
+{
+  "code": "NMR",
+  "slug": "miller-nancy-e",
+  "name": "Miller, Nancy E.",
+  "totalDecisions": 5745,
+  "grants": 422,
+  "denials": 62,
+  "removals": 46,
+  "absentia": 885,
+  "grantRate": 7.3,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 5855
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4255
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 156
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

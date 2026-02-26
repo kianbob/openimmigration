@@ -1,0 +1,64 @@
+{
+  "code": "KFL",
+  "slug": "sydnor-kelley-n",
+  "name": "Sydnor, Kelley N",
+  "totalDecisions": 6055,
+  "grants": 97,
+  "denials": 40,
+  "removals": 0,
+  "absentia": 915,
+  "grantRate": 1.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 5014
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 1084
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 737
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 387
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 230
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 199
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 196
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 177
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 141
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 139
+    }
+  ]
+}

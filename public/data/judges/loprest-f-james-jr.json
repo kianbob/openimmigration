@@ -1,0 +1,64 @@
+{
+  "code": "JLP",
+  "slug": "loprest-f-james-jr",
+  "name": "Loprest, F. James, Jr.",
+  "totalDecisions": 12726,
+  "grants": 2443,
+  "denials": 40,
+  "removals": 34,
+  "absentia": 1664,
+  "grantRate": 19.2,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 20717
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 90
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

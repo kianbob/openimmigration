@@ -1,0 +1,44 @@
+{
+  "code": "FJL",
+  "slug": "lyons-francis-j",
+  "name": "Lyons, Francis J.",
+  "totalDecisions": 3185,
+  "grants": 113,
+  "denials": 292,
+  "removals": 292,
+  "absentia": 9,
+  "grantRate": 3.5,
+  "removalRate": 9.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3010
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 126
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

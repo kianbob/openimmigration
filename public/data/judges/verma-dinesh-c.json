@@ -1,0 +1,64 @@
+{
+  "code": "DCV",
+  "slug": "verma-dinesh-c",
+  "name": "Verma, Dinesh C.",
+  "totalDecisions": 9582,
+  "grants": 1166,
+  "denials": 19,
+  "removals": 3,
+  "absentia": 1758,
+  "grantRate": 12.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 6300
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 3331
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 1211
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 100
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

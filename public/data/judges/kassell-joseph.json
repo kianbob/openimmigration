@@ -1,0 +1,64 @@
+{
+  "code": "JHK",
+  "slug": "kassell-joseph",
+  "name": "Kassell, Joseph",
+  "totalDecisions": 2159,
+  "grants": 92,
+  "denials": 14,
+  "removals": 0,
+  "absentia": 63,
+  "grantRate": 4.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 1337
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 489
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 457
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 369
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 57
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 23
+    }
+  ]
+}

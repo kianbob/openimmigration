@@ -1,0 +1,64 @@
+{
+  "code": "JPJ",
+  "slug": "penalosa-jose-l-jr",
+  "name": "Penalosa, Jose L., Jr.",
+  "totalDecisions": 13830,
+  "grants": 239,
+  "denials": 71,
+  "removals": 23,
+  "absentia": 710,
+  "grantRate": 1.7,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 7031
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4493
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 2579
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 598
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 162
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

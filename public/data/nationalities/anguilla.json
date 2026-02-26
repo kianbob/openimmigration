@@ -1,0 +1,186 @@
+{
+  "code": "AV",
+  "slug": "anguilla",
+  "name": "Anguilla",
+  "cases": 66,
+  "completed": 100,
+  "grants": 13,
+  "denials": 14,
+  "removals": 14,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 23
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 9
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1992,
+      "cases": 1
+    },
+    {
+      "year": 1995,
+      "cases": 2
+    },
+    {
+      "year": 1996,
+      "cases": 2
+    },
+    {
+      "year": 1997,
+      "cases": 2
+    },
+    {
+      "year": 2000,
+      "cases": 1
+    },
+    {
+      "year": 2001,
+      "cases": 2
+    },
+    {
+      "year": 2002,
+      "cases": 1
+    },
+    {
+      "year": 2003,
+      "cases": 1
+    },
+    {
+      "year": 2004,
+      "cases": 1
+    },
+    {
+      "year": 2005,
+      "cases": 3
+    },
+    {
+      "year": 2006,
+      "cases": 1
+    },
+    {
+      "year": 2012,
+      "cases": 1
+    },
+    {
+      "year": 2013,
+      "cases": 2
+    },
+    {
+      "year": 2014,
+      "cases": 1
+    },
+    {
+      "year": 2015,
+      "cases": 1
+    },
+    {
+      "year": 2016,
+      "cases": 2
+    },
+    {
+      "year": 2018,
+      "cases": 2
+    },
+    {
+      "year": 2022,
+      "cases": 2
+    },
+    {
+      "year": 2025,
+      "cases": 2
+    }
+  ]
+}

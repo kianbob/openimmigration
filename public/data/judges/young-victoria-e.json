@@ -1,0 +1,29 @@
+{
+  "code": "VIC",
+  "slug": "young-victoria-e",
+  "name": "Young, Victoria E.",
+  "totalDecisions": 9390,
+  "grants": 240,
+  "denials": 24,
+  "removals": 15,
+  "absentia": 198,
+  "grantRate": 2.6,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 7857
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 1026
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 507
+    }
+  ]
+}

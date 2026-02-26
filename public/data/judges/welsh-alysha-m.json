@@ -1,0 +1,64 @@
+{
+  "code": "AMW",
+  "slug": "welsh-alysha-m",
+  "name": "Welsh, Alysha M.",
+  "totalDecisions": 3460,
+  "grants": 124,
+  "denials": 8,
+  "removals": 2,
+  "absentia": 633,
+  "grantRate": 3.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 2363
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2234
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 2
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

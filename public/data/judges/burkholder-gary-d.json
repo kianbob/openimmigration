@@ -1,0 +1,64 @@
+{
+  "code": "GDB",
+  "slug": "burkholder-gary-d",
+  "name": "Burkholder, Gary D.",
+  "totalDecisions": 62582,
+  "grants": 1241,
+  "denials": 6606,
+  "removals": 6502,
+  "absentia": 9808,
+  "grantRate": 2,
+  "removalRate": 10.4,
+  "courts": [
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 15963
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 15481
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 13165
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 6109
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 4768
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 4497
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1641
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 436
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 328
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 160
+    }
+  ]
+}

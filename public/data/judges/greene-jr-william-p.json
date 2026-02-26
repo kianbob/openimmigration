@@ -1,0 +1,49 @@
+{
+  "code": "WPG",
+  "slug": "greene-jr-william-p",
+  "name": "Greene Jr., William P.",
+  "totalDecisions": 4789,
+  "grants": 790,
+  "denials": 1118,
+  "removals": 1118,
+  "absentia": 973,
+  "grantRate": 16.5,
+  "removalRate": 23.3,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2923
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 965
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 584
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 146
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 123
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 21
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "MP1",
+  "slug": "pleters-michael-s",
+  "name": "Pleters, Michael S.",
+  "totalDecisions": 10146,
+  "grants": 175,
+  "denials": 71,
+  "removals": 1,
+  "absentia": 53,
+  "grantRate": 1.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 8019
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 2068
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 411
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

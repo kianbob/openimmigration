@@ -1,0 +1,64 @@
+{
+  "code": "AMC",
+  "slug": "cosme-angel-m",
+  "name": "Cosme, Angel M.",
+  "totalDecisions": 12794,
+  "grants": 70,
+  "denials": 7626,
+  "removals": 7626,
+  "absentia": 462,
+  "grantRate": 0.5,
+  "removalRate": 59.6,
+  "courts": [
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 9090
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1569
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1449
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 213
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 189
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 127
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 106
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 11
+    }
+  ]
+}

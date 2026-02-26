@@ -1,0 +1,64 @@
+{
+  "code": "JAL",
+  "slug": "luskin-joshua-d",
+  "name": "Luskin, Joshua D.",
+  "totalDecisions": 5824,
+  "grants": 535,
+  "denials": 9,
+  "removals": 2,
+  "absentia": 1305,
+  "grantRate": 9.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 12174
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 1149
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 287
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 50
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

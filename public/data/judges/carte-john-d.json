@@ -1,0 +1,44 @@
+{
+  "code": "JDC",
+  "slug": "carte-john-d",
+  "name": "Carte', John D.",
+  "totalDecisions": 42628,
+  "grants": 809,
+  "denials": 159,
+  "removals": 122,
+  "absentia": 17036,
+  "grantRate": 1.9,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 25055
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 8409
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 6999
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 1962
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 141
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 61
+    }
+  ]
+}

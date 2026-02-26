@@ -1,0 +1,64 @@
+{
+  "code": "BLF",
+  "slug": "laforest-brigitte",
+  "name": "Laforest, Brigitte",
+  "totalDecisions": 20581,
+  "grants": 7467,
+  "denials": 408,
+  "removals": 368,
+  "absentia": 3591,
+  "grantRate": 36.3,
+  "removalRate": 1.8,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 15926
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4916
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 238
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 65
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 15
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "KMR",
+  "slug": "reilly-kathleen",
+  "name": "Reilly, Kathleen",
+  "totalDecisions": 2572,
+  "grants": 215,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 234,
+  "grantRate": 8.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 2526
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 2
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

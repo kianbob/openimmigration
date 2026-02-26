@@ -1,0 +1,64 @@
+{
+  "code": "REY",
+  "slug": "reyes-susana",
+  "name": "Reyes, Susana",
+  "totalDecisions": 1996,
+  "grants": 306,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 431,
+  "grantRate": 15.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 4814
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 60
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "PJC",
+  "slug": "costa-philip-j",
+  "name": "Costa, Philip J.",
+  "totalDecisions": 11283,
+  "grants": 1411,
+  "denials": 183,
+  "removals": 162,
+  "absentia": 1879,
+  "grantRate": 12.5,
+  "removalRate": 1.4,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 10921
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 161
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 60
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

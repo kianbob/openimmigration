@@ -1,0 +1,64 @@
+{
+  "code": "MGO",
+  "slug": "guerrero-marni",
+  "name": "Guerrero, Marni",
+  "totalDecisions": 11033,
+  "grants": 233,
+  "denials": 83,
+  "removals": 9,
+  "absentia": 690,
+  "grantRate": 2.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 7485
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 6250
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 541
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 367
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 191
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 83
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

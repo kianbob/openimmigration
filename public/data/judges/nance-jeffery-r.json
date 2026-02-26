@@ -1,0 +1,64 @@
+{
+  "code": "JRN",
+  "slug": "nance-jeffery-r",
+  "name": "Nance, Jeffery R.",
+  "totalDecisions": 23336,
+  "grants": 194,
+  "denials": 27,
+  "removals": 1,
+  "absentia": 10970,
+  "grantRate": 0.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 42814
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 2483
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

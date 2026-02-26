@@ -1,0 +1,64 @@
+{
+  "code": "TAB",
+  "slug": "bain-terry-a",
+  "name": "Bain, Terry A.",
+  "totalDecisions": 18536,
+  "grants": 8113,
+  "denials": 859,
+  "removals": 843,
+  "absentia": 2787,
+  "grantRate": 43.8,
+  "removalRate": 4.5,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 18050
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 96
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 62
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 16
+    }
+  ]
+}

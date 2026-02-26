@@ -1,0 +1,64 @@
+{
+  "code": "ICF",
+  "slug": "feldman-irene-c",
+  "name": "Feldman, Irene C.",
+  "totalDecisions": 14434,
+  "grants": 308,
+  "denials": 85,
+  "removals": 6,
+  "absentia": 451,
+  "grantRate": 2.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 11214
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 1584
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 881
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 747
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 81
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

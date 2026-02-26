@@ -1,0 +1,44 @@
+{
+  "code": "MHM",
+  "slug": "metcalf-mark-h",
+  "name": "Metcalf, Mark H.",
+  "totalDecisions": 2060,
+  "grants": 335,
+  "denials": 20,
+  "removals": 8,
+  "absentia": 625,
+  "grantRate": 16.3,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1965
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "code": "SJM",
+  "slug": "marks-stephanie-j",
+  "name": "Marks, Stephanie J.",
+  "totalDecisions": 1091,
+  "grants": 34,
+  "denials": 332,
+  "removals": 332,
+  "absentia": 65,
+  "grantRate": 3.1,
+  "removalRate": 30.4,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 480
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 243
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 125
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 114
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 78
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "NYD",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "MS1",
+  "slug": "sharda-munish",
+  "name": "Sharda, Munish",
+  "totalDecisions": 16729,
+  "grants": 428,
+  "denials": 47,
+  "removals": 13,
+  "absentia": 3169,
+  "grantRate": 2.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 14697
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 5357
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 75
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

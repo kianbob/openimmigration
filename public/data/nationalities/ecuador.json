@@ -1,0 +1,263 @@
+{
+  "code": "EC",
+  "slug": "ecuador",
+  "name": "Ecuador",
+  "cases": 258834,
+  "completed": 312542,
+  "grants": 12458,
+  "denials": 5896,
+  "removals": 5364,
+  "grantRate": 4,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 56138
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 28388
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 24930
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "count": 15840
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 15672
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 13957
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 12862
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 6809
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 6345
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "count": 4446
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "count": 3651
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "count": 3518
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 3381
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 3341
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 3015
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "count": 2944
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 2829
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 2812
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "count": 2698
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "count": 2629
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 153
+    },
+    {
+      "year": 1991,
+      "cases": 127
+    },
+    {
+      "year": 1992,
+      "cases": 186
+    },
+    {
+      "year": 1993,
+      "cases": 190
+    },
+    {
+      "year": 1994,
+      "cases": 278
+    },
+    {
+      "year": 1995,
+      "cases": 292
+    },
+    {
+      "year": 1996,
+      "cases": 506
+    },
+    {
+      "year": 1997,
+      "cases": 575
+    },
+    {
+      "year": 1998,
+      "cases": 520
+    },
+    {
+      "year": 1999,
+      "cases": 397
+    },
+    {
+      "year": 2000,
+      "cases": 494
+    },
+    {
+      "year": 2001,
+      "cases": 500
+    },
+    {
+      "year": 2002,
+      "cases": 409
+    },
+    {
+      "year": 2003,
+      "cases": 468
+    },
+    {
+      "year": 2004,
+      "cases": 355
+    },
+    {
+      "year": 2005,
+      "cases": 400
+    },
+    {
+      "year": 2006,
+      "cases": 421
+    },
+    {
+      "year": 2007,
+      "cases": 288
+    },
+    {
+      "year": 2008,
+      "cases": 282
+    },
+    {
+      "year": 2009,
+      "cases": 334
+    },
+    {
+      "year": 2010,
+      "cases": 351
+    },
+    {
+      "year": 2011,
+      "cases": 446
+    },
+    {
+      "year": 2012,
+      "cases": 625
+    },
+    {
+      "year": 2013,
+      "cases": 1092
+    },
+    {
+      "year": 2014,
+      "cases": 1660
+    },
+    {
+      "year": 2015,
+      "cases": 1730
+    },
+    {
+      "year": 2016,
+      "cases": 2333
+    },
+    {
+      "year": 2017,
+      "cases": 2774
+    },
+    {
+      "year": 2018,
+      "cases": 3474
+    },
+    {
+      "year": 2019,
+      "cases": 4485
+    },
+    {
+      "year": 2020,
+      "cases": 3752
+    },
+    {
+      "year": 2021,
+      "cases": 5265
+    },
+    {
+      "year": 2022,
+      "cases": 12120
+    },
+    {
+      "year": 2023,
+      "cases": 12361
+    },
+    {
+      "year": 2024,
+      "cases": 20369
+    },
+    {
+      "year": 2025,
+      "cases": 19311
+    },
+    {
+      "year": 2026,
+      "cases": 1191
+    }
+  ]
+}

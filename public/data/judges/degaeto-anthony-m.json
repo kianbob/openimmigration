@@ -1,0 +1,44 @@
+{
+  "code": "AMD",
+  "slug": "degaeto-anthony-m",
+  "name": "Degaeto, Anthony M.",
+  "totalDecisions": 3224,
+  "grants": 82,
+  "denials": 374,
+  "removals": 374,
+  "absentia": 74,
+  "grantRate": 2.5,
+  "removalRate": 11.6,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3094
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

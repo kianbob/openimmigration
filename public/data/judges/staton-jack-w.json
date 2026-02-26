@@ -1,0 +1,49 @@
+{
+  "code": "JWS",
+  "slug": "staton-jack-w",
+  "name": "Staton, Jack W.",
+  "totalDecisions": 44086,
+  "grants": 1658,
+  "denials": 12520,
+  "removals": 12491,
+  "absentia": 1090,
+  "grantRate": 3.8,
+  "removalRate": 28.3,
+  "courts": [
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 43906
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 123
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

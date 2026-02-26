@@ -1,0 +1,54 @@
+{
+  "code": "MS",
+  "slug": "ms",
+  "name": "Ms",
+  "cases": 17,
+  "completed": 26,
+  "grants": 0,
+  "denials": 17,
+  "removals": 17,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1992,
+      "cases": 2
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "LCF",
+  "slug": "figueroa-laura-c",
+  "name": "Figueroa, Laura C.",
+  "totalDecisions": 5519,
+  "grants": 948,
+  "denials": 75,
+  "removals": 2,
+  "absentia": 348,
+  "grantRate": 17.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 2888
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2437
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 206
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

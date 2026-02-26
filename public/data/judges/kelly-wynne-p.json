@@ -1,0 +1,64 @@
+{
+  "code": "WPK",
+  "slug": "kelly-wynne-p",
+  "name": "Kelly, Wynne P.",
+  "totalDecisions": 3526,
+  "grants": 286,
+  "denials": 11,
+  "removals": 1,
+  "absentia": 1109,
+  "grantRate": 8.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 1864
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 684
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 562
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 360
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

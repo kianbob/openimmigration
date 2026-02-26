@@ -1,0 +1,64 @@
+{
+  "code": "ARK",
+  "slug": "kane-alison-r",
+  "name": "Kane, Alison R.",
+  "totalDecisions": 12982,
+  "grants": 937,
+  "denials": 28,
+  "removals": 1,
+  "absentia": 3723,
+  "grantRate": 7.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 17953
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 1362
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 66
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 11
+    }
+  ]
+}

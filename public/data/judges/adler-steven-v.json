@@ -1,0 +1,29 @@
+{
+  "code": "SVA",
+  "slug": "adler-steven-v",
+  "name": "Adler, Steven V.",
+  "totalDecisions": 297,
+  "grants": 107,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 18,
+  "grantRate": 36,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 247
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

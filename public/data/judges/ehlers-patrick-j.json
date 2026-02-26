@@ -1,0 +1,64 @@
+{
+  "code": "PKE",
+  "slug": "ehlers-patrick-j",
+  "name": "Ehlers, Patrick J.",
+  "totalDecisions": 2619,
+  "grants": 226,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 448,
+  "grantRate": 8.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 2550
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

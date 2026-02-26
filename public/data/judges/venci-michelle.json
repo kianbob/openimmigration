@@ -1,0 +1,64 @@
+{
+  "code": "MEV",
+  "slug": "venci-michelle",
+  "name": "Venci, Michelle",
+  "totalDecisions": 9209,
+  "grants": 232,
+  "denials": 12,
+  "removals": 1,
+  "absentia": 2929,
+  "grantRate": 2.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 21478
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 11
+    }
+  ]
+}

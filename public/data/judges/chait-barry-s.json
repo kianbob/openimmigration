@@ -1,0 +1,59 @@
+{
+  "code": "BSC",
+  "slug": "chait-barry-s",
+  "name": "Chait, Barry S.",
+  "totalDecisions": 21062,
+  "grants": 323,
+  "denials": 119,
+  "removals": 8,
+  "absentia": 157,
+  "grantRate": 1.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 9846
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 7611
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3595
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "HKM",
+  "slug": "mart-h-kevin",
+  "name": "Mart, H. Kevin",
+  "totalDecisions": 4012,
+  "grants": 526,
+  "denials": 51,
+  "removals": 20,
+  "absentia": 692,
+  "grantRate": 13.1,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3126
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 174
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 162
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 118
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 92
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 90
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 89
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 60
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

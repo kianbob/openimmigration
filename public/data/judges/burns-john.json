@@ -1,0 +1,64 @@
+{
+  "code": "JHB",
+  "slug": "burns-john",
+  "name": "Burns, John",
+  "totalDecisions": 6035,
+  "grants": 61,
+  "denials": 4,
+  "removals": 1,
+  "absentia": 1976,
+  "grantRate": 1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 7143
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 524
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 134
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "hearings": 78
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

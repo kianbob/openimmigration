@@ -1,0 +1,54 @@
+{
+  "code": "MCG",
+  "slug": "grant-m-christopher",
+  "name": "Grant, M. Christopher",
+  "totalDecisions": 8179,
+  "grants": 1277,
+  "denials": 262,
+  "removals": 254,
+  "absentia": 2023,
+  "grantRate": 15.6,
+  "removalRate": 3.1,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 7221
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 943
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

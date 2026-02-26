@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 }
 
 export default function CourtsPage() {
-  const courts = loadData('courts.json')
+  const courts = loadData('court-index.json')
   const stats = loadData('stats.json')
 
   const totalCases = courts.reduce((sum: number, c: { cases: number }) => sum + c.cases, 0)

@@ -1,0 +1,64 @@
+{
+  "code": "WWM",
+  "slug": "murray-winfield-w",
+  "name": "Murray, Winfield W.",
+  "totalDecisions": 10135,
+  "grants": 143,
+  "denials": 18,
+  "removals": 16,
+  "absentia": 3844,
+  "grantRate": 1.4,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 23412
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

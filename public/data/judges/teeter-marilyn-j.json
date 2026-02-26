@@ -1,0 +1,64 @@
+{
+  "code": "MJT",
+  "slug": "teeter-marilyn-j",
+  "name": "Teeter, Marilyn J.",
+  "totalDecisions": 8641,
+  "grants": 2309,
+  "denials": 119,
+  "removals": 111,
+  "absentia": 1660,
+  "grantRate": 26.7,
+  "removalRate": 1.3,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 8374
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 220
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

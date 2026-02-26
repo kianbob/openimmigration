@@ -1,0 +1,64 @@
+{
+  "code": "IJN",
+  "slug": "newburn-irma-j",
+  "name": "Newburn, Irma J.",
+  "totalDecisions": 9698,
+  "grants": 58,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 3742,
+  "grantRate": 0.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 19488
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 210
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 201
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 117
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 64
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

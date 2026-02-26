@@ -1,0 +1,64 @@
+{
+  "code": "MWH",
+  "slug": "watters-matthew-h",
+  "name": "Watters, Matthew H",
+  "totalDecisions": 2067,
+  "grants": 44,
+  "denials": 13,
+  "removals": 8,
+  "absentia": 92,
+  "grantRate": 2.1,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 1629
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 335
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 68
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

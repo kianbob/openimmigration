@@ -1,0 +1,64 @@
+{
+  "code": "JFD",
+  "slug": "durkin-jennifer",
+  "name": "Durkin, Jennifer",
+  "totalDecisions": 2384,
+  "grants": 253,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 670,
+  "grantRate": 10.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 2364
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "RLP",
+  "slug": "patel-roopal",
+  "name": "Patel, Roopal",
+  "totalDecisions": 4244,
+  "grants": 304,
+  "denials": 4,
+  "removals": 4,
+  "absentia": 404,
+  "grantRate": 7.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 15238
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

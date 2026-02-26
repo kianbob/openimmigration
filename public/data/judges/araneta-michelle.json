@@ -1,0 +1,64 @@
+{
+  "code": "MCA",
+  "slug": "araneta-michelle",
+  "name": "Araneta, Michelle",
+  "totalDecisions": 11159,
+  "grants": 206,
+  "denials": 17,
+  "removals": 11,
+  "absentia": 2045,
+  "grantRate": 1.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 23576
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

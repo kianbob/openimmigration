@@ -15,7 +15,7 @@ export const metadata: Metadata = {
 }
 
 export default function JudgesPage() {
-  const judges = loadData('judges.json')
+  const judges = loadData('judge-index.json')
   const stats = loadData('stats.json')
 
   const avgGrant = (judges.reduce((s: number, j: { grantRate: number }) => s + j.grantRate, 0) / judges.length).toFixed(1)

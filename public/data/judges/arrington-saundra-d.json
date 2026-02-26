@@ -1,0 +1,29 @@
+{
+  "code": "SHA",
+  "slug": "arrington-saundra-d",
+  "name": "Arrington, Saundra D.",
+  "totalDecisions": 16863,
+  "grants": 157,
+  "denials": 69,
+  "removals": 5,
+  "absentia": 3,
+  "grantRate": 0.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 16857
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

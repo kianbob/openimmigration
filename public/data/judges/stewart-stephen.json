@@ -1,0 +1,64 @@
+{
+  "code": "SNS",
+  "slug": "stewart-stephen",
+  "name": "Stewart, Stephen",
+  "totalDecisions": 518,
+  "grants": 39,
+  "denials": 2,
+  "removals": 1,
+  "absentia": 47,
+  "grantRate": 7.5,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 3646
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 80
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 18
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

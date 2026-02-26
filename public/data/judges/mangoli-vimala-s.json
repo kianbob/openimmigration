@@ -1,0 +1,64 @@
+{
+  "code": "VSM",
+  "slug": "mangoli-vimala-s",
+  "name": "Mangoli, Vimala S.",
+  "totalDecisions": 2128,
+  "grants": 21,
+  "denials": 11,
+  "removals": 0,
+  "absentia": 25,
+  "grantRate": 1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 625
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 501
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 418
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 302
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 124
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 59
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 16
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

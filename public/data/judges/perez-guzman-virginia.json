@@ -1,0 +1,64 @@
+{
+  "code": "VPG",
+  "slug": "perez-guzman-virginia",
+  "name": "Perez-Guzman, Virginia",
+  "totalDecisions": 18518,
+  "grants": 1089,
+  "denials": 75,
+  "removals": 12,
+  "absentia": 3911,
+  "grantRate": 5.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 8404
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 7669
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 683
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 469
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 456
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 277
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 223
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 108
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 29
+    }
+  ]
+}

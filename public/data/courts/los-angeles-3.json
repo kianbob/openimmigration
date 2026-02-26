@@ -1,0 +1,246 @@
+{
+  "code": "LOS",
+  "slug": "los-angeles-3",
+  "name": "Los Angeles",
+  "state": "CA",
+  "address": "606 SOUTH OLIVE ST.",
+  "active": false,
+  "cases": 169,
+  "completed": 25,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topNationalities": [
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "count": 41
+    },
+    {
+      "code": "ES",
+      "name": "El Salvador",
+      "count": 23
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "count": 13
+    },
+    {
+      "code": "NU",
+      "name": "Nicaragua",
+      "count": 12
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "count": 9
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "count": 7
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "count": 7
+    },
+    {
+      "code": "CH",
+      "name": "China",
+      "count": 6
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "count": 4
+    },
+    {
+      "code": "HO",
+      "name": "Honduras",
+      "count": 4
+    },
+    {
+      "code": "RP",
+      "name": "Philippines",
+      "count": 4
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "count": 3
+    },
+    {
+      "code": "BG",
+      "name": "Bangladesh",
+      "count": 3
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "count": 2
+    },
+    {
+      "code": "BL",
+      "name": "Bolivia",
+      "count": 2
+    },
+    {
+      "code": "KS",
+      "name": "South Korea",
+      "count": 2
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "count": 2
+    },
+    {
+      "code": "BH",
+      "name": "Belize",
+      "count": 2
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "count": 1
+    },
+    {
+      "code": "DR",
+      "name": "Dominican Republic",
+      "count": 1
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "TRW",
+      "name": "Wood, Tyler",
+      "decisions": 6,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "CLR",
+      "name": "Clerical Transfer Code",
+      "decisions": 3,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "HYC",
+      "name": "Chon, Hye Y.",
+      "decisions": 3,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "TNN",
+      "name": "Naselow-Nahas, Tara",
+      "decisions": 3,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "DEH",
+      "name": "Hunter, Denise",
+      "decisions": 3,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "PJC",
+      "name": "Costa, Philip J.",
+      "decisions": 2,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "JTH",
+      "name": "Hong, J. Traci",
+      "decisions": 1,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "AOC",
+      "name": "Capistrano, Antonio",
+      "decisions": 1,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "JBV",
+      "name": "Bakke Varzandeh, Joyce",
+      "decisions": 1,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "JWO",
+      "name": "Waterloo, Jason R.",
+      "decisions": 1,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1997,
+      "cases": 1
+    },
+    {
+      "year": 1998,
+      "cases": 1
+    },
+    {
+      "year": 2005,
+      "cases": 1
+    },
+    {
+      "year": 2007,
+      "cases": 1
+    },
+    {
+      "year": 2008,
+      "cases": 1
+    },
+    {
+      "year": 2012,
+      "cases": 1
+    },
+    {
+      "year": 2015,
+      "cases": 2
+    },
+    {
+      "year": 2020,
+      "cases": 1
+    },
+    {
+      "year": 2021,
+      "cases": 1
+    }
+  ]
+}

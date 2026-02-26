@@ -1,0 +1,64 @@
+{
+  "code": "MEF",
+  "slug": "monsky-megan-foote",
+  "name": "Monsky, Megan Foote",
+  "totalDecisions": 181,
+  "grants": 3,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 2,
+  "grantRate": 1.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 72
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

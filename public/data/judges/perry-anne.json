@@ -1,0 +1,24 @@
+{
+  "code": "AEP",
+  "slug": "perry-anne",
+  "name": "Perry, Anne",
+  "totalDecisions": 55,
+  "grants": 0,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 2,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

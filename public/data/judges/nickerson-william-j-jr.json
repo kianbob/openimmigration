@@ -1,0 +1,49 @@
+{
+  "code": "WJN",
+  "slug": "nickerson-william-j-jr",
+  "name": "Nickerson, William J., Jr.",
+  "totalDecisions": 34611,
+  "grants": 840,
+  "denials": 141,
+  "removals": 63,
+  "absentia": 101,
+  "grantRate": 2.4,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 25023
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 9503
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

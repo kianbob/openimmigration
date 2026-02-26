@@ -1,0 +1,64 @@
+{
+  "code": "CMK",
+  "slug": "kozoll-christopher-m",
+  "name": "Kozoll, Christopher M.",
+  "totalDecisions": 1699,
+  "grants": 18,
+  "denials": 2,
+  "removals": 1,
+  "absentia": 404,
+  "grantRate": 1.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 1209
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 265
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 144
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 68
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

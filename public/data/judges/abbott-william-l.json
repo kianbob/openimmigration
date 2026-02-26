@@ -1,0 +1,54 @@
+{
+  "code": "WLA",
+  "slug": "abbott-william-l",
+  "name": "Abbott, William L.",
+  "totalDecisions": 63801,
+  "grants": 1128,
+  "denials": 2830,
+  "removals": 2662,
+  "absentia": 620,
+  "grantRate": 1.8,
+  "removalRate": 4.2,
+  "courts": [
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 48030
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 13052
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 1285
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 785
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 640
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYD",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

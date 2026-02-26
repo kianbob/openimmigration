@@ -1,0 +1,64 @@
+{
+  "code": "JTD",
+  "slug": "dehn-james-t",
+  "name": "Dehn, James T.",
+  "totalDecisions": 3630,
+  "grants": 217,
+  "denials": 8,
+  "removals": 0,
+  "absentia": 1044,
+  "grantRate": 6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 5204
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

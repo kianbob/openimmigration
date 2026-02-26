@@ -1,0 +1,64 @@
+{
+  "code": "PSS",
+  "slug": "savage-patrick-s",
+  "name": "Savage, Patrick S.",
+  "totalDecisions": 9999,
+  "grants": 1799,
+  "denials": 35,
+  "removals": 22,
+  "absentia": 1548,
+  "grantRate": 18,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 15054
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 68
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

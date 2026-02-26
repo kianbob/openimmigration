@@ -1,0 +1,64 @@
+{
+  "code": "ANW",
+  "slug": "welhaf-ann",
+  "name": "Welhaf, Ann",
+  "totalDecisions": 2840,
+  "grants": 177,
+  "denials": 6,
+  "removals": 1,
+  "absentia": 683,
+  "grantRate": 6.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 2800
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 4
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

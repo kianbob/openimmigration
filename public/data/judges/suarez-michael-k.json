@@ -1,0 +1,64 @@
+{
+  "code": "MKS",
+  "slug": "suarez-michael-k",
+  "name": "Suarez, Michael K.",
+  "totalDecisions": 10531,
+  "grants": 394,
+  "denials": 3588,
+  "removals": 3579,
+  "absentia": 1931,
+  "grantRate": 3.7,
+  "removalRate": 34,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5703
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 3532
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 616
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 411
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 130
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

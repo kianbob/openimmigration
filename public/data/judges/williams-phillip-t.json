@@ -1,0 +1,64 @@
+{
+  "code": "PTW",
+  "slug": "williams-phillip-t",
+  "name": "Williams, Phillip T.",
+  "totalDecisions": 18387,
+  "grants": 2929,
+  "denials": 467,
+  "removals": 426,
+  "absentia": 3968,
+  "grantRate": 15.9,
+  "removalRate": 2.3,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 13092
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 3070
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1661
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 84
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 58
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 32
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "code": "KHU",
+  "slug": "hunsucker-keith-e",
+  "name": "Hunsucker, Keith E.",
+  "totalDecisions": 11165,
+  "grants": 344,
+  "denials": 122,
+  "removals": 12,
+  "absentia": 9,
+  "grantRate": 3.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 9281
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 1684
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 131
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

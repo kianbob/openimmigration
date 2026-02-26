@@ -1,0 +1,44 @@
+{
+  "code": "BSP",
+  "slug": "sapp-billy-j",
+  "name": "Sapp, Billy J.",
+  "totalDecisions": 9154,
+  "grants": 196,
+  "denials": 52,
+  "removals": 1,
+  "absentia": 1,
+  "grantRate": 2.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 9430
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

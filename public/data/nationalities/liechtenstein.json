@@ -1,0 +1,24 @@
+{
+  "code": "LS",
+  "slug": "liechtenstein",
+  "name": "Liechtenstein",
+  "cases": 2,
+  "completed": 9,
+  "grants": 0,
+  "denials": 1,
+  "removals": 1,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": []
+}

@@ -1,0 +1,64 @@
+{
+  "code": "LGN",
+  "slug": "golovnin-lena",
+  "name": "Golovnin, Lena",
+  "totalDecisions": 8389,
+  "grants": 943,
+  "denials": 31,
+  "removals": 22,
+  "absentia": 1661,
+  "grantRate": 11.2,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 13901
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 314
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 183
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 92
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

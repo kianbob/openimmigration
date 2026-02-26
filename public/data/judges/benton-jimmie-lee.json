@@ -1,0 +1,64 @@
+{
+  "code": "JLB",
+  "slug": "benton-jimmie-lee",
+  "name": "Benton, Jimmie Lee",
+  "totalDecisions": 52528,
+  "grants": 1581,
+  "denials": 3018,
+  "removals": 2946,
+  "absentia": 2513,
+  "grantRate": 3,
+  "removalRate": 5.6,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 36317
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 9569
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3550
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1566
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 724
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 328
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 261
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 68
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 59
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 44
+    }
+  ]
+}

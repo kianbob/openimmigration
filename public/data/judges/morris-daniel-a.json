@@ -1,0 +1,64 @@
+{
+  "code": "DM",
+  "slug": "morris-daniel-a",
+  "name": "Morris, Daniel A.",
+  "totalDecisions": 22449,
+  "grants": 1026,
+  "denials": 103,
+  "removals": 9,
+  "absentia": 3951,
+  "grantRate": 4.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 23252
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 8286
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 721
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 221
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

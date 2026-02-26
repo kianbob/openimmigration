@@ -1,0 +1,64 @@
+{
+  "code": "RDN",
+  "slug": "newberry-robert-d",
+  "name": "Newberry, Robert D.",
+  "totalDecisions": 17727,
+  "grants": 1401,
+  "denials": 212,
+  "removals": 125,
+  "absentia": 4634,
+  "grantRate": 7.9,
+  "removalRate": 0.7,
+  "courts": [
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 17670
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

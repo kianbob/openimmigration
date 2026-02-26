@@ -1,0 +1,44 @@
+{
+  "code": "AGL",
+  "slug": "glass-andrew-j",
+  "name": "Glass, Andrew J.",
+  "totalDecisions": 1099,
+  "grants": 66,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 271,
+  "grantRate": 6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 692
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 234
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 165
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 3
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

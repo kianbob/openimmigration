@@ -1,0 +1,64 @@
+{
+  "code": "SMW",
+  "slug": "miller-wein-sondra-j",
+  "name": "Miller-Wein, Sondra J.",
+  "totalDecisions": 2215,
+  "grants": 317,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 458,
+  "grantRate": 14.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 2042
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 165
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

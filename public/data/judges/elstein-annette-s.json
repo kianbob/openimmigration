@@ -1,0 +1,54 @@
+{
+  "code": "ASE",
+  "slug": "elstein-annette-s",
+  "name": "Elstein, Annette S.",
+  "totalDecisions": 22024,
+  "grants": 3711,
+  "denials": 2075,
+  "removals": 2051,
+  "absentia": 3499,
+  "grantRate": 16.8,
+  "removalRate": 9.3,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 21531
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 298
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 123
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "code": "WS",
+  "slug": "strasser-william",
+  "name": "Strasser, William",
+  "totalDecisions": 12138,
+  "grants": 1281,
+  "denials": 1174,
+  "removals": 1169,
+  "absentia": 1096,
+  "grantRate": 10.6,
+  "removalRate": 9.6,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 11296
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 427
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 207
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 108
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 80
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "WMM",
+  "slug": "mabry-iii-william",
+  "name": "Mabry Iii, William",
+  "totalDecisions": 4582,
+  "grants": 368,
+  "denials": 23,
+  "removals": 1,
+  "absentia": 218,
+  "grantRate": 8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2834
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 1909
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

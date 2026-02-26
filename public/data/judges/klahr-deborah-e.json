@@ -1,0 +1,64 @@
+{
+  "code": "DKR",
+  "slug": "klahr-deborah-e",
+  "name": "Klahr, Deborah E.",
+  "totalDecisions": 8093,
+  "grants": 782,
+  "denials": 14,
+  "removals": 12,
+  "absentia": 1074,
+  "grantRate": 9.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 15228
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

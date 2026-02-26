@@ -1,0 +1,159 @@
+{
+  "code": "PP",
+  "slug": "papua-new-guinea",
+  "name": "Papua New Guinea",
+  "cases": 44,
+  "completed": 100,
+  "grants": 7,
+  "denials": 2,
+  "removals": 2,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "count": 1
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1997,
+      "cases": 1
+    },
+    {
+      "year": 2004,
+      "cases": 1
+    },
+    {
+      "year": 2005,
+      "cases": 2
+    },
+    {
+      "year": 2008,
+      "cases": 1
+    },
+    {
+      "year": 2009,
+      "cases": 1
+    },
+    {
+      "year": 2012,
+      "cases": 1
+    },
+    {
+      "year": 2013,
+      "cases": 2
+    },
+    {
+      "year": 2017,
+      "cases": 1
+    },
+    {
+      "year": 2018,
+      "cases": 1
+    },
+    {
+      "year": 2023,
+      "cases": 2
+    },
+    {
+      "year": 2025,
+      "cases": 1
+    }
+  ]
+}

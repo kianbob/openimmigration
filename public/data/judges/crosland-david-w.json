@@ -1,0 +1,64 @@
+{
+  "code": "DWC",
+  "slug": "crosland-david-w",
+  "name": "Crosland, David W.",
+  "totalDecisions": 20138,
+  "grants": 3062,
+  "denials": 87,
+  "removals": 31,
+  "absentia": 4569,
+  "grantRate": 15.2,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 11957
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2958
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 2883
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1594
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 115
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 78
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 62
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 44
+    }
+  ]
+}

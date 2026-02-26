@@ -1,0 +1,64 @@
+{
+  "code": "CAL",
+  "slug": "lauer-charles-a",
+  "name": "Lauer, Charles A.",
+  "totalDecisions": 2228,
+  "grants": 33,
+  "denials": 888,
+  "removals": 888,
+  "absentia": 319,
+  "grantRate": 1.5,
+  "removalRate": 39.9,
+  "courts": [
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 908
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 617
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 233
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 142
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 139
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 122
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

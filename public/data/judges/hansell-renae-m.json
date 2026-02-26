@@ -1,0 +1,64 @@
+{
+  "code": "RMH",
+  "slug": "hansell-renae-m",
+  "name": "Hansell, Renae M.",
+  "totalDecisions": 9668,
+  "grants": 77,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 4075,
+  "grantRate": 0.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 10504
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 105
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 77
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 64
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

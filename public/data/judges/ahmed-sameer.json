@@ -1,0 +1,64 @@
+{
+  "code": "SAA",
+  "slug": "ahmed-sameer",
+  "name": "Ahmed, Sameer",
+  "totalDecisions": 4308,
+  "grants": 383,
+  "denials": 3,
+  "removals": 1,
+  "absentia": 86,
+  "grantRate": 8.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 4108
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1265
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 1226
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 103
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

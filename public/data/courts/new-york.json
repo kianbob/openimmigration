@@ -1,0 +1,538 @@
+{
+  "code": "NYC",
+  "slug": "new-york",
+  "name": "New York",
+  "state": "NY",
+  "address": "26 FEDERAL PLZ 12TH FL RM 1237",
+  "active": true,
+  "cases": 634768,
+  "completed": 805653,
+  "grants": 169468,
+  "denials": 30028,
+  "removals": 28668,
+  "grantRate": 21,
+  "topNationalities": [
+    {
+      "code": "CH",
+      "name": "China",
+      "count": 136750
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "count": 56138
+    },
+    {
+      "code": "ES",
+      "name": "El Salvador",
+      "count": 39970
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "count": 31605
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "count": 26759
+    },
+    {
+      "code": "HO",
+      "name": "Honduras",
+      "count": 25655
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "count": 22958
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "count": 21793
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "count": 18882
+    },
+    {
+      "code": "BG",
+      "name": "Bangladesh",
+      "count": 18150
+    },
+    {
+      "code": "DR",
+      "name": "Dominican Republic",
+      "count": 16932
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "count": 15052
+    },
+    {
+      "code": "HA",
+      "name": "Haiti",
+      "count": 12343
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "count": 10680
+    },
+    {
+      "code": "GV",
+      "name": "Guinea",
+      "count": 10350
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "count": 10013
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "count": 9538
+    },
+    {
+      "code": "GO",
+      "name": "Georgia",
+      "count": 9143
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "count": 8193
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "count": 7392
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "BAN",
+      "name": "Nelson, Barbara A.",
+      "decisions": 26990,
+      "grants": 3864,
+      "denials": 1036,
+      "removals": 975,
+      "grantRate": 14.3
+    },
+    {
+      "code": "PAR",
+      "name": "Rohan, Patricia A.",
+      "decisions": 25350,
+      "grants": 6059,
+      "denials": 1721,
+      "removals": 1694,
+      "grantRate": 23.9
+    },
+    {
+      "code": "ASE",
+      "name": "Elstein, Annette S.",
+      "decisions": 21531,
+      "grants": 3708,
+      "denials": 2003,
+      "removals": 1979,
+      "grantRate": 17.2
+    },
+    {
+      "code": "RDW",
+      "name": "Weisel, Robert D.",
+      "decisions": 18901,
+      "grants": 3969,
+      "denials": 1992,
+      "removals": 1959,
+      "grantRate": 21
+    },
+    {
+      "code": "SH",
+      "name": "Hom, Sandy",
+      "decisions": 18429,
+      "grants": 2636,
+      "denials": 1630,
+      "removals": 1569,
+      "grantRate": 14.3
+    },
+    {
+      "code": "PMM",
+      "name": "Mcmanus, Margaret",
+      "decisions": 18253,
+      "grants": 7019,
+      "denials": 869,
+      "removals": 863,
+      "grantRate": 38.5
+    },
+    {
+      "code": "TAB",
+      "name": "Bain, Terry A.",
+      "decisions": 18049,
+      "grants": 8055,
+      "denials": 850,
+      "removals": 835,
+      "grantRate": 44.6
+    },
+    {
+      "code": "DBS",
+      "name": "Schoppert, Douglas B.",
+      "decisions": 16703,
+      "grants": 6488,
+      "denials": 164,
+      "removals": 120,
+      "grantRate": 38.8
+    },
+    {
+      "code": "VGU",
+      "name": "Gordon-Uruakpa, Vivienne E.",
+      "decisions": 16683,
+      "grants": 5861,
+      "denials": 81,
+      "removals": 61,
+      "grantRate": 35.1
+    },
+    {
+      "code": "HJS",
+      "name": "Sichel, Helen",
+      "decisions": 16675,
+      "grants": 5163,
+      "denials": 251,
+      "removals": 212,
+      "grantRate": 31
+    },
+    {
+      "code": "RZA",
+      "name": "Zagzoug, Randa",
+      "decisions": 16587,
+      "grants": 3057,
+      "denials": 51,
+      "removals": 42,
+      "grantRate": 18.4
+    },
+    {
+      "code": "BLF",
+      "name": "Laforest, Brigitte",
+      "decisions": 15926,
+      "grants": 6867,
+      "denials": 401,
+      "removals": 367,
+      "grantRate": 43.1
+    },
+    {
+      "code": "PLM",
+      "name": "Morace, Philip L.",
+      "decisions": 15449,
+      "grants": 7020,
+      "denials": 654,
+      "removals": 614,
+      "grantRate": 45.4
+    },
+    {
+      "code": "GTC",
+      "name": "Chew, George T.",
+      "decisions": 15114,
+      "grants": 6363,
+      "denials": 700,
+      "removals": 636,
+      "grantRate": 42.1
+    },
+    {
+      "code": "JB",
+      "name": "Bukszpan, Joanna M.",
+      "decisions": 14687,
+      "grants": 3814,
+      "denials": 890,
+      "removals": 868,
+      "grantRate": 26
+    },
+    {
+      "code": "EAL",
+      "name": "Lamb, Elizabeth A.",
+      "decisions": 14661,
+      "grants": 5806,
+      "denials": 781,
+      "removals": 767,
+      "grantRate": 39.6
+    },
+    {
+      "code": "GCV",
+      "name": "Videla, Gabriel C.",
+      "decisions": 14546,
+      "grants": 2322,
+      "denials": 1243,
+      "removals": 1208,
+      "grantRate": 16
+    },
+    {
+      "code": "NB",
+      "name": "Brennan, Noel A.",
+      "decisions": 13431,
+      "grants": 6637,
+      "denials": 151,
+      "removals": 130,
+      "grantRate": 49.4
+    },
+    {
+      "code": "JCS",
+      "name": "Sponzo, Jem C.",
+      "decisions": 13186,
+      "grants": 1528,
+      "denials": 36,
+      "removals": 31,
+      "grantRate": 11.6
+    },
+    {
+      "code": "ASL",
+      "name": "Segal, Alice",
+      "decisions": 12636,
+      "grants": 2807,
+      "denials": 52,
+      "removals": 38,
+      "grantRate": 22.2
+    },
+    {
+      "code": "VAW",
+      "name": "Wright, Virna A.",
+      "decisions": 12471,
+      "grants": 2412,
+      "denials": 54,
+      "removals": 41,
+      "grantRate": 19.3
+    },
+    {
+      "code": "JLP",
+      "name": "Loprest, F. James, Jr.",
+      "decisions": 12268,
+      "grants": 2428,
+      "denials": 36,
+      "removals": 33,
+      "grantRate": 19.8
+    },
+    {
+      "code": "JKS",
+      "name": "Speer, John K.",
+      "decisions": 12098,
+      "grants": 403,
+      "denials": 1443,
+      "removals": 1443,
+      "grantRate": 3.3
+    },
+    {
+      "code": "EPD",
+      "name": "Douchy, Evalyn P.",
+      "decisions": 11312,
+      "grants": 1995,
+      "denials": 31,
+      "removals": 24,
+      "grantRate": 17.6
+    },
+    {
+      "code": "SMB",
+      "name": "Burr, Sarah M.",
+      "decisions": 10949,
+      "grants": 3070,
+      "denials": 893,
+      "removals": 871,
+      "grantRate": 28
+    },
+    {
+      "code": "FGL",
+      "name": "Leeds, Frederic G.",
+      "decisions": 10872,
+      "grants": 2270,
+      "denials": 33,
+      "removals": 29,
+      "grantRate": 20.9
+    },
+    {
+      "code": "CCJ",
+      "name": "Johnson-Papillo, Carrie C.",
+      "decisions": 10580,
+      "grants": 407,
+      "denials": 21,
+      "removals": 15,
+      "grantRate": 3.8
+    },
+    {
+      "code": "NAF",
+      "name": "Ferris, Noel A.",
+      "decisions": 10231,
+      "grants": 1636,
+      "denials": 778,
+      "removals": 764,
+      "grantRate": 16
+    },
+    {
+      "code": "DWT",
+      "name": "Thompson, Donald W., Jr.",
+      "decisions": 9470,
+      "grants": 2014,
+      "denials": 52,
+      "removals": 39,
+      "grantRate": 21.3
+    },
+    {
+      "code": "SK",
+      "name": "Kandah, Sabri",
+      "decisions": 9306,
+      "grants": 135,
+      "denials": 656,
+      "removals": 656,
+      "grantRate": 1.5
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 3178
+    },
+    {
+      "year": 1991,
+      "cases": 2744
+    },
+    {
+      "year": 1992,
+      "cases": 3310
+    },
+    {
+      "year": 1993,
+      "cases": 4782
+    },
+    {
+      "year": 1994,
+      "cases": 4544
+    },
+    {
+      "year": 1995,
+      "cases": 5400
+    },
+    {
+      "year": 1996,
+      "cases": 11329
+    },
+    {
+      "year": 1997,
+      "cases": 9366
+    },
+    {
+      "year": 1998,
+      "cases": 11551
+    },
+    {
+      "year": 1999,
+      "cases": 8404
+    },
+    {
+      "year": 2000,
+      "cases": 8109
+    },
+    {
+      "year": 2001,
+      "cases": 8013
+    },
+    {
+      "year": 2002,
+      "cases": 9476
+    },
+    {
+      "year": 2003,
+      "cases": 7622
+    },
+    {
+      "year": 2004,
+      "cases": 4487
+    },
+    {
+      "year": 2005,
+      "cases": 6494
+    },
+    {
+      "year": 2006,
+      "cases": 7918
+    },
+    {
+      "year": 2007,
+      "cases": 3974
+    },
+    {
+      "year": 2008,
+      "cases": 2839
+    },
+    {
+      "year": 2009,
+      "cases": 3075
+    },
+    {
+      "year": 2010,
+      "cases": 3534
+    },
+    {
+      "year": 2011,
+      "cases": 4934
+    },
+    {
+      "year": 2012,
+      "cases": 5352
+    },
+    {
+      "year": 2013,
+      "cases": 7822
+    },
+    {
+      "year": 2014,
+      "cases": 10639
+    },
+    {
+      "year": 2015,
+      "cases": 10736
+    },
+    {
+      "year": 2016,
+      "cases": 14119
+    },
+    {
+      "year": 2017,
+      "cases": 15265
+    },
+    {
+      "year": 2018,
+      "cases": 20076
+    },
+    {
+      "year": 2019,
+      "cases": 20132
+    },
+    {
+      "year": 2020,
+      "cases": 9533
+    },
+    {
+      "year": 2021,
+      "cases": 11543
+    },
+    {
+      "year": 2022,
+      "cases": 23600
+    },
+    {
+      "year": 2023,
+      "cases": 41748
+    },
+    {
+      "year": 2024,
+      "cases": 54384
+    },
+    {
+      "year": 2025,
+      "cases": 30581
+    },
+    {
+      "year": 2026,
+      "cases": 1653
+    }
+  ]
+}

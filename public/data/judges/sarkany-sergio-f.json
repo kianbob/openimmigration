@@ -1,0 +1,24 @@
+{
+  "code": "SFS",
+  "slug": "sarkany-sergio-f",
+  "name": "Sarkany, Sergio F.",
+  "totalDecisions": 291,
+  "grants": 4,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 280
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 11
+    }
+  ]
+}

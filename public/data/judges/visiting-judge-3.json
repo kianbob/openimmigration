@@ -1,0 +1,64 @@
+{
+  "code": "VJ3",
+  "slug": "visiting-judge-3",
+  "name": "Visiting Judge 3",
+  "totalDecisions": 8857,
+  "grants": 143,
+  "denials": 8,
+  "removals": 5,
+  "absentia": 45,
+  "grantRate": 1.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 5255
+    },
+    {
+      "code": "POR",
+      "name": "Immigration Court",
+      "hearings": 4185
+    },
+    {
+      "code": "BTR",
+      "name": "Immigration Court",
+      "hearings": 4004
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2808
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2731
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 2158
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 1518
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 1276
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 1233
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1146
+    }
+  ]
+}

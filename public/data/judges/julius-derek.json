@@ -1,0 +1,64 @@
+{
+  "code": "DKJ",
+  "slug": "julius-derek",
+  "name": "Julius, Derek",
+  "totalDecisions": 956,
+  "grants": 108,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 96,
+  "grantRate": 11.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 1033
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 217
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 107
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 26
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

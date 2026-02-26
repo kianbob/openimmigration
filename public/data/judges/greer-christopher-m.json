@@ -1,0 +1,64 @@
+{
+  "code": "CMG",
+  "slug": "greer-christopher-m",
+  "name": "Greer, Christopher M.",
+  "totalDecisions": 13208,
+  "grants": 1512,
+  "denials": 65,
+  "removals": 9,
+  "absentia": 3800,
+  "grantRate": 11.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 24252
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 1103
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

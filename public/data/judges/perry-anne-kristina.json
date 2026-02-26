@@ -1,0 +1,64 @@
+{
+  "code": "AKP",
+  "slug": "perry-anne-kristina",
+  "name": "Perry, Anne Kristina",
+  "totalDecisions": 8079,
+  "grants": 390,
+  "denials": 50,
+  "removals": 8,
+  "absentia": 594,
+  "grantRate": 4.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 7887
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 357
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

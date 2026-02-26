@@ -1,0 +1,24 @@
+{
+  "code": "PLJ",
+  "slug": "johnston-paul-l-2",
+  "name": "Johnston, Paul L",
+  "totalDecisions": 1085,
+  "grants": 104,
+  "denials": 28,
+  "removals": 9,
+  "absentia": 127,
+  "grantRate": 9.6,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1082
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

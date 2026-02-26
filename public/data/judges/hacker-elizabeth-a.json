@@ -1,0 +1,59 @@
+{
+  "code": "EAH",
+  "slug": "hacker-elizabeth-a",
+  "name": "Hacker, Elizabeth A.",
+  "totalDecisions": 25091,
+  "grants": 1465,
+  "denials": 1369,
+  "removals": 1300,
+  "absentia": 4817,
+  "grantRate": 5.8,
+  "removalRate": 5.2,
+  "courts": [
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 25022
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

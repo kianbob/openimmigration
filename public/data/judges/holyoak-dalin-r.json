@@ -1,0 +1,64 @@
+{
+  "code": "DRH",
+  "slug": "holyoak-dalin-r",
+  "name": "Holyoak, Dalin R.",
+  "totalDecisions": 12241,
+  "grants": 500,
+  "denials": 36,
+  "removals": 30,
+  "absentia": 2100,
+  "grantRate": 4.1,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 24328
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1503
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 55
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

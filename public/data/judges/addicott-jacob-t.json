@@ -1,0 +1,29 @@
+{
+  "code": "JTA",
+  "slug": "addicott-jacob-t",
+  "name": "Addicott, Jacob T.",
+  "totalDecisions": 132,
+  "grants": 2,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 18,
+  "grantRate": 1.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 134
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

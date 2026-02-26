@@ -1,0 +1,54 @@
+{
+  "code": "HIC",
+  "slug": "cohen-howard-i",
+  "name": "Cohen, Howard I.",
+  "totalDecisions": 7375,
+  "grants": 50,
+  "denials": 2585,
+  "removals": 2585,
+  "absentia": 88,
+  "grantRate": 0.7,
+  "removalRate": 35.1,
+  "courts": [
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 5712
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 935
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 512
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 124
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "NYD",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

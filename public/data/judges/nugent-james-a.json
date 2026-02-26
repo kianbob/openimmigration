@@ -1,0 +1,64 @@
+{
+  "code": "JN",
+  "slug": "nugent-james-a",
+  "name": "Nugent, James A.",
+  "totalDecisions": 60599,
+  "grants": 1131,
+  "denials": 122,
+  "removals": 25,
+  "absentia": 8110,
+  "grantRate": 1.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 56775
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 9261
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 5954
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 3113
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1640
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 1371
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 1314
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 804
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 692
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 432
+    }
+  ]
+}

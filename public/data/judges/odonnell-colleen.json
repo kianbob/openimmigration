@@ -1,0 +1,19 @@
+{
+  "code": "COD",
+  "slug": "odonnell-colleen",
+  "name": "Odonnell, Colleen",
+  "totalDecisions": 120,
+  "grants": 0,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 29,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 120
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "code": "DAM",
+  "slug": "meisner-daniel-a",
+  "name": "Meisner, Daniel A.",
+  "totalDecisions": 16107,
+  "grants": 716,
+  "denials": 2521,
+  "removals": 2498,
+  "absentia": 2970,
+  "grantRate": 4.4,
+  "removalRate": 15.5,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 13311
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1318
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 798
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 279
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 122
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 120
+    },
+    {
+      "code": "NYD",
+      "name": "Immigration Court",
+      "hearings": 66
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 41
+    }
+  ]
+}

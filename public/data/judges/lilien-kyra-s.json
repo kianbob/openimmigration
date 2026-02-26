@@ -1,0 +1,64 @@
+{
+  "code": "KSL",
+  "slug": "lilien-kyra-s",
+  "name": "Lilien, Kyra S.",
+  "totalDecisions": 1609,
+  "grants": 348,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 223,
+  "grantRate": 21.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 1380
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 188
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "code": "LV2",
+  "slug": "louisville-visiting-judge-2",
+  "name": "Louisville Visiting Judge 2",
+  "totalDecisions": 350,
+  "grants": 8,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 40,
+  "grantRate": 2.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 335
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

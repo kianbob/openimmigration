@@ -1,0 +1,34 @@
+{
+  "code": "CAM",
+  "slug": "martyak-christina-m",
+  "name": "Martyak, Christina M.",
+  "totalDecisions": 8947,
+  "grants": 206,
+  "denials": 75,
+  "removals": 0,
+  "absentia": 76,
+  "grantRate": 2.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 6933
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2294
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 16
+    }
+  ]
+}

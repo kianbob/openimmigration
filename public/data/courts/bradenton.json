@@ -1,0 +1,127 @@
+{
+  "code": "BDC",
+  "slug": "bradenton",
+  "name": "Bradenton",
+  "state": "FL",
+  "address": "515 11TH ST., WEST SUITE 300",
+  "active": false,
+  "cases": 26,
+  "completed": 24,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topNationalities": [
+    {
+      "code": "  ",
+      "name": "  ",
+      "count": 5
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "count": 3
+    },
+    {
+      "code": "TS",
+      "name": "Tunisia",
+      "count": 2
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "count": 1
+    },
+    {
+      "code": "PO",
+      "name": "Portugal",
+      "count": 1
+    },
+    {
+      "code": "RP",
+      "name": "Philippines",
+      "count": 1
+    },
+    {
+      "code": "IS",
+      "name": "Israel",
+      "count": 1
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "count": 1
+    },
+    {
+      "code": "SF",
+      "name": "South Africa",
+      "count": 1
+    },
+    {
+      "code": "LE",
+      "name": "Lebanon",
+      "count": 1
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "count": 1
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "count": 1
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "CLR",
+      "name": "Clerical Transfer Code",
+      "decisions": 20,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "RKM",
+      "name": "Mchugh, R. Kevin",
+      "decisions": 2,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "GBP",
+      "name": "Padgett, Gail",
+      "decisions": 2,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2002,
+      "cases": 2
+    },
+    {
+      "year": 2003,
+      "cases": 1
+    },
+    {
+      "year": 2004,
+      "cases": 1
+    },
+    {
+      "year": 2005,
+      "cases": 5
+    },
+    {
+      "year": 2006,
+      "cases": 3
+    }
+  ]
+}

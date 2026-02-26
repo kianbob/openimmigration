@@ -1,0 +1,64 @@
+{
+  "code": "DMJ",
+  "slug": "jones-david-m",
+  "name": "Jones, David M.",
+  "totalDecisions": 8009,
+  "grants": 789,
+  "denials": 10,
+  "removals": 7,
+  "absentia": 1162,
+  "grantRate": 9.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 6424
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 3121
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "MG1",
+  "slug": "gemoets-marcos",
+  "name": "Gemoets, Marcos",
+  "totalDecisions": 11566,
+  "grants": 266,
+  "denials": 64,
+  "removals": 43,
+  "absentia": 3902,
+  "grantRate": 2.3,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 12104
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

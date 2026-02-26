@@ -1,0 +1,39 @@
+{
+  "code": "DDG",
+  "slug": "green-david",
+  "name": "Green, David",
+  "totalDecisions": 74,
+  "grants": 10,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 13.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 89
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BTR",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

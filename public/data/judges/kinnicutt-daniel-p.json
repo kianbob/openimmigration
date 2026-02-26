@@ -1,0 +1,64 @@
+{
+  "code": "DKT",
+  "slug": "kinnicutt-daniel-p",
+  "name": "Kinnicutt, Daniel P.",
+  "totalDecisions": 4689,
+  "grants": 52,
+  "denials": 4,
+  "removals": 2,
+  "absentia": 1379,
+  "grantRate": 1.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 2095
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 1091
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 853
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 330
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 308
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "LLU",
+  "slug": "luis-lisa",
+  "name": "Luis, Lisa",
+  "totalDecisions": 25206,
+  "grants": 436,
+  "denials": 113,
+  "removals": 23,
+  "absentia": 1560,
+  "grantRate": 1.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 13105
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 9342
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 1380
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 1347
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

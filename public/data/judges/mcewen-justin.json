@@ -1,0 +1,64 @@
+{
+  "code": "JMW",
+  "slug": "mcewen-justin",
+  "name": "Mcewen, Justin",
+  "totalDecisions": 3542,
+  "grants": 157,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 25,
+  "grantRate": 4.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 3110
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1148
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 900
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

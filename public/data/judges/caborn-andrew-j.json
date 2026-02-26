@@ -1,0 +1,64 @@
+{
+  "code": "AJC",
+  "slug": "caborn-andrew-j",
+  "name": "Caborn, Andrew J.",
+  "totalDecisions": 6016,
+  "grants": 289,
+  "denials": 40,
+  "removals": 1,
+  "absentia": 627,
+  "grantRate": 4.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 3915
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2261
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

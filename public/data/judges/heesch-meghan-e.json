@@ -1,0 +1,64 @@
+{
+  "code": "MHH",
+  "slug": "heesch-meghan-e",
+  "name": "Heesch, Meghan E.",
+  "totalDecisions": 4207,
+  "grants": 112,
+  "denials": 27,
+  "removals": 20,
+  "absentia": 379,
+  "grantRate": 2.7,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3881
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 1043
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 197
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

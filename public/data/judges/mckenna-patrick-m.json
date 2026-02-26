@@ -1,0 +1,64 @@
+{
+  "code": "PKM",
+  "slug": "mckenna-patrick-m",
+  "name": "Mckenna, Patrick M.",
+  "totalDecisions": 13593,
+  "grants": 725,
+  "denials": 4,
+  "removals": 3,
+  "absentia": 3343,
+  "grantRate": 5.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 25958
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

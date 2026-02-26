@@ -1,0 +1,39 @@
+{
+  "code": "JRM",
+  "slug": "mulcahy-jennifer-a",
+  "name": "Mulcahy, Jennifer A",
+  "totalDecisions": 706,
+  "grants": 40,
+  "denials": 15,
+  "removals": 4,
+  "absentia": 23,
+  "grantRate": 5.7,
+  "removalRate": 0.6,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 691
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

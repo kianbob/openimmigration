@@ -1,0 +1,64 @@
+{
+  "code": "LLJ",
+  "slug": "jefferson-webb-lettricea-l",
+  "name": "Jefferson-Webb, Lettricea L.",
+  "totalDecisions": 5783,
+  "grants": 413,
+  "denials": 2,
+  "removals": 1,
+  "absentia": 1043,
+  "grantRate": 7.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 17416
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 916
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

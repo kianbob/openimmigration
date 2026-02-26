@@ -1,0 +1,24 @@
+{
+  "code": "TAW",
+  "slug": "white-ted-a",
+  "name": "White, Ted A.",
+  "totalDecisions": 1554,
+  "grants": 37,
+  "denials": 2,
+  "removals": 1,
+  "absentia": 0,
+  "grantRate": 2.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 1553
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "RKL",
+  "slug": "lundberg-robert-k",
+  "name": "Lundberg, Robert K.",
+  "totalDecisions": 2549,
+  "grants": 141,
+  "denials": 7,
+  "removals": 2,
+  "absentia": 444,
+  "grantRate": 5.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 1726
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 1419
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "code": "MYT",
+  "slug": "yuen-tomlin-minnie",
+  "name": "Yuen-Tomlin, Minnie",
+  "totalDecisions": 196,
+  "grants": 16,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 15,
+  "grantRate": 8.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 185
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

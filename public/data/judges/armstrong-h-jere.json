@@ -1,0 +1,34 @@
+{
+  "code": "HJA",
+  "slug": "armstrong-h-jere",
+  "name": "Armstrong, H. Jere",
+  "totalDecisions": 69,
+  "grants": 8,
+  "denials": 39,
+  "removals": 39,
+  "absentia": 4,
+  "grantRate": 11.6,
+  "removalRate": 56.5,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

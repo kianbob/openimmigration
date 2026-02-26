@@ -1,0 +1,64 @@
+{
+  "code": "JDL",
+  "slug": "latimore-jan-d",
+  "name": "Latimore, Jan D.",
+  "totalDecisions": 25017,
+  "grants": 3912,
+  "denials": 1857,
+  "removals": 1848,
+  "absentia": 5299,
+  "grantRate": 15.6,
+  "removalRate": 7.4,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 24810
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "CLM",
+  "slug": "moore-carol",
+  "name": "Moore, Carol",
+  "totalDecisions": 4866,
+  "grants": 290,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 1176,
+  "grantRate": 6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 6576
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

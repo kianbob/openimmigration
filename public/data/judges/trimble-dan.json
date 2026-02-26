@@ -1,0 +1,34 @@
+{
+  "code": "DTB",
+  "slug": "trimble-dan",
+  "name": "Trimble, Dan",
+  "totalDecisions": 26493,
+  "grants": 242,
+  "denials": 132,
+  "removals": 6,
+  "absentia": 3,
+  "grantRate": 0.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 26487
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

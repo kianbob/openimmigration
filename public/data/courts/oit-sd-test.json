@@ -1,0 +1,38 @@
+{
+  "code": "OIT",
+  "slug": "oit-sd-test",
+  "name": "Oit Sd Test",
+  "state": "VA",
+  "address": "5109 Leesburg Pike FallsChurch",
+  "active": false,
+  "cases": 1,
+  "completed": 3,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topNationalities": [
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "count": 1
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "YYY",
+      "name": "Test Ij For Oit Yyy",
+      "decisions": 3,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2026,
+      "cases": 1
+    }
+  ]
+}

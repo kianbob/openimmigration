@@ -1,0 +1,64 @@
+{
+  "code": "ALQ",
+  "slug": "quiros-ana-lorena",
+  "name": "Quiros, Ana Lorena.",
+  "totalDecisions": 1559,
+  "grants": 155,
+  "denials": 2,
+  "removals": 2,
+  "absentia": 263,
+  "grantRate": 9.9,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 3023
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 209
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 5
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

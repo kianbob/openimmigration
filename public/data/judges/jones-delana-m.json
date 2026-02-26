@@ -1,0 +1,64 @@
+{
+  "code": "DAJ",
+  "slug": "jones-delana-m",
+  "name": "Jones, Delana M.",
+  "totalDecisions": 9630,
+  "grants": 42,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 2603,
+  "grantRate": 0.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 12393
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 182
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

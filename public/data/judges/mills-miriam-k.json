@@ -1,0 +1,64 @@
+{
+  "code": "MKM",
+  "slug": "mills-miriam-k",
+  "name": "Mills, Miriam K.",
+  "totalDecisions": 12316,
+  "grants": 1818,
+  "denials": 250,
+  "removals": 225,
+  "absentia": 3340,
+  "grantRate": 14.8,
+  "removalRate": 1.8,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 7560
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2656
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1186
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 867
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

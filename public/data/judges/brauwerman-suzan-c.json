@@ -1,0 +1,24 @@
+{
+  "code": "SCB",
+  "slug": "brauwerman-suzan-c",
+  "name": "Brauwerman, Suzan C.",
+  "totalDecisions": 1126,
+  "grants": 131,
+  "denials": 255,
+  "removals": 255,
+  "absentia": 278,
+  "grantRate": 11.6,
+  "removalRate": 22.6,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1043
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 83
+    }
+  ]
+}

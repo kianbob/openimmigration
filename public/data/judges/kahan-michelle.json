@@ -1,0 +1,64 @@
+{
+  "code": "MEK",
+  "slug": "kahan-michelle",
+  "name": "Kahan, Michelle",
+  "totalDecisions": 8966,
+  "grants": 356,
+  "denials": 8,
+  "removals": 8,
+  "absentia": 1355,
+  "grantRate": 4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 19620
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "code": "WLP",
+  "slug": "paulissen-walter-l",
+  "name": "Paulissen, Walter L.",
+  "totalDecisions": 9470,
+  "grants": 144,
+  "denials": 192,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 1.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 9357
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 82
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

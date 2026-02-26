@@ -1,0 +1,143 @@
+{
+  "code": "UN",
+  "slug": "unknown-nationality",
+  "name": "Unknown Nationality",
+  "cases": 1305,
+  "completed": 3434,
+  "grants": 99,
+  "denials": 6,
+  "removals": 0,
+  "grantRate": 2.9,
+  "topCourts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 267
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 148
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 123
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 108
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "count": 57
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 54
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 54
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 48
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 40
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "count": 39
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 38
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "count": 37
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "count": 23
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 23
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "count": 22
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 19
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 19
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 18
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 16
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 15
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2020,
+      "cases": 28
+    },
+    {
+      "year": 2021,
+      "cases": 4
+    },
+    {
+      "year": 2022,
+      "cases": 14
+    },
+    {
+      "year": 2023,
+      "cases": 30
+    },
+    {
+      "year": 2024,
+      "cases": 97
+    },
+    {
+      "year": 2025,
+      "cases": 64
+    },
+    {
+      "year": 2026,
+      "cases": 15
+    }
+  ]
+}

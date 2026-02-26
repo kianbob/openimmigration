@@ -1,0 +1,24 @@
+{
+  "code": "BHS",
+  "slug": "simpson-brian-h",
+  "name": "Simpson, Brian H.",
+  "totalDecisions": 17068,
+  "grants": 2957,
+  "denials": 3233,
+  "removals": 3229,
+  "absentia": 2419,
+  "grantRate": 17.3,
+  "removalRate": 18.9,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 17056
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 12
+    }
+  ]
+}

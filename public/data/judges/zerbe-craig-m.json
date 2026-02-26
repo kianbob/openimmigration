@@ -1,0 +1,64 @@
+{
+  "code": "CMZ",
+  "slug": "zerbe-craig-m",
+  "name": "Zerbe, Craig M.",
+  "totalDecisions": 29611,
+  "grants": 2781,
+  "denials": 3123,
+  "removals": 3101,
+  "absentia": 5400,
+  "grantRate": 9.4,
+  "removalRate": 10.5,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 22092
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 3019
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 2615
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 1011
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 275
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 248
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 118
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 89
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 46
+    }
+  ]
+}

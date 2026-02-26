@@ -1,0 +1,44 @@
+{
+  "code": "DRK",
+  "slug": "drk",
+  "name": "Drk",
+  "totalDecisions": 2023,
+  "grants": 353,
+  "denials": 221,
+  "removals": 221,
+  "absentia": 27,
+  "grantRate": 17.4,
+  "removalRate": 10.9,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 1560
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 456
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

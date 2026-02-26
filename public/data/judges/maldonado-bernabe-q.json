@@ -1,0 +1,34 @@
+{
+  "code": "BQM",
+  "slug": "maldonado-bernabe-q",
+  "name": "Maldonado, Bernabe Q.",
+  "totalDecisions": 8012,
+  "grants": 139,
+  "denials": 3863,
+  "removals": 3863,
+  "absentia": 918,
+  "grantRate": 1.7,
+  "removalRate": 48.2,
+  "courts": [
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 3880
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3850
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 152
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 130
+    }
+  ]
+}

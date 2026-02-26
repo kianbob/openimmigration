@@ -1,0 +1,64 @@
+{
+  "code": "JG1",
+  "slug": "gillies-john-m",
+  "name": "Gillies, John M.",
+  "totalDecisions": 8448,
+  "grants": 240,
+  "denials": 3,
+  "removals": 3,
+  "absentia": 3631,
+  "grantRate": 2.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 5048
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 3166
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

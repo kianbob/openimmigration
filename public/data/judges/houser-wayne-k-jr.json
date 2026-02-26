@@ -1,0 +1,64 @@
+{
+  "code": "WKH",
+  "slug": "houser-wayne-k-jr",
+  "name": "Houser, Wayne K., Jr.",
+  "totalDecisions": 22619,
+  "grants": 944,
+  "denials": 72,
+  "removals": 34,
+  "absentia": 7397,
+  "grantRate": 4.2,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 17340
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 3155
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 1065
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 766
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 70
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 57
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

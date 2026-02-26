@@ -1,0 +1,64 @@
+{
+  "code": "AKN",
+  "slug": "khan-anwer-a",
+  "name": "Khan, Anwer A.",
+  "totalDecisions": 12108,
+  "grants": 181,
+  "denials": 59,
+  "removals": 52,
+  "absentia": 2956,
+  "grantRate": 1.5,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 11802
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 989
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 701
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

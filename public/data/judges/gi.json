@@ -1,0 +1,19 @@
+{
+  "code": "GI",
+  "slug": "gi",
+  "name": "Gi",
+  "totalDecisions": 196,
+  "grants": 14,
+  "denials": 58,
+  "removals": 58,
+  "absentia": 35,
+  "grantRate": 7.1,
+  "removalRate": 29.6,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 196
+    }
+  ]
+}

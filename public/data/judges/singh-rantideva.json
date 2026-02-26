@@ -1,0 +1,54 @@
+{
+  "code": "SHR",
+  "slug": "singh-rantideva",
+  "name": "Singh, Rantideva",
+  "totalDecisions": 512,
+  "grants": 6,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 304,
+  "grantRate": 1.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 477
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

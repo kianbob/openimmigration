@@ -1,0 +1,64 @@
+{
+  "code": "RTD",
+  "slug": "driscoll-robert",
+  "name": "Driscoll, Robert",
+  "totalDecisions": 3198,
+  "grants": 59,
+  "denials": 36,
+  "removals": 1,
+  "absentia": 92,
+  "grantRate": 1.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 1918
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "hearings": 1052
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 385
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 155
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

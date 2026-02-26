@@ -1,0 +1,54 @@
+{
+  "code": "RJW",
+  "slug": "walters-rebecca-j",
+  "name": "Walters, Rebecca J.",
+  "totalDecisions": 1591,
+  "grants": 108,
+  "denials": 16,
+  "removals": 16,
+  "absentia": 185,
+  "grantRate": 6.8,
+  "removalRate": 1,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 1422
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 172
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

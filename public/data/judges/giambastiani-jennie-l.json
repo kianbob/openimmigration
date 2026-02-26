@@ -1,0 +1,64 @@
+{
+  "code": "JLG",
+  "slug": "giambastiani-jennie-l",
+  "name": "Giambastiani, Jennie L.",
+  "totalDecisions": 34271,
+  "grants": 2002,
+  "denials": 48,
+  "removals": 35,
+  "absentia": 5050,
+  "grantRate": 5.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 27677
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 6369
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 70
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

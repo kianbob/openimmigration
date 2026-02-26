@@ -1,0 +1,64 @@
+{
+  "code": "MGM",
+  "slug": "garcia-madeline",
+  "name": "Garcia, Madeline",
+  "totalDecisions": 18888,
+  "grants": 522,
+  "denials": 61,
+  "removals": 26,
+  "absentia": 3490,
+  "grantRate": 2.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 25876
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 4371
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 1095
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 535
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 352
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 16
+    }
+  ]
+}

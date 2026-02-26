@@ -1,0 +1,64 @@
+{
+  "code": "SC3",
+  "slug": "clancy-sean-d",
+  "name": "Clancy, Sean D.",
+  "totalDecisions": 11856,
+  "grants": 279,
+  "denials": 23,
+  "removals": 22,
+  "absentia": 2509,
+  "grantRate": 2.4,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 15464
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6289
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

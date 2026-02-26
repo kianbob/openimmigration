@@ -1,0 +1,64 @@
+{
+  "code": "AJN",
+  "slug": "niziolek-alec-j",
+  "name": "Niziolek, Alec J.",
+  "totalDecisions": 9304,
+  "grants": 45,
+  "denials": 11,
+  "removals": 2,
+  "absentia": 1554,
+  "grantRate": 0.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 22911
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 406
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 239
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 144
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 112
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

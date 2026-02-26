@@ -1,0 +1,64 @@
+{
+  "code": "EDW",
+  "slug": "dillow-eric",
+  "name": "Dillow, Eric",
+  "totalDecisions": 4841,
+  "grants": 26,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 969,
+  "grantRate": 0.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 11082
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 622
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 259
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

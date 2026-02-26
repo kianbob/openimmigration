@@ -1,0 +1,64 @@
+{
+  "code": "WAD",
+  "slug": "durling-walter-a",
+  "name": "Durling, Walter A.",
+  "totalDecisions": 42395,
+  "grants": 1623,
+  "denials": 1578,
+  "removals": 1294,
+  "absentia": 1649,
+  "grantRate": 3.8,
+  "removalRate": 3.1,
+  "courts": [
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 34837
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 4557
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 1645
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 1207
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 103
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

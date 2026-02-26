@@ -1,0 +1,64 @@
+{
+  "code": "FSM",
+  "slug": "mwangi-francis",
+  "name": "Mwangi, Francis",
+  "totalDecisions": 3073,
+  "grants": 195,
+  "denials": 21,
+  "removals": 0,
+  "absentia": 94,
+  "grantRate": 6.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 2101
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 230
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 220
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 164
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 141
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 118
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 92
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 16
+    }
+  ]
+}

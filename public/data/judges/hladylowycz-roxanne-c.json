@@ -1,0 +1,64 @@
+{
+  "code": "RCH",
+  "slug": "hladylowycz-roxanne-c",
+  "name": "Hladylowycz, Roxanne C.",
+  "totalDecisions": 18879,
+  "grants": 1888,
+  "denials": 331,
+  "removals": 97,
+  "absentia": 6818,
+  "grantRate": 10,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4419
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4113
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 3016
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2063
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 881
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 856
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 692
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 359
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 330
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 238
+    }
+  ]
+}

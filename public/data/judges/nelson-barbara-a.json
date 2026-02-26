@@ -1,0 +1,64 @@
+{
+  "code": "BAN",
+  "slug": "nelson-barbara-a",
+  "name": "Nelson, Barbara A.",
+  "totalDecisions": 27395,
+  "grants": 3888,
+  "denials": 1039,
+  "removals": 976,
+  "absentia": 5853,
+  "grantRate": 14.2,
+  "removalRate": 3.6,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 32802
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 101
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 11
+    }
+  ]
+}

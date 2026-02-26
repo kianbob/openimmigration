@@ -1,0 +1,64 @@
+{
+  "code": "RPM",
+  "slug": "malloy-rosalind-k",
+  "name": "Malloy, Rosalind K.",
+  "totalDecisions": 15779,
+  "grants": 2610,
+  "denials": 88,
+  "removals": 68,
+  "absentia": 3683,
+  "grantRate": 16.5,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 13733
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1853
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

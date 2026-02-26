@@ -1,0 +1,64 @@
+{
+  "code": "KHT",
+  "slug": "taylor-khalilah",
+  "name": "Taylor, Khalilah",
+  "totalDecisions": 2711,
+  "grants": 135,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 286,
+  "grantRate": 5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 1645
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 701
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 606
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

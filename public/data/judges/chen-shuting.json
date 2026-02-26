@@ -1,0 +1,64 @@
+{
+  "code": "SGN",
+  "slug": "chen-shuting",
+  "name": "Chen, Shuting",
+  "totalDecisions": 4521,
+  "grants": 932,
+  "denials": 4,
+  "removals": 3,
+  "absentia": 576,
+  "grantRate": 20.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 9700
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "EGN",
+  "slug": "grogan-edward",
+  "name": "Grogan, Edward",
+  "totalDecisions": 3977,
+  "grants": 257,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 970,
+  "grantRate": 6.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4458
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 443
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 297
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

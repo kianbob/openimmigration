@@ -1,0 +1,29 @@
+{
+  "code": "WEW",
+  "slug": "wew",
+  "name": "Wew",
+  "totalDecisions": 4462,
+  "grants": 252,
+  "denials": 1510,
+  "removals": 1510,
+  "absentia": 240,
+  "grantRate": 5.6,
+  "removalRate": 33.8,
+  "courts": [
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3064
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 1394
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

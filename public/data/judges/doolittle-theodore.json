@@ -1,0 +1,64 @@
+{
+  "code": "THD",
+  "slug": "doolittle-theodore",
+  "name": "Doolittle, Theodore",
+  "totalDecisions": 5375,
+  "grants": 163,
+  "denials": 1,
+  "removals": 1,
+  "absentia": 1091,
+  "grantRate": 3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 6896
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

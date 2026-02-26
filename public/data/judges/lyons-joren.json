@@ -1,0 +1,64 @@
+{
+  "code": "CJL",
+  "slug": "lyons-joren",
+  "name": "Lyons, Joren",
+  "totalDecisions": 6663,
+  "grants": 1397,
+  "denials": 25,
+  "removals": 12,
+  "absentia": 1166,
+  "grantRate": 21,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4355
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 1956
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 80
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 40
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

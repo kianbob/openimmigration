@@ -1,0 +1,64 @@
+{
+  "code": "SMS",
+  "slug": "star-shadee-m",
+  "name": "Star, Shadee M.",
+  "totalDecisions": 6465,
+  "grants": 880,
+  "denials": 5,
+  "removals": 4,
+  "absentia": 1544,
+  "grantRate": 13.6,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 9041
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 3520
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

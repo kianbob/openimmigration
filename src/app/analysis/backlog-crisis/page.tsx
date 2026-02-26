@@ -1,13 +1,28 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import Link from 'next/link'
+import fs from 'fs'
+import path from 'path'
+
+function loadData(filename: string) {
+  return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', filename), 'utf8'))
+}
 
 export const metadata: Metadata = {
-  title: 'The Backlog Crisis — How 3.3 Million Cases Piled Up',
-  description: 'The U.S. immigration court backlog grew from 200,000 to 3.3 million cases in 15 years. Here\'s how it happened and why it keeps getting worse.',
+  title: 'The Immigration Court Backlog Crisis: 1.9 Million Cases Pending | Open Immigration',
+  description: 'Analysis of the U.S. immigration court backlog — 9.6 million cases filed, 1.9 million still pending, and a system that completed 1.29 million proceedings in 2025 yet still can\'t keep up.',
 }
 
 export default function BacklogCrisisPage() {
+  const stats = loadData('stats.json')
+  const trends = loadData('yearly-trends.json') as Array<{
+    year: number; filed: number; completed: number; grants: number; denials: number; removals: number; cumulativePending: number
+  }>
+  const recent = trends.filter((t) => t.year >= 2015 && t.year <= 2025)
+
+  const pendingFormatted = (stats.pendingCases as number).toLocaleString()
+  const totalFormatted = (stats.totalCases as number).toLocaleString()
+
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
       <Breadcrumbs items={[
@@ -16,96 +31,116 @@ export default function BacklogCrisisPage() {
         { label: 'The Backlog Crisis' },
       ]} />
 
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'Article',
+          headline: 'The Immigration Court Backlog Crisis: 1.9 Million Cases Pending',
+          description: metadata.description,
+          publisher: { '@type': 'Organization', name: 'Open Immigration' },
+        })}}
+      />
+
       <div className="text-xs font-medium text-primary bg-primary/5 px-2 py-1 rounded-full inline-block mb-3">System Analysis</div>
       <h1 className="font-heading text-4xl font-bold mb-4">The Backlog Crisis</h1>
       <p className="text-lg text-gray-600 mb-8">
-        How the U.S. immigration court system accumulated 3.3 million pending cases — and why throwing more judges at the problem hasn&apos;t worked.
+        The U.S. immigration court system has processed <strong>{totalFormatted}</strong> cases since 1990. Today, <strong>{pendingFormatted}</strong> remain pending — and
+        even completing a record <strong>1.29 million proceedings in a single year</strong> hasn&apos;t been enough to stop the bleeding.
       </p>
 
       <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
-        <h2 className="font-heading text-2xl font-bold text-gray-900">The Numbers</h2>
+        <h2 className="font-heading text-2xl font-bold text-gray-900">A Decade of Explosive Growth</h2>
         <p>
-          In 2010, the immigration court backlog stood at about <strong>262,000 cases</strong>. By the end of
-          FY2024, it had reached <strong>3.6 million</strong> — a nearly <strong>14x increase</strong>. Even after
-          an aggressive closure push in 2025 that reduced the backlog to 3.38 million, the system remains
-          overwhelmed.
-        </p>
-        <p>
-          To put this in perspective: at December 2025&apos;s closure rate of ~57,000 cases per month, it would take
-          <strong> approximately 5 years</strong> to clear the existing backlog — assuming zero new cases were filed.
-          But new cases keep coming: 130,642 were filed in just the first three months of FY2026.
+          In 2015, immigration courts filed <strong>97,549 new cases</strong> and completed 288,276 proceedings. By 2024, filings
+          had surged to <strong>508,217</strong> — a 5.2x increase in nine years. Completions also rose dramatically to 1.29 million,
+          but the gap between inflow and capacity drove the backlog to crisis levels.
         </p>
 
-        <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">How We Got Here</h2>
-        <p>
-          The backlog is the result of a fundamental mismatch: <strong>the number of cases entering the system
-          consistently exceeds the system&apos;s capacity to resolve them</strong>.
-        </p>
-        <p>Several factors drove the explosive growth:</p>
-        <ul className="list-disc pl-6 space-y-2">
-          <li>
-            <strong>Record border crossings (2021-2024):</strong> Unprecedented levels of migration at the southern
-            border generated millions of new removal proceedings. Each apprehension that results in a Notice to Appear
-            adds a case to the immigration court docket.
-          </li>
-          <li>
-            <strong>Insufficient judge capacity:</strong> Despite hiring pushes, the number of immigration judges (~600)
-            hasn&apos;t kept pace with caseload growth. Each judge carries an average caseload of over 5,000 cases.
-          </li>
-          <li>
-            <strong>Asylum processing delays:</strong> Asylum cases are among the most complex and time-consuming.
-            With 2.3 million pending asylum cases, these dominate the backlog.
-          </li>
-          <li>
-            <strong>Continuances and adjournments:</strong> Cases are frequently rescheduled — sometimes multiple times
-            over years — due to attorney requests, missing documents, or judicial scheduling.
-          </li>
-        </ul>
+        <div className="overflow-x-auto my-6">
+          <table className="min-w-full text-sm border border-gray-200 rounded-lg overflow-hidden">
+            <thead className="bg-gray-50">
+              <tr>
+                <th className="px-4 py-2 text-left font-semibold">Year</th>
+                <th className="px-4 py-2 text-right font-semibold">Filed</th>
+                <th className="px-4 py-2 text-right font-semibold">Completed</th>
+                <th className="px-4 py-2 text-right font-semibold">Grants</th>
+                <th className="px-4 py-2 text-right font-semibold">Net Change</th>
+              </tr>
+            </thead>
+            <tbody>
+              {recent.map((t) => (
+                <tr key={t.year} className="border-t border-gray-100 hover:bg-gray-50">
+                  <td className="px-4 py-2 font-medium">{t.year}</td>
+                  <td className="px-4 py-2 text-right">{t.filed.toLocaleString()}</td>
+                  <td className="px-4 py-2 text-right">{t.completed.toLocaleString()}</td>
+                  <td className="px-4 py-2 text-right">{t.grants.toLocaleString()}</td>
+                  <td className={`px-4 py-2 text-right font-medium ${t.filed - t.completed > 0 ? 'text-red-600' : 'text-green-600'}`}>
+                    {t.filed - t.completed > 0 ? '+' : ''}{(t.filed - t.completed).toLocaleString()}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
 
-        <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">The Human Cost</h2>
+        <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">The 2022–2025 Explosion</h2>
         <p>
-          Behind every number is a person waiting. Immigrants in the backlog face years of legal limbo —
-          unable to get resolution on their cases, often unable to work legally, separated from family members,
-          and living with the constant uncertainty of potential deportation.
+          The post-COVID period saw an unprecedented surge. In 2022, filings nearly doubled to <strong>286,589</strong> while completions
+          hit 674,953. By 2023, filings reached <strong>424,994</strong>. The peak came in 2024 with <strong>508,217 new cases filed</strong> —
+          more than five times the 2015 level.
         </p>
         <p>
-          For asylum seekers, the wait is particularly cruel. Someone fleeing persecution who filed an asylum
-          claim in 2021 may not get a hearing until 2026 or beyond. During that wait, they may face restrictions
-          on employment, travel, and basic stability.
+          The system responded with an aggressive closure push. In both 2024 and 2025, courts completed roughly <strong>1.29 million proceedings</strong> each year —
+          an extraordinary pace that relied heavily on in absentia orders, administrative closures, and expedited processing. Yet even this
+          wasn&apos;t enough: 421,619 new cases were filed in 2025 alone.
         </p>
 
-        <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">The 2025 Closure Push</h2>
+        <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">How Long to Clear the Backlog?</h2>
         <p>
-          In 2025, EOIR implemented aggressive case closure strategies that reduced the backlog from its peak
-          of 4.18 million to under 3.75 million. This included:
+          At the 2025 completion rate of 1.29 million proceedings per year, with 421,619 new cases filed, the net reduction
+          is roughly <strong>877,000 cases per year</strong>. With {pendingFormatted} cases pending, it would take approximately <strong>{Math.ceil(stats.pendingCases / 877000)} years</strong> to
+          clear the backlog — assuming filing rates don&apos;t increase. They historically always do.
         </p>
-        <ul className="list-disc pl-6 space-y-2">
-          <li>Increased in absentia removal orders (deporting people who don&apos;t appear)</li>
-          <li>Expedited proceedings for certain case types</li>
-          <li>Administrative closures and case terminations</li>
-        </ul>
         <p>
-          Critics argue that speed has come at the cost of due process — that rushing through cases means
-          legitimate asylum claims are being denied without adequate review.
+          And speed comes at a cost. The system&apos;s {(stats.inAbsentia as number).toLocaleString()} in absentia orders — <strong>13.3% of all proceedings</strong> — suggest
+          that many cases are being &quot;completed&quot; by ordering deportation when respondents fail to appear, not through substantive adjudication.
+        </p>
+
+        <div className="bg-amber-50 border-l-4 border-amber-400 p-5 rounded-r-lg my-8">
+          <p className="font-semibold text-amber-800 mb-2">💡 Key Insight</p>
+          <p className="text-amber-900 text-sm">
+            The immigration court system processed <strong>16.2 million proceedings</strong> across 9.6 million cases — yet 1.9 million
+            cases remain pending. The backlog isn&apos;t a failure of effort; it&apos;s a structural mismatch between
+            the volume of cases entering the system and the system&apos;s capacity to fairly adjudicate them.
+          </p>
+        </div>
+
+        <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">The Scale of the System</h2>
+        <p>
+          To process these cases, the system relies on just <strong>{(stats.totalJudges as number).toLocaleString()} judges</strong> across <strong>{stats.totalCourts} courts</strong>,
+          handling respondents from <strong>{stats.totalNationalities} nationalities</strong>. Of the 7.76 million completed cases,
+          the courts granted asylum in <strong>{(stats.asylumGranted as number).toLocaleString()} cases</strong> and denied it
+          in {(stats.asylumDenied as number).toLocaleString()}. Another {(stats.removalOrders as number).toLocaleString()} resulted in removal or deportation orders.
         </p>
 
         <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">What the Data Shows</h2>
         <p>
-          The numbers tell a clear story: the immigration court system is structurally incapable of handling
-          its current caseload. More judges help at the margins, but the fundamental mismatch between inflow
-          and capacity remains.
+          The numbers tell a stark story. Despite completing more cases than ever — a 4.5x increase from 2015 to 2025 — the system
+          cannot outpace the inflow. The 2025 closure push reduced the pending caseload significantly, but it relied on mechanisms
+          like in absentia orders and administrative closures that raise serious due process questions. The backlog isn&apos;t just
+          a number — it represents {pendingFormatted} people in legal limbo, waiting years for their day in court.
         </p>
       </div>
 
-      {/* Related */}
       <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-4">
-        <Link href="/backlog" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
-          <h3 className="font-bold">📊 Court Backlog Data</h3>
-          <p className="text-sm text-gray-600 mt-1">Explore the backlog numbers by court, county, and year.</p>
-        </Link>
         <Link href="/analysis/judge-variation" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">⚖️ Judge Variation</h3>
-          <p className="text-sm text-gray-600 mt-1">How judges decide cases differently — and what it means.</p>
+          <p className="text-sm text-gray-600 mt-1">Grant rates range from 0% to 44.9% — your judge may matter more than your case.</p>
+        </Link>
+        <Link href="/analysis/in-absentia" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">👻 In Absentia Orders</h3>
+          <p className="text-sm text-gray-600 mt-1">2.16 million people ordered deported without being present in court.</p>
         </Link>
       </div>
     </div>

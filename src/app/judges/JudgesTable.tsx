@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import Link from 'next/link'
 import { titleCase } from '@/lib/utils'
 
 interface Judge {
@@ -13,6 +14,7 @@ interface Judge {
   absentia: number
   grantRate: number
   removalRate: number
+  slug?: string
 }
 
 type SortKey = 'name' | 'totalDecisions' | 'grantRate' | 'removalRate' | 'absentia'
@@ -66,7 +68,11 @@ export default function JudgesTable({ judges }: { judges: Judge[] }) {
             {sorted.map((j, i) => (
               <tr key={j.code} className="border-t border-gray-100 hover:bg-gray-50">
                 <td className="px-3 py-2 text-gray-400">{i + 1}</td>
-                <td className="px-3 py-2 font-medium whitespace-nowrap">{titleCase(j.name)}</td>
+                <td className="px-3 py-2 font-medium whitespace-nowrap">
+                  {j.slug ? (
+                    <Link href={`/judges/${j.slug}`} className="text-primary hover:underline">{titleCase(j.name)}</Link>
+                  ) : titleCase(j.name)}
+                </td>
                 <td className="px-3 py-2 text-right">{j.totalDecisions.toLocaleString()}</td>
                 <td className="px-3 py-2 text-right">{j.grants.toLocaleString()}</td>
                 <td className="px-3 py-2 text-right">{j.denials.toLocaleString()}</td>

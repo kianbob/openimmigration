@@ -1,0 +1,24 @@
+{
+  "code": "MJB",
+  "slug": "mjb",
+  "name": "Mjb",
+  "totalDecisions": 459,
+  "grants": 0,
+  "denials": 4,
+  "removals": 4,
+  "absentia": 0,
+  "grantRate": 0,
+  "removalRate": 0.9,
+  "courts": [
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 451
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

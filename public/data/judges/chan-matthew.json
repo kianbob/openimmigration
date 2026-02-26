@@ -1,0 +1,64 @@
+{
+  "code": "MWC",
+  "slug": "chan-matthew",
+  "name": "Chan, Matthew",
+  "totalDecisions": 3949,
+  "grants": 193,
+  "denials": 6,
+  "removals": 0,
+  "absentia": 355,
+  "grantRate": 4.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 4635
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 818
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 51
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "code": "SSC",
+  "slug": "coleman-sandra-s",
+  "name": "Coleman, Sandra S.",
+  "totalDecisions": 4661,
+  "grants": 2070,
+  "denials": 16,
+  "removals": 12,
+  "absentia": 1057,
+  "grantRate": 44.4,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 4606
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 21
+    }
+  ]
+}

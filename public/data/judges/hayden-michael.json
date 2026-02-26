@@ -1,0 +1,24 @@
+{
+  "code": "MIH",
+  "slug": "hayden-michael",
+  "name": "Hayden, Michael",
+  "totalDecisions": 90,
+  "grants": 13,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 14.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 143
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

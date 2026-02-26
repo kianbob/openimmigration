@@ -1,0 +1,64 @@
+{
+  "code": "JJM",
+  "slug": "mc-carrick-john-j",
+  "name": "Mc Carrick, John J.",
+  "totalDecisions": 6995,
+  "grants": 531,
+  "denials": 1861,
+  "removals": 1861,
+  "absentia": 748,
+  "grantRate": 7.6,
+  "removalRate": 26.6,
+  "courts": [
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2417
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 1788
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 1452
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 304
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 302
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 179
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 157
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 129
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 103
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 63
+    }
+  ]
+}

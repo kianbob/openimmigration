@@ -1,0 +1,64 @@
+{
+  "code": "AND",
+  "slug": "sloan-andrea",
+  "name": "Sloan, Andrea",
+  "totalDecisions": 4956,
+  "grants": 736,
+  "denials": 12,
+  "removals": 2,
+  "absentia": 606,
+  "grantRate": 14.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 4747
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 76
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

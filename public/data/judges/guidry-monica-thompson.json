@@ -1,0 +1,64 @@
+{
+  "code": "MTG",
+  "slug": "guidry-monica-thompson",
+  "name": "Guidry, Monica Thompson",
+  "totalDecisions": 7787,
+  "grants": 96,
+  "denials": 7,
+  "removals": 1,
+  "absentia": 2145,
+  "grantRate": 1.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 8523
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 334
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 227
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 124
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 116
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 84
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 49
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 33
+    }
+  ]
+}

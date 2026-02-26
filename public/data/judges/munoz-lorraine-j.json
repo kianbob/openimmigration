@@ -1,0 +1,44 @@
+{
+  "code": "LJM",
+  "slug": "munoz-lorraine-j",
+  "name": "Munoz, Lorraine J.",
+  "totalDecisions": 17813,
+  "grants": 2059,
+  "denials": 458,
+  "removals": 374,
+  "absentia": 1985,
+  "grantRate": 11.6,
+  "removalRate": 2.1,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 9568
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 8071
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 134
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

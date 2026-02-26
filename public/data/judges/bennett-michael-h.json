@@ -1,0 +1,64 @@
+{
+  "code": "MHB",
+  "slug": "bennett-michael-h",
+  "name": "Bennett, Michael H.",
+  "totalDecisions": 41753,
+  "grants": 2771,
+  "denials": 16013,
+  "removals": 15984,
+  "absentia": 1903,
+  "grantRate": 6.6,
+  "removalRate": 38.3,
+  "courts": [
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 24759
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 16753
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

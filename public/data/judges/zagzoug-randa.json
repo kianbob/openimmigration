@@ -1,0 +1,64 @@
+{
+  "code": "RZA",
+  "slug": "zagzoug-randa",
+  "name": "Zagzoug, Randa",
+  "totalDecisions": 16976,
+  "grants": 3068,
+  "denials": 55,
+  "removals": 42,
+  "absentia": 2745,
+  "grantRate": 18.1,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 22978
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 60
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 11
+    }
+  ]
+}

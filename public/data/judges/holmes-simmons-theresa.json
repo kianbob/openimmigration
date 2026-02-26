@@ -1,0 +1,64 @@
+{
+  "code": "THS",
+  "slug": "holmes-simmons-theresa",
+  "name": "Holmes-Simmons, Theresa",
+  "totalDecisions": 34686,
+  "grants": 4650,
+  "denials": 111,
+  "removals": 77,
+  "absentia": 12500,
+  "grantRate": 13.4,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 28825
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5449
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1052
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 163
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 129
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 113
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 83
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 74
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 51
+    }
+  ]
+}

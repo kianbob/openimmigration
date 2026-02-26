@@ -1,0 +1,538 @@
+{
+  "code": "HON",
+  "slug": "honolulu",
+  "name": "Honolulu",
+  "state": "HI",
+  "address": "300 ALA MOANA BLVD. ROOM 8-112",
+  "active": true,
+  "cases": 13617,
+  "completed": 19618,
+  "grants": 3809,
+  "denials": 911,
+  "removals": 853,
+  "grantRate": 19.4,
+  "topNationalities": [
+    {
+      "code": "CH",
+      "name": "China",
+      "count": 3651
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "count": 2317
+    },
+    {
+      "code": "RP",
+      "name": "Philippines",
+      "count": 1787
+    },
+    {
+      "code": "KS",
+      "name": "South Korea",
+      "count": 432
+    },
+    {
+      "code": "FM",
+      "name": "Federated States Of Micronesia",
+      "count": 393
+    },
+    {
+      "code": "JA",
+      "name": "Japan",
+      "count": 391
+    },
+    {
+      "code": "HO",
+      "name": "Honduras",
+      "count": 384
+    },
+    {
+      "code": "TN",
+      "name": "Tonga",
+      "count": 377
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "count": 329
+    },
+    {
+      "code": "WS",
+      "name": "Samoa",
+      "count": 312
+    },
+    {
+      "code": "VM",
+      "name": "Vietnam",
+      "count": 241
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "count": 222
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "count": 161
+    },
+    {
+      "code": "CE",
+      "name": "Sri Lanka",
+      "count": 152
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "count": 151
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "count": 139
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "count": 113
+    },
+    {
+      "code": "RM",
+      "name": "The Republic Of The Marshall Islands",
+      "count": 98
+    },
+    {
+      "code": "ES",
+      "name": "El Salvador",
+      "count": 92
+    },
+    {
+      "code": "UK",
+      "name": "United Kingdom",
+      "count": 89
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "DMB",
+      "name": "Beamer, Dayna",
+      "decisions": 9722,
+      "grants": 2273,
+      "denials": 48,
+      "removals": 18,
+      "grantRate": 23.4
+    },
+    {
+      "code": "JCW",
+      "name": "Williams, John C.",
+      "decisions": 4454,
+      "grants": 338,
+      "denials": 769,
+      "removals": 769,
+      "grantRate": 7.6
+    },
+    {
+      "code": "CMW",
+      "name": "Wagner, Clarence M., Jr.",
+      "decisions": 3900,
+      "grants": 1001,
+      "denials": 32,
+      "removals": 6,
+      "grantRate": 25.7
+    },
+    {
+      "code": "REF",
+      "name": "Feder, Robin E.",
+      "decisions": 644,
+      "grants": 97,
+      "denials": 2,
+      "removals": 1,
+      "grantRate": 15.1
+    },
+    {
+      "code": "JCL",
+      "name": "Clemente, Jesus",
+      "decisions": 327,
+      "grants": 52,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 15.9
+    },
+    {
+      "code": "KAB",
+      "name": "Bagley, Kenneth A.",
+      "decisions": 151,
+      "grants": 14,
+      "denials": 47,
+      "removals": 47,
+      "grantRate": 9.3
+    },
+    {
+      "code": "CLR",
+      "name": "Clerical Transfer Code",
+      "decisions": 83,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "BAR",
+      "name": "Bartolomei, Rico J.",
+      "decisions": 39,
+      "grants": 8,
+      "denials": 2,
+      "removals": 1,
+      "grantRate": null
+    },
+    {
+      "code": "RJB",
+      "name": "Barrett, Robert J.",
+      "decisions": 38,
+      "grants": 0,
+      "denials": 2,
+      "removals": 2,
+      "grantRate": null
+    },
+    {
+      "code": "RAI",
+      "name": "Ishimoto, Rhana",
+      "decisions": 19,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "ASM",
+      "name": "Murry, Anthony S.",
+      "decisions": 13,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "RPO",
+      "name": "Owens, Robert P.",
+      "decisions": 12,
+      "grants": 3,
+      "denials": 2,
+      "removals": 2,
+      "grantRate": null
+    },
+    {
+      "code": "WAC",
+      "name": "Cassidy, William A.",
+      "decisions": 11,
+      "grants": 1,
+      "denials": 2,
+      "removals": 2,
+      "grantRate": null
+    },
+    {
+      "code": "KGB",
+      "name": "Bradley, Kevin G.",
+      "decisions": 11,
+      "grants": 8,
+      "denials": 1,
+      "removals": 1,
+      "grantRate": null
+    },
+    {
+      "code": "WJN",
+      "name": "Nickerson, William J., Jr.",
+      "decisions": 9,
+      "grants": 1,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "IAD",
+      "name": "Iad Judge",
+      "decisions": 7,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "JWR",
+      "name": "Richardson, John W.",
+      "decisions": 6,
+      "grants": 2,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "MHH",
+      "name": "Heesch, Meghan E.",
+      "decisions": 6,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "AED",
+      "name": "Daw, Alison E",
+      "decisions": 6,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "VJ1",
+      "name": "Visiting Judge 1",
+      "decisions": 5,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "MST",
+      "name": "Sameit, Mark",
+      "decisions": 5,
+      "grants": 1,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "IPF",
+      "name": "Fernandez, Ignacio P.",
+      "decisions": 5,
+      "grants": 3,
+      "denials": 1,
+      "removals": 1,
+      "grantRate": null
+    },
+    {
+      "code": "GA",
+      "name": "Vahid-Tehrani, Gita",
+      "decisions": 4,
+      "grants": 0,
+      "denials": 1,
+      "removals": 1,
+      "grantRate": null
+    },
+    {
+      "code": "CES",
+      "name": "Stancill, Christine E",
+      "decisions": 3,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "DCA",
+      "name": "Anderson, David C.",
+      "decisions": 3,
+      "grants": 2,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "ROV",
+      "name": "Vicars, Robert O., Jr.",
+      "decisions": 3,
+      "grants": 2,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "MAK",
+      "name": "Kilroy, Michael A.",
+      "decisions": 3,
+      "grants": 0,
+      "denials": 1,
+      "removals": 1,
+      "grantRate": null
+    },
+    {
+      "code": "MWC",
+      "name": "Chan, Matthew",
+      "decisions": 3,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "LIA",
+      "name": "Adams, Lori",
+      "decisions": 2,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    },
+    {
+      "code": "AA",
+      "name": "Atenaide, Anthony",
+      "decisions": 2,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": null
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 178
+    },
+    {
+      "year": 1991,
+      "cases": 156
+    },
+    {
+      "year": 1992,
+      "cases": 84
+    },
+    {
+      "year": 1993,
+      "cases": 109
+    },
+    {
+      "year": 1994,
+      "cases": 111
+    },
+    {
+      "year": 1995,
+      "cases": 117
+    },
+    {
+      "year": 1996,
+      "cases": 118
+    },
+    {
+      "year": 1997,
+      "cases": 138
+    },
+    {
+      "year": 1998,
+      "cases": 119
+    },
+    {
+      "year": 1999,
+      "cases": 98
+    },
+    {
+      "year": 2000,
+      "cases": 134
+    },
+    {
+      "year": 2001,
+      "cases": 148
+    },
+    {
+      "year": 2002,
+      "cases": 182
+    },
+    {
+      "year": 2003,
+      "cases": 270
+    },
+    {
+      "year": 2004,
+      "cases": 126
+    },
+    {
+      "year": 2005,
+      "cases": 126
+    },
+    {
+      "year": 2006,
+      "cases": 138
+    },
+    {
+      "year": 2007,
+      "cases": 59
+    },
+    {
+      "year": 2008,
+      "cases": 109
+    },
+    {
+      "year": 2009,
+      "cases": 93
+    },
+    {
+      "year": 2010,
+      "cases": 32
+    },
+    {
+      "year": 2011,
+      "cases": 45
+    },
+    {
+      "year": 2012,
+      "cases": 64
+    },
+    {
+      "year": 2013,
+      "cases": 112
+    },
+    {
+      "year": 2014,
+      "cases": 194
+    },
+    {
+      "year": 2015,
+      "cases": 336
+    },
+    {
+      "year": 2016,
+      "cases": 496
+    },
+    {
+      "year": 2017,
+      "cases": 412
+    },
+    {
+      "year": 2018,
+      "cases": 257
+    },
+    {
+      "year": 2019,
+      "cases": 205
+    },
+    {
+      "year": 2020,
+      "cases": 168
+    },
+    {
+      "year": 2021,
+      "cases": 113
+    },
+    {
+      "year": 2022,
+      "cases": 138
+    },
+    {
+      "year": 2023,
+      "cases": 488
+    },
+    {
+      "year": 2024,
+      "cases": 663
+    },
+    {
+      "year": 2025,
+      "cases": 258
+    },
+    {
+      "year": 2026,
+      "cases": 17
+    }
+  ]
+}

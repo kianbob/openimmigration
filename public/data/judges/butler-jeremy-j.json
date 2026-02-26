@@ -1,0 +1,64 @@
+{
+  "code": "JYB",
+  "slug": "butler-jeremy-j",
+  "name": "Butler, Jeremy J.",
+  "totalDecisions": 5414,
+  "grants": 954,
+  "denials": 12,
+  "removals": 2,
+  "absentia": 1109,
+  "grantRate": 17.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 8693
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2665
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "code": "CTS",
+  "slug": "sanon-chevone-teranza",
+  "name": "Sanon, Chevone Teranza.",
+  "totalDecisions": 1970,
+  "grants": 115,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 823,
+  "grantRate": 5.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4344
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

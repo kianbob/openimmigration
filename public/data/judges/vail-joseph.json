@@ -1,0 +1,39 @@
+{
+  "code": "JV",
+  "slug": "vail-joseph",
+  "name": "Vail, Joseph",
+  "totalDecisions": 3674,
+  "grants": 582,
+  "denials": 786,
+  "removals": 785,
+  "absentia": 1149,
+  "grantRate": 15.8,
+  "removalRate": 21.4,
+  "courts": [
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 3476
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 121
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 15
+    }
+  ]
+}

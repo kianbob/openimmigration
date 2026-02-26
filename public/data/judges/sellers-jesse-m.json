@@ -1,0 +1,34 @@
+{
+  "code": "JMS",
+  "slug": "sellers-jesse-m",
+  "name": "Sellers, Jesse M.",
+  "totalDecisions": 6021,
+  "grants": 83,
+  "denials": 3137,
+  "removals": 3137,
+  "absentia": 46,
+  "grantRate": 1.4,
+  "removalRate": 52.1,
+  "courts": [
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 3631
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 2361
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

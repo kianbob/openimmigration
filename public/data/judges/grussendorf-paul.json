@@ -1,0 +1,34 @@
+{
+  "code": "PG",
+  "slug": "grussendorf-paul",
+  "name": "Grussendorf, Paul",
+  "totalDecisions": 5028,
+  "grants": 845,
+  "denials": 217,
+  "removals": 192,
+  "absentia": 496,
+  "grantRate": 16.8,
+  "removalRate": 3.8,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 2808
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2122
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 83
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 15
+    }
+  ]
+}

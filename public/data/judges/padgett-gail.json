@@ -1,0 +1,39 @@
+{
+  "code": "GBP",
+  "slug": "padgett-gail",
+  "name": "Padgett, Gail",
+  "totalDecisions": 3327,
+  "grants": 530,
+  "denials": 35,
+  "removals": 7,
+  "absentia": 602,
+  "grantRate": 15.9,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3279
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "BDC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "RJD",
+  "slug": "daniel-roy-j",
+  "name": "Daniel, Roy J.",
+  "totalDecisions": 19597,
+  "grants": 876,
+  "denials": 7533,
+  "removals": 7533,
+  "absentia": 4890,
+  "grantRate": 4.5,
+  "removalRate": 38.4,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 19466
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 56
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

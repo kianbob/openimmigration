@@ -1,0 +1,251 @@
+{
+  "code": "UZ",
+  "slug": "uzbekistan",
+  "name": "Uzbekistan",
+  "cases": 23403,
+  "completed": 25501,
+  "grants": 2841,
+  "denials": 47,
+  "removals": 41,
+  "grantRate": 11.1,
+  "topCourts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 10013
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 3735
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 2138
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 711
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "count": 585
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "count": 467
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 400
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "count": 397
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "count": 347
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 312
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 311
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 300
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 293
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 268
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 252
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 248
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 174
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "count": 157
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "count": 121
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 115
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1992,
+      "cases": 1
+    },
+    {
+      "year": 1994,
+      "cases": 6
+    },
+    {
+      "year": 1995,
+      "cases": 25
+    },
+    {
+      "year": 1996,
+      "cases": 25
+    },
+    {
+      "year": 1997,
+      "cases": 34
+    },
+    {
+      "year": 1998,
+      "cases": 63
+    },
+    {
+      "year": 1999,
+      "cases": 44
+    },
+    {
+      "year": 2000,
+      "cases": 50
+    },
+    {
+      "year": 2001,
+      "cases": 92
+    },
+    {
+      "year": 2002,
+      "cases": 144
+    },
+    {
+      "year": 2003,
+      "cases": 167
+    },
+    {
+      "year": 2004,
+      "cases": 93
+    },
+    {
+      "year": 2005,
+      "cases": 111
+    },
+    {
+      "year": 2006,
+      "cases": 122
+    },
+    {
+      "year": 2007,
+      "cases": 46
+    },
+    {
+      "year": 2008,
+      "cases": 50
+    },
+    {
+      "year": 2009,
+      "cases": 63
+    },
+    {
+      "year": 2010,
+      "cases": 49
+    },
+    {
+      "year": 2011,
+      "cases": 48
+    },
+    {
+      "year": 2012,
+      "cases": 70
+    },
+    {
+      "year": 2013,
+      "cases": 83
+    },
+    {
+      "year": 2014,
+      "cases": 107
+    },
+    {
+      "year": 2015,
+      "cases": 88
+    },
+    {
+      "year": 2016,
+      "cases": 127
+    },
+    {
+      "year": 2017,
+      "cases": 129
+    },
+    {
+      "year": 2018,
+      "cases": 335
+    },
+    {
+      "year": 2019,
+      "cases": 421
+    },
+    {
+      "year": 2020,
+      "cases": 237
+    },
+    {
+      "year": 2021,
+      "cases": 348
+    },
+    {
+      "year": 2022,
+      "cases": 1655
+    },
+    {
+      "year": 2023,
+      "cases": 4212
+    },
+    {
+      "year": 2024,
+      "cases": 4766
+    },
+    {
+      "year": 2025,
+      "cases": 2783
+    },
+    {
+      "year": 2026,
+      "cases": 136
+    }
+  ]
+}

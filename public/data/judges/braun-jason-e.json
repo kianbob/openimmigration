@@ -1,0 +1,64 @@
+{
+  "code": "JSB",
+  "slug": "braun-jason-e",
+  "name": "Braun, Jason E.",
+  "totalDecisions": 4037,
+  "grants": 164,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 811,
+  "grantRate": 4.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 3162
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2198
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 4
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

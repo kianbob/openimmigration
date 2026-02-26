@@ -1,0 +1,24 @@
+{
+  "code": "JOS",
+  "slug": "smith-jason",
+  "name": "Smith, Jason",
+  "totalDecisions": 69,
+  "grants": 4,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 5.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 113
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

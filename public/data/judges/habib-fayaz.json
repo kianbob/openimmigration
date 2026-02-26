@@ -1,0 +1,64 @@
+{
+  "code": "FZH",
+  "slug": "habib-fayaz",
+  "name": "Habib, Fayaz",
+  "totalDecisions": 2370,
+  "grants": 99,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 918,
+  "grantRate": 4.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4321
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 159
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

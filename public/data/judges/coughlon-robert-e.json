@@ -1,0 +1,64 @@
+{
+  "code": "REC",
+  "slug": "coughlon-robert-e",
+  "name": "Coughlon, Robert E.",
+  "totalDecisions": 6459,
+  "grants": 441,
+  "denials": 59,
+  "removals": 11,
+  "absentia": 473,
+  "grantRate": 6.8,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 3754
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 1320
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 1232
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 67
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

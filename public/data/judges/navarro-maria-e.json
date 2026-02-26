@@ -1,0 +1,64 @@
+{
+  "code": "MEN",
+  "slug": "navarro-maria-e",
+  "name": "Navarro, Maria E.",
+  "totalDecisions": 5566,
+  "grants": 1340,
+  "denials": 13,
+  "removals": 3,
+  "absentia": 1216,
+  "grantRate": 24.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4933
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 1478
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 55
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

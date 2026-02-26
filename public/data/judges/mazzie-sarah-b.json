@@ -1,0 +1,64 @@
+{
+  "code": "SM1",
+  "slug": "mazzie-sarah-b",
+  "name": "Mazzie, Sarah B.",
+  "totalDecisions": 6391,
+  "grants": 396,
+  "denials": 105,
+  "removals": 6,
+  "absentia": 730,
+  "grantRate": 6.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 9208
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 780
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

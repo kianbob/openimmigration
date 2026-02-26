@@ -1,0 +1,16 @@
+{
+  "code": "RMV",
+  "slug": "rmv",
+  "name": "Rmv",
+  "state": "",
+  "address": "",
+  "active": false,
+  "cases": 10,
+  "completed": 0,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "topNationalities": [],
+  "topJudges": [],
+  "yearlyTrend": []
+}

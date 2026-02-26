@@ -1,0 +1,64 @@
+{
+  "code": "PAB",
+  "slug": "barr-philip-a",
+  "name": "Barr, Philip A.",
+  "totalDecisions": 2669,
+  "grants": 74,
+  "denials": 4,
+  "removals": 2,
+  "absentia": 935,
+  "grantRate": 2.8,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 2577
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

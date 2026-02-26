@@ -1,0 +1,64 @@
+{
+  "code": "TWJ",
+  "slug": "janas-thomas",
+  "name": "Janas, Thomas",
+  "totalDecisions": 11176,
+  "grants": 444,
+  "denials": 42,
+  "removals": 6,
+  "absentia": 722,
+  "grantRate": 4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 11121
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

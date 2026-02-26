@@ -1,0 +1,49 @@
+{
+  "code": "WLN",
+  "slug": "nixon-william-l",
+  "name": "Nixon, William L.",
+  "totalDecisions": 10599,
+  "grants": 551,
+  "denials": 17,
+  "removals": 7,
+  "absentia": 659,
+  "grantRate": 5.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 10565
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

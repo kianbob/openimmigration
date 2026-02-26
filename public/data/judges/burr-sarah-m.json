@@ -1,0 +1,54 @@
+{
+  "code": "SMB",
+  "slug": "burr-sarah-m",
+  "name": "Burr, Sarah M.",
+  "totalDecisions": 11045,
+  "grants": 3095,
+  "denials": 911,
+  "removals": 888,
+  "absentia": 2160,
+  "grantRate": 28,
+  "removalRate": 8,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 10949
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 55
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

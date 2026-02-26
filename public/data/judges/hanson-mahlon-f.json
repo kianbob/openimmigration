@@ -1,0 +1,64 @@
+{
+  "code": "MFH",
+  "slug": "hanson-mahlon-f",
+  "name": "Hanson, Mahlon F.",
+  "totalDecisions": 12080,
+  "grants": 1678,
+  "denials": 654,
+  "removals": 603,
+  "absentia": 2754,
+  "grantRate": 13.9,
+  "removalRate": 5,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 11693
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 169
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 78
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 41
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

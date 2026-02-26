@@ -1,0 +1,29 @@
+{
+  "code": "GQ",
+  "slug": "gq",
+  "name": "Gq",
+  "cases": 3,
+  "completed": 4,
+  "grants": 0,
+  "denials": 2,
+  "removals": 2,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": []
+}

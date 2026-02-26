@@ -1,0 +1,59 @@
+{
+  "code": "BRC",
+  "slug": "counihan-brian",
+  "name": "Counihan, Brian",
+  "totalDecisions": 2564,
+  "grants": 25,
+  "denials": 27,
+  "removals": 1,
+  "absentia": 8,
+  "grantRate": 1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 2217
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 239
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "hearings": 81
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 58
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

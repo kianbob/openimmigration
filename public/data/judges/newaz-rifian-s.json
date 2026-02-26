@@ -1,0 +1,64 @@
+{
+  "code": "RSN",
+  "slug": "newaz-rifian-s",
+  "name": "Newaz, Rifian S.",
+  "totalDecisions": 16546,
+  "grants": 410,
+  "denials": 23,
+  "removals": 10,
+  "absentia": 5502,
+  "grantRate": 2.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 23312
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 1964
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 840
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "KNB",
+  "slug": "buras-kevin-n",
+  "name": "Buras, Kevin N.",
+  "totalDecisions": 159,
+  "grants": 1,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 0.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 374
+    }
+  ]
+}

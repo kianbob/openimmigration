@@ -1,0 +1,64 @@
+{
+  "code": "RLH",
+  "slug": "holt-rebecca-l",
+  "name": "Holt, Rebecca L.",
+  "totalDecisions": 33464,
+  "grants": 1339,
+  "denials": 22,
+  "removals": 8,
+  "absentia": 10435,
+  "grantRate": 4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 33088
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 137
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 91
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 69
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 15
+    }
+  ]
+}

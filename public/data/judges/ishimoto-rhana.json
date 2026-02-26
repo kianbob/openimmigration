@@ -1,0 +1,64 @@
+{
+  "code": "RAI",
+  "slug": "ishimoto-rhana",
+  "name": "Ishimoto, Rhana",
+  "totalDecisions": 1207,
+  "grants": 12,
+  "denials": 2,
+  "removals": 2,
+  "absentia": 77,
+  "grantRate": 1,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1159
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

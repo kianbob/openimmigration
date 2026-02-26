@@ -1,0 +1,19 @@
+{
+  "code": "MEY",
+  "slug": "mey",
+  "name": "Mey",
+  "totalDecisions": 59,
+  "grants": 1,
+  "denials": 40,
+  "removals": 40,
+  "absentia": 2,
+  "grantRate": 1.7,
+  "removalRate": 67.8,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 59
+    }
+  ]
+}

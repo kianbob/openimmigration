@@ -1,0 +1,64 @@
+{
+  "code": "CNF",
+  "slug": "floyd-charles-neil",
+  "name": "Floyd, Charles Neil",
+  "totalDecisions": 5710,
+  "grants": 195,
+  "denials": 53,
+  "removals": 1,
+  "absentia": 640,
+  "grantRate": 3.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 3804
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 1855
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

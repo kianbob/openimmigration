@@ -1,0 +1,86 @@
+{
+  "code": "TP",
+  "slug": "sao-tome-and-principe",
+  "name": "Sao Tome And Principe",
+  "cases": 14,
+  "completed": 26,
+  "grants": 2,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "PEP",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1992,
+      "cases": 1
+    },
+    {
+      "year": 2000,
+      "cases": 1
+    },
+    {
+      "year": 2007,
+      "cases": 1
+    },
+    {
+      "year": 2023,
+      "cases": 1
+    }
+  ]
+}

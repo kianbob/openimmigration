@@ -1,0 +1,64 @@
+{
+  "code": "SRP",
+  "slug": "pratt-sherease-r",
+  "name": "Pratt, Sherease R.",
+  "totalDecisions": 3434,
+  "grants": 234,
+  "denials": 4,
+  "removals": 1,
+  "absentia": 905,
+  "grantRate": 6.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 2637
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 1972
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 7
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

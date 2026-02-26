@@ -1,0 +1,64 @@
+{
+  "code": "TRW",
+  "slug": "wood-tyler",
+  "name": "Wood, Tyler",
+  "totalDecisions": 9584,
+  "grants": 97,
+  "denials": 2,
+  "removals": 1,
+  "absentia": 3103,
+  "grantRate": 1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 16647
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 1004
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 30
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 13
+    }
+  ]
+}

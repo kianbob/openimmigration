@@ -1,0 +1,64 @@
+{
+  "code": "DHW",
+  "slug": "weiss-daniel-h",
+  "name": "Weiss, Daniel H.",
+  "totalDecisions": 3135,
+  "grants": 135,
+  "denials": 10,
+  "removals": 4,
+  "absentia": 1149,
+  "grantRate": 4.3,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 2300
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 225
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 149
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 131
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 92
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 78
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 28
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 15
+    }
+  ]
+}

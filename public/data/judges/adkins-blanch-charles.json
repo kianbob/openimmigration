@@ -1,0 +1,64 @@
+{
+  "code": "CKA",
+  "slug": "adkins-blanch-charles",
+  "name": "Adkins-Blanch, Charles",
+  "totalDecisions": 6373,
+  "grants": 226,
+  "denials": 17,
+  "removals": 8,
+  "absentia": 5231,
+  "grantRate": 3.5,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5197
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 429
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 172
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 111
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 104
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 76
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 67
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 33
+    }
+  ]
+}

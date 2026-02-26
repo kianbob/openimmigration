@@ -1,0 +1,64 @@
+{
+  "code": "RSH",
+  "slug": "hough-robert-s",
+  "name": "Hough, Robert S.",
+  "totalDecisions": 27803,
+  "grants": 1160,
+  "denials": 108,
+  "removals": 97,
+  "absentia": 4978,
+  "grantRate": 4.2,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 24307
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 2728
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 460
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 100
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 19
+    }
+  ]
+}

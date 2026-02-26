@@ -1,0 +1,62 @@
+{
+  "code": "FA",
+  "slug": "falkland-islands",
+  "name": "Falkland Islands",
+  "cases": 23,
+  "completed": 25,
+  "grants": 0,
+  "denials": 1,
+  "removals": 1,
+  "grantRate": null,
+  "topCourts": [
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 14
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1992,
+      "cases": 4
+    },
+    {
+      "year": 1993,
+      "cases": 1
+    },
+    {
+      "year": 2013,
+      "cases": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "LCB",
+  "slug": "baez-lucy",
+  "name": "Baez, Lucy",
+  "totalDecisions": 3832,
+  "grants": 231,
+  "denials": 10,
+  "removals": 0,
+  "absentia": 1125,
+  "grantRate": 6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 5359
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

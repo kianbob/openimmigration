@@ -1,0 +1,34 @@
+{
+  "code": "DFC",
+  "slug": "coupe-dennis-f",
+  "name": "Coupe, Dennis F.",
+  "totalDecisions": 2452,
+  "grants": 436,
+  "denials": 155,
+  "removals": 154,
+  "absentia": 279,
+  "grantRate": 17.8,
+  "removalRate": 6.3,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1465
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 931
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 53
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

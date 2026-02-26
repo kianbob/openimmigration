@@ -1,0 +1,64 @@
+{
+  "code": "MEC",
+  "slug": "carreras-amadeo-monique",
+  "name": "Carreras-Amadeo, Monique",
+  "totalDecisions": 2791,
+  "grants": 152,
+  "denials": 20,
+  "removals": 0,
+  "absentia": 37,
+  "grantRate": 5.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 1136
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 492
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 193
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 158
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 119
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 116
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 109
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 100
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 76
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 72
+    }
+  ]
+}

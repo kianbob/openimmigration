@@ -1,0 +1,474 @@
+{
+  "code": "OTO",
+  "slug": "otero",
+  "name": "Otero",
+  "state": "NM",
+  "address": "26 McGREGOR RANGE RD - DOOR 1",
+  "active": true,
+  "cases": 30723,
+  "completed": 60668,
+  "grants": 1288,
+  "denials": 340,
+  "removals": 5,
+  "grantRate": 2.1,
+  "topNationalities": [
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "count": 13693
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "count": 3051
+    },
+    {
+      "code": "ES",
+      "name": "El Salvador",
+      "count": 2318
+    },
+    {
+      "code": "HO",
+      "name": "Honduras",
+      "count": 1898
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "count": 1648
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "count": 1477
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "count": 1252
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "count": 686
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "count": 669
+    },
+    {
+      "code": "NU",
+      "name": "Nicaragua",
+      "count": 591
+    },
+    {
+      "code": "DR",
+      "name": "Dominican Republic",
+      "count": 478
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "count": 351
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "count": 277
+    },
+    {
+      "code": "TU",
+      "name": "Turkey",
+      "count": 268
+    },
+    {
+      "code": "HA",
+      "name": "Haiti",
+      "count": 198
+    },
+    {
+      "code": "CH",
+      "name": "China",
+      "count": 182
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "count": 133
+    },
+    {
+      "code": "BL",
+      "name": "Bolivia",
+      "count": 119
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "count": 54
+    },
+    {
+      "code": "BG",
+      "name": "Bangladesh",
+      "count": 49
+    }
+  ],
+  "topJudges": [
+    {
+      "code": "TCR",
+      "name": "Roepke, Thomas C.",
+      "decisions": 9817,
+      "grants": 169,
+      "denials": 22,
+      "removals": 3,
+      "grantRate": 1.7
+    },
+    {
+      "code": "JP1",
+      "name": "Palomino, Jacinto",
+      "decisions": 9525,
+      "grants": 107,
+      "denials": 64,
+      "removals": 0,
+      "grantRate": 1.1
+    },
+    {
+      "code": "SMR",
+      "name": "Ruhle, Stephen M.",
+      "decisions": 7057,
+      "grants": 108,
+      "denials": 27,
+      "removals": 0,
+      "grantRate": 1.5
+    },
+    {
+      "code": "BTR",
+      "name": "Taylor, Brock E",
+      "decisions": 6869,
+      "grants": 494,
+      "denials": 61,
+      "removals": 1,
+      "grantRate": 7.2
+    },
+    {
+      "code": "REG",
+      "name": "Girvin, Ralph E.",
+      "decisions": 5300,
+      "grants": 40,
+      "denials": 60,
+      "removals": 0,
+      "grantRate": 0.8
+    },
+    {
+      "code": "KFH",
+      "name": "French, Kathleen",
+      "decisions": 3243,
+      "grants": 18,
+      "denials": 12,
+      "removals": 0,
+      "grantRate": 0.6
+    },
+    {
+      "code": "GRG",
+      "name": "Gonzalez, Guadalupe R.",
+      "decisions": 3013,
+      "grants": 33,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 1.1
+    },
+    {
+      "code": "MP1",
+      "name": "Pleters, Michael S.",
+      "decisions": 2068,
+      "grants": 17,
+      "denials": 10,
+      "removals": 0,
+      "grantRate": 0.8
+    },
+    {
+      "code": "LFZ",
+      "name": "Fernandez, Lorely Ramirez",
+      "decisions": 1714,
+      "grants": 29,
+      "denials": 7,
+      "removals": 0,
+      "grantRate": 1.7
+    },
+    {
+      "code": "DST",
+      "name": "Tuckman, Dean S.",
+      "decisions": 1632,
+      "grants": 9,
+      "denials": 5,
+      "removals": 0,
+      "grantRate": 0.6
+    },
+    {
+      "code": "SGW",
+      "name": "Williams, Samuel G.",
+      "decisions": 1592,
+      "grants": 39,
+      "denials": 14,
+      "removals": 0,
+      "grantRate": 2.4
+    },
+    {
+      "code": "JKM",
+      "name": "Miles, Jessica K.",
+      "decisions": 1371,
+      "grants": 28,
+      "denials": 26,
+      "removals": 0,
+      "grantRate": 2
+    },
+    {
+      "code": "WLA",
+      "name": "Abbott, William L.",
+      "decisions": 1285,
+      "grants": 6,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0.5
+    },
+    {
+      "code": "DHG",
+      "name": "Garten, Danielle H.",
+      "decisions": 648,
+      "grants": 0,
+      "denials": 4,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "JN",
+      "name": "Nugent, James A.",
+      "decisions": 432,
+      "grants": 4,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0.9
+    },
+    {
+      "code": "MGO",
+      "name": "Guerrero, Marni",
+      "decisions": 367,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "DKT",
+      "name": "Kinnicutt, Daniel P.",
+      "decisions": 330,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "ERT",
+      "name": "Trujillo, Eileen R.",
+      "decisions": 294,
+      "grants": 47,
+      "denials": 3,
+      "removals": 0,
+      "grantRate": 16
+    },
+    {
+      "code": "LLM",
+      "name": "Mccleskey, Loi L.",
+      "decisions": 230,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "JLV",
+      "name": "Vigil, Jami",
+      "decisions": 163,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "HRG",
+      "name": "Martinez, Hugo R.",
+      "decisions": 160,
+      "grants": 12,
+      "denials": 3,
+      "removals": 0,
+      "grantRate": 7.5
+    },
+    {
+      "code": "IEG",
+      "name": "Gardzelewski, Ivan E.",
+      "decisions": 160,
+      "grants": 14,
+      "denials": 1,
+      "removals": 0,
+      "grantRate": 8.8
+    },
+    {
+      "code": "DCO",
+      "name": "O'Hare, Donald C.",
+      "decisions": 142,
+      "grants": 16,
+      "denials": 3,
+      "removals": 0,
+      "grantRate": 11.3
+    },
+    {
+      "code": "AGA",
+      "name": "Gadson-Andrews, Ashley",
+      "decisions": 135,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "JSF",
+      "name": "Frederick, Jeffrey",
+      "decisions": 135,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "MTG",
+      "name": "Guidry, Monica Thompson",
+      "decisions": 116,
+      "grants": 12,
+      "denials": 1,
+      "removals": 1,
+      "grantRate": 10.3
+    },
+    {
+      "code": "SBM",
+      "name": "Mahtabfar, Sunita B.",
+      "decisions": 109,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "LRD",
+      "name": "Dean, Larry R.",
+      "decisions": 107,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "EAC",
+      "name": "Cottor, Elizabeth A",
+      "decisions": 106,
+      "grants": 0,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 0
+    },
+    {
+      "code": "RSH",
+      "name": "Hough, Robert S.",
+      "decisions": 100,
+      "grants": 1,
+      "denials": 0,
+      "removals": 0,
+      "grantRate": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2006,
+      "cases": 2
+    },
+    {
+      "year": 2007,
+      "cases": 31
+    },
+    {
+      "year": 2008,
+      "cases": 66
+    },
+    {
+      "year": 2009,
+      "cases": 491
+    },
+    {
+      "year": 2010,
+      "cases": 440
+    },
+    {
+      "year": 2011,
+      "cases": 39
+    },
+    {
+      "year": 2012,
+      "cases": 42
+    },
+    {
+      "year": 2013,
+      "cases": 88
+    },
+    {
+      "year": 2014,
+      "cases": 150
+    },
+    {
+      "year": 2015,
+      "cases": 46
+    },
+    {
+      "year": 2016,
+      "cases": 138
+    },
+    {
+      "year": 2017,
+      "cases": 540
+    },
+    {
+      "year": 2018,
+      "cases": 661
+    },
+    {
+      "year": 2019,
+      "cases": 566
+    },
+    {
+      "year": 2020,
+      "cases": 332
+    },
+    {
+      "year": 2021,
+      "cases": 284
+    },
+    {
+      "year": 2022,
+      "cases": 259
+    },
+    {
+      "year": 2023,
+      "cases": 327
+    },
+    {
+      "year": 2024,
+      "cases": 567
+    },
+    {
+      "year": 2025,
+      "cases": 1017
+    },
+    {
+      "year": 2026,
+      "cases": 43
+    }
+  ]
+}

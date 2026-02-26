@@ -1,0 +1,64 @@
+{
+  "code": "MCL",
+  "slug": "lee-mary-c",
+  "name": "Lee, Mary C.",
+  "totalDecisions": 14206,
+  "grants": 738,
+  "denials": 28,
+  "removals": 5,
+  "absentia": 3877,
+  "grantRate": 5.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 23236
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

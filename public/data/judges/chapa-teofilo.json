@@ -1,0 +1,64 @@
+{
+  "code": "TC",
+  "slug": "chapa-teofilo",
+  "name": "Chapa, Teofilo",
+  "totalDecisions": 17721,
+  "grants": 2607,
+  "denials": 734,
+  "removals": 649,
+  "absentia": 3812,
+  "grantRate": 14.7,
+  "removalRate": 3.7,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 16282
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 287
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 265
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 263
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 96
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 71
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 52
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 47
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "code": "STM",
+  "slug": "meredith-steven",
+  "name": "Meredith, Steven",
+  "totalDecisions": 90,
+  "grants": 4,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 4.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 97
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

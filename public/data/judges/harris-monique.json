@@ -1,0 +1,64 @@
+{
+  "code": "HAR",
+  "slug": "harris-monique",
+  "name": "Harris, Monique  ",
+  "totalDecisions": 13843,
+  "grants": 341,
+  "denials": 28,
+  "removals": 6,
+  "absentia": 2912,
+  "grantRate": 2.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 8338
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5314
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "KWR",
+  "slug": "riley-kevin-w",
+  "name": "Riley, Kevin W.",
+  "totalDecisions": 20982,
+  "grants": 661,
+  "denials": 165,
+  "removals": 23,
+  "absentia": 4054,
+  "grantRate": 3.2,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 10857
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 9670
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 753
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 625
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 127
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

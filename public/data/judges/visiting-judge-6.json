@@ -1,0 +1,64 @@
+{
+  "code": "VJ6",
+  "slug": "visiting-judge-6",
+  "name": "Visiting Judge 6",
+  "totalDecisions": 211,
+  "grants": 1,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 12,
+  "grantRate": 0.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 7340
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 4714
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 66
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "EPD",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 8
+    }
+  ]
+}

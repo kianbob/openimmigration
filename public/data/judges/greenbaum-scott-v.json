@@ -1,0 +1,19 @@
+{
+  "code": "SVG",
+  "slug": "greenbaum-scott-v",
+  "name": "Greenbaum, Scott V.",
+  "totalDecisions": 384,
+  "grants": 1,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 0.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 619
+    }
+  ]
+}

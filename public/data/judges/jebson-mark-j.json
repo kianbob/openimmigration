@@ -1,0 +1,44 @@
+{
+  "code": "MJJ",
+  "slug": "jebson-mark-j",
+  "name": "Jebson, Mark J.",
+  "totalDecisions": 9846,
+  "grants": 406,
+  "denials": 110,
+  "removals": 9,
+  "absentia": 155,
+  "grantRate": 4.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 10215
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

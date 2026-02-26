@@ -1,0 +1,64 @@
+{
+  "code": "CNP",
+  "slug": "purnell-charles-n",
+  "name": "Purnell, Charles N.",
+  "totalDecisions": 1855,
+  "grants": 31,
+  "denials": 11,
+  "removals": 0,
+  "absentia": 163,
+  "grantRate": 1.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 4471
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 443
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 290
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 121
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 93
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 60
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 48
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 27
+    }
+  ]
+}

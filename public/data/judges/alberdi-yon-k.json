@@ -1,0 +1,64 @@
+{
+  "code": "YKA",
+  "slug": "alberdi-yon-k",
+  "name": "Alberdi, Yon K.",
+  "totalDecisions": 16818,
+  "grants": 570,
+  "denials": 52,
+  "removals": 8,
+  "absentia": 2495,
+  "grantRate": 3.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 24649
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 3384
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 1752
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

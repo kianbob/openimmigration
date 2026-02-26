@@ -1,0 +1,64 @@
+{
+  "code": "CRC",
+  "slug": "rey-caldas-carmen",
+  "name": "Rey Caldas, Carmen",
+  "totalDecisions": 5607,
+  "grants": 245,
+  "denials": 44,
+  "removals": 8,
+  "absentia": 375,
+  "grantRate": 4.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 6553
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 3365
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 422
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 63
+    },
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 59
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 9
+    }
+  ]
+}

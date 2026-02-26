@@ -1,0 +1,19 @@
+{
+  "code": "ORG",
+  "slug": "gleich-oren",
+  "name": "Gleich, Oren",
+  "totalDecisions": 83,
+  "grants": 5,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 120
+    }
+  ]
+}

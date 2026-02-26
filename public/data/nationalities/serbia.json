@@ -1,0 +1,159 @@
+{
+  "code": "RS",
+  "slug": "serbia",
+  "name": "Serbia",
+  "cases": 227,
+  "completed": 284,
+  "grants": 35,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": 12.3,
+  "topCourts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 59
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 23
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 21
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 17
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 9
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 9
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "count": 6
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 5
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 4
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "count": 3
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "count": 2
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2015,
+      "cases": 1
+    },
+    {
+      "year": 2016,
+      "cases": 1
+    },
+    {
+      "year": 2018,
+      "cases": 1
+    },
+    {
+      "year": 2019,
+      "cases": 5
+    },
+    {
+      "year": 2020,
+      "cases": 2
+    },
+    {
+      "year": 2021,
+      "cases": 5
+    },
+    {
+      "year": 2022,
+      "cases": 32
+    },
+    {
+      "year": 2023,
+      "cases": 44
+    },
+    {
+      "year": 2024,
+      "cases": 32
+    },
+    {
+      "year": 2025,
+      "cases": 37
+    },
+    {
+      "year": 2026,
+      "cases": 4
+    }
+  ]
+}

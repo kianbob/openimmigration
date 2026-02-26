@@ -1,0 +1,64 @@
+{
+  "code": "AEN",
+  "slug": "norregard-aggie",
+  "name": "Norregard, Aggie",
+  "totalDecisions": 5564,
+  "grants": 162,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 494,
+  "grantRate": 2.9,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 7057
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 85
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 59
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 39
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 5
+    }
+  ]
+}

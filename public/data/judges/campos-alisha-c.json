@@ -1,0 +1,64 @@
+{
+  "code": "ACC",
+  "slug": "campos-alisha-c",
+  "name": "Campos, Alisha C.",
+  "totalDecisions": 11830,
+  "grants": 197,
+  "denials": 2,
+  "removals": 0,
+  "absentia": 4329,
+  "grantRate": 1.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 23955
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

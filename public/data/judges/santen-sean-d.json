@@ -1,0 +1,39 @@
+{
+  "code": "SDS",
+  "slug": "santen-sean-d",
+  "name": "Santen, Sean D.",
+  "totalDecisions": 247,
+  "grants": 45,
+  "denials": 6,
+  "removals": 2,
+  "absentia": 46,
+  "grantRate": 18.2,
+  "removalRate": 0.8,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 241
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

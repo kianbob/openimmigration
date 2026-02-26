@@ -1,0 +1,64 @@
+{
+  "code": "CEM",
+  "slug": "maury-carlos-e",
+  "name": "Maury, Carlos E.",
+  "totalDecisions": 14075,
+  "grants": 815,
+  "denials": 35,
+  "removals": 2,
+  "absentia": 1646,
+  "grantRate": 5.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 14498
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 3308
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 1695
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 59
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 42
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 37
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

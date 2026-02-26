@@ -1,0 +1,64 @@
+{
+  "code": "HAK",
+  "slug": "kubica-hannah",
+  "name": "Kubica, Hannah",
+  "totalDecisions": 3094,
+  "grants": 193,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 76,
+  "grantRate": 6.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 1975
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 1328
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 789
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "RC1",
+  "slug": "choi-raphael",
+  "name": "Choi, Raphael",
+  "totalDecisions": 4976,
+  "grants": 303,
+  "denials": 87,
+  "removals": 2,
+  "absentia": 385,
+  "grantRate": 6.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 3597
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 2508
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "STE",
+      "name": "Sterling",
+      "hearings": 10
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

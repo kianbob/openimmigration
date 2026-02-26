@@ -1,0 +1,64 @@
+{
+  "code": "IKH",
+  "slug": "hrycenko-ingrid-k",
+  "name": "Hrycenko, Ingrid K.",
+  "totalDecisions": 24341,
+  "grants": 2976,
+  "denials": 6384,
+  "removals": 6380,
+  "absentia": 6418,
+  "grantRate": 12.2,
+  "removalRate": 26.2,
+  "courts": [
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 24040
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 241
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

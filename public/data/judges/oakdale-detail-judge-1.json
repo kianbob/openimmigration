@@ -1,0 +1,29 @@
+{
+  "code": "X38",
+  "slug": "oakdale-detail-judge-1",
+  "name": "Oakdale Detail Judge 1",
+  "totalDecisions": 529,
+  "grants": 2,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 0.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 522
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

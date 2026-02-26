@@ -1,0 +1,64 @@
+{
+  "code": "NYG",
+  "slug": "griffiths-nancy",
+  "name": "Griffiths, Nancy",
+  "totalDecisions": 1458,
+  "grants": 89,
+  "denials": 3,
+  "removals": 0,
+  "absentia": 34,
+  "grantRate": 6.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 2212
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 478
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 127
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

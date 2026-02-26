@@ -1,0 +1,44 @@
+{
+  "code": "SBE",
+  "slug": "beschta-susan-m",
+  "name": "Beschta, Susan M",
+  "totalDecisions": 132,
+  "grants": 14,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 0,
+  "grantRate": 10.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 124
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

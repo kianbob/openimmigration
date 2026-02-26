@@ -1,0 +1,64 @@
+{
+  "code": "EM2",
+  "slug": "marsteller-eric-w",
+  "name": "Marsteller, Eric W.",
+  "totalDecisions": 20527,
+  "grants": 510,
+  "denials": 12,
+  "removals": 3,
+  "absentia": 5395,
+  "grantRate": 2.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 25732
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 93
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "code": "SGE",
+  "slug": "gallow-sheila-e",
+  "name": "Gallow,Sheila E.",
+  "totalDecisions": 6740,
+  "grants": 71,
+  "denials": 25,
+  "removals": 1,
+  "absentia": 1756,
+  "grantRate": 1.1,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 4460
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 1947
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 318
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

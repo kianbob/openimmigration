@@ -1,0 +1,64 @@
+{
+  "code": "JH1",
+  "slug": "hitesman-jonathan-w",
+  "name": "Hitesman, Jonathan W.",
+  "totalDecisions": 2894,
+  "grants": 207,
+  "denials": 1,
+  "removals": 0,
+  "absentia": 757,
+  "grantRate": 7.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 4315
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 223
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

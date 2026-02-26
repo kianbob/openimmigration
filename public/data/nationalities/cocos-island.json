@@ -1,0 +1,134 @@
+{
+  "code": "CK",
+  "slug": "cocos-island",
+  "name": "Cocos Island",
+  "cases": 38,
+  "completed": 114,
+  "grants": 6,
+  "denials": 0,
+  "removals": 0,
+  "grantRate": 5.3,
+  "topCourts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 8
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 3
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "count": 2
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "KAN",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "POR",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 1
+    },
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "count": 1
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 2009,
+      "cases": 1
+    },
+    {
+      "year": 2017,
+      "cases": 1
+    },
+    {
+      "year": 2019,
+      "cases": 2
+    },
+    {
+      "year": 2022,
+      "cases": 2
+    },
+    {
+      "year": 2023,
+      "cases": 1
+    },
+    {
+      "year": 2025,
+      "cases": 2
+    }
+  ]
+}

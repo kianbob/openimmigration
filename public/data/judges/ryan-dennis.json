@@ -1,0 +1,64 @@
+{
+  "code": "DSR",
+  "slug": "ryan-dennis",
+  "name": "Ryan, Dennis",
+  "totalDecisions": 6795,
+  "grants": 119,
+  "denials": 33,
+  "removals": 2,
+  "absentia": 578,
+  "grantRate": 1.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 22116
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 2440
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "CCC",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

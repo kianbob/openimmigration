@@ -1,0 +1,29 @@
+{
+  "code": "KHJ",
+  "slug": "josephson-kenneth-2",
+  "name": "Josephson, Kenneth",
+  "totalDecisions": 302,
+  "grants": 23,
+  "denials": 4,
+  "removals": 0,
+  "absentia": 47,
+  "grantRate": 7.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 235
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 66
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "MEM",
+  "slug": "morrissey-matthew-e",
+  "name": "Morrissey, Matthew E.",
+  "totalDecisions": 10495,
+  "grants": 250,
+  "denials": 79,
+  "removals": 2,
+  "absentia": 609,
+  "grantRate": 2.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OMA",
+      "name": "Immigration Court",
+      "hearings": 21138
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "MEM",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

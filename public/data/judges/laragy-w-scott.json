@@ -1,0 +1,39 @@
+{
+  "code": "WSL",
+  "slug": "laragy-w-scott",
+  "name": "Laragy, W. Scott",
+  "totalDecisions": 6524,
+  "grants": 45,
+  "denials": 46,
+  "removals": 3,
+  "absentia": 4,
+  "grantRate": 0.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 5913
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 386
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 212
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

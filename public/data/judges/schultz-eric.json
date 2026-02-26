@@ -1,0 +1,39 @@
+{
+  "code": "ECS",
+  "slug": "schultz-eric",
+  "name": "Schultz, Eric",
+  "totalDecisions": 2325,
+  "grants": 69,
+  "denials": 22,
+  "removals": 1,
+  "absentia": 35,
+  "grantRate": 3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BTV",
+      "name": "Immigration Court",
+      "hearings": 2320
+    },
+    {
+      "code": "BUF",
+      "name": "Immigration Court",
+      "hearings": 62
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

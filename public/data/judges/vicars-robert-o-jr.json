@@ -1,0 +1,39 @@
+{
+  "code": "ROV",
+  "slug": "vicars-robert-o-jr",
+  "name": "Vicars, Robert O., Jr.",
+  "totalDecisions": 19892,
+  "grants": 502,
+  "denials": 68,
+  "removals": 49,
+  "absentia": 233,
+  "grantRate": 2.5,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 19203
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 670
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

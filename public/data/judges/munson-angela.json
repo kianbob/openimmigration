@@ -1,0 +1,64 @@
+{
+  "code": "AMS",
+  "slug": "munson-angela",
+  "name": "Munson, Angela",
+  "totalDecisions": 9654,
+  "grants": 192,
+  "denials": 36,
+  "removals": 1,
+  "absentia": 524,
+  "grantRate": 2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 12954
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 5094
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 1266
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 851
+    },
+    {
+      "code": "INP",
+      "name": "Indianapolis, Indiana",
+      "hearings": 656
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "SDC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

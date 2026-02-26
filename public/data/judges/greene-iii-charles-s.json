@@ -1,0 +1,64 @@
+{
+  "code": "CSG",
+  "slug": "greene-iii-charles-s",
+  "name": "Greene Iii, Charles S.",
+  "totalDecisions": 8693,
+  "grants": 1868,
+  "denials": 32,
+  "removals": 17,
+  "absentia": 1303,
+  "grantRate": 21.5,
+  "removalRate": 0.2,
+  "courts": [
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 15894
+    },
+    {
+      "code": "PIS",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "BNR",
+  "slug": "rosen-benjamin",
+  "name": "Rosen, Benjamin",
+  "totalDecisions": 9402,
+  "grants": 119,
+  "denials": 9,
+  "removals": 0,
+  "absentia": 1193,
+  "grantRate": 1.3,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 22585
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 583
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

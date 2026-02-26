@@ -1,0 +1,64 @@
+{
+  "code": "ERG",
+  "slug": "gover-erin",
+  "name": "Gover, Erin",
+  "totalDecisions": 3790,
+  "grants": 395,
+  "denials": 6,
+  "removals": 5,
+  "absentia": 362,
+  "grantRate": 10.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 14091
+    },
+    {
+      "code": "ANN",
+      "name": "Immigration Court",
+      "hearings": 67
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "LOW",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

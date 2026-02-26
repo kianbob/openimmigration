@@ -1,0 +1,64 @@
+{
+  "code": "GYH",
+  "slug": "hoffman-geoffrey",
+  "name": "Hoffman, Geoffrey",
+  "totalDecisions": 9120,
+  "grants": 157,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 2252,
+  "grantRate": 1.7,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 11873
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 361
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 10
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

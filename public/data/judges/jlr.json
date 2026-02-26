@@ -1,0 +1,19 @@
+{
+  "code": "jlr",
+  "slug": "jlr",
+  "name": "Jlr",
+  "totalDecisions": 61,
+  "grants": 0,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 15,
+  "grantRate": 0,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 61
+    }
+  ]
+}

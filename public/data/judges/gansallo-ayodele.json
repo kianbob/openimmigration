@@ -1,0 +1,64 @@
+{
+  "code": "AYG",
+  "slug": "gansallo-ayodele",
+  "name": "Gansallo, Ayodele",
+  "totalDecisions": 3740,
+  "grants": 278,
+  "denials": 3,
+  "removals": 2,
+  "absentia": 573,
+  "grantRate": 7.4,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 4300
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 2383
+    },
+    {
+      "code": "ELZ",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 15
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 13
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

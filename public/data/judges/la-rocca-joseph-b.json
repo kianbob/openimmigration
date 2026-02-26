@@ -1,0 +1,64 @@
+{
+  "code": "JBL",
+  "slug": "la-rocca-joseph-b",
+  "name": "La Rocca, Joseph B.",
+  "totalDecisions": 36383,
+  "grants": 580,
+  "denials": 39,
+  "removals": 4,
+  "absentia": 9470,
+  "grantRate": 1.6,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 41537
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 122
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 62
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 54
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 36
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 35
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 10
+    }
+  ]
+}

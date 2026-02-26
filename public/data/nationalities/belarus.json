@@ -1,0 +1,239 @@
+{
+  "code": "BZ",
+  "slug": "belarus",
+  "name": "Belarus",
+  "cases": 5362,
+  "completed": 5915,
+  "grants": 1873,
+  "denials": 18,
+  "removals": 8,
+  "grantRate": 31.7,
+  "topCourts": [
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "count": 924
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "count": 676
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "count": 385
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "count": 316
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "count": 264
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "count": 215
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "count": 211
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "count": 207
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "count": 170
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "count": 146
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "count": 144
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "count": 142
+    },
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "count": 137
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "count": 117
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "count": 99
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "count": 89
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "count": 79
+    },
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "count": 76
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "count": 73
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "count": 66
+    }
+  ],
+  "yearlyTrend": [
+    {
+      "year": 1990,
+      "cases": 1
+    },
+    {
+      "year": 1992,
+      "cases": 1
+    },
+    {
+      "year": 1998,
+      "cases": 2
+    },
+    {
+      "year": 1999,
+      "cases": 1
+    },
+    {
+      "year": 2000,
+      "cases": 6
+    },
+    {
+      "year": 2001,
+      "cases": 13
+    },
+    {
+      "year": 2002,
+      "cases": 18
+    },
+    {
+      "year": 2003,
+      "cases": 23
+    },
+    {
+      "year": 2004,
+      "cases": 46
+    },
+    {
+      "year": 2005,
+      "cases": 65
+    },
+    {
+      "year": 2006,
+      "cases": 44
+    },
+    {
+      "year": 2007,
+      "cases": 16
+    },
+    {
+      "year": 2008,
+      "cases": 15
+    },
+    {
+      "year": 2009,
+      "cases": 21
+    },
+    {
+      "year": 2010,
+      "cases": 19
+    },
+    {
+      "year": 2011,
+      "cases": 31
+    },
+    {
+      "year": 2012,
+      "cases": 41
+    },
+    {
+      "year": 2013,
+      "cases": 47
+    },
+    {
+      "year": 2014,
+      "cases": 31
+    },
+    {
+      "year": 2015,
+      "cases": 44
+    },
+    {
+      "year": 2016,
+      "cases": 44
+    },
+    {
+      "year": 2017,
+      "cases": 46
+    },
+    {
+      "year": 2018,
+      "cases": 103
+    },
+    {
+      "year": 2019,
+      "cases": 219
+    },
+    {
+      "year": 2020,
+      "cases": 98
+    },
+    {
+      "year": 2021,
+      "cases": 139
+    },
+    {
+      "year": 2022,
+      "cases": 780
+    },
+    {
+      "year": 2023,
+      "cases": 939
+    },
+    {
+      "year": 2024,
+      "cases": 671
+    },
+    {
+      "year": 2025,
+      "cases": 409
+    },
+    {
+      "year": 2026,
+      "cases": 19
+    }
+  ]
+}

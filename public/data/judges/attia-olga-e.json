@@ -1,0 +1,64 @@
+{
+  "code": "OEA",
+  "slug": "attia-olga-e",
+  "name": "Attia, Olga E.",
+  "totalDecisions": 7039,
+  "grants": 95,
+  "denials": 55,
+  "removals": 29,
+  "absentia": 645,
+  "grantRate": 1.3,
+  "removalRate": 0.4,
+  "courts": [
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 6328
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 1360
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 181
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HON",
+      "name": "Immigration Court",
+      "hearings": 1
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}

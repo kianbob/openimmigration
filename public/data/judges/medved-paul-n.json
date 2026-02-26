@@ -1,0 +1,64 @@
+{
+  "code": "PNM",
+  "slug": "medved-paul-n",
+  "name": "Medved, Paul N.",
+  "totalDecisions": 6973,
+  "grants": 333,
+  "denials": 21,
+  "removals": 2,
+  "absentia": 1764,
+  "grantRate": 4.8,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 9159
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 1368
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 402
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 188
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 164
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 116
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 47
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 27
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 14
+    }
+  ]
+}

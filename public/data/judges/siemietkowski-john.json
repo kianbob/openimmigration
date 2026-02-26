@@ -1,0 +1,64 @@
+{
+  "code": "JNS",
+  "slug": "siemietkowski-john",
+  "name": "Siemietkowski, John",
+  "totalDecisions": 6767,
+  "grants": 325,
+  "denials": 24,
+  "removals": 19,
+  "absentia": 1820,
+  "grantRate": 4.8,
+  "removalRate": 0.3,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 12160
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 32
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 31
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 12
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

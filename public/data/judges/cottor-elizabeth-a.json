@@ -1,0 +1,64 @@
+{
+  "code": "EAC",
+  "slug": "cottor-elizabeth-a",
+  "name": "Cottor, Elizabeth A",
+  "totalDecisions": 11704,
+  "grants": 293,
+  "denials": 70,
+  "removals": 53,
+  "absentia": 1652,
+  "grantRate": 2.5,
+  "removalRate": 0.5,
+  "courts": [
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 14673
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 688
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 189
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 106
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 58
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 6
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "TUC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 4
+    }
+  ]
+}

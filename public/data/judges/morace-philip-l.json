@@ -1,0 +1,64 @@
+{
+  "code": "PLM",
+  "slug": "morace-philip-l",
+  "name": "Morace, Philip L.",
+  "totalDecisions": 15819,
+  "grants": 7097,
+  "denials": 659,
+  "removals": 615,
+  "absentia": 2528,
+  "grantRate": 44.9,
+  "removalRate": 3.9,
+  "courts": [
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 15449
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "CIC",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 46
+    },
+    {
+      "code": "ULS",
+      "name": "Immigration Court",
+      "hearings": 44
+    },
+    {
+      "code": "NYV",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "AGA",
+      "name": "Immigration Court",
+      "hearings": 20
+    }
+  ]
+}

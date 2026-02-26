@@ -1,0 +1,64 @@
+{
+  "code": "KIN",
+  "slug": "nelson-kristi",
+  "name": "Nelson, Kristi",
+  "totalDecisions": 3321,
+  "grants": 84,
+  "denials": 0,
+  "removals": 0,
+  "absentia": 985,
+  "grantRate": 2.5,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 11843
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "CHL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

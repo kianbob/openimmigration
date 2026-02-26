@@ -1,0 +1,64 @@
+{
+  "code": "SAS",
+  "slug": "siegel-stuart-a",
+  "name": "Siegel, Stuart A.",
+  "totalDecisions": 12370,
+  "grants": 214,
+  "denials": 92,
+  "removals": 7,
+  "absentia": 657,
+  "grantRate": 1.7,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 8687
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 3933
+    },
+    {
+      "code": "OTO",
+      "name": "Immigration Court",
+      "hearings": 9
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

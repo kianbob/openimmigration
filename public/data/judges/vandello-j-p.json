@@ -1,0 +1,64 @@
+{
+  "code": "JPV",
+  "slug": "vandello-j-p",
+  "name": "Vandello, J. P.",
+  "totalDecisions": 54776,
+  "grants": 2998,
+  "denials": 7411,
+  "removals": 7369,
+  "absentia": 1525,
+  "grantRate": 5.5,
+  "removalRate": 13.5,
+  "courts": [
+    {
+      "code": "AUR",
+      "name": "Immigration Court",
+      "hearings": 39770
+    },
+    {
+      "code": "DEN",
+      "name": "Immigration Court",
+      "hearings": 9377
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 4881
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 566
+    },
+    {
+      "code": "SLC",
+      "name": "Immigration Court",
+      "hearings": 43
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "FLO",
+      "name": "Immigration Court",
+      "hearings": 25
+    },
+    {
+      "code": "POO",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 18
+    },
+    {
+      "code": "BLM",
+      "name": "Immigration Court",
+      "hearings": 16
+    }
+  ]
+}

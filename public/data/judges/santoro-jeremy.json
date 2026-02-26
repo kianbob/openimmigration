@@ -1,0 +1,64 @@
+{
+  "code": "JSA",
+  "slug": "santoro-jeremy",
+  "name": "Santoro, Jeremy",
+  "totalDecisions": 6596,
+  "grants": 90,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 1905,
+  "grantRate": 1.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "CLE",
+      "name": "Immigration Court",
+      "hearings": 12525
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "DET",
+      "name": "Immigration Court",
+      "hearings": 23
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 11
+    },
+    {
+      "code": "PHI",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "ELP",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "BOS",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "DAL",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

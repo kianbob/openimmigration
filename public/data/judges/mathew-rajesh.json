@@ -1,0 +1,64 @@
+{
+  "code": "RHM",
+  "slug": "mathew-rajesh",
+  "name": "Mathew, Rajesh",
+  "totalDecisions": 1863,
+  "grants": 206,
+  "denials": 3,
+  "removals": 2,
+  "absentia": 305,
+  "grantRate": 11.1,
+  "removalRate": 0.1,
+  "courts": [
+    {
+      "code": "HYA",
+      "name": "Immigration Court",
+      "hearings": 2313
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 220
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "CHE",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "LVG",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NYB",
+      "name": "Immigration Court",
+      "hearings": 2
+    }
+  ]
+}

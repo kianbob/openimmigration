@@ -1,0 +1,64 @@
+{
+  "code": "PAN",
+  "slug": "nejelski-paul-a",
+  "name": "Nejelski, Paul A.",
+  "totalDecisions": 7481,
+  "grants": 1008,
+  "denials": 2472,
+  "removals": 2472,
+  "absentia": 1502,
+  "grantRate": 13.5,
+  "removalRate": 33,
+  "courts": [
+    {
+      "code": "WAS",
+      "name": "Immigration Court",
+      "hearings": 5275
+    },
+    {
+      "code": "ATL",
+      "name": "Immigration Court",
+      "hearings": 1679
+    },
+    {
+      "code": "ATD",
+      "name": "Immigration Court",
+      "hearings": 244
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 105
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 81
+    },
+    {
+      "code": "BAL",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 21
+    },
+    {
+      "code": "CHI",
+      "name": "Immigration Court",
+      "hearings": 20
+    },
+    {
+      "code": "NEW",
+      "name": "Immigration Court",
+      "hearings": 19
+    },
+    {
+      "code": "HAR",
+      "name": "Immigration Court",
+      "hearings": 6
+    }
+  ]
+}

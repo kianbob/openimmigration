@@ -1,0 +1,64 @@
+{
+  "code": "SJS",
+  "slug": "santos-garcia-sandra-j",
+  "name": "Santos-Garcia, Sandra J.",
+  "totalDecisions": 10903,
+  "grants": 569,
+  "denials": 49,
+  "removals": 1,
+  "absentia": 1454,
+  "grantRate": 5.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "VNS",
+      "name": "Immigration Court",
+      "hearings": 10869
+    },
+    {
+      "code": "ADL",
+      "name": "Immigration Court",
+      "hearings": 4076
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 218
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 38
+    },
+    {
+      "code": "IMP",
+      "name": "Immigration Court",
+      "hearings": 34
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 33
+    },
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "OTM",
+      "name": "Immigration Court",
+      "hearings": 24
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 22
+    },
+    {
+      "code": "TAC",
+      "name": "Immigration Court",
+      "hearings": 17
+    }
+  ]
+}

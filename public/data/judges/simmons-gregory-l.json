@@ -1,0 +1,64 @@
+{
+  "code": "GSS",
+  "slug": "simmons-gregory-l",
+  "name": "Simmons, Gregory L.",
+  "totalDecisions": 5727,
+  "grants": 311,
+  "denials": 4,
+  "removals": 2,
+  "absentia": 1188,
+  "grantRate": 5.4,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "SNC",
+      "name": "Immigration Court",
+      "hearings": 5421
+    },
+    {
+      "code": "SFR",
+      "name": "Immigration Court",
+      "hearings": 1060
+    },
+    {
+      "code": "WLA",
+      "name": "West Los Angeles Immigration Court",
+      "hearings": 17
+    },
+    {
+      "code": "NLA",
+      "name": "Immigration Court",
+      "hearings": 16
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 5
+    },
+    {
+      "code": "HLG",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "PHO",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SEA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "SNA",
+      "name": "Immigration Court",
+      "hearings": 3
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 3
+    }
+  ]
+}

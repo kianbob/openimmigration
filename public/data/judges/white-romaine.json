@@ -1,0 +1,64 @@
+{
+  "code": "REW",
+  "slug": "white-romaine",
+  "name": "White, Romaine",
+  "totalDecisions": 3633,
+  "grants": 115,
+  "denials": 5,
+  "removals": 0,
+  "absentia": 129,
+  "grantRate": 3.2,
+  "removalRate": 0,
+  "courts": [
+    {
+      "code": "BTR",
+      "name": "Immigration Court",
+      "hearings": 4455
+    },
+    {
+      "code": "HGP",
+      "name": "Immigration Court",
+      "hearings": 2965
+    },
+    {
+      "code": "OAK",
+      "name": "Immigration Court",
+      "hearings": 209
+    },
+    {
+      "code": "LRO",
+      "name": "Immigration Court",
+      "hearings": 50
+    },
+    {
+      "code": "JNA",
+      "name": "Immigration Court",
+      "hearings": 29
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 14
+    },
+    {
+      "code": "HSG",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "SMO",
+      "name": "Immigration Court",
+      "hearings": 8
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 7
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 7
+    }
+  ]
+}

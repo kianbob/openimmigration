@@ -1,0 +1,64 @@
+{
+  "code": "EMS",
+  "slug": "sukkar-elisa-m",
+  "name": "Sukkar, Elisa M.",
+  "totalDecisions": 13319,
+  "grants": 2691,
+  "denials": 580,
+  "removals": 521,
+  "absentia": 2402,
+  "grantRate": 20.2,
+  "removalRate": 3.9,
+  "courts": [
+    {
+      "code": "MIA",
+      "name": "Immigration Court",
+      "hearings": 11591
+    },
+    {
+      "code": "KRO",
+      "name": "Immigration Court",
+      "hearings": 1734
+    },
+    {
+      "code": "NYC",
+      "name": "Immigration Court",
+      "hearings": 83
+    },
+    {
+      "code": "SAJ",
+      "name": "Immigration Court",
+      "hearings": 26
+    },
+    {
+      "code": "ORL",
+      "name": "Immigration Court",
+      "hearings": 4
+    },
+    {
+      "code": "ELO",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "NOL",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "PSD",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "HOU",
+      "name": "Immigration Court",
+      "hearings": 2
+    },
+    {
+      "code": "SND",
+      "name": "Immigration Court",
+      "hearings": 1
+    }
+  ]
+}
