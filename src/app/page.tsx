@@ -21,11 +21,8 @@ export default function HomePage() {
       <section className="bg-gradient-to-br from-primary-dark via-primary to-primary-light text-white py-20 px-4">
         <div className="max-w-5xl mx-auto text-center">
           <h1 className="font-heading text-4xl md:text-6xl font-bold mb-4">
-            U.S. Immigration Court Data
+            {(stats.totalCases / 1e6).toFixed(1)} Million Cases.<br className="hidden md:block" /> {stats.totalJudges.toLocaleString()} Judges. One System.
           </h1>
-          <p className="text-xl md:text-2xl text-blue-100 font-medium mb-2 max-w-3xl mx-auto">
-            {(stats.totalCases / 1e6).toFixed(1)} Million Cases. {stats.totalJudges.toLocaleString()} Judges. One System.
-          </p>
           <p className="text-lg text-blue-200 mb-0 max-w-2xl mx-auto">
             The most comprehensive open database of U.S. immigration court records — outcomes, backlogs, asylum decisions, and judge statistics from official DOJ data.
           </p>
@@ -140,6 +137,8 @@ export default function HomePage() {
             { title: 'Asylum Cases', desc: `${stats.asylumGranted.toLocaleString()} asylum grants vs ${stats.asylumDenied.toLocaleString()} denials. How outcomes vary by court, judge, and nationality.`, href: '/asylum', icon: '🛡️' },
             { title: 'Charges & Offenses', desc: 'What immigration charges are most common and how they correlate with case outcomes.', href: '/charges', icon: '📋' },
             { title: 'Representation', desc: `Only ${stats.representationRate}% had lawyers. How having a lawyer changes immigration court outcomes.`, href: '/representation', icon: '👔' },
+            { title: 'Deportation Data', desc: `${stats.removalOrders.toLocaleString()} removal orders, ${stats.voluntaryDeparture.toLocaleString()} voluntary departures. How deportation works.`, href: '/deportation', icon: '⚙️' },
+            { title: 'Demographics', desc: '59% male, 40% female. 92% non-English speakers. Gender, language, and custody breakdowns.', href: '/demographics', icon: '📊' },
             { title: 'Search Cases', desc: 'Search and filter immigration court data by court, nationality, year, case type, and more.', href: '/search', icon: '🔍' },
           ].map(card => (
             <Link key={card.href} href={card.href}

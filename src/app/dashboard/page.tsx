@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import Link from 'next/link'
 import fs from 'fs'
 import path from 'path'
 import { YearlyTrendsChart, OutcomePieChart, TopNationalitiesChart, TopCourtsChart } from './DashboardCharts'
@@ -90,19 +91,36 @@ export default function DashboardPage() {
       </div>
 
       {/* System overview */}
-      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
-        <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-10">
+        <Link href="/judges" className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center hover:shadow-md transition-all">
           <div className="text-3xl font-bold text-primary">{stats.totalJudges.toLocaleString()}</div>
-          <div className="text-sm text-gray-600">Immigration Judges</div>
-        </div>
-        <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
+          <div className="text-sm text-gray-600">Immigration Judges →</div>
+        </Link>
+        <Link href="/courts" className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center hover:shadow-md transition-all">
           <div className="text-3xl font-bold text-primary">{stats.totalCourts}</div>
-          <div className="text-sm text-gray-600">Immigration Courts</div>
-        </div>
-        <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
+          <div className="text-sm text-gray-600">Immigration Courts →</div>
+        </Link>
+        <Link href="/nationalities" className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center hover:shadow-md transition-all">
           <div className="text-3xl font-bold text-primary">{stats.totalNationalities}</div>
-          <div className="text-sm text-gray-600">Nationalities</div>
-        </div>
+          <div className="text-sm text-gray-600">Nationalities →</div>
+        </Link>
+      </div>
+
+      {/* Explore more */}
+      <h2 className="font-heading text-2xl font-bold mb-4">Dive Deeper</h2>
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <Link href="/analysis" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">📝 Analysis & Reports</h3>
+          <p className="text-sm text-gray-600 mt-1">8 in-depth articles on backlogs, judges, asylum, and more.</p>
+        </Link>
+        <Link href="/demographics" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">📊 Demographics</h3>
+          <p className="text-sm text-gray-600 mt-1">Gender, language, and custody breakdowns.</p>
+        </Link>
+        <Link href="/search" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold">🔍 Search</h3>
+          <p className="text-sm text-gray-600 mt-1">Find any court, judge, or nationality.</p>
+        </Link>
       </div>
     </div>
   )
