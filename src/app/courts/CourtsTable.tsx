@@ -23,8 +23,8 @@ export default function CourtsTable({ courts }: { courts: Court[] }) {
   const [sortAsc, setSortAsc] = useState(false)
 
   const sorted = [...courts].sort((a, b) => {
-    const av = a[sortKey]
-    const bv = b[sortKey]
+    const av = a[sortKey] ?? 0
+    const bv = b[sortKey] ?? 0
     if (typeof av === 'string') return sortAsc ? (av as string).localeCompare(bv as string) : (bv as string).localeCompare(av as string)
     return sortAsc ? (av as number) - (bv as number) : (bv as number) - (av as number)
   })
@@ -60,14 +60,16 @@ export default function CourtsTable({ courts }: { courts: Court[] }) {
               <td className="px-4 py-2 text-gray-400">{i + 1}</td>
               <td className="px-4 py-2 font-medium">{court.city}</td>
               <td className="px-4 py-2 text-gray-600">{court.state}</td>
-              <td className="px-4 py-2 text-right">{court.cases.toLocaleString()}</td>
-              <td className="px-4 py-2 text-right">{court.completed.toLocaleString()}</td>
+              <td className="px-4 py-2 text-right">{(court.cases ?? 0).toLocaleString()}</td>
+              <td className="px-4 py-2 text-right">{(court.completed ?? 0).toLocaleString()}</td>
               <td className="px-4 py-2 text-right">
-                <span className={court.grantRate >= 15 ? 'text-success' : court.grantRate >= 8 ? 'text-warning' : 'text-danger'}>
-                  {court.grantRate}%
-                </span>
+                {court.grantRate != null ? (
+                  <span className={court.grantRate >= 15 ? 'text-green-600' : court.grantRate >= 8 ? 'text-yellow-600' : 'text-red-600'}>
+                    {court.grantRate}%
+                  </span>
+                ) : '—'}
               </td>
-              <td className="px-4 py-2 text-right">{court.removals.toLocaleString()}</td>
+              <td className="px-4 py-2 text-right">{(court.removals ?? 0).toLocaleString()}</td>
             </tr>
           ))}
         </tbody>
