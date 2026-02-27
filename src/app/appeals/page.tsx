@@ -192,6 +192,10 @@ export default function AppealsPage() {
           <p className="text-sm text-gray-600 mt-1">Asylum denials are the #1 driver of immigration appeals.</p>
         </Link>
       </div>
+
+      <p className="text-xs text-gray-400 mt-8">
+        Source: Department of Justice, Executive Office for Immigration Review (EOIR). Data current through February 2026. <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
+      </p>
     </div>
   )
 }

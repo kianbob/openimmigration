@@ -151,6 +151,10 @@ export default function DeportationPage() {
           ],
         })
       }} />
+
+      <p className="text-xs text-gray-400 mt-8">
+        Source: Department of Justice, Executive Office for Immigration Review (EOIR). Data current through February 2026. <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
+      </p>
     </div>
   )
 }

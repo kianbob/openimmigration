@@ -203,6 +203,25 @@ export default function WaitTimesPage() {
           <p className="text-sm text-gray-600 mt-1">Deep dive into how the backlog grew and why it keeps growing.</p>
         </Link>
       </div>
+
+      {/* Related Analysis */}
+      <div className="mt-8 mb-6">
+        <h3 className="font-heading text-lg font-bold mb-3">📖 Related Analysis</h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <Link href="/analysis/speed-of-justice" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+            <h4 className="font-bold text-sm">⏱️ The Speed of Justice</h4>
+            <p className="text-xs text-gray-600 mt-1">How long cases take and what drives the variation.</p>
+          </Link>
+          <Link href="/analysis/backlog-crisis" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+            <h4 className="font-bold text-sm">📈 Backlog Crisis</h4>
+            <p className="text-xs text-gray-600 mt-1">1.9M pending cases and growing — the crisis explained.</p>
+          </Link>
+        </div>
+      </div>
+
+      <p className="text-xs text-gray-400 mt-8">
+        Source: Department of Justice, Executive Office for Immigration Review (EOIR). Data current through February 2026. <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
+      </p>
     </div>
   )
 }

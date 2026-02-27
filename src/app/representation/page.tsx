@@ -198,6 +198,25 @@ export default function RepresentationPage() {
           <p className="text-sm text-gray-600 mt-1">Only {(boardLevel / 1e3).toFixed(0)}K representations at the BIA level.</p>
         </Link>
       </div>
+
+      {/* Related Analysis */}
+      <div className="mt-8 mb-6">
+        <h3 className="font-heading text-lg font-bold mb-3">📖 Related Analysis</h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <Link href="/analysis/representation-gap" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+            <h4 className="font-bold text-sm">👔 The Representation Gap</h4>
+            <p className="text-xs text-gray-600 mt-1">Deep dive into who gets lawyers and why it matters.</p>
+          </Link>
+          <Link href="/analysis/children-in-court" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+            <h4 className="font-bold text-sm">👶 Children in Court</h4>
+            <p className="text-xs text-gray-600 mt-1">Minors facing judges alone — the representation crisis for children.</p>
+          </Link>
+        </div>
+      </div>
+
+      <p className="text-xs text-gray-400 mt-8">
+        Source: Department of Justice, Executive Office for Immigration Review (EOIR). Data current through February 2026. <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
+      </p>
     </div>
   )
 }

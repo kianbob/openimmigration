@@ -196,6 +196,21 @@ export default function BorderPage() {
         </Link>
       </div>
 
+      {/* Related Analysis */}
+      <div className="mt-10 mb-6">
+        <h3 className="font-heading text-lg font-bold mb-3">📖 Related Analysis</h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <Link href="/analysis/fentanyl-pipeline" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+            <h4 className="font-bold text-sm">💊 The Fentanyl Pipeline</h4>
+            <p className="text-xs text-gray-600 mt-1">How fentanyl flows across the border — and what seizure data reveals.</p>
+          </Link>
+          <Link href="/analysis/border-to-courtroom" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+            <h4 className="font-bold text-sm">🏛️ Border to Courtroom</h4>
+            <p className="text-xs text-gray-600 mt-1">What happens after a border encounter — the path through immigration court.</p>
+          </Link>
+        </div>
+      </div>
+
       <p className="text-xs text-gray-400 mt-10">
         Source: U.S. Customs and Border Protection Public Data Portal. Data through January 2026.
         Fiscal years run October 1 to September 30.

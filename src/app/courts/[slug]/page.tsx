@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import { titleCase } from '@/lib/utils'
+import ShareButtons from '@/components/ShareButtons'
 import CourtCharts from './CourtCharts'
 import fs from 'fs'
 import path from 'path'
@@ -31,6 +32,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `${titleCase(court.name)} Immigration Court, ${court.state} — ${court.cases.toLocaleString()} Cases`,
     description: `Explore ${court.cases.toLocaleString()} immigration cases at ${titleCase(court.name)} Immigration Court in ${court.state}. Grant rate: ${court.grantRate ?? 'N/A'}%. Top nationalities, judges, and yearly trends.`,
+    alternates: { canonical: `https://www.openimmigration.us/courts/${slug}` },
   }
 }
 
@@ -178,6 +180,8 @@ export default async function CourtDetailPage({ params }: { params: Promise<{ sl
           </div>
         </div>
       )}
+
+      <ShareButtons url={`https://www.openimmigration.us/courts/${slug}`} title={`${titleCase(court.name)} Immigration Court`} />
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
         <Link href="/analysis/geographic-lottery" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">

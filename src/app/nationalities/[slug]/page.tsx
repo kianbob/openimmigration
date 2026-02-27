@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import { titleCase } from '@/lib/utils'
+import ShareButtons from '@/components/ShareButtons'
 import { YearlyChart, OutcomePie } from './NationalityCharts'
 import fs from 'fs'
 import path from 'path'
@@ -40,6 +41,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `${titleCase(nat.name)} — ${nat.cases.toLocaleString()} Immigration Cases`,
     description: `${nat.cases.toLocaleString()} immigration court cases involving ${titleCase(nat.name)} nationals. Grant rate: ${nat.grantRate ?? 'N/A'}%. Top courts, outcomes, and trends.`,
+    alternates: { canonical: `https://www.openimmigration.us/nationalities/${slug}` },
   }
 }
 
@@ -166,7 +168,9 @@ export default async function NationalityDetailPage({ params }: { params: Promis
         </Link>
       </div>
 
-      <div className="text-center">
+      <ShareButtons url={`https://www.openimmigration.us/nationalities/${slug}`} title={`${titleCase(nat.name)} Immigration Cases`} />
+
+      <div className="text-center mt-8">
         <Link href="/nationalities" className="text-primary font-medium hover:underline">← Back to all nationalities</Link>
       </div>
     </div>

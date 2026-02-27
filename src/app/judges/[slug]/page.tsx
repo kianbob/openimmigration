@@ -2,6 +2,7 @@ import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import ShareButtons from '@/components/ShareButtons'
 import { titleCase } from '@/lib/utils'
 import fs from 'fs'
 import path from 'path'
@@ -39,6 +40,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `Judge ${titleCase(judge.name)} — ${judge.totalDecisions.toLocaleString()} Decisions, ${judge.grantRate}% Grant Rate`,
     description: `Immigration Judge ${titleCase(judge.name)} has made ${judge.totalDecisions.toLocaleString()} decisions with a ${judge.grantRate}% grant rate and ${judge.removalRate}% removal rate.`,
+    alternates: { canonical: `https://www.openimmigration.us/judges/${slug}` },
   }
 }
 
@@ -171,7 +173,9 @@ export default async function JudgeDetailPage({ params }: { params: Promise<{ sl
         </div>
       )}
 
-      <div className="text-center">
+      <ShareButtons url={`https://www.openimmigration.us/judges/${slug}`} title={`Judge ${titleCase(judge.name)} — Immigration Court Decisions`} />
+
+      <div className="text-center mt-8">
         <Link href="/judges" className="text-primary font-medium hover:underline">← Back to all judges</Link>
       </div>
     </div>

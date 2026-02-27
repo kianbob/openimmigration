@@ -164,6 +164,21 @@ export default function EnforcementPage() {
         </Link>
       </div>
 
+      {/* Related Analysis */}
+      <div className="mt-10 mb-6">
+        <h3 className="font-heading text-lg font-bold mb-3">📖 Related Analysis</h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <Link href="/analysis/deportation-machine" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+            <h4 className="font-bold text-sm">⚙️ The Deportation Machine</h4>
+            <p className="text-xs text-gray-600 mt-1">How the enforcement pipeline works — from arrest to removal.</p>
+          </Link>
+          <Link href="/analysis/border-to-courtroom" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+            <h4 className="font-bold text-sm">🏛️ Border to Courtroom</h4>
+            <p className="text-xs text-gray-600 mt-1">The journey from border encounter to immigration court hearing.</p>
+          </Link>
+        </div>
+      </div>
+
       <p className="text-xs text-gray-400 mt-10">
         Source: ICE Enforcement and Removal Operations (ERO) statistics, DHS OHSS Immigration Enforcement Monthly Tables.
       </p>
