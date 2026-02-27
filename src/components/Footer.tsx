@@ -48,6 +48,7 @@ export default function Footer() {
               <li><Link href="/amnesty" className="hover:text-white transition-colors">Amnesty & Legal Pathways</Link></li>
               <li><Link href="/naturalization" className="hover:text-white transition-colors">Naturalization</Link></li>
               <li><Link href="/green-card" className="hover:text-white transition-colors">Green Card Data</Link></li>
+              <li><Link href="/h1b" className="hover:text-white transition-colors">H-1B Visa Data</Link></li>
               <li><Link href="/how-immigration-court-works" className="hover:text-white transition-colors">How It Works</Link></li>
               <li><Link href="/compare" className="hover:text-white transition-colors">Compare Courts & Judges</Link></li>
               <li><Link href="/statistics" className="hover:text-white transition-colors">Statistics at a Glance</Link></li>

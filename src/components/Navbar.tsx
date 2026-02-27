@@ -31,6 +31,7 @@ const immigrationData = [
   { label: 'Green Cards', href: '/green-card' },
   { label: 'Children', href: '/children' },
   { label: 'USCIS Backlog', href: '/uscis' },
+  { label: 'H-1B Visa Data', href: '/h1b' },
 ]
 
 const morePages = [

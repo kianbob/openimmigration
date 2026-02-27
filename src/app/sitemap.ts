@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next'
 import fs from 'fs'
 import path from 'path'
+import { glossaryTerms } from '@/lib/glossary-terms'
 
 const BASE_URL = 'https://www.openimmigration.us'
 
@@ -25,7 +26,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/analysis/fentanyl-pipeline', '/analysis/speed-of-justice', '/analysis/bond-system',
     '/analysis/tps-trap', '/analysis/children-in-court', '/analysis/border-to-courtroom',
     '/uscis', '/daca', '/green-card', '/naturalization',
-    '/compare', '/glossary', '/statistics',
+    '/compare', '/glossary', '/statistics', '/h1b',
   ]
 
   const entries: MetadataRoute.Sitemap = staticPages.map(p => ({
@@ -51,6 +52,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const judgeIndex = loadIndex('judge-index.json')
   for (const j of judgeIndex) {
     if (j.slug) entries.push({ url: `${BASE_URL}/judges/${j.slug}`, lastModified: new Date('2026-02-26'), priority: 0.6 })
+  }
+
+  // Glossary term pages
+  for (const term of glossaryTerms) {
+    entries.push({ url: `${BASE_URL}/glossary/${term.slug}`, lastModified: new Date('2026-02-26'), priority: 0.6 })
   }
 
   return entries
