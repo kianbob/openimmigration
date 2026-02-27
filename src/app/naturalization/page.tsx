@@ -93,6 +93,21 @@ export default function NaturalizationPage() {
         </div>
       </div>
 
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            Nearly 1 million people are waiting to become U.S. citizens. These are permanent residents who have met the residency requirements, passed background checks, and filed their applications — they&apos;re simply waiting for USCIS to process them. During that wait, they cannot vote, face restrictions on government employment, and remain vulnerable to deportation if they commit certain offenses.
+          </p>
+          <p>
+            The naturalization backlog has real democratic consequences. In election years, processing delays can prevent hundreds of thousands of eligible people from voting. Studies show that naturalized citizens are among the most engaged voters, so delays in processing directly affect civic participation and political representation in immigrant communities.
+          </p>
+          <p>
+            For the immigration court system, naturalization is the ultimate exit: citizens cannot be deported. Every person who naturalizes is permanently removed from the deportation pipeline. The backlog means hundreds of thousands remain in a more precarious legal status longer than necessary — green card holders who could be citizens but are stuck waiting.
+          </p>
+        </div>
+      </section>
+
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/green-card" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">💳 Green Card Data</h3>
@@ -107,6 +122,11 @@ export default function NaturalizationPage() {
           <p className="text-sm text-gray-600 mt-1">515,570 Dreamers — protected but can&apos;t naturalize.</p>
         </Link>
       </div>
+
+      <p className="text-xs text-gray-400 mt-8">
+        Source: USCIS Quarterly Backlog Report. Data current through February 2026.{' '}
+        <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
+      </p>
     </div>
   )
 }

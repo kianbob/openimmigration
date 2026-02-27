@@ -235,6 +235,35 @@ export default function WaitTimesPage() {
         </div>
       </div>
 
+      {/* FAQ Section */}
+      <section className="mt-12">
+        <h2 className="font-heading text-2xl font-bold mb-6">Frequently Asked Questions</h2>
+        <div className="space-y-6">
+          <div className="bg-white border border-gray-200 rounded-xl p-6">
+            <h3 className="font-bold text-lg mb-2">How long does an immigration court case take?</h3>
+            <p className="text-gray-700">The overall average is about 1.1 years (397 days), but this varies enormously by court and year. Cases completed in recent peak years averaged over 2 years. At the slowest courts, cases take nearly 3 years on average. Detained cases move faster (months rather than years) because the government is paying to house the detainee.</p>
+          </div>
+          <div className="bg-white border border-gray-200 rounded-xl p-6">
+            <h3 className="font-bold text-lg mb-2">Why are some immigration courts so much slower than others?</h3>
+            <p className="text-gray-700">The fastest courts tend to be detained dockets — dedicated courts inside detention facilities where cases are expedited. Non-detained courts in major metro areas with heavy caseloads have the longest waits. Each judge carries roughly 4,000 pending cases, and scheduling a first hearing can take over a year at some courts.</p>
+          </div>
+          <div className="bg-white border border-gray-200 rounded-xl p-6">
+            <h3 className="font-bold text-lg mb-2">What causes the immigration court backlog?</h3>
+            <p className="text-gray-700">The backlog is driven by a mismatch between incoming cases and processing capacity. With nearly 2 million pending cases and only about 1,400 judges, each judge carries thousands of cases. New filings consistently outpace completions. Continuances, appeals, and the complexity of asylum cases all contribute to longer processing times.</p>
+          </div>
+        </div>
+      </section>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: [
+          { '@type': 'Question', name: 'How long does an immigration court case take?', acceptedAnswer: { '@type': 'Answer', text: 'The overall average is about 1.1 years (397 days), but varies enormously. At the slowest courts, cases average nearly 3 years. Detained cases move faster — months rather than years.' } },
+          { '@type': 'Question', name: 'Why are some immigration courts so much slower than others?', acceptedAnswer: { '@type': 'Answer', text: 'The fastest courts are detained dockets inside detention facilities. Non-detained courts in major metros have the longest waits, with each judge carrying roughly 4,000 pending cases.' } },
+          { '@type': 'Question', name: 'What causes the immigration court backlog?', acceptedAnswer: { '@type': 'Answer', text: 'A mismatch between incoming cases and processing capacity. Nearly 2 million pending cases with only about 1,400 judges. New filings consistently outpace completions.' } },
+        ]
+      }) }} />
+
       <p className="text-xs text-gray-400 mt-8">
         Source: Department of Justice, Executive Office for Immigration Review (EOIR). Data current through February 2026. <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
       </p>

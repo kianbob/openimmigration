@@ -77,6 +77,21 @@ export default function USCISPage() {
         </table>
       </div>
 
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            USCIS processes the legal immigration system — green cards, work permits, citizenship, and family petitions. The 5.4 million application backlog means millions of people who are following the legal process are stuck waiting months or years for decisions. This isn&apos;t about illegal immigration; these are people doing exactly what the system asks, and the system can&apos;t keep up.
+          </p>
+          <p>
+            The backlog has cascading effects. Delayed work permits mean people can&apos;t legally work while waiting. Delayed green cards mean people remain in precarious visa status. Delayed naturalization means eligible permanent residents can&apos;t vote or access the full protections of citizenship. Each delay creates vulnerability — and some of those vulnerabilities lead to immigration court.
+          </p>
+          <p>
+            Understanding the USCIS backlog is essential context for the immigration court crisis. The two systems are deeply interconnected: USCIS processing delays can push people out of status and into removal proceedings, while immigration court backlogs can delay USCIS applications that require court clearance. Fixing one without addressing the other is incomplete.
+          </p>
+        </div>
+      </section>
+
       {/* Related */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/daca" className="bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
@@ -92,6 +107,11 @@ export default function USCISPage() {
           <p className="text-sm text-gray-600 mt-1">N-400 citizenship application data.</p>
         </Link>
       </div>
+
+      <p className="text-xs text-gray-400 mt-8">
+        Source: USCIS Quarterly Backlog Report, USCIS Immigration and Citizenship Data. Data current through February 2026.{' '}
+        <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
+      </p>
 
       <script type="application/ld+json" dangerouslySetInnerHTML={{
         __html: JSON.stringify({

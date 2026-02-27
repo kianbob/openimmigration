@@ -239,6 +239,35 @@ export default function RepresentationPage() {
         </div>
       </div>
 
+      {/* FAQ Section */}
+      <section className="mt-12">
+        <h2 className="font-heading text-2xl font-bold mb-6">Frequently Asked Questions</h2>
+        <div className="space-y-6">
+          <div className="bg-white border border-gray-200 rounded-xl p-6">
+            <h3 className="font-bold text-lg mb-2">Do immigrants have a right to a lawyer in immigration court?</h3>
+            <p className="text-gray-700">No. Unlike criminal court, where the Sixth Amendment guarantees a public defender, immigration court is classified as a civil proceeding. Immigrants have the right to hire an attorney at their own expense, but the government does not provide one. This means many people — including children, asylum seekers, and those in detention — face trained government prosecutors alone.</p>
+          </div>
+          <div className="bg-white border border-gray-200 rounded-xl p-6">
+            <h3 className="font-bold text-lg mb-2">How much does an immigration lawyer cost?</h3>
+            <p className="text-gray-700">Immigration attorneys typically charge $5,000 to $15,000 or more per case, depending on complexity. Asylum cases and appeals tend to be on the higher end. Some nonprofit organizations provide free legal services, but demand far exceeds supply. Pro bono programs exist but cover only a small fraction of the need.</p>
+          </div>
+          <div className="bg-white border border-gray-200 rounded-xl p-6">
+            <h3 className="font-bold text-lg mb-2">How much does having a lawyer affect immigration case outcomes?</h3>
+            <p className="text-gray-700">Enormously. Research consistently shows that represented immigrants are approximately 5 times more likely to win their cases than unrepresented ones. For asylum cases specifically, the gap is even wider — closer to 10x. A lawyer doesn&apos;t just improve odds; they often determine whether a valid legal claim is ever identified and articulated.</p>
+          </div>
+        </div>
+      </section>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: [
+          { '@type': 'Question', name: 'Do immigrants have a right to a lawyer in immigration court?', acceptedAnswer: { '@type': 'Answer', text: 'No. Immigration court is classified as a civil proceeding, so the Sixth Amendment right to a public defender does not apply. Immigrants can hire an attorney at their own expense, but the government does not provide one.' } },
+          { '@type': 'Question', name: 'How much does an immigration lawyer cost?', acceptedAnswer: { '@type': 'Answer', text: 'Immigration attorneys typically charge $5,000 to $15,000 or more per case. Some nonprofit organizations provide free legal services, but demand far exceeds supply.' } },
+          { '@type': 'Question', name: 'How much does having a lawyer affect immigration case outcomes?', acceptedAnswer: { '@type': 'Answer', text: 'Represented immigrants are approximately 5 times more likely to win their cases. For asylum cases, the gap is even wider — closer to 10x.' } },
+        ]
+      }) }} />
+
       <p className="text-xs text-gray-400 mt-8">
         Source: Department of Justice, Executive Office for Immigration Review (EOIR). Data current through February 2026. <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
       </p>

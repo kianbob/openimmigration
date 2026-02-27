@@ -110,6 +110,21 @@ export default function GreenCardPage() {
         </div>
       </div>
 
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            The green card pipeline represents over 1.5 million people waiting for permanent residence in the United States. Each pending application is a person in legal limbo — authorized to be here but without the stability that comes with permanent status. Processing delays mean years of uncertainty, restricted job mobility, and vulnerability to policy changes.
+          </p>
+          <p>
+            The 710,100 pending I-485 applications are particularly significant because these are people who have already been approved in principle — their visa petition was granted, their number became current — and they&apos;re simply waiting for USCIS to process the final paperwork. For employment-based applicants from India, the combination of per-country caps and processing backlogs can mean 10-20+ years of waiting even after employer sponsorship.
+          </p>
+          <p>
+            Green card backlogs also affect the immigration court system. People stuck in processing limbo may fall out of status, triggering removal proceedings. And green card holders who face deportation for criminal convictions often have stronger defenses than non-residents — making the path to permanent residence a critical factor in court outcomes.
+          </p>
+        </div>
+      </section>
+
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/naturalization" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">🇺🇸 Naturalization</h3>
@@ -124,6 +139,11 @@ export default function GreenCardPage() {
           <p className="text-sm text-gray-600 mt-1">1.9 million cases pending in immigration courts.</p>
         </Link>
       </div>
+
+      <p className="text-xs text-gray-400 mt-8">
+        Source: USCIS Quarterly Backlog Report, Department of State Visa Bulletin. Data current through February 2026.{' '}
+        <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
+      </p>
     </div>
   )
 }

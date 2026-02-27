@@ -217,6 +217,35 @@ export default function AppealsPage() {
         </Link>
       </div>
 
+      {/* FAQ Section */}
+      <section className="mt-12">
+        <h2 className="font-heading text-2xl font-bold mb-6">Frequently Asked Questions</h2>
+        <div className="space-y-6">
+          <div className="bg-white border border-gray-200 rounded-xl p-6">
+            <h3 className="font-bold text-lg mb-2">What is the Board of Immigration Appeals (BIA)?</h3>
+            <p className="text-gray-700">The BIA is the highest administrative body for interpreting and applying immigration law. Located in Falls Church, Virginia, it reviews appeals from immigration judge decisions nationwide. Unlike federal courts, the BIA typically decides cases based on written briefs alone — no oral argument or live testimony. It can affirm, reverse, or remand cases back to the immigration judge.</p>
+          </div>
+          <div className="bg-white border border-gray-200 rounded-xl p-6">
+            <h3 className="font-bold text-lg mb-2">How often does the BIA overturn immigration judge decisions?</h3>
+            <p className="text-gray-700">Rarely. Only about 7.2% of appeals result in the original decision being sustained (overturned in favor of the appellant). About 31% are dismissed on procedural grounds without reaching the merits, and 14% are remanded back to the immigration judge for further proceedings. The low reversal rate has led critics to argue the BIA functions more as a rubber stamp than a meaningful check.</p>
+          </div>
+          <div className="bg-white border border-gray-200 rounded-xl p-6">
+            <h3 className="font-bold text-lg mb-2">What happens after a BIA appeal is denied?</h3>
+            <p className="text-gray-700">If the BIA denies an appeal, the respondent can file a petition for review with the federal circuit court of appeals within 30 days. This is a true judicial review, but the court only reviews questions of law — not factual findings — and applies a highly deferential standard. Most petitions for review are denied. If the circuit court also denies review, the removal order becomes final.</p>
+          </div>
+        </div>
+      </section>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: [
+          { '@type': 'Question', name: 'What is the Board of Immigration Appeals (BIA)?', acceptedAnswer: { '@type': 'Answer', text: 'The BIA is the highest administrative body for interpreting and applying immigration law. Located in Falls Church, Virginia, it reviews appeals from immigration judge decisions nationwide. It can affirm, reverse, or remand cases back to the immigration judge.' } },
+          { '@type': 'Question', name: 'How often does the BIA overturn immigration judge decisions?', acceptedAnswer: { '@type': 'Answer', text: 'Rarely. Only about 7.2% of appeals result in the original decision being overturned. About 31% are dismissed on procedural grounds, and 14% are remanded for further proceedings.' } },
+          { '@type': 'Question', name: 'What happens after a BIA appeal is denied?', acceptedAnswer: { '@type': 'Answer', text: 'The respondent can file a petition for review with the federal circuit court of appeals within 30 days. The court only reviews questions of law and applies a highly deferential standard. Most petitions are denied.' } },
+        ]
+      }) }} />
+
       <p className="text-xs text-gray-400 mt-8">
         Source: Department of Justice, Executive Office for Immigration Review (EOIR). Data current through February 2026. <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
       </p>

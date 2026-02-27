@@ -96,6 +96,21 @@ export default function HowItWorksPage() {
         </div>
       </div>
 
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            Understanding how immigration court works is essential because the system affects millions of people yet operates under rules most Americans would find surprising. There is no right to a lawyer, no jury, and judges are DOJ employees rather than independent members of the judiciary. These structural differences mean that outcomes can vary dramatically based on which judge hears a case, whether the respondent has a lawyer, and which court the case is assigned to.
+          </p>
+          <p>
+            The process described here — NTA, master calendar, merits hearing, decision, appeal — can take anywhere from a few months to several years. With 1.9 million pending cases, many people wait years just to get their first hearing. During that time, their lives are on hold: they may have limited work authorization, can&apos;t travel freely, and live with the constant uncertainty of a pending deportation case.
+          </p>
+          <p>
+            This guide provides the framework for understanding all the data on this site. Every statistic — asylum grant rates, bond amounts, judge variation, backlog numbers — plays out within this procedural structure. Knowing how the system works makes the data meaningful.
+          </p>
+        </div>
+      </section>
+
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/courts" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">🏛️ Explore Courts</h3>
@@ -110,6 +125,11 @@ export default function HowItWorksPage() {
           <p className="text-sm text-gray-600 mt-1">Common questions answered.</p>
         </Link>
       </div>
+
+      <p className="text-xs text-gray-400 mt-8">
+        Source: Department of Justice, Executive Office for Immigration Review (EOIR). Data current through February 2026.{' '}
+        <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
+      </p>
 
       <script type="application/ld+json" dangerouslySetInnerHTML={{
         __html: JSON.stringify({

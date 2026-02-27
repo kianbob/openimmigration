@@ -136,6 +136,21 @@ export default function AmnestyPage() {
         </div>
       </div>
 
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            The history of amnesty and legalization programs reveals a fundamental tension in immigration policy: the system cannot deport its way out of a population of millions of undocumented residents. IRCA legalized 2.7 million people in 1986, but no comparable program has been enacted since — and the undocumented population has grown to an estimated 11 million.
+          </p>
+          <p>
+            Every legalization program directly reduces immigration court caseloads. Conversely, when temporary protections like DACA or TPS are terminated, recipients can be funneled into removal proceedings, adding to the 1.9 million case backlog. The math is straightforward: with only 1,400 judges handling nearly 2 million cases, any policy that adds hundreds of thousands of new cases will further overwhelm the system.
+          </p>
+          <p>
+            Understanding these programs is essential context for the current immigration debate. Whether one supports broader legalization or stricter enforcement, the data shows that the absence of a legislative solution since 1986 is a primary driver of today&apos;s immigration court crisis.
+          </p>
+        </div>
+      </section>
+
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/daca" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">🎓 DACA Recipients</h3>
@@ -150,6 +165,11 @@ export default function AmnestyPage() {
           <p className="text-sm text-gray-600 mt-1">5.4 million applications in the USCIS pipeline.</p>
         </Link>
       </div>
+
+      <p className="text-xs text-gray-400 mt-8">
+        Source: Department of Justice (EOIR), USCIS, Congressional Research Service. Data current through February 2026.{' '}
+        <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
+      </p>
     </div>
   )
 }

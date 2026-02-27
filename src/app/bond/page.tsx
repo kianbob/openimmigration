@@ -201,6 +201,40 @@ export default function BondPage() {
         </Link>
       </div>
 
+      {/* FAQ Section */}
+      <section className="mt-12">
+        <h2 className="font-heading text-2xl font-bold mb-6">Frequently Asked Questions</h2>
+        <div className="space-y-6">
+          <div className="bg-white border border-gray-200 rounded-xl p-6">
+            <h3 className="font-bold text-lg mb-2">What is an immigration bond?</h3>
+            <p className="text-gray-700">An immigration bond is a payment that allows a detained immigrant to be released from custody while their removal case proceeds. It functions similarly to bail in the criminal system, but with key differences: there is no Eighth Amendment protection against excessive amounts, and the minimum is $1,500. The bond is refundable if the person attends all hearings, regardless of the case outcome.</p>
+          </div>
+          <div className="bg-white border border-gray-200 rounded-xl p-6">
+            <h3 className="font-bold text-lg mb-2">How much is immigration bond?</h3>
+            <p className="text-gray-700">The minimum immigration bond is $1,500, but the average is $11,412 and the median is $7,500. Judges frequently set bonds at $5,000, $10,000, $15,000, or higher depending on perceived flight risk and danger to the community. Some bonds exceed $25,000. For many detained immigrants and their families, these amounts are unaffordable.</p>
+          </div>
+          <div className="bg-white border border-gray-200 rounded-xl p-6">
+            <h3 className="font-bold text-lg mb-2">What is the bond grant rate in immigration court?</h3>
+            <p className="text-gray-700">Only 4.3% of bond requests are granted. Out of 1.59 million bond hearings in our data, the vast majority result in bond being denied, continued, or the detainee being found ineligible. The low grant rate means most detained immigrants remain in custody throughout their proceedings.</p>
+          </div>
+          <div className="bg-white border border-gray-200 rounded-xl p-6">
+            <h3 className="font-bold text-lg mb-2">Can you appeal a bond decision?</h3>
+            <p className="text-gray-700">Yes. Either the immigrant or the government can appeal a bond decision to the Board of Immigration Appeals (BIA). The immigrant can also request a new bond hearing if circumstances have changed materially — for example, if they now have a lawyer, family ties, or new evidence of community ties. However, appealing a bond decision while detained means remaining in custody during the appeal process.</p>
+          </div>
+        </div>
+      </section>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: [
+          { '@type': 'Question', name: 'What is an immigration bond?', acceptedAnswer: { '@type': 'Answer', text: 'An immigration bond is a payment that allows a detained immigrant to be released from custody while their removal case proceeds. It functions similarly to bail in the criminal system, but with key differences: there is no Eighth Amendment protection against excessive amounts, and the minimum is $1,500. The bond is refundable if the person attends all hearings, regardless of the case outcome.' } },
+          { '@type': 'Question', name: 'How much is immigration bond?', acceptedAnswer: { '@type': 'Answer', text: 'The minimum immigration bond is $1,500, but the average is $11,412 and the median is $7,500. Judges frequently set bonds at $5,000, $10,000, $15,000, or higher depending on perceived flight risk and danger to the community.' } },
+          { '@type': 'Question', name: 'What is the bond grant rate in immigration court?', acceptedAnswer: { '@type': 'Answer', text: 'Only 4.3% of bond requests are granted. Out of 1.59 million bond hearings, the vast majority result in bond being denied, continued, or the detainee being found ineligible.' } },
+          { '@type': 'Question', name: 'Can you appeal a bond decision?', acceptedAnswer: { '@type': 'Answer', text: 'Yes. Either the immigrant or the government can appeal a bond decision to the Board of Immigration Appeals (BIA). The immigrant can also request a new bond hearing if circumstances have changed materially.' } },
+        ]
+      }) }} />
+
       <p className="text-xs text-gray-400 mt-8">
         Source: Department of Justice, Executive Office for Immigration Review (EOIR). Data current through February 2026. <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
       </p>
