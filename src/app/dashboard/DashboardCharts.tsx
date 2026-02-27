@@ -61,12 +61,13 @@ export function OutcomePieChart({ stats }: { stats: { asylumGranted: number; asy
   return (
     <ResponsiveContainer width="100%" height={350}>
       <PieChart>
-        <Pie data={data} cx="50%" cy="50%" outerRadius={120} dataKey="value" label={({ name, percent }: any) => `${name} ${(percent * 100).toFixed(1)}%`} labelLine={false}>
+        <Pie data={data} cx="50%" cy="50%" innerRadius={60} outerRadius={120} dataKey="value">
           {data.map((_, i) => (
             <Cell key={i} fill={COLORS[i % COLORS.length]} />
           ))}
         </Pie>
         <Tooltip formatter={(value: any) => Number(value).toLocaleString()} />
+        <Legend />
       </PieChart>
     </ResponsiveContainer>
   )

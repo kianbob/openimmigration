@@ -12,6 +12,10 @@ export const metadata: Metadata = {
   title: 'U.S. Immigration Statistics 2026 — Key Numbers & Facts',
   description: 'Comprehensive U.S. immigration statistics: 1.9M pending court cases, 12M+ border encounters, 1,409 judges, 88 courts. Updated February 2026 from official DOJ, DHS, and CBP data.',
   alternates: { canonical: 'https://www.openimmigration.us/statistics' },
+  openGraph: {
+    title: 'U.S. Immigration Statistics 2026 — Key Numbers & Facts',
+    description: 'Comprehensive U.S. immigration statistics: 1.9M pending court cases, 12M+ border encounters, 1,409 judges, 88 courts. Updated February 2026 from official DOJ, DHS, and CBP data.',
+  },
 }
 
 export default function StatisticsPage() {

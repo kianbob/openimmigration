@@ -13,6 +13,10 @@ export const metadata: Metadata = {
   title: 'Compare Immigration Courts & Judges — Side-by-Side Statistics',
   description: 'Compare immigration courts and judges side by side. See grant rates, case volumes, removal rates, and outcomes for up to 5 courts or judges at once.',
   alternates: { canonical: 'https://www.openimmigration.us/compare' },
+  openGraph: {
+    title: 'Compare Immigration Courts & Judges — Side-by-Side Statistics',
+    description: 'Compare immigration courts and judges side by side. See grant rates, case volumes, removal rates, and outcomes for up to 5 courts or judges at once.',
+  },
 }
 
 export default function ComparePage() {

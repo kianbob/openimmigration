@@ -188,13 +188,13 @@ export default async function CourtDetailPage({ params }: { params: Promise<{ sl
           <h3 className="font-bold text-sm">📍 Geographic Lottery</h3>
           <p className="text-xs text-gray-600 mt-1">How court location determines outcomes.</p>
         </Link>
-        <Link href="/analysis/judge-variation" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
-          <h3 className="font-bold text-sm">⚖️ Judge Roulette</h3>
-          <p className="text-xs text-gray-600 mt-1">Within each court, judges vary dramatically.</p>
+        <Link href="/compare" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold text-sm">📊 Compare Tool</h3>
+          <p className="text-xs text-gray-600 mt-1">Compare courts and judges side by side.</p>
         </Link>
-        <Link href="/analysis/backlog-crisis" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
-          <h3 className="font-bold text-sm">📈 Backlog Crisis</h3>
-          <p className="text-xs text-gray-600 mt-1">How the 1.9M case backlog grew.</p>
+        <Link href="/judges" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold text-sm">⚖️ All Judges</h3>
+          <p className="text-xs text-gray-600 mt-1">Browse all immigration judges nationwide.</p>
         </Link>
       </div>
 

@@ -175,7 +175,22 @@ export default async function JudgeDetailPage({ params }: { params: Promise<{ sl
 
       <ShareButtons url={`https://www.openimmigration.us/judges/${slug}`} title={`Judge ${titleCase(judge.name)} — Immigration Court Decisions`} />
 
-      <div className="text-center mt-8">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8 mt-8">
+        <Link href="/analysis/judge-variation" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold text-sm">⚖️ Judge Variation</h3>
+          <p className="text-xs text-gray-600 mt-1">How grant rates vary dramatically between judges.</p>
+        </Link>
+        <Link href="/compare" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold text-sm">📊 Compare Tool</h3>
+          <p className="text-xs text-gray-600 mt-1">Compare judges and courts side by side.</p>
+        </Link>
+        <Link href="/courts" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold text-sm">🏛️ All Courts</h3>
+          <p className="text-xs text-gray-600 mt-1">Browse all immigration courts nationwide.</p>
+        </Link>
+      </div>
+
+      <div className="text-center">
         <Link href="/judges" className="text-primary font-medium hover:underline">← Back to all judges</Link>
       </div>
     </div>

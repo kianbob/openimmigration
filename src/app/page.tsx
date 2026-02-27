@@ -35,18 +35,18 @@ export default function HomePage() {
 
           {/* Quick stat pills */}
           <div className="flex flex-wrap justify-center gap-3 mb-8">
-            <span className="bg-white/10 backdrop-blur px-4 py-2 rounded-full text-sm">
+            <Link href="/backlog" className="bg-white/10 backdrop-blur px-4 py-2 rounded-full text-sm cursor-pointer hover:bg-white/20 transition-colors">
               📊 {stats.pendingCases.toLocaleString()} Pending Cases
-            </span>
-            <span className="bg-white/10 backdrop-blur px-4 py-2 rounded-full text-sm">
+            </Link>
+            <Link href="/asylum" className="bg-white/10 backdrop-blur px-4 py-2 rounded-full text-sm cursor-pointer hover:bg-white/20 transition-colors">
               🛡️ {stats.asylumGranted.toLocaleString()} Asylum Grants
-            </span>
-            <span className="bg-white/10 backdrop-blur px-4 py-2 rounded-full text-sm">
+            </Link>
+            <Link href="/deportation" className="bg-white/10 backdrop-blur px-4 py-2 rounded-full text-sm cursor-pointer hover:bg-white/20 transition-colors">
               ⚖️ {stats.removalOrders.toLocaleString()} Removal Orders
-            </span>
-            <span className="bg-white/10 backdrop-blur px-4 py-2 rounded-full text-sm">
+            </Link>
+            <Link href="/representation" className="bg-white/10 backdrop-blur px-4 py-2 rounded-full text-sm cursor-pointer hover:bg-white/20 transition-colors">
               👔 Only {stats.representationRate}% Had Lawyers
-            </span>
+            </Link>
           </div>
 
           {/* Quick links */}

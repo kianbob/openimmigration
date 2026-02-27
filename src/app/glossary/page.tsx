@@ -6,6 +6,10 @@ export const metadata: Metadata = {
   title: 'Immigration Court Glossary — Key Terms & Definitions',
   description: 'Comprehensive glossary of U.S. immigration court terms. Definitions for asylum, removal proceedings, NTA, BIA, EOIR, voluntary departure, in absentia, and 50+ more terms.',
   alternates: { canonical: 'https://www.openimmigration.us/glossary' },
+  openGraph: {
+    title: 'Immigration Court Glossary — Key Terms & Definitions',
+    description: 'Comprehensive glossary of U.S. immigration court terms. Definitions for asylum, removal proceedings, NTA, BIA, EOIR, voluntary departure, in absentia, and 50+ more terms.',
+  },
 }
 
 const terms = [
