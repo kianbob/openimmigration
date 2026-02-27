@@ -124,40 +124,96 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Explore Grid */}
+      {/* Explore Grid — Grouped */}
       <section className="max-w-7xl mx-auto px-4 py-16">
-        <h2 className="font-heading text-3xl font-bold text-center mb-10">Explore the Data</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <h2 className="font-heading text-3xl font-bold text-center mb-2">Explore the Data</h2>
+        <p className="text-center text-gray-500 mb-12">Click any topic to dive into the data</p>
+
+        {/* Courts & Judges */}
+        <h3 className="font-heading text-xl font-bold mb-4 text-gray-800 flex items-center gap-2">
+          <svg className="w-5 h-5 text-primary" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3" /></svg>
+          Courts & Judges
+        </h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
           {[
-            { title: 'Immigration Courts', desc: `Case volumes, backlogs, and outcomes for all ${stats.totalCourts} immigration courts across the U.S.`, href: '/courts', icon: '🏛️' },
-            { title: 'By Nationality', desc: `How cases differ by country of origin — ${stats.totalNationalities} nationalities with outcomes and case data.`, href: '/nationalities', icon: '🌍' },
-            { title: 'Judge Statistics', desc: `Asylum grant rates, case volumes, and decision patterns for ${stats.totalJudges.toLocaleString()} immigration judges.`, href: '/judges', icon: '⚖️' },
-            { title: 'By State', desc: 'Where immigration cases concentrate — state-level breakdowns of caseloads and outcomes.', href: '/states', icon: '📍' },
-            { title: 'Court Backlog', desc: `The ${(stats.pendingCases / 1e6).toFixed(1)} million case backlog — how it grew, where it's worst, and what's being done.`, href: '/backlog', icon: '📈' },
-            { title: 'Asylum Cases', desc: `${stats.asylumGranted.toLocaleString()} asylum grants vs ${stats.asylumDenied.toLocaleString()} denials. How outcomes vary by court, judge, and nationality.`, href: '/asylum', icon: '🛡️' },
-            { title: 'Charges & Offenses', desc: 'What immigration charges are most common and how they correlate with case outcomes.', href: '/charges', icon: '📋' },
-            { title: 'Representation', desc: `Only ${stats.representationRate}% had lawyers. How having a lawyer changes immigration court outcomes.`, href: '/representation', icon: '👔' },
-            { title: 'Deportation Data', desc: `${stats.removalOrders.toLocaleString()} removal orders, ${stats.voluntaryDeparture.toLocaleString()} voluntary departures. How deportation works.`, href: '/deportation', icon: '⚙️' },
-            { title: 'Demographics', desc: '59% male, 40% female. 92% non-English speakers. Gender, language, and custody breakdowns.', href: '/demographics', icon: '📊' },
-            { title: 'Border Encounters', desc: '12M+ CBP encounters since FY2020. Monthly trends, top nationalities, southwest border data.', href: '/border', icon: '🌎' },
-            { title: 'ICE Enforcement', desc: 'Deportation statistics, ICE arrests, detention data, and the gap between court orders and actual removals.', href: '/enforcement', icon: '🚨' },
-            { title: 'Legal Immigration', desc: '~1M green cards/year, refugees, naturalizations, and temporary visa admissions.', href: '/legal-immigration', icon: '🗽' },
-            { title: 'Visa Overstays', desc: '478K+ per year (FY2024). The often-overlooked other half of unauthorized immigration.', href: '/overstays', icon: '✈️' },
-            { title: 'Drug Seizures', desc: '65,000 lbs of fentanyl seized. 1.9M total lbs of drugs intercepted at U.S. borders.', href: '/drug-seizures', icon: '💊' },
-            { title: 'Wait Times', desc: 'Average case takes 1.1 years. Some courts average 2.7 years. How long does immigration court take?', href: '/wait-times', icon: '⏱️' },
-            { title: 'TPS Status', desc: '1M+ pending TPS applications. Venezuela (403K), Haiti (331K), Ukraine (143K).', href: '/tps', icon: '🛡️' },
-            { title: 'Appeals to the BIA', desc: '1.46M appeals to the Board of Immigration Appeals. 31% dismissed, only 7.2% sustained.', href: '/appeals', icon: '📑' },
-            { title: 'Bond Hearings', desc: '1.59M bond hearings. Average bond $11,412. Only 4.3% of requests granted.', href: '/bond', icon: '🔓' },
-            { title: 'Compare Tool', desc: 'Compare up to 5 courts or judges side by side. Grant rates, caseloads, and outcomes at a glance.', href: '/compare', icon: '📊' },
-            { title: 'Statistics', desc: 'All the key numbers in one place. Immigration courts, border, enforcement, legal pathways.', href: '/statistics', icon: '📈' },
-            { title: 'Glossary', desc: `${34} key terms defined — from asylum to voluntary departure. Understand the system.`, href: '/glossary', icon: '📖' },
-            { title: 'Search Cases', desc: 'Search and filter immigration court data by court, nationality, year, case type, and more.', href: '/search', icon: '🔍' },
-          ].map(card => (
-            <Link key={card.href} href={card.href}
-              className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-lg hover:border-primary/30 hover:-translate-y-0.5 transition-all group">
-              <div className="text-3xl mb-3">{card.icon}</div>
-              <h3 className="font-heading text-lg font-bold group-hover:text-primary transition-colors">{card.title}</h3>
-              <p className="text-sm text-gray-600 mt-2">{card.desc}</p>
+            { title: 'Immigration Courts', desc: `Case volumes, backlogs, and outcomes for all ${stats.totalCourts} courts.`, href: '/courts' },
+            { title: 'Judge Statistics', desc: `Grant rates and decision patterns for ${stats.totalJudges.toLocaleString()} judges.`, href: '/judges' },
+            { title: 'By Nationality', desc: `${stats.totalNationalities} nationalities with outcomes and case data.`, href: '/nationalities' },
+            { title: 'By State', desc: 'State-level breakdowns of caseloads and outcomes.', href: '/states' },
+            { title: 'Court Backlog', desc: `${(stats.pendingCases / 1e6).toFixed(1)}M pending cases — how it grew, where it's worst.`, href: '/backlog' },
+            { title: 'Asylum Cases', desc: `${stats.asylumGranted.toLocaleString()} grants vs ${stats.asylumDenied.toLocaleString()} denials.`, href: '/asylum' },
+            { title: 'Wait Times', desc: 'Average case: 1.1 years. Some courts: 2.7 years.', href: '/wait-times' },
+            { title: 'Representation', desc: `Only ${stats.representationRate}% had lawyers. 5x better outcomes with one.`, href: '/representation' },
+            { title: 'Deportation', desc: `${stats.removalOrders.toLocaleString()} removal orders. How deportation works.`, href: '/deportation' },
+            { title: 'Charges', desc: 'Most common charges and how they affect outcomes.', href: '/charges' },
+            { title: 'Demographics', desc: 'Gender, language, and custody breakdowns.', href: '/demographics' },
+            { title: 'Appeals', desc: '1.46M BIA appeals. 31% dismissed, 7.2% sustained.', href: '/appeals' },
+            { title: 'Bond Hearings', desc: 'Average bond $11,412. Only 4.3% granted.', href: '/bond' },
+            { title: 'Children', desc: 'Unaccompanied minors in court — most without lawyers.', href: '/children' },
+          ].map(c => (
+            <Link key={c.href} href={c.href} className="bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md hover:border-primary/30 transition-all group">
+              <h4 className="font-bold group-hover:text-primary transition-colors">{c.title}</h4>
+              <p className="text-sm text-gray-500 mt-1">{c.desc}</p>
+            </Link>
+          ))}
+        </div>
+
+        {/* Border & Enforcement */}
+        <h3 className="font-heading text-xl font-bold mb-4 text-gray-800 flex items-center gap-2">
+          <svg className="w-5 h-5 text-primary" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+          Border & Enforcement
+        </h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
+          {[
+            { title: 'Border Encounters', desc: '12M+ CBP encounters since FY2020. Trends by nationality and region.', href: '/border' },
+            { title: 'ICE Enforcement', desc: 'Deportation stats, arrests, and the gap between orders and removals.', href: '/enforcement' },
+            { title: 'Drug Seizures', desc: '65K lbs of fentanyl. 1.9M total lbs seized at U.S. borders.', href: '/drug-seizures' },
+          ].map(c => (
+            <Link key={c.href} href={c.href} className="bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md hover:border-primary/30 transition-all group">
+              <h4 className="font-bold group-hover:text-primary transition-colors">{c.title}</h4>
+              <p className="text-sm text-gray-500 mt-1">{c.desc}</p>
+            </Link>
+          ))}
+        </div>
+
+        {/* Legal Pathways */}
+        <h3 className="font-heading text-xl font-bold mb-4 text-gray-800 flex items-center gap-2">
+          <svg className="w-5 h-5 text-primary" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" /></svg>
+          Legal Pathways
+        </h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
+          {[
+            { title: 'Legal Immigration', desc: '~1M green cards/year, refugees, naturalizations.', href: '/legal-immigration' },
+            { title: 'Visa Overstays', desc: '478K+ per year. The overlooked half of unauthorized immigration.', href: '/overstays' },
+            { title: 'TPS Status', desc: '1M+ pending applications. Venezuela, Haiti, Ukraine.', href: '/tps' },
+            { title: 'DACA', desc: '515K active recipients. Program status and demographics.', href: '/daca' },
+            { title: 'Green Cards', desc: 'Green card issuance by category and country.', href: '/green-card' },
+            { title: 'Naturalization', desc: 'Path to citizenship — trends and processing data.', href: '/naturalization' },
+          ].map(c => (
+            <Link key={c.href} href={c.href} className="bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md hover:border-primary/30 transition-all group">
+              <h4 className="font-bold group-hover:text-primary transition-colors">{c.title}</h4>
+              <p className="text-sm text-gray-500 mt-1">{c.desc}</p>
+            </Link>
+          ))}
+        </div>
+
+        {/* Tools & Reference */}
+        <h3 className="font-heading text-xl font-bold mb-4 text-gray-800 flex items-center gap-2">
+          <svg className="w-5 h-5 text-primary" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.066 2.573c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.573 1.066c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.066-2.573c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" /><path strokeLinecap="round" strokeLinejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+          Tools & Reference
+        </h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
+          {[
+            { title: 'Compare Courts & Judges', desc: 'Side-by-side comparison of up to 5 courts or judges.', href: '/compare' },
+            { title: 'Statistics at a Glance', desc: 'All key numbers in one place across all datasets.', href: '/statistics' },
+            { title: 'Search', desc: 'Find any court, judge, or nationality instantly.', href: '/search' },
+            { title: 'Glossary', desc: '34 immigration court terms defined and explained.', href: '/glossary' },
+            { title: 'Timeline', desc: '235 years of U.S. immigration policy history.', href: '/timeline' },
+            { title: 'Download Data', desc: '18 free JSON datasets for researchers and journalists.', href: '/downloads' },
+          ].map(c => (
+            <Link key={c.href} href={c.href} className="bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md hover:border-primary/30 transition-all group">
+              <h4 className="font-bold group-hover:text-primary transition-colors">{c.title}</h4>
+              <p className="text-sm text-gray-500 mt-1">{c.desc}</p>
             </Link>
           ))}
         </div>
