@@ -33,7 +33,7 @@ export default function BorderToCourtPage() {
       <span className="inline-block bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full mb-3">System Overview</span>
       <h1 className="font-heading text-4xl font-bold mb-6">From Border to Courtroom</h1>
 
-      <div className="prose prose-lg max-w-none text-gray-700">
+      <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
         <p className="text-xl text-gray-600 mb-8">
           What happens after someone crosses the border? CBP recorded <strong>{(border.grandTotal / 1e6).toFixed(1)} million
           encounters</strong> between FY2020 and FY2026. The immigration court has <strong>{(stats.pendingCases / 1e6).toFixed(1)} million

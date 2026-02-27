@@ -23,7 +23,7 @@ export default function TPSTrapPage() {
       <span className="inline-block bg-teal-100 text-teal-800 text-xs font-semibold px-3 py-1 rounded-full mb-3">Legal Status</span>
       <h1 className="font-heading text-4xl font-bold mb-6">Permanent Temporary</h1>
 
-      <div className="prose prose-lg max-w-none text-gray-700">
+      <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
         <p className="text-xl text-gray-600 mb-8">
           Over <strong>1 million people</strong> in the United States hold Temporary Protected Status — a legal
           status that was designed to last 6-18 months. Some have held it for over 20 years. TPS has become

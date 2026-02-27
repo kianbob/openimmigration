@@ -16,8 +16,12 @@ export const metadata: Metadata = {
   alternates: { canonical: 'https://www.openimmigration.us/states' },
 }
 
+// Valid US state/territory codes only — filter out EOIR data artifacts (numeric codes, foreign countries)
+const US_CODES = new Set(['AL','AK','AZ','AR','CA','CO','CT','DE','FL','GA','HI','ID','IL','IN','IA','KS','KY','LA','ME','MD','MA','MI','MN','MS','MO','MT','NE','NV','NH','NJ','NM','NY','NC','ND','OH','OK','OR','PA','RI','SC','SD','TN','TX','UT','VT','VA','WA','WV','WI','WY','DC','PR','GU','VI','AS','MP'])
+
 export default function StatesPage() {
-  const states = loadData('states.json')
+  const rawStates = loadData('states.json')
+  const states = rawStates.filter((s: { code: string }) => US_CODES.has(s.code))
   const stats = loadData('stats.json')
   const totalStateCases = states.reduce((s: number, st: { cases: number }) => s + st.cases, 0)
 

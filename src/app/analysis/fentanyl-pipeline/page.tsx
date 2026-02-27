@@ -38,7 +38,7 @@ export default function FentanylPipelinePage() {
       <span className="inline-block bg-red-100 text-red-800 text-xs font-semibold px-3 py-1 rounded-full mb-3">Border Security</span>
       <h1 className="font-heading text-4xl font-bold mb-6">The Fentanyl Pipeline</h1>
 
-      <div className="prose prose-lg max-w-none text-gray-700">
+      <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
         <p className="text-xl text-gray-600 mb-8">
           Between FY2023 and FY2026, CBP seized <strong>{fentanyl.lbs.toLocaleString()} pounds of fentanyl</strong> at
           U.S. borders — enough for roughly <strong>{(lethalDoses / 1e9).toFixed(1)} billion lethal doses</strong>.

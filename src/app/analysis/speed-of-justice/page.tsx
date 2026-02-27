@@ -40,7 +40,7 @@ export default function SpeedOfJusticePage() {
       <span className="inline-block bg-amber-100 text-amber-800 text-xs font-semibold px-3 py-1 rounded-full mb-3">System Analysis</span>
       <h1 className="font-heading text-4xl font-bold mb-6">The Speed of Justice</h1>
 
-      <div className="prose prose-lg max-w-none text-gray-700">
+      <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
         <p className="text-xl text-gray-600 mb-8">
           We analyzed <strong>{(wait.totalCasesWithDuration / 1e6).toFixed(1)} million completed immigration proceedings</strong> to
           answer a simple question: how long does it take? The answer — an average of <strong>{wait.avgDaysOverall} days

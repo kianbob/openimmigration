@@ -31,7 +31,7 @@ export default function BondSystemPage() {
       <span className="inline-block bg-purple-100 text-purple-800 text-xs font-semibold px-3 py-1 rounded-full mb-3">Detention</span>
       <h1 className="font-heading text-4xl font-bold mb-6">The Price of Freedom</h1>
 
-      <div className="prose prose-lg max-w-none text-gray-700">
+      <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
         <p className="text-xl text-gray-600 mb-8">
           When ICE arrests an immigrant, a judge decides whether they stay locked up or go free on bond.
           Our data covers <strong>{(bonds.totalHearings / 1e6).toFixed(2)} million bond hearings</strong>.

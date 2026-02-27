@@ -32,7 +32,7 @@ export default function ChildrenInCourtPage() {
       <span className="inline-block bg-pink-100 text-pink-800 text-xs font-semibold px-3 py-1 rounded-full mb-3">Vulnerable Populations</span>
       <h1 className="font-heading text-4xl font-bold mb-6">Children Facing Judges Alone</h1>
 
-      <div className="prose prose-lg max-w-none text-gray-700">
+      <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
         <p className="text-xl text-gray-600 mb-8">
           Every year, tens of thousands of unaccompanied children appear in U.S. immigration court. Many are
           under 10 years old. Most don&apos;t have lawyers. They face the same judges, the same legal standards,
