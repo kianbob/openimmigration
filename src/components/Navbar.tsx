@@ -1,6 +1,6 @@
 'use client'
 import Link from 'next/link'
-import { useState, useEffect } from 'react'
+import React, { useState, useEffect, useRef } from 'react'
 import { useRouter } from 'next/navigation'
 
 const courtData = [
@@ -64,13 +64,23 @@ const analysisArticles = [
 
 function DesktopDropdown({ label, items, wide }: { label: string; items: { label: string; href: string }[]; wide?: boolean }) {
   const [open, setOpen] = useState(false)
+  const timeoutRef = React.useRef<NodeJS.Timeout | null>(null)
+
+  function handleEnter() {
+    if (timeoutRef.current) clearTimeout(timeoutRef.current)
+    setOpen(true)
+  }
+  function handleLeave() {
+    timeoutRef.current = setTimeout(() => setOpen(false), 150)
+  }
+
   return (
-    <div className="relative" onMouseEnter={() => setOpen(true)} onMouseLeave={() => setOpen(false)}>
-      <button className="text-sm font-medium hover:text-blue-200 transition-colors">
+    <div className="relative" onMouseEnter={handleEnter} onMouseLeave={handleLeave}>
+      <button className="text-sm font-medium hover:text-blue-200 transition-colors py-4">
         {label} ▾
       </button>
       {open && (
-        <div className={`absolute top-full left-0 mt-1 bg-white text-gray-800 rounded-xl shadow-xl border border-gray-200 py-2 z-50 ${wide ? 'w-64' : 'w-52'}`}>
+        <div className={`absolute top-full left-0 bg-white text-gray-800 rounded-xl shadow-xl border border-gray-200 py-2 z-50 max-h-[70vh] overflow-y-auto ${wide ? 'w-64' : 'w-52'}`}>
           {items.map(a => (
             <Link key={a.href} href={a.href} className="block px-4 py-2 text-sm hover:bg-gray-50 hover:text-primary transition-colors">
               {a.label}
