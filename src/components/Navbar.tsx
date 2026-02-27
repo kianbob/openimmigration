@@ -146,8 +146,8 @@ export default function Navbar() {
           {/* Tablet */}
           <div className="hidden md:flex lg:hidden items-center gap-4">
             <Link href="/dashboard" className="text-sm font-medium hover:text-blue-200">Dashboard</Link>
-            <DesktopDropdown label="Data ▾" items={[...courtData.slice(0, 6), ...immigrationData.slice(0, 4)]} />
-            <DesktopDropdown label="Analysis ▾" items={analysisArticles.slice(0, 8)} />
+            <DesktopDropdown label="Data" items={[...courtData.slice(0, 6), ...immigrationData.slice(0, 4)]} />
+            <DesktopDropdown label="Analysis" items={analysisArticles.slice(0, 8)} />
             <Link href="/search" className="text-sm bg-white/10 hover:bg-white/20 px-3 py-1.5 rounded-lg">🔍</Link>
           </div>
 
