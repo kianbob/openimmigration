@@ -110,6 +110,13 @@ export default function AboutPage() {
           <a href="https://www.vaccinewatch.org" className="text-primary hover:underline">VaccineWatch</a>, and more.
         </p>
 
+        <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">How to Cite This Data</h2>
+        <p>When referencing OpenImmigration data in research, journalism, or other publications, please use:</p>
+        <div className="bg-gray-50 border border-gray-200 rounded-xl p-4 font-mono text-sm not-prose select-all cursor-pointer" title="Click to select">
+          OpenImmigration. &quot;[Page Title].&quot; OpenImmigration, The Data Project, {new Date().getFullYear()}. https://www.openimmigration.us/[page-path]. Accessed {new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}.
+        </div>
+        <p className="text-sm text-gray-500">Click the citation to select it, then copy.</p>
+
         <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">Press & Media</h2>
         <p>
           For press inquiries, data requests, or collaboration opportunities, contact us at{' '}

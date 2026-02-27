@@ -4,6 +4,7 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
 import RelatedAnalysis from '@/components/RelatedAnalysis'
 import Link from 'next/link'
+import { fmt } from '@/lib/utils'
 import fs from 'fs'
 import path from 'path'
 
@@ -49,11 +50,11 @@ export default function SpeedOfJusticePage() {
         <h2 className="font-heading text-2xl font-bold text-gray-900">The Two-Speed System</h2>
         <p>
           Immigration court operates at two radically different speeds. <strong>{under6?.pct}% of proceedings
-          ({under6?.count.toLocaleString()} cases) resolve in under 6 months</strong> — these are overwhelmingly
+          ({fmt(under6?.count)} cases) resolve in under 6 months</strong> — these are overwhelmingly
           detained cases on expedited dockets and in absentia removal orders where the person never appeared.
         </p>
         <p>
-          At the other extreme, <strong>{fivePlus?.count.toLocaleString()} proceedings ({fivePlus?.pct}%)
+          At the other extreme, <strong>{fmt(fivePlus?.count)} proceedings ({fivePlus?.pct}%)
           took more than 5 years</strong>. These are people living in legal limbo for half a decade or more —
           unable to fully plan their lives, working under temporary permits, raising American children while
           facing potential deportation.

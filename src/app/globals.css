@@ -21,3 +21,9 @@ body {
 h1, h2, h3, h4 {
   font-family: var(--font-heading);
 }
+
+@media print {
+  nav, footer, .no-print { display: none !important; }
+  body { background: white; color: black; }
+  a { color: inherit; text-decoration: underline; }
+}

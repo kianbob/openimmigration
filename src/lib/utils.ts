@@ -1,3 +1,7 @@
+export function fmt(n: number | null | undefined): string {
+  return n != null ? n.toLocaleString() : 'N/A'
+}
+
 export function formatNumber(n: number | null | undefined): string {
   if (n == null || isNaN(n)) return '0'
   return n.toLocaleString('en-US')

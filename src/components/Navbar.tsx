@@ -1,6 +1,7 @@
 'use client'
 import Link from 'next/link'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
+import { useRouter } from 'next/navigation'
 
 const navItems = [
   { label: 'Courts', href: '/courts' },
@@ -32,9 +33,76 @@ const analysisArticles = [
   { label: 'Detained vs. Released', href: '/analysis/detained-vs-released' },
 ]
 
+const mobileSections = [
+  {
+    title: 'Court Data',
+    items: [
+      { label: 'Courts', href: '/courts' },
+      { label: 'Judges', href: '/judges' },
+      { label: 'Nationalities', href: '/nationalities' },
+      { label: 'Backlog', href: '/backlog' },
+      { label: 'Asylum', href: '/asylum' },
+      { label: 'Wait Times', href: '/wait-times' },
+    ],
+  },
+  {
+    title: 'Immigration Data',
+    items: [
+      { label: 'Border', href: '/border' },
+      { label: 'Drugs', href: '/drug-seizures' },
+      { label: 'Enforcement', href: '/enforcement' },
+      { label: 'Demographics', href: '/demographics' },
+      { label: 'Appeals', href: '/appeals' },
+    ],
+  },
+  {
+    title: 'More',
+    items: [
+      { label: 'Dashboard', href: '/dashboard' },
+      { label: 'Analysis', href: '/analysis' },
+      { label: 'Search', href: '/search' },
+    ],
+  },
+]
+
+function MobileSection({ title, items, onNavigate }: { title: string; items: { label: string; href: string }[]; onNavigate: () => void }) {
+  const [expanded, setExpanded] = useState(false)
+  return (
+    <div>
+      <button
+        onClick={() => setExpanded(!expanded)}
+        className="w-full flex items-center justify-between px-4 py-2 text-sm font-semibold text-white/80 hover:bg-white/10"
+      >
+        {title}
+        <span className="text-xs">{expanded ? '▲' : '▼'}</span>
+      </button>
+      {expanded && (
+        <div className="pl-4">
+          {items.map(item => (
+            <Link key={item.href} href={item.href} onClick={onNavigate}
+              className="block px-4 py-2 text-sm hover:bg-white/10">{item.label}</Link>
+          ))}
+        </div>
+      )}
+    </div>
+  )
+}
+
 export default function Navbar() {
   const [open, setOpen] = useState(false)
   const [analysisOpen, setAnalysisOpen] = useState(false)
+  const router = useRouter()
+
+  useEffect(() => {
+    function handleKey(e: KeyboardEvent) {
+      if (e.key === '/' && !['INPUT', 'TEXTAREA', 'SELECT'].includes((e.target as HTMLElement)?.tagName)) {
+        e.preventDefault()
+        router.push('/search')
+      }
+    }
+    document.addEventListener('keydown', handleKey)
+    return () => document.removeEventListener('keydown', handleKey)
+  }, [router])
 
   return (
     <nav className="bg-primary text-white shadow-lg sticky top-0 z-50">
@@ -71,6 +139,7 @@ export default function Navbar() {
             <Link href="/search" className="text-sm bg-white/10 hover:bg-white/20 px-3 py-1.5 rounded-lg transition-colors">
               Search
             </Link>
+            <span className="hidden lg:inline text-xs text-white/40">Press / to search</span>
           </div>
 
           {/* Mobile toggle */}
@@ -87,14 +156,9 @@ export default function Navbar() {
       {/* Mobile menu */}
       {open && (
         <div className="md:hidden border-t border-white/20 pb-4">
-          {navItems.map(item => (
-            <Link key={item.href} href={item.href} onClick={() => setOpen(false)}
-              className="block px-4 py-2 text-sm hover:bg-white/10">{item.label}</Link>
+          {mobileSections.map(section => (
+            <MobileSection key={section.title} title={section.title} items={section.items} onNavigate={() => setOpen(false)} />
           ))}
-          <Link href="/analysis" onClick={() => setOpen(false)}
-            className="block px-4 py-2 text-sm hover:bg-white/10 font-medium">Analysis</Link>
-          <Link href="/search" onClick={() => setOpen(false)}
-            className="block px-4 py-2 text-sm hover:bg-white/10">Search</Link>
         </div>
       )}
     </nav>

@@ -8,7 +8,11 @@ interface Court { code: string; city: string; state: string; cases: number }
 interface Nationality { code: string; name: string; cases: number }
 interface Judge { code: string; name: string; totalDecisions: number; grantRate: number }
 
-export default function SearchInterface({ courts, nationalities, judges }: { courts: Court[]; nationalities: Nationality[]; judges: Judge[] }) {
+function toSlug(name: string) {
+  return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
+}
+
+export default function SearchInterface({ courts, nationalities, judges, courtSlugs }: { courts: Court[]; nationalities: Nationality[]; judges: Judge[]; courtSlugs: Record<string, string> }) {
   const [query, setQuery] = useState('')
 
   const q = query.toLowerCase().trim()
@@ -35,10 +39,10 @@ export default function SearchInterface({ courts, nationalities, judges }: { cou
           <h3 className="font-heading text-lg font-bold mb-3">🏛️ Courts</h3>
           <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
             {matchedCourts.map(c => (
-              <div key={c.code} className="px-4 py-3 border-b border-gray-100 flex justify-between">
+              <Link key={c.code} href={`/courts/${courtSlugs[c.code] || c.code}`} className="block px-4 py-3 border-b border-gray-100 flex justify-between hover:bg-gray-50 transition-colors">
                 <span className="font-medium">{titleCase(c.city)}, {c.state}</span>
                 <span className="text-gray-500">{c.cases.toLocaleString()} cases</span>
-              </div>
+              </Link>
             ))}
           </div>
         </div>
@@ -49,10 +53,10 @@ export default function SearchInterface({ courts, nationalities, judges }: { cou
           <h3 className="font-heading text-lg font-bold mb-3">🌍 Nationalities</h3>
           <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
             {matchedNats.map(n => (
-              <div key={n.code} className="px-4 py-3 border-b border-gray-100 flex justify-between">
+              <Link key={n.code} href={`/nationalities/${toSlug(n.name)}`} className="block px-4 py-3 border-b border-gray-100 flex justify-between hover:bg-gray-50 transition-colors">
                 <span className="font-medium">{titleCase(n.name)}</span>
                 <span className="text-gray-500">{n.cases.toLocaleString()} cases</span>
-              </div>
+              </Link>
             ))}
           </div>
         </div>
@@ -63,10 +67,10 @@ export default function SearchInterface({ courts, nationalities, judges }: { cou
           <h3 className="font-heading text-lg font-bold mb-3">⚖️ Judges</h3>
           <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
             {matchedJudges.map(j => (
-              <div key={j.code} className="px-4 py-3 border-b border-gray-100 flex justify-between">
+              <Link key={j.code} href={`/judges/${toSlug(j.name)}`} className="block px-4 py-3 border-b border-gray-100 flex justify-between hover:bg-gray-50 transition-colors">
                 <span className="font-medium">{j.name}</span>
                 <span className="text-gray-500">{j.totalDecisions.toLocaleString()} decisions · {j.grantRate}% grant rate</span>
-              </div>
+              </Link>
             ))}
           </div>
         </div>

@@ -4,6 +4,7 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import ShareButtons from '@/components/ShareButtons'
 import RelatedAnalysis from '@/components/RelatedAnalysis'
 import Link from 'next/link'
+import { fmt } from '@/lib/utils'
 import fs from 'fs'
 import path from 'path'
 
@@ -75,7 +76,7 @@ export default function RepresentationGapPage() {
         </p>
         <p>
           Think about what that means in practice: a Guatemalan farmer who speaks Mam (a Mayan language
-          spoken by {languages.find((l: { code: string }) => l.code === 'MAM')?.count.toLocaleString()} people in our data)
+          spoken by {fmt(languages.find((l: { code: string }) => l.code === 'MAM')?.count)} people in our data)
           stands before an immigration judge and argues complex asylum law against a trained ICE trial attorney.
           The proceedings are in English, through an interpreter. The farmer must prove, under a preponderance
           of evidence, that they meet the legal definition of a &quot;refugee&quot; under INA §208.
@@ -123,9 +124,9 @@ export default function RepresentationGapPage() {
         <p>
           <strong>{nonEnglishPct}% of respondents don&apos;t speak English.</strong> They navigate asylum forms,
           evidentiary submissions, and legal arguments through interpreters — if interpreters for their language
-          are even available. For speakers of indigenous languages like Mam ({languages.find((l: { code: string }) => l.code === 'MAM')?.count.toLocaleString()} cases),
-          K&apos;iche&apos; ({languages.find((l: { code: string }) => l.code === 'QUI')?.count.toLocaleString()} cases),
-          or Konjobal ({languages.find((l: { code: string }) => l.code === 'KON')?.count.toLocaleString()} cases),
+          are even available. For speakers of indigenous languages like Mam ({fmt(languages.find((l: { code: string }) => l.code === 'MAM')?.count)} cases),
+          K&apos;iche&apos; ({fmt(languages.find((l: { code: string }) => l.code === 'QUI')?.count)} cases),
+          or Konjobal ({fmt(languages.find((l: { code: string }) => l.code === 'KON')?.count)} cases),
           even finding an interpreter can be impossible.
         </p>
 

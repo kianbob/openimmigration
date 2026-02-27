@@ -4,6 +4,7 @@ import Link from 'next/link'
 import fs from 'fs'
 import path from 'path'
 import { WaitByYearChart, DistributionChart, CourtWaitChart } from './WaitTimeCharts'
+import { fmt } from '@/lib/utils'
 
 function loadData(filename: string) {
   return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', filename), 'utf8'))
@@ -39,6 +40,15 @@ export default function WaitTimesPage() {
     name: courtMap[c.code] ? titleCase(courtMap[c.code].city) + ', ' + courtMap[c.code].state : c.code,
     slug: courtMap[c.code]?.slug,
   }))
+
+  // Disambiguate duplicate court names (e.g. two Chelmsford, MA courts)
+  function disambiguate(arr: { code: string; name: string }[]) {
+    const seen = new Map<string, number>()
+    arr.forEach(c => seen.set(c.name, (seen.get(c.name) || 0) + 1))
+    arr.forEach(c => { if ((seen.get(c.name) || 0) > 1) c.name = `${c.name} (${c.code})` })
+  }
+  disambiguate(slowest)
+  disambiguate(fastest)
 
   const peakYear = data.byYear.reduce((max: { year: number; avgDays: number }, y: { year: number; avgDays: number }) =>
     y.avgDays > max.avgDays ? y : max, data.byYear[0])
@@ -83,7 +93,7 @@ export default function WaitTimesPage() {
             <h3 className="font-bold text-amber-900 mb-2">Key Insights</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-amber-800">
               <div>• <strong>Cases peaked at {(peakYear.avgDays / 365).toFixed(1)} years average in {peakYear.year}</strong> — the backlog drives longer waits</div>
-              <div>• <strong>{fivePlusYears?.count.toLocaleString()} cases ({fivePlusYears?.pct}%) took over 5 years</strong> — people waiting half a decade for resolution</div>
+              <div>• <strong>{fmt(fivePlusYears?.count)} cases ({fivePlusYears?.pct}%) took over 5 years</strong> — people waiting half a decade for resolution</div>
               <div>• <strong>The slowest court averages {(slowest[0]?.avgDays / 365).toFixed(1)} years</strong> ({slowest[0]?.name}) vs {(fastest[0]?.avgDays / 30).toFixed(0)} days at the fastest</div>
               <div>• <strong>Detained cases are much faster</strong> — expedited dockets and pressure to resolve quickly</div>
             </div>

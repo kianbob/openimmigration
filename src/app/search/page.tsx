@@ -20,6 +20,11 @@ export default function SearchPage() {
   const nationalities = loadData('nationalities.json')
   const judges = loadData('judges.json')
   const stats = loadData('stats.json')
+  const courtIndex = loadData('court-index.json')
+
+  // Build court code → slug lookup
+  const courtSlugs: Record<string, string> = {}
+  courtIndex.forEach((c: { code: string; slug: string }) => { courtSlugs[c.code] = c.slug })
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
@@ -30,7 +35,7 @@ export default function SearchPage() {
         Start typing to find courts by city, judges by name, or nationalities by country.
       </p>
 
-      <SearchInterface courts={courts} nationalities={nationalities} judges={judges} />
+      <SearchInterface courts={courts} nationalities={nationalities} judges={judges} courtSlugs={courtSlugs} />
 
       {/* SEO content below */}
       <div className="mt-16 prose prose-lg max-w-none text-gray-600">

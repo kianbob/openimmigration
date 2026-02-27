@@ -17,8 +17,16 @@ const ALL_ARTICLES = [
   { slug: 'border-to-courtroom', title: 'Border to Courtroom', desc: '12M encounters → 1.9M cases.' },
 ]
 
+function hashCode(s: string): number {
+  let h = 0
+  for (let i = 0; i < s.length; i++) h = ((h << 5) - h + s.charCodeAt(i)) | 0
+  return h
+}
+
 export default function RelatedAnalysis({ current, count = 3 }: { current: string; count?: number }) {
-  const related = ALL_ARTICLES.filter(a => a.slug !== current).slice(0, count)
+  const related = ALL_ARTICLES.filter(a => a.slug !== current)
+    .sort((a, b) => hashCode(current + a.slug) - hashCode(current + b.slug))
+    .slice(0, count)
   return (
     <div className="mt-12 border-t border-gray-200 pt-8">
       <h2 className="font-heading text-xl font-bold mb-4">More Analysis</h2>

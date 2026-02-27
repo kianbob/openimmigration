@@ -70,7 +70,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-sm text-gray-500">
-          <p>Data sourced from the Department of Justice Executive Office for Immigration Review (EOIR).</p>
+          <p>Data sourced from the Department of Justice Executive Office for Immigration Review (EOIR). Data current through February 2026.</p>
           <p className="mt-1">A <a href="https://thedataproject.ai" className="text-gray-400 hover:text-white">TheDataProject.ai</a> platform. Open data, no paywalls.</p>
         </div>
       </div>
