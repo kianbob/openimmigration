@@ -13,7 +13,7 @@ const navItems = [
   { label: 'Demographics', href: '/demographics' },
   { label: 'Appeals', href: '/appeals' },
   { label: 'Border', href: '/border' },
-  { label: 'Drugs', href: '/drug-seizures' },
+  { label: 'Compare', href: '/compare' },
 ]
 
 const analysisArticles = [

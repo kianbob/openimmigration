@@ -148,6 +148,9 @@ export default function HomePage() {
             { title: 'TPS Status', desc: '1M+ pending TPS applications. Venezuela (403K), Haiti (331K), Ukraine (143K).', href: '/tps', icon: '🛡️' },
             { title: 'Appeals to the BIA', desc: '1.46M appeals to the Board of Immigration Appeals. 31% dismissed, only 7.2% sustained.', href: '/appeals', icon: '📑' },
             { title: 'Bond Hearings', desc: '1.59M bond hearings. Average bond $11,412. Only 4.3% of requests granted.', href: '/bond', icon: '🔓' },
+            { title: 'Compare Tool', desc: 'Compare up to 5 courts or judges side by side. Grant rates, caseloads, and outcomes at a glance.', href: '/compare', icon: '📊' },
+            { title: 'Statistics', desc: 'All the key numbers in one place. Immigration courts, border, enforcement, legal pathways.', href: '/statistics', icon: '📈' },
+            { title: 'Glossary', desc: `${34} key terms defined — from asylum to voluntary departure. Understand the system.`, href: '/glossary', icon: '📖' },
             { title: 'Search Cases', desc: 'Search and filter immigration court data by court, nationality, year, case type, and more.', href: '/search', icon: '🔍' },
           ].map(card => (
             <Link key={card.href} href={card.href}

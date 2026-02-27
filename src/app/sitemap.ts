@@ -25,6 +25,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/analysis/fentanyl-pipeline', '/analysis/speed-of-justice', '/analysis/bond-system',
     '/analysis/tps-trap', '/analysis/children-in-court', '/analysis/border-to-courtroom',
     '/uscis', '/daca', '/green-card', '/naturalization',
+    '/compare', '/glossary', '/statistics',
   ]
 
   const entries: MetadataRoute.Sitemap = staticPages.map(p => ({

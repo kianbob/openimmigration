@@ -96,6 +96,9 @@ const pages = [
   { path: '/appeals', title: 'Appeals to the Board of Immigration Appeals', desc: '1.46M BIA appeals analyzed — decisions, filers, trends.', date: '2026-02-26' },
   { path: '/timeline', title: 'U.S. Immigration Timeline — 1790 to 2025', desc: 'Key laws and events in U.S. immigration history from the Naturalization Act to today.', date: '2026-02-26' },
   { path: '/downloads', title: 'Download Immigration Data — Free JSON Datasets', desc: '18 free JSON datasets: courts, judges, encounters, drugs, wait times, and more.', date: '2026-02-26' },
+  { path: '/compare', title: 'Compare Immigration Courts & Judges — Side-by-Side', desc: 'Interactive tool to compare up to 5 courts or judges side by side on grant rates, caseloads, and outcomes.', date: '2026-02-26' },
+  { path: '/statistics', title: 'U.S. Immigration Statistics 2026 — Key Numbers & Facts', desc: 'Comprehensive statistics from courts, borders, enforcement, and legal immigration in one place.', date: '2026-02-26' },
+  { path: '/glossary', title: 'Immigration Court Glossary — 34 Key Terms Defined', desc: 'Definitions for asylum, BIA, EOIR, removal proceedings, TPS, and 28 more immigration terms.', date: '2026-02-26' },
 ]
 
 export async function GET() {
