@@ -99,6 +99,25 @@ export default function DACAPage() {
         </p>
       </div>
 
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            515,570 people live and work in the United States under DACA — a program that has been in legal limbo since
+            2017. These aren&apos;t recent arrivals. Most have been in the U.S. for 20+ years. They&apos;re teachers, nurses,
+            engineers, and small business owners. They pay taxes, have mortgages, and are raising American-citizen children.
+            Yet they have no path to permanent status.
+          </p>
+          <p>
+            DACA represents one of the clearest failures of Congress to act on immigration. Five presidents, both parties
+            in control of Congress at various points, and still no legislative solution. The program exists only because
+            of executive action — which means it can be ended by executive action. For half a million people, their ability
+            to live and work in the only country they&apos;ve known depends on which party controls the White House.
+          </p>
+        </div>
+      </section>
+
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/amnesty" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">📜 Amnesty & Legal Pathways</h3>

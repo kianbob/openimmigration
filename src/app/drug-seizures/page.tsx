@@ -230,6 +230,22 @@ export default function DrugSeizuresPage() {
         </p>
       </div>
 
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            Drug seizure data challenges some of the most deeply held assumptions in the border policy debate. The single most important finding: the majority of fentanyl and other hard drugs enter the United States through legal ports of entry — hidden in vehicles, commercial trucks, and cargo — not through the remote desert corridors between them. This distinction has enormous policy implications. Border walls and increased Border Patrol staffing primarily address between-port crossings, while the drug interdiction challenge is fundamentally about scanning technology, intelligence, and inspection capacity at official crossings.
+          </p>
+          <p>
+            The fentanyl crisis is staggering in scale. Over 65,000 pounds seized represents billions of potential lethal doses, and law enforcement estimates that seized drugs are only a fraction of total flow. Fentanyl has replaced heroin almost entirely — visible in the data as heroin seizures collapsed while fentanyl surged — because it&apos;s cheaper to produce, more potent per gram, and dramatically more profitable to smuggle. With approximately 75,000 American overdose deaths involving fentanyl in 2023 alone, this is a public health catastrophe that intersects with but is distinct from immigration policy.
+          </p>
+          <p>
+            Understanding seizure data requires nuance. Rising seizure numbers can mean more drugs are flowing, or that detection is improving, or both. The data also shows that drug trafficking is primarily a cartel operation — the Sinaloa Cartel and CJNG run industrialized supply chains from precursor chemical sourcing to cross-border logistics. Conflating drug smuggling with asylum-seeking migration obscures both problems. The people carrying fentanyl across the border are not the same people presenting themselves to Border Patrol to request asylum. Effective policy requires treating these as the distinct challenges they are.
+          </p>
+        </div>
+      </section>
+
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/border" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">🌎 Border Encounters</h3>
@@ -246,8 +262,9 @@ export default function DrugSeizuresPage() {
       </div>
 
       <p className="text-xs text-gray-400 mt-10">
-        Source: U.S. Customs and Border Protection Drug Seizure Statistics. Data through January 2026.
-        Lethal dose estimates based on DEA figure of 2mg as potentially lethal.
+        Source: U.S. Customs and Border Protection Drug Seizure Statistics. Data current through February 2026.
+        Lethal dose estimates based on DEA figure of 2mg as potentially lethal.{' '}
+        <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
       </p>
     </div>
   )

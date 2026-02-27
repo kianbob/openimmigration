@@ -171,6 +171,26 @@ export default function TPSPage() {
         </p>
       </div>
 
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            Over one million people in the United States live under Temporary Protected Status — a designation that was
+            supposed to be temporary but has become, for many, a decades-long limbo. Salvadorans who received TPS after
+            a 2001 earthquake have been renewing it for 25 years. They own homes, run businesses, and have U.S.-citizen children.
+            Yet they remain &quot;temporary&quot; — unable to get green cards through TPS alone.
+          </p>
+          <p>
+            TPS has become one of the most politically charged immigration programs precisely because it reveals a
+            fundamental tension in U.S. immigration policy: what do you do with people who came legally, built lives,
+            but whose &quot;temporary&quot; status has no permanent resolution? Ending TPS would mean deporting over a million
+            long-term residents — many to countries they haven&apos;t seen in decades. Extending it indefinitely means
+            maintaining a permanent underclass without full rights. Neither option is politically clean.
+          </p>
+        </div>
+      </section>
+
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/asylum" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">🛡️ Asylum</h3>

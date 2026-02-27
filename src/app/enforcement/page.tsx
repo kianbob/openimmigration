@@ -149,6 +149,22 @@ export default function EnforcementPage() {
         </p>
       </div>
 
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            ICE removals are the final step in the immigration enforcement pipeline — the point where a court order becomes a plane ticket out of the country. But the data reveals a stark reality: actual deportations are a fraction of the removal orders issued by immigration courts. This gap between court orders and carried-out removals is the enforcement capacity problem at the heart of the immigration debate. You can order as many deportations as you want; executing them requires agents, detention beds, flights, and cooperation from receiving countries.
+          </p>
+          <p>
+            The dramatic swings in removal numbers — from over 300,000 in peak years to under 60,000 during the FY2021 low — reflect how deeply enforcement is shaped by presidential priorities, not just law. COVID restrictions, prosecutorial discretion policies, sanctuary city dynamics, and budget allocations all determine how many people ICE can actually remove. The FY2025 surge shows what happens when enforcement is prioritized, but even at record levels, removals cover only a small fraction of the estimated 11-14 million unauthorized immigrants living in the United States.
+          </p>
+          <p>
+            For the public, understanding enforcement data is essential to evaluating political promises about immigration. Claims of &quot;mass deportation&quot; must be weighed against the operational reality: ICE has approximately 6,000 enforcement agents covering the entire country, detention facilities hold around 30,000-40,000 people at any time, and each removal costs thousands of dollars. The numbers on this page show what the enforcement machine can actually do — and the enormous gap between rhetoric and reality.
+          </p>
+        </div>
+      </section>
+
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/border" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">🌎 Border Encounters</h3>
@@ -180,7 +196,8 @@ export default function EnforcementPage() {
       </div>
 
       <p className="text-xs text-gray-400 mt-10">
-        Source: ICE Enforcement and Removal Operations (ERO) statistics, DHS OHSS Immigration Enforcement Monthly Tables.
+        Source: ICE Enforcement and Removal Operations (ERO) statistics, DHS OHSS Immigration Enforcement Monthly Tables. Data current through February 2026.{' '}
+        <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
       </p>
     </div>
   )

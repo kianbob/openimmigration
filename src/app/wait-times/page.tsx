@@ -189,6 +189,22 @@ export default function WaitTimesPage() {
         </p>
       </div>
 
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            For the nearly 2 million people with pending immigration cases, the wait <em>is</em> the punishment. An average case takes over a year — and at the slowest courts, people wait nearly three years for a hearing that will decide whether they can stay in the country. During that time, many live in a state of enforced uncertainty: work authorization is limited or temporary, long-term plans feel impossible, and the constant threat of a hearing date looms over every aspect of daily life. For families with children in school, for people building careers, for communities absorbing newcomers, years of legal limbo impose real costs.
+          </p>
+          <p>
+            The variation between courts is striking and consequential. Detained dockets move fastest because the government is paying hundreds of dollars per day to house each detainee — speed is an economic imperative. Non-detained courts in major metros, where the bulk of cases sit, are drowning. Each immigration judge carries roughly 4,000 pending cases, and even scheduling a first hearing can take over a year. The result is a two-tier system: fast justice for those in detention (but with worse access to lawyers), and glacially slow proceedings for everyone else.
+          </p>
+          <p>
+            Wait time data is also central to the due process debate. The Sixth Amendment doesn&apos;t technically apply to immigration proceedings, but the principle that justice delayed is justice denied resonates. People ordered deported after waiting five years have built lives, had children, and become part of communities. People granted asylum after years of waiting lost years they could have spent working, studying, and contributing fully. Whether you believe the system should process more cases or fewer, the current pace serves no one well — not the immigrants waiting, not the government seeking enforcement, and not the public seeking resolution.
+          </p>
+        </div>
+      </section>
+
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/backlog" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">📈 Court Backlog</h3>
