@@ -23,7 +23,7 @@ export default function StatisticsPage() {
   const drugs = loadData('drug-seizures.json')
   const wait = loadData('wait-times.json')
 
-  const fentanyl = drugs.byDrug.find((d: { drug: string }) => d.drug.toLowerCase().includes('fentanyl'))
+  const fentanyl = (drugs.drugTotals || []).find((d: { drug: string }) => d.drug.toLowerCase().includes('fentanyl'))
 
   const sections = [
     {
