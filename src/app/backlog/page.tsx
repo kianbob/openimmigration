@@ -19,10 +19,10 @@ export const metadata: Metadata = {
 export default function BacklogPage() {
   const stats = loadData('stats.json')
   const trends = loadData('yearly-trends.json')
-  const courts = loadData('courts.json')
+  const courts = loadData('court-index.json')
 
-  // Top courts by case volume
-  const topCourts = courts.slice(0, 10)
+  // Top courts by case volume (court-index.json has slugs)
+  const topCourts = courts.sort((a: { cases: number }, b: { cases: number }) => b.cases - a.cases).slice(0, 10)
   const recentTrends = trends.filter((t: { year: number }) => t.year >= 2010 && t.year <= 2025)
 
   return (

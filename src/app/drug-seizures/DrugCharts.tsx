@@ -54,13 +54,13 @@ export function DrugTotalsPie({ data }: { data: { drug: string; lbs: number }[] 
   return (
     <div className="bg-white border border-gray-200 rounded-xl p-6">
       <h3 className="font-heading text-xl font-bold mb-4">Total Seizures by Drug Type</h3>
-      <ResponsiveContainer width="100%" height={350}>
+      <ResponsiveContainer width="100%" height={380}>
         <PieChart>
-          <Pie data={top} dataKey="lbs" nameKey="drug" cx="50%" cy="50%" outerRadius={120}
-            label={({ drug, percent }) => `${drug} ${(percent * 100).toFixed(0)}%`}>
+          <Pie data={top} dataKey="lbs" nameKey="drug" cx="50%" cy="42%" innerRadius={50} outerRadius={100} paddingAngle={2}>
             {top.map((d, i) => <Cell key={i} fill={DRUG_COLORS[d.drug] || COLORS[i]} />)}
           </Pie>
-          <Tooltip formatter={(v: number) => v.toLocaleString() + ' lbs'} />
+          <Tooltip formatter={(v) => Number(v).toLocaleString() + ' lbs'} />
+          <Legend wrapperStyle={{ fontSize: '12px' }} />
         </PieChart>
       </ResponsiveContainer>
     </div>

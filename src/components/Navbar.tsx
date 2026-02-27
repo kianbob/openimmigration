@@ -3,17 +3,46 @@ import Link from 'next/link'
 import { useState, useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 
-const navItems = [
+const courtData = [
   { label: 'Courts', href: '/courts' },
   { label: 'Judges', href: '/judges' },
   { label: 'Nationalities', href: '/nationalities' },
   { label: 'Backlog', href: '/backlog' },
   { label: 'Asylum', href: '/asylum' },
-  { label: 'Dashboard', href: '/dashboard' },
-  { label: 'Demographics', href: '/demographics' },
+  { label: 'Wait Times', href: '/wait-times' },
+  { label: 'Representation', href: '/representation' },
+  { label: 'Bond', href: '/bond' },
   { label: 'Appeals', href: '/appeals' },
-  { label: 'Border', href: '/border' },
+  { label: 'Deportation', href: '/deportation' },
+  { label: 'Demographics', href: '/demographics' },
+  { label: 'Charges', href: '/charges' },
+  { label: 'By State', href: '/states' },
+]
+
+const immigrationData = [
+  { label: 'Border Encounters', href: '/border' },
+  { label: 'ICE Enforcement', href: '/enforcement' },
+  { label: 'Drug Seizures', href: '/drug-seizures' },
+  { label: 'Legal Immigration', href: '/legal-immigration' },
+  { label: 'Visa Overstays', href: '/overstays' },
+  { label: 'TPS', href: '/tps' },
+  { label: 'DACA', href: '/daca' },
+  { label: 'Naturalization', href: '/naturalization' },
+  { label: 'Green Cards', href: '/green-card' },
+  { label: 'Children', href: '/children' },
+  { label: 'USCIS Backlog', href: '/uscis' },
+]
+
+const morePages = [
+  { label: 'Dashboard', href: '/dashboard' },
   { label: 'Compare', href: '/compare' },
+  { label: 'Statistics', href: '/statistics' },
+  { label: 'Glossary', href: '/glossary' },
+  { label: 'Timeline', href: '/timeline' },
+  { label: 'Downloads', href: '/downloads' },
+  { label: 'How It Works', href: '/how-immigration-court-works' },
+  { label: 'FAQ', href: '/faq' },
+  { label: 'About', href: '/about' },
 ]
 
 const analysisArticles = [
@@ -33,37 +62,25 @@ const analysisArticles = [
   { label: 'Detained vs. Released', href: '/analysis/detained-vs-released' },
 ]
 
-const mobileSections = [
-  {
-    title: 'Court Data',
-    items: [
-      { label: 'Courts', href: '/courts' },
-      { label: 'Judges', href: '/judges' },
-      { label: 'Nationalities', href: '/nationalities' },
-      { label: 'Backlog', href: '/backlog' },
-      { label: 'Asylum', href: '/asylum' },
-      { label: 'Wait Times', href: '/wait-times' },
-    ],
-  },
-  {
-    title: 'Immigration Data',
-    items: [
-      { label: 'Border', href: '/border' },
-      { label: 'Drugs', href: '/drug-seizures' },
-      { label: 'Enforcement', href: '/enforcement' },
-      { label: 'Demographics', href: '/demographics' },
-      { label: 'Appeals', href: '/appeals' },
-    ],
-  },
-  {
-    title: 'More',
-    items: [
-      { label: 'Dashboard', href: '/dashboard' },
-      { label: 'Analysis', href: '/analysis' },
-      { label: 'Search', href: '/search' },
-    ],
-  },
-]
+function DesktopDropdown({ label, items, wide }: { label: string; items: { label: string; href: string }[]; wide?: boolean }) {
+  const [open, setOpen] = useState(false)
+  return (
+    <div className="relative" onMouseEnter={() => setOpen(true)} onMouseLeave={() => setOpen(false)}>
+      <button className="text-sm font-medium hover:text-blue-200 transition-colors">
+        {label} ▾
+      </button>
+      {open && (
+        <div className={`absolute top-full left-0 mt-1 bg-white text-gray-800 rounded-xl shadow-xl border border-gray-200 py-2 z-50 ${wide ? 'w-64' : 'w-52'}`}>
+          {items.map(a => (
+            <Link key={a.href} href={a.href} className="block px-4 py-2 text-sm hover:bg-gray-50 hover:text-primary transition-colors">
+              {a.label}
+            </Link>
+          ))}
+        </div>
+      )}
+    </div>
+  )
+}
 
 function MobileSection({ title, items, onNavigate }: { title: string; items: { label: string; href: string }[]; onNavigate: () => void }) {
   const [expanded, setExpanded] = useState(false)
@@ -71,16 +88,16 @@ function MobileSection({ title, items, onNavigate }: { title: string; items: { l
     <div>
       <button
         onClick={() => setExpanded(!expanded)}
-        className="w-full flex items-center justify-between px-4 py-2 text-sm font-semibold text-white/80 hover:bg-white/10"
+        className="w-full flex items-center justify-between px-4 py-2.5 text-sm font-semibold text-white/90 hover:bg-white/10"
       >
         {title}
         <span className="text-xs">{expanded ? '▲' : '▼'}</span>
       </button>
       {expanded && (
-        <div className="pl-4">
+        <div className="bg-white/5">
           {items.map(item => (
             <Link key={item.href} href={item.href} onClick={onNavigate}
-              className="block px-4 py-2 text-sm hover:bg-white/10">{item.label}</Link>
+              className="block px-8 py-2 text-sm text-white/80 hover:bg-white/10 hover:text-white">{item.label}</Link>
           ))}
         </div>
       )}
@@ -90,7 +107,6 @@ function MobileSection({ title, items, onNavigate }: { title: string; items: { l
 
 export default function Navbar() {
   const [open, setOpen] = useState(false)
-  const [analysisOpen, setAnalysisOpen] = useState(false)
   const router = useRouter()
 
   useEffect(() => {
@@ -116,30 +132,23 @@ export default function Navbar() {
           </Link>
 
           {/* Desktop */}
-          <div className="hidden md:flex items-center gap-6">
-            {navItems.map(item => (
-              <Link key={item.href} href={item.href} className="text-sm font-medium hover:text-blue-200 transition-colors">
-                {item.label}
-              </Link>
-            ))}
-            <div className="relative" onMouseEnter={() => setAnalysisOpen(true)} onMouseLeave={() => setAnalysisOpen(false)}>
-              <Link href="/analysis" className="text-sm font-medium hover:text-blue-200 transition-colors">
-                Analysis ▾
-              </Link>
-              {analysisOpen && (
-                <div className="absolute top-full left-0 mt-1 bg-white text-gray-800 rounded-xl shadow-xl border border-gray-200 py-2 w-56 z-50">
-                  {analysisArticles.map(a => (
-                    <Link key={a.href} href={a.href} className="block px-4 py-2 text-sm hover:bg-gray-50 hover:text-primary transition-colors">
-                      {a.label}
-                    </Link>
-                  ))}
-                </div>
-              )}
-            </div>
+          <div className="hidden lg:flex items-center gap-5">
+            <Link href="/dashboard" className="text-sm font-medium hover:text-blue-200 transition-colors">Dashboard</Link>
+            <DesktopDropdown label="Court Data" items={courtData} />
+            <DesktopDropdown label="Immigration" items={immigrationData} />
+            <DesktopDropdown label="Analysis" items={analysisArticles} wide />
+            <DesktopDropdown label="More" items={morePages} />
             <Link href="/search" className="text-sm bg-white/10 hover:bg-white/20 px-3 py-1.5 rounded-lg transition-colors">
-              Search
+              🔍 Search
             </Link>
-            <span className="hidden lg:inline text-xs text-white/40">Press / to search</span>
+          </div>
+
+          {/* Tablet */}
+          <div className="hidden md:flex lg:hidden items-center gap-4">
+            <Link href="/dashboard" className="text-sm font-medium hover:text-blue-200">Dashboard</Link>
+            <DesktopDropdown label="Data ▾" items={[...courtData.slice(0, 6), ...immigrationData.slice(0, 4)]} />
+            <DesktopDropdown label="Analysis ▾" items={analysisArticles.slice(0, 8)} />
+            <Link href="/search" className="text-sm bg-white/10 hover:bg-white/20 px-3 py-1.5 rounded-lg">🔍</Link>
           </div>
 
           {/* Mobile toggle */}
@@ -155,10 +164,13 @@ export default function Navbar() {
 
       {/* Mobile menu */}
       {open && (
-        <div className="md:hidden border-t border-white/20 pb-4">
-          {mobileSections.map(section => (
-            <MobileSection key={section.title} title={section.title} items={section.items} onNavigate={() => setOpen(false)} />
-          ))}
+        <div className="lg:hidden border-t border-white/20 pb-4 max-h-[80vh] overflow-y-auto">
+          <Link href="/dashboard" onClick={() => setOpen(false)} className="block px-4 py-2.5 text-sm font-semibold hover:bg-white/10">Dashboard</Link>
+          <MobileSection title="Court Data" items={courtData} onNavigate={() => setOpen(false)} />
+          <MobileSection title="Immigration Data" items={immigrationData} onNavigate={() => setOpen(false)} />
+          <MobileSection title="Analysis (14)" items={analysisArticles} onNavigate={() => setOpen(false)} />
+          <MobileSection title="More" items={morePages} onNavigate={() => setOpen(false)} />
+          <Link href="/search" onClick={() => setOpen(false)} className="block px-4 py-2.5 text-sm font-semibold hover:bg-white/10">🔍 Search</Link>
         </div>
       )}
     </nav>
