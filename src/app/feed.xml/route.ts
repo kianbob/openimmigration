@@ -99,6 +99,7 @@ const pages = [
   { path: '/compare', title: 'Compare Immigration Courts & Judges — Side-by-Side', desc: 'Interactive tool to compare up to 5 courts or judges side by side on grant rates, caseloads, and outcomes.', date: '2026-02-26' },
   { path: '/statistics', title: 'U.S. Immigration Statistics 2026 — Key Numbers & Facts', desc: 'Comprehensive statistics from courts, borders, enforcement, and legal immigration in one place.', date: '2026-02-26' },
   { path: '/glossary', title: 'Immigration Court Glossary — 34 Key Terms Defined', desc: 'Definitions for asylum, BIA, EOIR, removal proceedings, TPS, and 28 more immigration terms.', date: '2026-02-26' },
+  { path: '/h1b', title: 'H-1B Visa Statistics — Cap, Employers & Approval Rates', desc: '85K annual cap, ~780K active holders. Top employers, countries of origin, and approval trends.', date: '2026-02-26' },
 ]
 
 export async function GET() {

@@ -189,6 +189,7 @@ export default function HomePage() {
             { title: 'DACA', desc: '515K active recipients. Program status and demographics.', href: '/daca' },
             { title: 'Green Cards', desc: 'Green card issuance by category and country.', href: '/green-card' },
             { title: 'Naturalization', desc: 'Path to citizenship — trends and processing data.', href: '/naturalization' },
+            { title: 'H-1B Visa Data', desc: '85K annual cap, ~780K active holders. Top employers and countries.', href: '/h1b' },
           ].map(c => (
             <Link key={c.href} href={c.href} className="bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md hover:border-primary/30 transition-all group">
               <h4 className="font-bold group-hover:text-primary transition-colors">{c.title}</h4>
