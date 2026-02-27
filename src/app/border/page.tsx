@@ -181,6 +181,22 @@ export default function BorderPage() {
         </p>
       </div>
 
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            Over 12 million border encounters since FY2020 represent the largest sustained migration wave in U.S. history — but the numbers are far more complex than headlines suggest. &quot;Encounters&quot; are not the same as &quot;immigrants.&quot; The same person crossing multiple times counts multiple times. During the Title 42 era (2020-2023), rapid expulsions created a revolving door where people were expelled and tried again, inflating encounter totals far beyond the number of unique individuals. Understanding this distinction is critical to having an honest policy conversation.
+          </p>
+          <p>
+            The composition of migration has also shifted dramatically. Once dominated by Mexican nationals making economic crossings, the flow now includes families and individuals from Venezuela, Cuba, Nicaragua, Haiti, China, India, and dozens of other countries — many fleeing political crises, economic collapse, or violence. This shift matters because asylum seekers have different legal rights than economic migrants, and the system&apos;s capacity to process complex asylum claims at scale has been overwhelmed.
+          </p>
+          <p>
+            Border encounter data is the starting point for nearly every immigration policy debate. Hawks point to record numbers as evidence of a crisis demanding tougher enforcement. Advocates note that many encounters are asylum seekers exercising legal rights, and that the sharp decline in FY2025-2026 shows that policy changes — not just walls — drive the numbers. The data itself is neutral, but how it&apos;s framed shapes public perception and policy. Our goal is to present it clearly so you can draw your own conclusions.
+          </p>
+        </div>
+      </section>
+
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/enforcement" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">🚨 ICE Enforcement</h3>
@@ -212,8 +228,9 @@ export default function BorderPage() {
       </div>
 
       <p className="text-xs text-gray-400 mt-10">
-        Source: U.S. Customs and Border Protection Public Data Portal. Data through January 2026.
-        Fiscal years run October 1 to September 30.
+        Source: U.S. Customs and Border Protection Public Data Portal. Data current through February 2026.
+        Fiscal years run October 1 to September 30.{' '}
+        <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
       </p>
     </div>
   )

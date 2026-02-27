@@ -155,6 +155,22 @@ export default function AsylumPage() {
         </div>
       </section>
 
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            Asylum is a legal right enshrined in both U.S. law and international treaties. It exists to protect people fleeing persecution — those who face imprisonment, torture, or death because of who they are or what they believe. Yet the data reveals a troubling reality: whether an asylum seeker receives protection depends less on the merits of their case than on which court hears it and which judge is assigned. Some judges grant asylum in over 90% of cases; others deny it over 90% of the time. This isn&apos;t justice — it&apos;s a lottery.
+          </p>
+          <p>
+            The geographic and judicial variation in asylum outcomes raises fundamental due process concerns. A Salvadoran fleeing gang violence has dramatically different odds depending on whether their case lands in New York or Houston. Legal representation compounds this disparity: asylum seekers with attorneys are far more likely to win their cases, but the majority go unrepresented — particularly those in detention, where access to lawyers is severely limited.
+          </p>
+          <p>
+            These numbers also sit at the center of the broader border policy debate. Critics argue that low grant rates prove most claims are not genuine. Advocates counter that the system is stacked against applicants who lack counsel, face language barriers, and must navigate complex legal standards without help. The data doesn&apos;t resolve this debate, but it does make clear that the current system produces wildly inconsistent outcomes — and that inconsistency should concern everyone regardless of where they stand politically.
+          </p>
+        </div>
+      </section>
+
       {/* FAQ Schema */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{
         __html: JSON.stringify({

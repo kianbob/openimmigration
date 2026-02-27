@@ -177,6 +177,30 @@ export default function AppealsPage() {
         </p>
       </div>
 
+      
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            The Board of Immigration Appeals is the last internal check on immigration judge decisions — and for most
+            people, it&apos;s functionally the last check period. While federal circuit courts can review BIA decisions,
+            the standard of review is so deferential that most petitions fail. The BIA is where immigration justice is
+            finalized for 1.46 million people.
+          </p>
+          <p>
+            The numbers tell a troubling story: 31% of appeals are dismissed on procedural grounds — meaning the merits
+            are never considered. Only 7.2% result in the original decision being overturned. For respondents who lost
+            before an immigration judge, the appeal process offers more false hope than real relief.
+          </p>
+          <p>
+            This matters because immigration judges operate with enormous discretion and minimal oversight. When the
+            appellate body reverses only 7% of decisions, it raises questions about whether the system has adequate
+            quality control — or whether the BIA functions more as a rubber stamp than a meaningful check on judicial power.
+          </p>
+        </div>
+      </section>
+
       {/* Cross-links */}
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/analysis/judge-variation" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">

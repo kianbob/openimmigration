@@ -44,6 +44,22 @@ export default function NationalitiesPage() {
 
       <NationalitiesTable nationalities={nationalities} />
 
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            Country of origin is one of the strongest predictors of what happens in immigration court — shaping everything from the likelihood of having a lawyer to asylum grant rates to how long a case takes. Some nationalities face near-certain denial: their claims may be legitimate, but the prevailing interpretation of country conditions works against them. Others benefit from well-documented human rights crises that make their cases easier to prove. The data makes clear that nationality functions as an invisible hand on the scales of justice.
+          </p>
+          <p>
+            These patterns reflect the intersection of U.S. foreign policy, country conditions, and access to legal resources. Nationals from countries with large diaspora communities in the U.S. — like Mexico, Guatemala, and Honduras — often have better access to immigration attorneys and community organizations. Meanwhile, people from smaller or more distant countries may find themselves isolated, unable to afford counsel, and unfamiliar with a legal system conducted in a language they don&apos;t speak. The concentration of cases among a handful of nationalities also reveals which global crises drive migration to the U.S.
+          </p>
+          <p>
+            For anyone trying to understand immigration policy, nationality data is essential context. It shows which populations the system is actually processing, how outcomes differ across communities, and where the gaps in legal representation are widest. It&apos;s also a mirror for U.S. foreign policy: the countries that generate the most immigration cases are often the same ones affected by U.S. trade agreements, drug enforcement policies, and diplomatic relationships.
+          </p>
+        </div>
+      </section>
+
       <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-4">
         <Link href="/analysis/asylum-by-nationality" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">🌍 Asylum by Nationality Analysis</h3>
@@ -55,7 +71,10 @@ export default function NationalitiesPage() {
         </Link>
       </div>
 
-      <p className="text-sm text-gray-500 mt-6 text-center">Data source: {stats.dataSource}</p>
+      <p className="text-xs text-gray-400 mt-8">
+        Source: Department of Justice, Executive Office for Immigration Review (EOIR). Data current through February 2026.{' '}
+        <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
+      </p>
     </div>
   )
 }

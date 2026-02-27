@@ -161,6 +161,30 @@ export default function BondPage() {
           but because they have more resources to fight them.
         </p>
       </div>
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            Bond in immigration court determines whether someone waits for their hearing in detention or in freedom.
+            With an average bond of $11,412 and a median of $7,500, the system effectively creates a two-tier justice
+            system: those who can afford bond get released and have dramatically better outcomes, while those who
+            can&apos;t remain detained and face their hearings under worse conditions.
+          </p>
+          <p>
+            The 4.3% grant rate is striking — it means that of 1.59 million bond hearings, only a small fraction result
+            in release. Many detained immigrants remain locked up for months or years while their cases work through the
+            backlog. Studies consistently show that detained respondents are less likely to find lawyers, less able to
+            gather evidence, and more likely to accept deportation simply to end their detention.
+          </p>
+          <p>
+            Unlike criminal bail, immigration bond has no Eighth Amendment protection against excessive amounts. A judge
+            can set bond at any amount, and there&apos;s no public defender to argue it&apos;s unaffordable. The bond system
+            is one of the clearest examples of how wealth determines outcomes in immigration court.
+          </p>
+        </div>
+      </section>
+
 
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/analysis/detained-vs-released" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">

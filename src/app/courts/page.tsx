@@ -58,6 +58,22 @@ export default function CourtsPage() {
 
       <CourtsTable courts={courts} />
 
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            The United States operates 88 immigration courts, and the data reveals an uncomfortable truth: where your case is heard can determine your fate. Grant rates vary enormously — from courts that approve relief in roughly one in five cases to courts where fewer than one in a hundred receive protection. These aren&apos;t different legal systems; they&apos;re the same laws applied by different judges in different cities, producing radically different results.
+          </p>
+          <p>
+            This geographic lottery has real consequences. Immigrants don&apos;t choose which court hears their case — it&apos;s determined by where they live or where they&apos;re detained. A family fleeing violence might face near-certain denial in one court and have a reasonable chance of protection in another, simply based on geography. This variation reflects differences in local legal culture, judicial philosophy, the availability of pro bono attorneys, and caseload pressures that force some courts to rush through proceedings.
+          </p>
+          <p>
+            For policymakers, this data raises serious questions about judicial independence and consistency in immigration law. Unlike federal courts, immigration judges are employees of the Department of Justice — part of the executive branch, not the judiciary. They face performance quotas, political pressure, and enormous caseloads. Understanding how each court operates is the first step toward a system that delivers more consistent, fair outcomes regardless of zip code.
+          </p>
+        </div>
+      </section>
+
       <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-4">
         <Link href="/analysis/geographic-lottery" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">📍 Geographic Lottery Analysis</h3>
@@ -69,7 +85,10 @@ export default function CourtsPage() {
         </Link>
       </div>
 
-      <p className="text-sm text-gray-500 mt-6 text-center">Data source: {stats.dataSource}</p>
+      <p className="text-xs text-gray-400 mt-8">
+        Source: Department of Justice, Executive Office for Immigration Review (EOIR). Data current through February 2026.{' '}
+        <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
+      </p>
     </div>
   )
 }

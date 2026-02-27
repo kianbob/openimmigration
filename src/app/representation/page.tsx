@@ -199,6 +199,31 @@ export default function RepresentationPage() {
         </Link>
       </div>
 
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            Immigration court is the only U.S. legal system where people face government attorneys without a right to
+            a lawyer. ICE has trained prosecutors in every courtroom. Respondents — including children, trauma survivors,
+            and people who don&apos;t speak English — are expected to navigate complex legal proceedings alone. Only 26.7%
+            manage to find representation.
+          </p>
+          <p>
+            The impact is not subtle. Represented respondents win their cases at roughly 5x the rate of unrepresented
+            ones. For asylum cases, the gap is even wider. A lawyer doesn&apos;t just improve odds — they often determine
+            whether a valid legal claim is ever articulated. Many people with legitimate grounds for relief are deported
+            simply because they didn&apos;t know the right legal arguments to make.
+          </p>
+          <p>
+            This isn&apos;t just a fairness issue — it&apos;s an efficiency issue. Unrepresented respondents need more hearings,
+            file more motions incorrectly, miss more deadlines, and are more likely to receive in absentia orders. The
+            representation gap is one of the primary drivers of the court backlog. Investing in legal representation
+            would likely reduce the backlog more than hiring additional judges.
+          </p>
+        </div>
+      </section>
+
       {/* Related Analysis */}
       <div className="mt-8 mb-6">
         <h3 className="font-heading text-lg font-bold mb-3">📖 Related Analysis</h3>

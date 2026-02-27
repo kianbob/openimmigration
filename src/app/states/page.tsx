@@ -73,6 +73,25 @@ export default function StatesPage() {
         </table>
       </div>
 
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            Immigration court caseloads are not distributed evenly across the country. A handful of states — California,
+            Texas, New York, and Florida — handle the vast majority of cases. This concentration means immigration policy
+            plays out very differently depending on where you live. A state with overwhelmed courts means longer waits,
+            larger backlogs, and more pressure on judges to move cases quickly.
+          </p>
+          <p>
+            State-level data also reveals the &quot;geographic lottery&quot; at work. Grant rates, representation rates, and case
+            durations vary enormously by state — driven by differences in court culture, available legal aid, judge
+            composition, and the nationalities of respondents assigned to each court. Understanding these state-level
+            patterns is essential for anyone trying to understand how immigration law is actually applied in practice.
+          </p>
+        </div>
+      </section>
+
       <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-4">
         <Link href="/analysis/geographic-lottery" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">📍 Geographic Lottery Analysis</h3>
@@ -86,6 +105,11 @@ export default function StatesPage() {
 
       <p className="text-sm text-gray-500 mt-6 text-center">
         Data source: {stats.dataSource}
+      </p>
+
+      <p className="text-xs text-gray-400 mt-8">
+        Source: Department of Justice, Executive Office for Immigration Review (EOIR). Data current through February 2026.{' '}
+        <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
       </p>
     </div>
   )

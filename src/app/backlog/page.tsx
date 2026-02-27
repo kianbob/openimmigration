@@ -141,6 +141,22 @@ export default function BacklogPage() {
         })
       }} />
 
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            The immigration court backlog is the central crisis of the U.S. immigration system. With nearly 2 million cases pending, people wait years — sometimes over five years — for a hearing that will determine whether they can stay in the country or face deportation. During that wait, families live in legal limbo: unable to fully work, plan for the future, or know whether the life they&apos;re building will be allowed to continue.
+          </p>
+          <p>
+            The backlog didn&apos;t appear overnight. It&apos;s the result of decades of underfunding, chronic understaffing of immigration judges, and policy whiplash between administrations. Each new president reshuffles enforcement priorities, often restarting cases or changing who gets prosecuted. Meanwhile, the number of judges has never come close to matching the volume of new filings. The result is a system where justice delayed has become justice denied — for both those seeking protection and the government seeking to enforce the law.
+          </p>
+          <p>
+            Understanding the backlog is essential to understanding every other immigration statistic on this site. Wait times, asylum grant rates, deportation orders, in absentia rulings — all of them are shaped by a court system that is processing cases at a fraction of the speed they arrive. Any serious immigration reform, regardless of political orientation, must grapple with this structural crisis.
+          </p>
+        </div>
+      </section>
+
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-8">
         <Link href="/analysis/backlog-crisis" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">📈 Full Backlog Analysis</h3>

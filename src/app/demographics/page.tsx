@@ -171,6 +171,22 @@ export default function DemographicsPage() {
         </div>
       </div>
 
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            The demographics of immigration court reveal who the system actually processes — and the structural barriers they face. With over 90% of respondents speaking a language other than English, the immigration court system is fundamentally a multilingual operation. Every hearing requires interpretation, every document needs translation, and every miscommunication can mean the difference between protection and deportation. For speakers of indigenous languages like Mam, K&apos;iche&apos;, and Kanjobal, qualified interpreters are so scarce that due process itself is at risk.
+          </p>
+          <p>
+            The gender breakdown — roughly 59% male, 40% female — reflects migration patterns shaped by economic pressures, violence, and family dynamics. Women in immigration proceedings often face unique challenges: gender-based asylum claims (domestic violence, trafficking) are legally complex and require specialized legal knowledge that most unrepresented respondents cannot access. The custody data adds another dimension: the majority of people in immigration proceedings were never detained, meaning they live in communities across the country while their cases slowly move through the backlog.
+          </p>
+          <p>
+            These demographics aren&apos;t just statistics — they&apos;re the foundation for understanding every other data point on this site. Grant rates, representation gaps, wait times, and deportation outcomes all vary dramatically by gender, language, and custody status. A detained Spanish-speaking man faces a fundamentally different system than a non-detained Mandarin-speaking woman. Understanding who is in the system is the first step toward understanding how the system treats them.
+          </p>
+        </div>
+      </section>
+
       {/* Related */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/analysis/representation-gap" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">

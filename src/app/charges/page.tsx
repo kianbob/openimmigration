@@ -91,6 +91,25 @@ export default function ChargesPage() {
           </div>
         </div>
       </div>
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            The charges filed against someone in immigration court determine what relief they can seek and how their case
+            will proceed. Most people assume immigration cases are about &quot;illegal entry,&quot; but the data shows a far more
+            complex picture — with charges ranging from visa overstays to failure to maintain status to criminal-based
+            grounds of removability.
+          </p>
+          <p>
+            Understanding charge patterns matters because different charges carry different consequences. Some charges
+            bar asylum eligibility entirely. Others allow for cancellation of removal if the person has been in the U.S.
+            long enough. The charge on a Notice to Appear (NTA) isn&apos;t just a technicality — it&apos;s often the single
+            most important factor determining what options a person has in court.
+          </p>
+        </div>
+      </section>
+
 
       <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-4">
         <Link href="/analysis/deportation-machine" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
@@ -104,6 +123,11 @@ export default function ChargesPage() {
       </div>
 
       <p className="text-sm text-gray-500 mt-8 text-center">Data source: {stats.dataSource}</p>
+
+      <p className="text-xs text-gray-400 mt-8">
+        Source: Department of Justice, Executive Office for Immigration Review (EOIR). Data current through February 2026.{' '}
+        <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
+      </p>
     </div>
   )
 }

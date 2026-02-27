@@ -119,6 +119,22 @@ export default function DeportationPage() {
         </p>
       </div>
 
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            Deportation is the most consequential outcome of the immigration court system — a removal order means forced departure from the United States, often with a multi-year or permanent bar on returning. Yet the gap between removal orders issued and actual deportations carried out is enormous. Courts have issued over 628,000 removal orders, but ICE can only physically remove people it can locate, detain, and transport. Many people with final removal orders remain in the U.S. for years, living in the shadows of an order that may or may not ever be enforced.
+          </p>
+          <p>
+            The in absentia numbers are particularly striking. Hundreds of thousands of deportation orders were issued to people who didn&apos;t appear for their hearings. Some never received proper notice. Others moved and lost track of their court dates in a system with years-long delays. Some chose not to appear. Regardless of the reason, an in absentia order carries the same legal weight as one issued after a full hearing — even though the person never had a chance to present their case.
+          </p>
+          <p>
+            Understanding deportation data requires looking beyond the raw numbers. Voluntary departure — where someone agrees to leave on their own — is legally distinct from a removal order and doesn&apos;t carry the same reentry penalties. The balance between these outcomes reflects shifting enforcement priorities across administrations, available ICE resources, detention capacity, and the complex reality that mass deportation at scale has always been more political promise than operational reality.
+          </p>
+        </div>
+      </section>
+
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <Link href="/analysis/deportation-machine" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">📊 The Deportation Machine in 2025</h3>

@@ -127,6 +127,31 @@ export default function ChildrenPage() {
           </div>
         </div>
       </div>
+      {/* Why This Data Matters */}
+      <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
+        <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
+          <p>
+            Children in immigration court represent the most vulnerable people in the entire system. Many fled violence,
+            trafficking, or extreme poverty. They arrive alone, are placed with sponsors they may barely know, and are
+            then summoned to appear before a federal judge to argue for their right to stay — often without a lawyer,
+            sometimes without an interpreter for their indigenous language.
+          </p>
+          <p>
+            The stakes for children are uniquely high. A deportation order for a 7-year-old means returning them to the
+            exact conditions they fled. For children who qualify for Special Immigrant Juvenile Status (SIJS) — those
+            who have been abused, neglected, or abandoned — the processing backlog means many &quot;age out&quot; at 21 and
+            lose eligibility before their cases are heard. The system designed to protect them fails because it moves
+            too slowly.
+          </p>
+          <p>
+            Every data point here represents a child. The numbers on this page aren&apos;t abstract statistics — they&apos;re
+            the footprint of a system that treats its youngest and most vulnerable participants the same as adults,
+            with the same legal standards, the same consequences, and far fewer protections.
+          </p>
+        </div>
+      </section>
+
 
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/analysis/representation-gap" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
