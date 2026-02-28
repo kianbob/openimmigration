@@ -69,14 +69,14 @@ export default function Footer() {
               <li><a href="https://www.openlobby.us" className="hover:text-white transition-colors">OpenLobby</a></li>
               <li><a href="https://www.vaccinewatch.org" className="hover:text-white transition-colors">VaccineWatch</a></li>
               <li><a href="https://www.opensubsidies.org" className="hover:text-white transition-colors">OpenSubsidies</a></li>
-              <li><a href="https://thedataproject.ai" className="hover:text-white transition-colors">TheDataProject.ai</a></li>
+            <li><a href="https://openprescriber.vercel.app" className="hover:text-white">OpenPrescriber</a></li>              <li><a href="https://thedataproject.ai" className="hover:text-white transition-colors">TheDataProject.ai</a></li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-sm text-gray-500">
           <p>Data sourced from the Department of Justice Executive Office for Immigration Review (EOIR). Data current through February 2026.</p>
-          <p className="mt-1">A <a href="https://thedataproject.ai" className="text-gray-400 hover:text-white">TheDataProject.ai</a> platform. Open data, no paywalls.</p>
+            <li><a href="https://openprescriber.vercel.app" className="hover:text-white">OpenPrescriber</a></li>          <p className="mt-1">A <a href="https://thedataproject.ai" className="text-gray-400 hover:text-white">TheDataProject.ai</a> platform. Open data, no paywalls.</p>
         </div>
       </div>
     </footer>
