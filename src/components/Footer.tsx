@@ -69,6 +69,7 @@ export default function Footer() {
               <li><a href="https://www.openlobby.us" className="hover:text-white transition-colors">OpenLobby</a></li>
               <li><a href="https://www.vaccinewatch.org" className="hover:text-white transition-colors">VaccineWatch</a></li>
               <li><a href="https://www.opensubsidies.org" className="hover:text-white transition-colors">OpenSubsidies</a></li>
+              <li><a href="https://www.warcosts.org" className="hover:text-white transition-colors">WarCosts</a></li>
               <li><a href="https://thedataproject.ai" className="hover:text-white transition-colors">TheDataProject.ai</a></li>
             </ul>
           </div>
