@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h3 className="font-heading text-white text-lg font-bold mb-3">OpenImmigration</h3>
-            <p className="text-sm text-gray-400">Exploring U.S. immigration court data with transparency. Built from official DOJ EOIR records.</p>
+            <li><a href="https://www.opencrime.us" className="hover:text-white">OpenCrime</a></li>            <p className="text-sm text-gray-400">Exploring U.S. immigration court data with transparency. Built from official DOJ EOIR records.</p>
           </div>
 
           <div>
