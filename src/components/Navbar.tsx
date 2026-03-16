@@ -35,6 +35,7 @@ const immigrationData = [
 ]
 
 const morePages = [
+  { label: 'Interactive Tools', href: '/tools' },
   { label: 'Dashboard', href: '/dashboard' },
   { label: 'Compare', href: '/compare' },
   { label: 'Statistics', href: '/statistics' },

@@ -28,6 +28,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/uscis', '/daca', '/green-card', '/naturalization',
     '/compare', '/compare/courts', '/glossary', '/statistics', '/h1b',
     '/rankings/toughest-courts', '/rankings/toughest-judges',
+    '/tools', '/tools/visa-finder', '/tools/wait-time-calculator',
+    '/tools/immigration-cost-calculator', '/tools/judge-lookup', '/tools/compare-countries',
     '/rankings/fastest-courts', '/rankings/most-backlogged',
   ]
 

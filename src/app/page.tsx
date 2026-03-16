@@ -2,6 +2,7 @@ import Link from 'next/link'
 import fs from 'fs'
 import path from 'path'
 import { titleCase } from '@/lib/utils'
+import NewsletterForm from '@/components/NewsletterForm'
 
 function loadData(filename: string) {
   return JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'data', filename), 'utf8'))
@@ -54,6 +55,9 @@ export default function HomePage() {
             <Link href="/dashboard" className="bg-white text-primary font-semibold px-6 py-3 rounded-xl hover:bg-blue-50 transition-colors shadow-lg">
               Explore Dashboard
             </Link>
+            <Link href="/tools" className="bg-white text-primary font-semibold px-6 py-3 rounded-xl hover:bg-blue-50 transition-colors shadow-lg">
+              Interactive Tools
+            </Link>
             <Link href="/backlog" className="bg-white/10 border border-white/30 px-6 py-3 rounded-xl hover:bg-white/20 transition-colors">
               Court Backlog
             </Link>
@@ -64,9 +68,20 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Key Numbers */}
+      {/* Live Counter + Key Stats Dashboard */}
       <section className="max-w-7xl mx-auto px-4 py-12">
-        <h2 className="font-heading text-3xl font-bold text-center mb-8">By the Numbers</h2>
+        {/* Live pending counter */}
+        <div className="bg-red-50 border border-red-200 rounded-2xl p-6 mb-8 text-center">
+          <div className="text-sm text-red-600 font-semibold uppercase tracking-wide mb-1">Cases Pending in Immigration Courts</div>
+          <div className="font-heading text-5xl md:text-6xl font-bold text-red-700">
+            {(stats.pendingCases / 1e6).toFixed(2)} million
+          </div>
+          <p className="text-sm text-red-500 mt-2">
+            Each case is a person waiting for their day in court. The average wait: over a year.
+          </p>
+        </div>
+
+        <h2 className="font-heading text-3xl font-bold text-center mb-8">Key Stats Dashboard</h2>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
             <div className="text-3xl font-bold text-primary">{(stats.totalCases / 1e6).toFixed(1)}M</div>
@@ -74,7 +89,19 @@ export default function HomePage() {
           </div>
           <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
             <div className="text-3xl font-bold text-primary">{(stats.pendingCases / 1e6).toFixed(1)}M</div>
-            <div className="text-sm text-gray-600">Pending Cases</div>
+            <div className="text-sm text-gray-600">Court Backlog</div>
+          </div>
+          <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
+            <div className="text-3xl font-bold text-primary">397 days</div>
+            <div className="text-sm text-gray-600">Avg Wait Time</div>
+          </div>
+          <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
+            <div className="text-3xl font-bold text-primary">{((stats.asylumGranted / (stats.asylumGranted + stats.asylumDenied)) * 100).toFixed(0)}%</div>
+            <div className="text-sm text-gray-600">Asylum Grant Rate</div>
+          </div>
+          <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
+            <div className="text-3xl font-bold text-primary">12M+</div>
+            <div className="text-sm text-gray-600">Border Encounters (FY20–25)</div>
           </div>
           <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
             <div className="text-3xl font-bold text-primary">{stats.totalJudges.toLocaleString()}</div>
@@ -84,11 +111,102 @@ export default function HomePage() {
             <div className="text-3xl font-bold text-primary">{stats.totalCourts}</div>
             <div className="text-sm text-gray-600">Immigration Courts</div>
           </div>
+          <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
+            <div className="text-3xl font-bold text-primary">{stats.representationRate}%</div>
+            <div className="text-sm text-gray-600">Have a Lawyer</div>
+          </div>
+        </div>
+      </section>
+
+      {/* Featured Analysis */}
+      <section className="bg-gray-50 py-16 px-4">
+        <div className="max-w-7xl mx-auto">
+          <h2 className="font-heading text-3xl font-bold text-center mb-2">Featured Analysis</h2>
+          <p className="text-center text-gray-500 mb-10">Deep dives into the data that matters most</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {[
+              { title: 'The Backlog Crisis', desc: `How the immigration court backlog grew to ${(stats.pendingCases / 1e6).toFixed(1)} million cases — and why it keeps growing despite more judges.`, href: '/analysis/backlog-crisis', tag: 'System' },
+              { title: 'Judge Roulette', desc: 'Asylum outcomes vary dramatically by judge. Same law, same courtroom, wildly different results.', href: '/analysis/judge-variation', tag: 'Judges' },
+              { title: 'The Representation Gap', desc: `Immigrants with lawyers win at 5x the rate. But only ${stats.representationRate}% have representation.`, href: '/analysis/representation-gap', tag: 'Access' },
+              { title: 'The Geographic Lottery', desc: 'Your odds of winning asylum depend heavily on where your case is heard. New York vs. Atlanta can mean freedom vs. deportation.', href: '/analysis/geographic-lottery', tag: 'Courts' },
+              { title: 'The Fentanyl Pipeline', desc: '65,000 lbs seized — but most comes through legal ports of entry, not between them.', href: '/analysis/fentanyl-pipeline', tag: 'Border' },
+              { title: 'Children Facing Judges Alone', desc: 'Tens of thousands of unaccompanied minors in immigration court — most without lawyers.', href: '/analysis/children-in-court', tag: 'Humanitarian' },
+            ].map(article => (
+              <Link key={article.href} href={article.href}
+                className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-lg hover:border-primary/30 transition-all group">
+                <span className="text-xs font-semibold uppercase tracking-wide text-primary">{article.tag}</span>
+                <h3 className="font-heading text-xl font-bold mt-2 group-hover:text-primary transition-colors">{article.title}</h3>
+                <p className="text-gray-600 mt-2 text-sm">{article.desc}</p>
+                <span className="text-primary text-sm font-medium mt-3 inline-block">Read analysis →</span>
+              </Link>
+            ))}
+          </div>
+          <p className="text-center mt-8">
+            <Link href="/analysis" className="text-primary font-semibold hover:underline">View all 14 analyses →</Link>
+          </p>
+        </div>
+      </section>
+
+      {/* Explore by Topic */}
+      <section className="max-w-7xl mx-auto px-4 py-16">
+        <h2 className="font-heading text-3xl font-bold text-center mb-2">Explore by Topic</h2>
+        <p className="text-center text-gray-500 mb-10">Dive into specific areas of the immigration system</p>
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+          {[
+            { icon: '⚖️', label: 'Courts', desc: `${stats.totalCourts} courts, ${(stats.pendingCases / 1e6).toFixed(1)}M pending`, href: '/courts' },
+            { icon: '🌎', label: 'Border', desc: '12M+ encounters since FY2020', href: '/border' },
+            { icon: '🛡️', label: 'Asylum', desc: `${((stats.asylumGranted / (stats.asylumGranted + stats.asylumDenied)) * 100).toFixed(0)}% grant rate`, href: '/asylum' },
+            { icon: '📋', label: 'Visas', desc: 'Green cards, H-1B, TPS & more', href: '/legal-immigration' },
+            { icon: '🚔', label: 'Enforcement', desc: `${stats.removalOrders.toLocaleString()} removal orders`, href: '/enforcement' },
+            { icon: '📊', label: 'Data', desc: '18 free datasets', href: '/downloads' },
+          ].map(topic => (
+            <Link key={topic.href} href={topic.href}
+              className="bg-white border border-gray-200 rounded-xl p-5 text-center hover:shadow-md hover:border-primary/30 transition-all group">
+              <div className="text-3xl mb-2">{topic.icon}</div>
+              <h3 className="font-bold group-hover:text-primary transition-colors">{topic.label}</h3>
+              <p className="text-xs text-gray-500 mt-1">{topic.desc}</p>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      {/* Interactive Tools Callout */}
+      <section className="bg-gradient-to-r from-primary/5 to-primary/10 py-16 px-4">
+        <div className="max-w-5xl mx-auto">
+          <div className="text-center mb-10">
+            <h2 className="font-heading text-3xl font-bold mb-3">Interactive Tools</h2>
+            <p className="text-gray-600 max-w-xl mx-auto">
+              Free tools to help you navigate the immigration system — powered by real government data.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {[
+              { icon: '🔍', title: 'Visa Finder', desc: 'Find which visa fits your situation', href: '/tools/visa-finder' },
+              { icon: '⏳', title: 'Wait Time Calculator', desc: 'Estimate your wait by category & country', href: '/tools/wait-time-calculator' },
+              { icon: '💰', title: 'Cost Calculator', desc: 'Full cost breakdown by pathway', href: '/tools/immigration-cost-calculator' },
+              { icon: '⚖️', title: 'Judge Lookup', desc: 'Search judges by name, see grant rates', href: '/tools/judge-lookup' },
+              { icon: '🌍', title: 'Compare Countries', desc: 'Side-by-side immigration stats', href: '/tools/compare-countries' },
+            ].map(tool => (
+              <Link key={tool.href} href={tool.href}
+                className="bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md hover:border-primary/30 transition-all group flex items-start gap-4">
+                <span className="text-2xl flex-shrink-0">{tool.icon}</span>
+                <div>
+                  <h3 className="font-bold group-hover:text-primary transition-colors">{tool.title}</h3>
+                  <p className="text-sm text-gray-500 mt-0.5">{tool.desc}</p>
+                </div>
+              </Link>
+            ))}
+          </div>
+          <p className="text-center mt-6">
+            <Link href="/tools" className="inline-block bg-primary text-white font-semibold px-6 py-3 rounded-xl hover:bg-primary-dark transition-colors">
+              View All Tools →
+            </Link>
+          </p>
         </div>
       </section>
 
       {/* Top Nationalities */}
-      <section className="bg-gray-50 py-12 px-4">
+      <section className="py-12 px-4">
         <div className="max-w-4xl mx-auto">
           <h2 className="font-heading text-2xl font-bold text-center mb-6">Top Countries of Origin</h2>
           <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
@@ -205,6 +323,7 @@ export default function HomePage() {
         </h3>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
           {[
+            { title: 'Interactive Tools', desc: 'Visa finder, cost calculator, wait times, judge lookup.', href: '/tools' },
             { title: 'Compare Courts & Judges', desc: 'Side-by-side comparison of up to 5 courts or judges.', href: '/compare' },
             { title: 'Statistics at a Glance', desc: 'All key numbers in one place across all datasets.', href: '/statistics' },
             { title: 'Search', desc: 'Find any court, judge, or nationality instantly.', href: '/search' },
@@ -244,35 +363,15 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Analysis Preview */}
-      <section className="max-w-7xl mx-auto px-4 py-16">
-        <h2 className="font-heading text-3xl font-bold text-center mb-10">Key Findings</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          {[
-            { title: 'The Backlog Crisis', desc: `How the immigration court backlog grew to ${(stats.pendingCases / 1e6).toFixed(1)} million cases — and why it keeps growing.`, href: '/analysis/backlog-crisis' },
-            { title: 'Judge Roulette', desc: 'Asylum outcomes vary dramatically by judge. Some grant 90%+ of cases. Others deny 90%+. Same law, wildly different results.', href: '/analysis/judge-variation' },
-            { title: 'Representation Gap', desc: `Immigrants with attorneys win their cases at 5x the rate of those without. But only about ${stats.representationRate}% have representation.`, href: '/analysis/representation-gap' },
-            { title: 'Geographic Lottery', desc: 'Your odds of winning asylum depend heavily on where your case is heard. New York vs. Atlanta can mean the difference between freedom and deportation.', href: '/analysis/geographic-lottery' },
-            { title: 'The Deportation Machine', desc: `${stats.removalOrders.toLocaleString()} removal orders, ${(814501).toLocaleString()} voluntary departures. How cases flow through the system.`, href: '/analysis/deportation-machine' },
-            { title: 'Asylum by Nationality', desc: 'From Mexico to Venezuela to Eritrea — how country of origin shapes outcomes in immigration court.', href: '/analysis/asylum-by-nationality' },
-            { title: 'In Absentia Orders', desc: `${stats.inAbsentia.toLocaleString()} people ordered deported without being present. 1 in 8 cases ends this way.`, href: '/analysis/in-absentia' },
-            { title: 'Detained vs. Released', desc: 'How custody status determines outcomes — detained immigrants face longer odds and fewer options.', href: '/analysis/detained-vs-released' },
-            { title: 'The Fentanyl Pipeline', desc: '65,000 lbs of fentanyl seized — but most comes through legal ports of entry, not between them.', href: '/analysis/fentanyl-pipeline' },
-            { title: 'The Speed of Justice', desc: 'We analyzed 12.4 million proceedings. Average case takes 397 days. Some courts average 2.7 years.', href: '/analysis/speed-of-justice' },
-            { title: 'From Border to Courtroom', desc: `12M encounters → ${(stats.pendingCases / 1e6).toFixed(1)}M pending cases → outcomes. The full immigration pipeline.`, href: '/analysis/border-to-courtroom' },
-            { title: 'Children Facing Judges Alone', desc: 'Tens of thousands of unaccompanied minors in immigration court — most without lawyers.', href: '/analysis/children-in-court' },
-          ].map(article => (
-            <Link key={article.href} href={article.href}
-              className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-lg hover:border-primary/30 transition-all">
-              <h3 className="font-heading text-xl font-bold">{article.title}</h3>
-              <p className="text-gray-600 mt-2">{article.desc}</p>
-              <span className="text-primary text-sm font-medium mt-3 inline-block">Read analysis →</span>
-            </Link>
-          ))}
+      {/* Newsletter Signup */}
+      <section className="max-w-3xl mx-auto px-4 py-16">
+        <div className="bg-primary/5 border border-primary/20 rounded-2xl p-8 text-center">
+          <h2 className="font-heading text-2xl font-bold mb-3">Stay Informed</h2>
+          <p className="text-gray-600 mb-6 max-w-lg mx-auto">
+            Get monthly updates when we publish new analysis, update our data, or release new tools. No spam — just data.
+          </p>
+          <NewsletterForm />
         </div>
-        <p className="text-center mt-6">
-          <Link href="/analysis" className="text-primary font-medium hover:underline">View all 14 analyses →</Link>
-        </p>
       </section>
 
       {/* Organization JSON-LD */}
