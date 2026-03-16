@@ -196,6 +196,14 @@ export default async function CourtDetailPage({ params }: { params: Promise<{ sl
           <h3 className="font-bold text-sm">⚖️ All Judges</h3>
           <p className="text-xs text-gray-600 mt-1">Browse all immigration judges nationwide.</p>
         </Link>
+        <Link href="/rankings/toughest-courts" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold text-sm">🔴 Toughest Courts</h3>
+          <p className="text-xs text-gray-600 mt-1">Courts ranked by denial rate.</p>
+        </Link>
+        <Link href="/rankings/most-backlogged" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold text-sm">📊 Most Backlogged</h3>
+          <p className="text-xs text-gray-600 mt-1">Courts with the largest pending caseloads.</p>
+        </Link>
       </div>
 
       <div className="text-center">

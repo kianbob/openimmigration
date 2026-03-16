@@ -44,12 +44,20 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 }
 
+function computeNationalAvg() {
+  const index = loadIndex()
+  const valid = index.filter((j: any) => j.grantRate != null && j.totalDecisions >= 100)
+  const sum = valid.reduce((s: number, j: any) => s + j.grantRate, 0)
+  return valid.length > 0 ? +(sum / valid.length).toFixed(1) : 0
+}
+
 export default async function JudgeDetailPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
   const judge = loadDetail(slug)
   if (!judge) notFound()
 
   const courtLookup = loadCourtLookup()
+  const nationalAvg = computeNationalAvg()
   const grColor = judge.grantRate >= 15 ? 'text-green-600' : judge.grantRate >= 8 ? 'text-yellow-600' : 'text-red-600'
   const grBg = judge.grantRate >= 15 ? 'bg-green-500' : judge.grantRate >= 8 ? 'bg-yellow-500' : 'bg-red-500'
 
@@ -101,6 +109,33 @@ export default async function JudgeDetailPage({ params }: { params: Promise<{ sl
           <span>0% (denies all)</span>
           <span>50% (even split)</span>
           <span>100% (grants all)</span>
+        </div>
+
+        {/* National Average Comparison */}
+        <div className="mt-6 pt-4 border-t border-gray-100">
+          <h3 className="text-sm font-semibold text-gray-700 mb-2">vs. National Average ({nationalAvg}%)</h3>
+          <div className="flex items-center gap-3">
+            <div className="flex-1 relative">
+              <div className="w-full bg-gray-200 rounded-full h-4 overflow-hidden">
+                <div className="h-4 rounded-full bg-primary/30" style={{ width: `${Math.min(100, Math.max(2, judge.grantRate))}%` }} />
+              </div>
+              {/* National avg marker */}
+              <div className="absolute top-0 h-4 border-l-2 border-dashed border-gray-600" style={{ left: `${Math.min(100, nationalAvg)}%` }} />
+            </div>
+          </div>
+          <div className="flex justify-between text-xs mt-1">
+            <span className={judge.grantRate > nationalAvg ? 'text-green-600 font-medium' : judge.grantRate < nationalAvg ? 'text-red-600 font-medium' : 'text-gray-600'}>
+              This judge: {judge.grantRate}%
+            </span>
+            <span className="text-gray-500">National avg: {nationalAvg}%</span>
+          </div>
+          <p className="text-xs text-gray-500 mt-1">
+            {judge.grantRate > nationalAvg
+              ? `${(judge.grantRate - nationalAvg).toFixed(1)} percentage points above the national average.`
+              : judge.grantRate < nationalAvg
+              ? `${(nationalAvg - judge.grantRate).toFixed(1)} percentage points below the national average.`
+              : 'Exactly at the national average.'}
+          </p>
         </div>
       </div>
 
@@ -187,6 +222,10 @@ export default async function JudgeDetailPage({ params }: { params: Promise<{ sl
         <Link href="/courts" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold text-sm">🏛️ All Courts</h3>
           <p className="text-xs text-gray-600 mt-1">Browse all immigration courts nationwide.</p>
+        </Link>
+        <Link href="/rankings/toughest-judges" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
+          <h3 className="font-bold text-sm">🔴 Toughest Judges</h3>
+          <p className="text-xs text-gray-600 mt-1">Judges ranked by denial rate.</p>
         </Link>
       </div>
 
