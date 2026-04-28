@@ -68,6 +68,25 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Judge Search Callout */}
+      <section className="max-w-5xl mx-auto px-4 py-10">
+        <div className="bg-white border-2 border-primary/20 rounded-2xl p-8 flex flex-col md:flex-row items-center gap-6 shadow-sm">
+          <div className="text-4xl">⚖️</div>
+          <div className="flex-1 text-center md:text-left">
+            <h2 className="font-heading text-2xl font-bold mb-1">Look Up Any Immigration Judge</h2>
+            <p className="text-gray-600 text-sm">Search {stats.totalJudges.toLocaleString()} judges by name — see approval rates, denial rates, court history, and how they compare to the national average.</p>
+          </div>
+          <div className="flex gap-3">
+            <Link href="/judges" className="bg-primary text-white font-semibold px-6 py-3 rounded-xl hover:bg-primary-dark transition-colors whitespace-nowrap">
+              Browse All Judges
+            </Link>
+            <Link href="/tools/judge-lookup" className="border border-primary text-primary font-semibold px-6 py-3 rounded-xl hover:bg-primary/5 transition-colors whitespace-nowrap">
+              🔍 Judge Lookup
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* Live Counter + Key Stats Dashboard */}
       <section className="max-w-7xl mx-auto px-4 py-12">
         {/* Live pending counter */}

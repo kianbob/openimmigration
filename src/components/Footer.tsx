@@ -81,7 +81,16 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-gray-700 mt-8 pt-8 text-center text-sm text-gray-500">
+        <div className="border-t border-gray-700 mt-8 pt-8 text-center">
+          <h3 className="text-white font-semibold mb-3 text-sm uppercase tracking-wider">Explore More Data</h3>
+          <div className="flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm mb-8">
+            <a href="https://www.howisamerica.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">How Is America — Census data on AI, food, housing & trust</a>
+            <a href="https://www.shelterscope.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">ShelterScope — Housing & shelter data across the U.S.</a>
+            <a href="https://www.givescope.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">GiveScope — Search 1.9M nonprofits & their finances</a>
+          </div>
+        </div>
+
+        <div className="text-center text-sm text-gray-500">
           <p>Data sourced from the Department of Justice Executive Office for Immigration Review (EOIR). Data current through February 2026.</p>
           <p className="mt-1">A <a href="https://thedataproject.ai" className="text-gray-400 hover:text-white">TheDataProject.ai</a> platform. Open data, no paywalls.</p>
         </div>

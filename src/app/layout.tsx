@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
   title: {
     template: '%s | OpenImmigration',
-    default: 'OpenImmigration — U.S. Immigration Court Data Explorer',
+    default: 'U.S. Immigration Data — Judge Records, Wait Times, Court Stats',
   },
   description: 'Explore millions of U.S. immigration court records. Track case outcomes, court backlogs, asylum decisions, deportation orders, and judge statistics from official DOJ data.',
   openGraph: {

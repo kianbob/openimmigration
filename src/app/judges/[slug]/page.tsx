@@ -38,8 +38,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const judge = loadDetail(slug)
   if (!judge) return { title: 'Judge Not Found' }
   return {
-    title: `Judge ${titleCase(judge.name)} — ${judge.totalDecisions.toLocaleString()} Decisions, ${judge.grantRate}% Grant Rate`,
-    description: `Immigration Judge ${titleCase(judge.name)} has made ${judge.totalDecisions.toLocaleString()} decisions with a ${judge.grantRate}% grant rate and ${judge.removalRate}% removal rate.`,
+    title: `${titleCase(judge.name)} — Immigration Judge Profile & Approval Rate`,
+    description: `Immigration Judge ${titleCase(judge.name)} has a ${judge.grantRate}% approval rate and ${judge.removalRate}% denial/removal rate across ${judge.totalDecisions.toLocaleString()} decisions. See full ratings, court history, and comparison to national averages.`,
     alternates: { canonical: `https://www.openimmigration.us/judges/${slug}` },
   }
 }
@@ -51,6 +51,16 @@ function computeNationalAvg() {
   return valid.length > 0 ? +(sum / valid.length).toFixed(1) : 0
 }
 
+function findSimilarJudges(judge: any) {
+  const index = loadIndex()
+  const valid = index.filter((j: any) => j.slug !== judge.slug && j.totalDecisions >= 100 && j.grantRate != null)
+  // Find judges with similar grant rates
+  return valid
+    .map((j: any) => ({ ...j, diff: Math.abs(j.grantRate - judge.grantRate) }))
+    .sort((a: any, b: any) => a.diff - b.diff)
+    .slice(0, 5)
+}
+
 export default async function JudgeDetailPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
   const judge = loadDetail(slug)
@@ -58,6 +68,9 @@ export default async function JudgeDetailPage({ params }: { params: Promise<{ sl
 
   const courtLookup = loadCourtLookup()
   const nationalAvg = computeNationalAvg()
+  const similarJudges = findSimilarJudges(judge)
+  const primaryCourt = judge.courts?.[0] ? courtLookup[judge.courts[0].code] : null
+  const locationStr = primaryCourt ? `${titleCase(primaryCourt.city)}, ${primaryCourt.state}` : 'United States'
   const grColor = judge.grantRate >= 15 ? 'text-green-600' : judge.grantRate >= 8 ? 'text-yellow-600' : 'text-red-600'
   const grBg = judge.grantRate >= 15 ? 'bg-green-500' : judge.grantRate >= 8 ? 'bg-yellow-500' : 'bg-red-500'
 
@@ -208,6 +221,22 @@ export default async function JudgeDetailPage({ params }: { params: Promise<{ sl
         </div>
       )}
 
+      {/* Similar Judges */}
+      {similarJudges.length > 0 && (
+        <div className="bg-white border border-gray-200 rounded-xl p-6 mb-8">
+          <h2 className="font-heading text-xl font-bold mb-4">Similar Judges</h2>
+          <p className="text-sm text-gray-500 mb-4">Judges with similar grant rates to Judge {titleCase(judge.name)}</p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {similarJudges.map((j: any) => (
+              <Link key={j.slug} href={`/judges/${j.slug}`} className="border border-gray-100 rounded-lg p-4 hover:shadow-md hover:border-primary/30 transition-all">
+                <div className="font-semibold text-sm text-primary">{titleCase(j.name)}</div>
+                <div className="text-xs text-gray-500 mt-1">{j.grantRate}% grant rate · {j.totalDecisions.toLocaleString()} decisions</div>
+              </Link>
+            ))}
+          </div>
+        </div>
+      )}
+
       <ShareButtons url={`https://www.openimmigration.us/judges/${slug}`} title={`Judge ${titleCase(judge.name)} — Immigration Court Decisions`} />
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8 mt-8">
@@ -232,6 +261,48 @@ export default async function JudgeDetailPage({ params }: { params: Promise<{ sl
       <div className="text-center">
         <Link href="/judges" className="text-primary font-medium hover:underline">← Back to all judges</Link>
       </div>
+
+      {/* FAQ JSON-LD */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{
+        __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: `What is Judge ${titleCase(judge.name)}'s approval rate?`,
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: `Immigration Judge ${titleCase(judge.name)} has a ${judge.grantRate}% grant (approval) rate across ${judge.totalDecisions.toLocaleString()} total decisions. The national average grant rate is approximately ${nationalAvg}%.`,
+              },
+            },
+            {
+              '@type': 'Question',
+              name: `Where does Judge ${titleCase(judge.name)} hear cases?`,
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: `Judge ${titleCase(judge.name)} ${judge.courts?.length > 0 ? `has heard cases at ${judge.courts.map((c: any) => { const ct = courtLookup[c.code]; return ct ? `${titleCase(ct.city)}, ${ct.state}` : titleCase(c.name) }).join('; ')}` : 'location data is not available'}.`,
+              },
+            },
+            {
+              '@type': 'Question',
+              name: `How does Judge ${titleCase(judge.name)} compare to other immigration judges?`,
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: `Judge ${titleCase(judge.name)}'s ${judge.grantRate}% grant rate is ${judge.grantRate > nationalAvg ? `${(judge.grantRate - nationalAvg).toFixed(1)} percentage points above` : judge.grantRate < nationalAvg ? `${(nationalAvg - judge.grantRate).toFixed(1)} percentage points below` : 'exactly at'} the national average of ${nationalAvg}%. The judge has issued ${judge.removals.toLocaleString()} removal orders (${judge.removalRate}% removal rate).`,
+              },
+            },
+            {
+              '@type': 'Question',
+              name: `How many cases has Judge ${titleCase(judge.name)} decided?`,
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: `Judge ${titleCase(judge.name)} has made ${judge.totalDecisions.toLocaleString()} total decisions, including ${judge.grants.toLocaleString()} grants, ${judge.denials.toLocaleString()} denials, and ${judge.removals.toLocaleString()} removal orders.`,
+              },
+            },
+          ],
+        })
+      }} />
     </div>
   )
 }
