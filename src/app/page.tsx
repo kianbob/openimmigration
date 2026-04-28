@@ -50,13 +50,29 @@ export default function HomePage() {
             </Link>
           </div>
 
+          {/* Judge Search Prominent CTA */}
+          <div className="max-w-2xl mx-auto mb-8 bg-white/10 backdrop-blur border border-white/20 rounded-2xl p-6">
+            <h2 className="text-xl font-bold mb-2">⚖️ Search Immigration Judges</h2>
+            <p className="text-blue-200 text-sm mb-4">
+              Look up any of {stats.totalJudges.toLocaleString()} immigration judges by name — see approval rates, denial rates, case volumes, and how they compare to the national average.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-3">
+              <Link href="/tools/judge-lookup" className="bg-white text-primary font-semibold px-6 py-3 rounded-xl hover:bg-blue-50 transition-colors shadow-lg text-center flex-1">
+                🔍 Judge Lookup Tool
+              </Link>
+              <Link href="/judges" className="bg-white/20 border border-white/30 font-semibold px-6 py-3 rounded-xl hover:bg-white/30 transition-colors text-center flex-1">
+                Browse All {stats.totalJudges.toLocaleString()} Judges
+              </Link>
+            </div>
+          </div>
+
           {/* Quick links */}
           <div className="flex flex-wrap justify-center gap-3">
+            <Link href="/judges" className="bg-white text-primary font-semibold px-6 py-3 rounded-xl hover:bg-blue-50 transition-colors shadow-lg">
+              ⚖️ Browse All Judges
+            </Link>
             <Link href="/dashboard" className="bg-white text-primary font-semibold px-6 py-3 rounded-xl hover:bg-blue-50 transition-colors shadow-lg">
               Explore Dashboard
-            </Link>
-            <Link href="/tools" className="bg-white text-primary font-semibold px-6 py-3 rounded-xl hover:bg-blue-50 transition-colors shadow-lg">
-              Interactive Tools
             </Link>
             <Link href="/backlog" className="bg-white/10 border border-white/30 px-6 py-3 rounded-xl hover:bg-white/20 transition-colors">
               Court Backlog
