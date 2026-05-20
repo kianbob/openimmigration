@@ -10,7 +10,7 @@ function loadData(filename: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'Immigration Bond Hearings — 1.59M Hearings, Average Bond $11,412',
+  title: 'Immigration Bonds — 1.59M Hearings, Avg $11,412',
   description: 'Explore 1.59 million immigration bond hearings. Average bond $11,412, median $7,500. Only 4.3% of bond requests granted. Bond amounts, trends, and outcomes.',
   alternates: { canonical: 'https://www.openimmigration.us/bond' },
 }

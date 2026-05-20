@@ -12,7 +12,7 @@ function loadData(filename: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'The Deportation Machine — How the System Processes 1.3 Million Cases a Year',
+  title: 'The Deportation Machine — 1.3M Cases/Year',
   description: '628,798 removal orders, 814,501 voluntary departures, 2.1M in absentia orders, 194,743 administrative closures. Inside the immigration court pipeline.',
   alternates: { canonical: 'https://www.openimmigration.us/analysis/deportation-machine' },
 }

@@ -3,7 +3,7 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'How Many Immigrants Are in the U.S.? — 46.2 Million Foreign-Born (2024)',
+  title: 'How Many Immigrants in the US? 46.2M (2024)',
   description: 'There are 46.2 million foreign-born residents in the United States as of 2024. Breakdown by legal status, country of origin, state of residence, and historical trends.',
   alternates: { canonical: 'https://www.openimmigration.us/how-many-immigrants-in-the-us' },
 }

@@ -7,7 +7,7 @@ import Link from 'next/link'
 import { AgencyBudgetChart, BudgetGrowthChart, DetentionCostChart, EnforcementVsProcessingChart } from './Charts'
 
 export const metadata: Metadata = {
-  title: 'The Cost of Immigration Enforcement — $26.8 Billion and Counting',
+  title: 'Immigration Enforcement Cost — $26.8 Billion',
   description: 'The U.S. spends $26.8 billion annually on immigration enforcement through ICE and CBP — more than all other federal law enforcement agencies combined. Data analysis of where the money goes.',
   alternates: { canonical: 'https://www.openimmigration.us/analysis/cost-of-immigration-enforcement' },
 }
@@ -79,7 +79,7 @@ export default function CostOfEnforcementPage() {
           </p>
           <p>
             ICE receives <strong>$8.3 billion</strong>, funding its two main divisions: Enforcement and Removal Operations
-            (ERO), which handles detention and deportation, and Homeland Security Investigations (HSI), which pursues
+            (ERO), which handles <Link href="/analysis/detained-vs-released" className="text-blue-700 underline hover:text-blue-900">detention</Link> and <Link href="/analysis/deportation-machine" className="text-blue-700 underline hover:text-blue-900">deportation system</Link>, and Homeland Security Investigations (HSI), which pursues
             smuggling, trafficking, and other transnational crimes. ERO alone operates or contracts with over 200 detention
             facilities nationwide.
           </p>

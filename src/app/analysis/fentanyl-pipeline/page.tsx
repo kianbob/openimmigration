@@ -12,7 +12,7 @@ function loadData(filename: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'The Fentanyl Pipeline — Drugs, Borders, and Immigration Policy',
+  title: 'Fentanyl Pipeline — Drugs, Borders & Policy',
   description: '65,000 lbs of fentanyl seized at the border. But most comes through legal ports of entry, not between them. How drug policy and immigration policy collide — and diverge.',
   alternates: { canonical: 'https://www.openimmigration.us/analysis/fentanyl-pipeline' },
 }

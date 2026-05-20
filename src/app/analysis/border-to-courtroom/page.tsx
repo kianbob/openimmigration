@@ -12,7 +12,7 @@ function loadData(filename: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'From Border to Courtroom — How 12 Million Encounters Become 1.9 Million Cases',
+  title: 'Border to Courtroom — 12M Encounters to 1.9M Cases',
   description: 'The pipeline from CBP encounter to immigration court to outcome. 12M encounters, 1.9M pending cases, and the leaky funnel that connects them.',
   alternates: { canonical: 'https://www.openimmigration.us/analysis/border-to-courtroom' },
 }

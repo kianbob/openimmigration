@@ -7,7 +7,7 @@ import Link from 'next/link'
 import { WorkforceShareChart, SectorDependenceChart, SSContributionChart, EntrepreneurshipChart } from './Charts'
 
 export const metadata: Metadata = {
-  title: 'Immigration and the Economy — The $2.6 Trillion Contribution',
+  title: 'Immigration & the Economy — $2.6 Trillion Impact',
   description: 'Immigrants comprise 18.6% of the U.S. workforce, founded 44% of Fortune 500 companies, and contribute $97B+ in taxes even when undocumented. The economic data on immigration.',
   alternates: { canonical: 'https://www.openimmigration.us/analysis/immigration-and-economy' },
 }

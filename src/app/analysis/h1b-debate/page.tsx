@@ -7,7 +7,7 @@ import Link from 'next/link'
 import { PetitionsVsCapChart, TopEmployersChart, WageChart, CountryChart } from './Charts'
 
 export const metadata: Metadata = {
-  title: 'The H-1B Debate — Tech Dependence, Wage Suppression, and the Lottery',
+  title: 'H-1B Debate — Tech, Wages & the Lottery',
   description: 'The H-1B visa program receives 470K+ applications for 85K slots. 72% go to Indian nationals. Analysis of tech industry dependence, wage data, lottery problems, and per-country caps.',
   alternates: { canonical: 'https://www.openimmigration.us/analysis/h1b-debate' },
 }
@@ -78,7 +78,7 @@ export default function H1BDebatePage() {
             at any time.
           </p>
           <p>
-            When petitions exceed the cap — which has been the case every year since 2014 — USCIS conducts
+            When petitions exceed the cap — which has been the case every year since 2014 — <Link href="/uscis" className="text-blue-700 underline hover:text-blue-900">USCIS</Link> conducts
             a <strong>random lottery</strong>. In FY2024, 470,342 petitions were filed for 85,000 slots,
             giving each petition roughly an <strong>18% chance</strong> of selection. In FY2023, the odds
             were even worse: 758,994 petitions, yielding an 11% selection rate.
@@ -231,7 +231,7 @@ export default function H1BDebatePage() {
           <ul className="list-disc pl-6 space-y-1">
             <li>The U.S. tech industry genuinely needs global talent</li>
             <li>H-1B workers generate innovation, patents, and economic growth</li>
-            <li>85,000 slots is far too few for the world&apos;s largest economy</li>
+            <li>85,000 slots is far too few for the world&apos;s largest <Link href="/analysis/immigration-and-economy" className="text-blue-700 underline hover:text-blue-900">economic impact</Link></li>
             <li>Restricting H-1B would push companies to offshore entire operations</li>
           </ul>
           <p>

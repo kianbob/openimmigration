@@ -12,7 +12,7 @@ function loadData(filename: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'Detained vs. Released — 2.1 Million Locked Up, 6.4 Million Not',
+  title: 'Detained vs Released — 2.1M Locked Up',
   description: 'How detention shapes immigration outcomes. 6.4M never detained, 2.1M detained, 1.1M released. Detained immigrants get faster hearings but worse outcomes.',
   alternates: { canonical: 'https://www.openimmigration.us/analysis/detained-vs-released' },
 }

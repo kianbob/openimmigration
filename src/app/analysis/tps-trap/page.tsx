@@ -6,7 +6,7 @@ import RelatedAnalysis from '@/components/RelatedAnalysis'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Permanent Temporary — 1 Million People Trapped in TPS Limbo',
+  title: 'TPS Limbo — 1 Million People Trapped',
   description: 'Over 1 million people hold Temporary Protected Status. Some "temporary" designations have lasted 20+ years. The TPS trap, explained with data.',
   alternates: { canonical: 'https://www.openimmigration.us/analysis/tps-trap' },
 }

@@ -30,7 +30,7 @@ export default function DeportationCostsPage() {
             { label: 'Analysis', href: '/analysis' },
             { label: 'Deportation Costs' },
           ]} />
-          <span className="inline-block bg-purple-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4 mt-4">Enforcement</span>
+          <span className="inline-block bg-purple-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4 mt-4"><Link href="/analysis/cost-of-immigration-enforcement" className="text-blue-700 underline hover:text-blue-900">enforcement costs</Link></span>
           <h1 className="font-heading text-4xl md:text-5xl font-bold mb-6">The Cost of Deportation</h1>
           <p className="text-xl text-gray-300 mb-6 max-w-3xl">
             Every deportation costs American taxpayers an average of <strong className="text-white">$10,900</strong>.
@@ -74,7 +74,7 @@ export default function DeportationCostsPage() {
               apprehensions) are significantly more expensive, often requiring surveillance, stakeouts, and
               coordination with local law enforcement.</li>
             <li><strong>Detention</strong>: ~$4,320 (average 30 days at $144/day). Many detainees are held for
-              much longer — the average detention stay for those with immigration court cases is <strong>55
+              much longer — the average detention stay for those with <Link href="/courts" className="text-blue-700 underline hover:text-blue-900">immigration courts</Link> cases is <strong>55
               days</strong>, pushing costs to $7,920. Some detainees with complicated cases are held for months
               or years.</li>
             <li><strong>Legal processing</strong>: ~$1,800. This includes immigration court hearings (judge time,

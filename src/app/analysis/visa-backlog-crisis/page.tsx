@@ -7,8 +7,8 @@ import Link from 'next/link'
 import { PendingByTypeChart, FamilyWaitChart, PendingOverTimeChart, ProcessingTimesChart } from './Charts'
 
 export const metadata: Metadata = {
-  title: 'The Visa Backlog Crisis — 8.7 Million Cases and 20-Year Waits',
-  description: 'USCIS has 8.7 million pending cases. Family visa applicants from some countries wait 20+ years. The legal immigration system is collapsing under its own weight.',
+  title: 'Visa Backlog — 8.7M Cases, 20-Year Waits',
+  description: '<Link href="/uscis" className="text-blue-700 underline hover:text-blue-900">USCIS</Link> has 8.7 million pending cases. Family visa applicants from some countries wait 20+ years. The legal immigration system is collapsing under its own weight.',
   alternates: { canonical: 'https://www.openimmigration.us/analysis/visa-backlog-crisis' },
 }
 

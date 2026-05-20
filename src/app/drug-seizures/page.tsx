@@ -10,7 +10,7 @@ function loadData(filename: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'Drug Seizures at the U.S. Border — 65,000 lbs of Fentanyl Seized',
+  title: 'US Border Drug Seizures — 65,000 lbs Fentanyl',
   description: 'CBP drug seizure data FY2023-2026. 65,000 lbs of fentanyl, 542K lbs of meth, 243K lbs of cocaine seized at U.S. borders. Trends, locations, and the fentanyl crisis.',
   alternates: { canonical: 'https://www.openimmigration.us/drug-seizures' },
 }

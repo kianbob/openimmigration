@@ -89,12 +89,12 @@ export default function AsylumSystemBrokenPage() {
           <p>
             <strong>Affirmative asylum</strong>: A person already in the U.S. files an I-589 application with USCIS
             within one year of arrival. An asylum officer conducts a non-adversarial interview and either grants
-            asylum or refers the case to immigration court. The current wait for an asylum office interview is
+            asylum or refers the case to <Link href="/courts" className="text-blue-700 underline hover:text-blue-900">immigration court</Link>. The current wait for an asylum office interview is
             <strong>2–5 years</strong>, depending on the office. During this wait, applicants cannot work for the
             first 180 days (effectively 8+ months with processing delays).
           </p>
           <p>
-            <strong>Defensive asylum</strong>: A person in removal proceedings before an immigration judge raises
+            <strong>Defensive asylum</strong>: A person in removal proceedings before an <Link href="/judges" className="text-blue-700 underline hover:text-blue-900">immigration judges</Link> raises
             asylum as a defense against deportation. This is adversarial — the government is represented by a trial
             attorney who argues against the claim. The immigration court backlog means these cases take an average
             of <strong>4.3 years</strong> to reach a merits hearing. Some courts average over 6 years.
@@ -256,7 +256,7 @@ export default function AsylumSystemBrokenPage() {
               <li>• EOIR Adjudication Statistics (pending caseload, completion rates)</li>
               <li>• USCIS Asylum Division quarterly reports</li>
               <li>• Congressional Research Service, &quot;U.S. Asylum Process&quot; (2024)</li>
-              <li>• Human Rights First, asylum grant rate analyses</li>
+              <li>• Human Rights First, <Link href="/analysis/geographic-lottery" className="text-blue-700 underline hover:text-blue-900">asylum grant rates</Link> analyses</li>
               <li>• Transactional Records Access Clearinghouse (TRAC), credible fear data</li>
               <li>• Government Accountability Office, immigration court reports</li>
               <li>• American Immigration Lawyers Association, processing time surveys</li>

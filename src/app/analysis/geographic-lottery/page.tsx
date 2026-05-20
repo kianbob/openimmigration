@@ -12,7 +12,7 @@ function loadData(filename: string) {
 }
 
 export const metadata: Metadata = {
-  title: 'The Geographic Lottery — Grant Rates: New York 21% vs Houston 0.8%',
+  title: 'Immigration Geographic Lottery — 21% vs 0.8%',
   description: 'Immigration court outcomes vary wildly by location. New York grants at 21%, Houston at 0.8%. Same law, same evidence standard — a 26x difference. Explore all 88 courts.',
   alternates: { canonical: 'https://www.openimmigration.us/analysis/geographic-lottery' },
 }
