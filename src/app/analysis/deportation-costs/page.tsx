@@ -64,7 +64,7 @@ export default function DeportationCostsPage() {
 
           <h2 className="font-heading text-2xl font-bold text-gray-900">Anatomy of a Deportation</h2>
           <p>
-            Deportation — or &quot;removal&quot; in official terminology — is not a single event. It&apos;s a
+            <Link href="/deportation" className="text-primary hover:underline">Deportation</Link> — or &quot;removal&quot; in official terminology — is not a single event. It&apos;s a
             multi-step process involving multiple federal agencies, legal proceedings, detention, and transportation.
             Each step carries costs:
           </p>

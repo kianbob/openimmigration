@@ -188,9 +188,9 @@ export default function BorderWallCostPage() {
               Agents can adapt to smuggling patterns; walls cannot.
             </li>
             <li>
-              <strong>Immigration judges</strong>: At <strong>$200,000 per judge per year</strong>, the cost of
+              <strong><Link href="/judges" className="text-primary hover:underline">Immigration judges</Link></strong>: At <strong>$200,000 per judge per year</strong>, the cost of
               one mile of wall could fund 135 immigration judges — enough to process hundreds of thousands of
-              cases and reduce the backlog that incentivizes unauthorized crossings.
+              cases and reduce the <Link href="/backlog" className="text-primary hover:underline">backlog</Link> that incentivizes unauthorized crossings.
             </li>
             <li>
               <strong>Legal immigration expansion</strong>: The cheapest border security measure of all is

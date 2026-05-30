@@ -72,6 +72,35 @@ export default function JudgesPage() {
         </p>
       </div>
 
+      <script type="application/ld+json" dangerouslySetInnerHTML={{
+        __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'How many immigration judges are there in the United States?',
+              acceptedAnswer: { '@type': 'Answer', text: `There are ${judges.length.toLocaleString()} immigration judges (with 50+ decisions) serving across ${stats.totalCourts} courts in the U.S. immigration court system.` },
+            },
+            {
+              '@type': 'Question',
+              name: 'What is the average asylum grant rate for immigration judges?',
+              acceptedAnswer: { '@type': 'Answer', text: `The national average asylum grant rate is ${avgGrant}%. However, individual judges range from ${minGrant.grantRate}% to ${maxGrant.grantRate}%, meaning the judge assigned to your case can be the biggest factor in whether you receive protection or face deportation.` },
+            },
+            {
+              '@type': 'Question',
+              name: 'How are immigration judges appointed?',
+              acceptedAnswer: { '@type': 'Answer', text: 'Immigration judges are appointed by the U.S. Attorney General and serve within the Department of Justice. Unlike federal judges, they have no life tenure and can be reassigned or removed, which limits their judicial independence.' },
+            },
+            {
+              '@type': 'Question',
+              name: 'Can I look up my immigration judge\'s record?',
+              acceptedAnswer: { '@type': 'Answer', text: 'Yes. OpenImmigration provides detailed statistics for every immigration judge, including grant rates, removal rates, case volumes, and how they compare to the national average. Search by judge name or browse by court location.' },
+            },
+          ],
+        })
+      }} />
+
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <Link href="/analysis/judge-variation" className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-lg transition-all">
           <h3 className="font-heading text-lg font-bold">⚖️ Judge Roulette Analysis</h3>

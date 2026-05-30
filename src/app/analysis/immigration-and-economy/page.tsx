@@ -251,8 +251,8 @@ export default function ImmigrationEconomyPage() {
           <p>
             The question has never been <em>whether</em> immigration benefits the economy. It&apos;s whether
             we can build a system smart enough to maximize those benefits while managing the real (but smaller
-            than advertised) costs. The current system — with its decades-long backlogs, arbitrary caps, and
-            massive enforcement apparatus — does neither.
+            than advertised) costs. The current system — with its <Link href="/backlog" className="text-primary hover:underline">decades-long backlogs</Link>, arbitrary <Link href="/green-card" className="text-primary hover:underline">visa caps</Link>, and
+            massive <Link href="/analysis/cost-of-immigration-enforcement" className="text-primary hover:underline">enforcement apparatus</Link> — does neither.
           </p>
 
           <div className="border-t border-gray-200 pt-8 mt-12">

@@ -92,7 +92,7 @@ export default function CostOfEnforcementPage() {
             Compare this to the agencies that actually <em>process</em> legal immigration: USCIS gets about <strong>$4.8
             billion</strong>, most of which comes from application fees rather than taxpayer dollars. The Executive Office
             for Immigration Review (EOIR) — the immigration court system — operates on a comparatively tiny <strong>$900
-            million</strong> budget to manage nearly 2 million pending cases with just 600 judges.
+            million</strong> budget to manage nearly <Link href="/backlog" className="text-primary hover:underline">2 million pending cases</Link> with just <Link href="/judges" className="text-primary hover:underline">600 judges</Link>.
           </p>
           <p>
             In other words: <strong>the U.S. spends roughly $5.50 on enforcement for every $1 it spends on processing

@@ -93,6 +93,35 @@ export default function NaturalizationPage() {
         </div>
       </div>
 
+      <script type="application/ld+json" dangerouslySetInnerHTML={{
+        __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'How many naturalization applications are pending?',
+              acceptedAnswer: { '@type': 'Answer', text: 'As of June 2025, approximately 998,700 N-400 applications for U.S. citizenship are pending with USCIS, making it the largest single-form backlog in the system.' },
+            },
+            {
+              '@type': 'Question',
+              name: 'How long does it take to become a U.S. citizen?',
+              acceptedAnswer: { '@type': 'Answer', text: 'After meeting eligibility requirements (5 years as a permanent resident, or 3 if married to a U.S. citizen), the N-400 application typically takes 6-12 months to process. However, some USCIS field offices have waits exceeding 2 years.' },
+            },
+            {
+              '@type': 'Question',
+              name: 'What are the requirements for U.S. naturalization?',
+              acceptedAnswer: { '@type': 'Answer', text: 'Requirements include: permanent residency for 5 years (3 if married to a citizen), continuous physical presence in the U.S., good moral character, passing English and civics tests, and taking the Oath of Allegiance. The application fee is $725 (fee waivers available).' },
+            },
+            {
+              '@type': 'Question',
+              name: 'What is the U.S. citizenship civics test?',
+              acceptedAnswer: { '@type': 'Answer', text: 'Applicants must correctly answer 6 out of 10 civics questions drawn from a pool of 100 covering American history, government structure, and civic principles. The pass rate exceeds 90%. The English language requirement is generally a bigger barrier.' },
+            },
+          ],
+        })
+      }} />
+
       <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
         <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
         <div className="prose prose-lg max-w-none text-gray-700 space-y-4">

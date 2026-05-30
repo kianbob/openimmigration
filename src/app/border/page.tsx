@@ -181,6 +181,35 @@ export default function BorderPage() {
         </p>
       </div>
 
+      <script type="application/ld+json" dangerouslySetInnerHTML={{
+        __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'How many border encounters has CBP recorded?',
+              acceptedAnswer: { '@type': 'Answer', text: `U.S. Customs and Border Protection recorded ${(data.grandTotal / 1e6).toFixed(1)} million encounters between FY2020 and FY2026, with a peak of ${(peakYear.total / 1e6).toFixed(1)} million in FY${peakYear.fy}.` },
+            },
+            {
+              '@type': 'Question',
+              name: 'What is the difference between a border encounter and an illegal crossing?',
+              acceptedAnswer: { '@type': 'Answer', text: 'An "encounter" is any contact between CBP agents and a migrant, including apprehensions between ports of entry, inadmissibles at ports of entry, and (formerly) Title 42 expulsions. One person can generate multiple encounters, so encounter totals can exceed the number of unique individuals.' },
+            },
+            {
+              '@type': 'Question',
+              name: 'What happens after a border encounter?',
+              acceptedAnswer: { '@type': 'Answer', text: 'Outcomes vary: some migrants receive expedited removal, others are placed in immigration court proceedings (joining the 1.9 million case backlog), and those expressing fear of persecution receive credible fear interviews that may lead to asylum cases.' },
+            },
+            {
+              '@type': 'Question',
+              name: 'Are border encounters increasing or decreasing in 2026?',
+              acceptedAnswer: { '@type': 'Answer', text: `FY2026 is on pace for significantly lower encounters than recent peaks, with ${fy2026 ? fy2026.total.toLocaleString() : 'limited data'} recorded so far under tighter enforcement policies.` },
+            },
+          ],
+        })
+      }} />
+
       {/* Why This Data Matters */}
       <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
         <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>

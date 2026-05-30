@@ -208,7 +208,7 @@ export default function ImmigrationMythsPage() {
             a growing unauthorized population.
           </p>
           <p>
-            The &quot;invasion&quot; narrative relies on conflating <strong>border encounters</strong> with
+            The &quot;invasion&quot; narrative relies on conflating <strong><Link href="/border" className="text-primary hover:underline">border encounters</Link></strong> with
             <strong>population growth</strong>. These are very different metrics:
           </p>
           <ul className="list-disc pl-6 space-y-2">

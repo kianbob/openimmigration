@@ -425,6 +425,36 @@ export default function HomePage() {
         })
       }} />
 
+      {/* FAQ JSON-LD */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{
+        __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'How many immigration court cases are pending in the U.S.?',
+              acceptedAnswer: { '@type': 'Answer', text: `There are currently ${stats.pendingCases.toLocaleString()} pending cases in U.S. immigration courts, representing the largest backlog in history.` },
+            },
+            {
+              '@type': 'Question',
+              name: 'How many immigration judges are there?',
+              acceptedAnswer: { '@type': 'Answer', text: `There are ${stats.totalJudges.toLocaleString()} immigration judges serving across U.S. immigration courts. Their asylum grant rates vary widely, from under 5% to over 90%.` },
+            },
+            {
+              '@type': 'Question',
+              name: 'What percentage of immigrants have lawyers in court?',
+              acceptedAnswer: { '@type': 'Answer', text: `Only ${stats.representationRate}% of respondents in immigration court had legal representation. Those with lawyers are significantly more likely to win their cases.` },
+            },
+            {
+              '@type': 'Question',
+              name: 'Where does OpenImmigration get its data?',
+              acceptedAnswer: { '@type': 'Answer', text: 'All data comes from official U.S. Department of Justice Executive Office for Immigration Review (EOIR) records. OpenImmigration aggregates and analyzes millions of public court records to make them accessible and searchable.' },
+            },
+          ],
+        })
+      }} />
+
       {/* WebSite JSON-LD */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{
         __html: JSON.stringify({

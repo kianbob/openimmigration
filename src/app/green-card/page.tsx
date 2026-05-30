@@ -110,6 +110,35 @@ export default function GreenCardPage() {
         </div>
       </div>
 
+      <script type="application/ld+json" dangerouslySetInnerHTML={{
+        __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'How many green card applications are currently pending?',
+              acceptedAnswer: { '@type': 'Answer', text: 'As of June 2025, there are 710,100 pending I-485 adjustment of status applications. The total green card pipeline — including family petitions, employment petitions, and waivers — exceeds 1.5 million applications.' },
+            },
+            {
+              '@type': 'Question',
+              name: 'How long does it take to get a green card?',
+              acceptedAnswer: { '@type': 'Answer', text: 'Processing times vary widely by category and country of origin. Family-based green cards can take 1-20+ years (siblings of U.S. citizens from the Philippines face the longest waits). Employment-based EB-2 and EB-3 for Indian nationals currently face 10+ year waits due to per-country caps.' },
+            },
+            {
+              '@type': 'Question',
+              name: 'What is the difference between I-130, I-140, and I-485?',
+              acceptedAnswer: { '@type': 'Answer', text: 'I-130 is the family-based petition filed by a U.S. citizen or permanent resident. I-140 is the employer-sponsored petition. I-485 is the actual adjustment of status application — the final step to receiving a green card, filed once a visa number becomes available.' },
+            },
+            {
+              '@type': 'Question',
+              name: 'What is the Visa Bulletin?',
+              acceptedAnswer: { '@type': 'Answer', text: 'The State Department publishes a monthly Visa Bulletin showing which priority dates are current for each immigration category and country. It determines when applicants can file their I-485 adjustment of status applications based on annual visa caps.' },
+            },
+          ],
+        })
+      }} />
+
       <section className="mt-12 bg-gray-50 border border-gray-200 rounded-xl p-8">
         <h2 className="font-heading text-2xl font-bold mb-4">Why This Data Matters</h2>
         <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
