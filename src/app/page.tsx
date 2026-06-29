@@ -31,7 +31,7 @@ export default function HomePage() {
             Data from DOJ EOIR · Open data, no paywalls
           </p>
           <p className="inline-block bg-white/15 backdrop-blur text-blue-100 text-sm font-medium px-4 py-1.5 rounded-full mb-6">
-            📅 Data updated February 2026
+            📅 Data updated June 2026
           </p>
 
           {/* Quick stat pills */}
@@ -319,7 +319,7 @@ export default function HomePage() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
           {[
             { title: 'Border Encounters', desc: '12M+ CBP encounters since FY2020. Trends by nationality and region.', href: '/border' },
-            { title: 'ICE Enforcement', desc: 'Deportation stats, arrests, and the gap between orders and removals.', href: '/enforcement' },
+            { title: 'ICE Enforcement', desc: '450K arrests, 320K deportations, 46K daily detained — ICE data through March 2026 via FOIA.', href: '/enforcement' },
             { title: 'Drug Seizures', desc: '65K lbs of fentanyl. 1.9M total lbs seized at U.S. borders.', href: '/drug-seizures' },
           ].map(c => (
             <Link key={c.href} href={c.href} className="bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md hover:border-primary/30 transition-all group">

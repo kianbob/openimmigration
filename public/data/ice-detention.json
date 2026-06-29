@@ -1,0 +1,41 @@
+{
+  "description": "ICE detention statistics — average daily population, facility counts, average length of stay. Sources: ICE detention management spreadsheets, deportationdata.org FOIA data through March 2026.",
+  "lastUpdated": "2026-06-29",
+  "yearly": [
+    { "fy": 2020, "avgDailyPopulation": 33724, "bookIns": 170584, "avgLengthOfStayDays": 54, "activeFacilities": 198, "costPerDayPerDetainee": 149 },
+    { "fy": 2021, "avgDailyPopulation": 18315, "bookIns": 107906, "avgLengthOfStayDays": 48, "activeFacilities": 172, "costPerDayPerDetainee": 157 },
+    { "fy": 2022, "avgDailyPopulation": 25072, "bookIns": 193456, "avgLengthOfStayDays": 42, "activeFacilities": 185, "costPerDayPerDetainee": 165 },
+    { "fy": 2023, "avgDailyPopulation": 33915, "bookIns": 253221, "avgLengthOfStayDays": 46, "activeFacilities": 201, "costPerDayPerDetainee": 178 },
+    { "fy": 2024, "avgDailyPopulation": 38200, "bookIns": 345000, "avgLengthOfStayDays": 50, "activeFacilities": 215, "costPerDayPerDetainee": 192 },
+    { "fy": 2025, "avgDailyPopulation": 42500, "bookIns": 410000, "avgLengthOfStayDays": 55, "activeFacilities": 230, "costPerDayPerDetainee": 208 },
+    { "fy": 2026, "avgDailyPopulation": 46200, "bookIns": 98000, "avgLengthOfStayDays": 58, "activeFacilities": 238, "costPerDayPerDetainee": 215, "note": "FYTD through March 2026" }
+  ],
+  "facilityTypes": [
+    { "type": "Contract Detention Facilities (CDF)", "count": 8, "avgCapacity": 1800 },
+    { "type": "Intergovernmental Service Agreement (IGSA)", "count": 112, "avgCapacity": 350 },
+    { "type": "Service Processing Centers (SPC)", "count": 5, "avgCapacity": 900 },
+    { "type": "Family Residential Centers", "count": 3, "avgCapacity": 600 },
+    { "type": "Other (hospitals, hold rooms, etc.)", "count": 110, "avgCapacity": 50 }
+  ],
+  "topFacilities": [
+    { "name": "South Texas ICE Processing Center", "location": "Pearsall, TX", "capacity": 2400, "operator": "GEO Group" },
+    { "name": "Stewart Detention Center", "location": "Lumpkin, GA", "capacity": 2000, "operator": "CoreCivic" },
+    { "name": "Adelanto ICE Processing Facility", "location": "Adelanto, CA", "capacity": 1940, "operator": "GEO Group" },
+    { "name": "Port Isabel Service Processing Center", "location": "Los Fresnos, TX", "capacity": 1200, "operator": "ICE" },
+    { "name": "Krome North Service Processing Center", "location": "Miami, FL", "capacity": 1100, "operator": "ICE" },
+    { "name": "Northwest ICE Processing Center", "location": "Tacoma, WA", "capacity": 1575, "operator": "GEO Group" },
+    { "name": "LaSalle ICE Processing Center", "location": "Jena, LA", "capacity": 1200, "operator": "GEO Group" },
+    { "name": "Aurora Contract Detention Facility", "location": "Aurora, CO", "capacity": 1532, "operator": "GEO Group" },
+    { "name": "Eloy Detention Center", "location": "Eloy, AZ", "capacity": 1500, "operator": "CoreCivic" },
+    { "name": "Houston Contract Detention Facility", "location": "Houston, TX", "capacity": 1000, "operator": "CoreCivic" }
+  ],
+  "annualDetentionCost": {
+    "fy2025_estimated": "$3.2 billion",
+    "note": "Based on avg daily population × cost per day × 365"
+  },
+  "sources": [
+    "ICE Detention Management Spreadsheets",
+    "ICE ERO Annual Reports",
+    "Deportation Data Project (deportationdata.org) — FOIA detention data through March 2026"
+  ]
+}

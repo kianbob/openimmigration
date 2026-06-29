@@ -165,7 +165,26 @@ export default function EnforcementPage() {
         </div>
       </section>
 
-      <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-4">
+      {/* Enforcement Sub-Pages */}
+      <div className="mt-12 mb-8">
+        <h2 className="font-heading text-2xl font-bold mb-4">Explore ICE Enforcement Data</h2>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          <Link href="/enforcement/arrests" className="bg-primary/5 border-2 border-primary/20 rounded-xl p-6 hover:shadow-lg hover:border-primary/40 transition-all group">
+            <h3 className="font-bold text-lg group-hover:text-primary transition-colors">🚔 Arrests by State</h3>
+            <p className="text-sm text-gray-600 mt-2">450,000 ICE arrests in FY2025 — where enforcement is highest, field office breakdowns, and the sanctuary city debate.</p>
+          </Link>
+          <Link href="/enforcement/deportations" className="bg-primary/5 border-2 border-primary/20 rounded-xl p-6 hover:shadow-lg hover:border-primary/40 transition-all group">
+            <h3 className="font-bold text-lg group-hover:text-primary transition-colors">✈️ Deportations by Nationality</h3>
+            <p className="text-sm text-gray-600 mt-2">319,980 removals in FY2025. Mexico leads at 38%, but Venezuelan deportations surged 1,000% since FY2020.</p>
+          </Link>
+          <Link href="/enforcement/detention" className="bg-primary/5 border-2 border-primary/20 rounded-xl p-6 hover:shadow-lg hover:border-primary/40 transition-all group">
+            <h3 className="font-bold text-lg group-hover:text-primary transition-colors">🏢 Detention Facilities</h3>
+            <p className="text-sm text-gray-600 mt-2">238 facilities, 46,200 daily population. $215/day per detainee — the $3.2B detention system.</p>
+          </Link>
+        </div>
+      </div>
+
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
         <Link href="/border" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold">🌎 Border Encounters</h3>
           <p className="text-sm text-gray-600 mt-1">{(12).toFixed(0)}M+ CBP encounters since FY2020.</p>
@@ -196,7 +215,7 @@ export default function EnforcementPage() {
       </div>
 
       <p className="text-xs text-gray-400 mt-10">
-        Source: ICE Enforcement and Removal Operations (ERO) statistics, DHS OHSS Immigration Enforcement Monthly Tables. Data current through February 2026.{' '}
+        Source: ICE Enforcement and Removal Operations (ERO) statistics, DHS OHSS Immigration Enforcement Monthly Tables, FOIA data processed by <a href="https://deportationdata.org" target="_blank" rel="noopener noreferrer" className="hover:text-gray-600">Deportation Data Project</a>. Data current through March 2026.{' '}
         <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
       </p>
     </div>

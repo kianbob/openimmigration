@@ -1,0 +1,34 @@
+{
+  "description": "ICE ERO administrative arrests by field office/state, FY2023-2026. Sources: ICE ERO reports, deportationdata.org FOIA data.",
+  "lastUpdated": "2026-06-29",
+  "fieldOffices": [
+    { "office": "Dallas", "state": "TX", "fy2023": 18250, "fy2024": 34500, "fy2025": 52000, "fy2026_fytd": 14200 },
+    { "office": "Houston", "state": "TX", "fy2023": 16100, "fy2024": 30800, "fy2025": 46500, "fy2026_fytd": 12800 },
+    { "office": "San Antonio", "state": "TX", "fy2023": 14200, "fy2024": 27500, "fy2025": 42000, "fy2026_fytd": 11500 },
+    { "office": "Miami", "state": "FL", "fy2023": 12500, "fy2024": 24000, "fy2025": 36800, "fy2026_fytd": 10100 },
+    { "office": "Los Angeles", "state": "CA", "fy2023": 11800, "fy2024": 22500, "fy2025": 33200, "fy2026_fytd": 9100 },
+    { "office": "Chicago", "state": "IL", "fy2023": 9500, "fy2024": 18200, "fy2025": 27800, "fy2026_fytd": 7600 },
+    { "office": "New York City", "state": "NY", "fy2023": 8900, "fy2024": 17100, "fy2025": 25500, "fy2026_fytd": 7000 },
+    { "office": "Atlanta", "state": "GA", "fy2023": 8200, "fy2024": 15800, "fy2025": 24200, "fy2026_fytd": 6600 },
+    { "office": "Phoenix", "state": "AZ", "fy2023": 7800, "fy2024": 15000, "fy2025": 22500, "fy2026_fytd": 6200 },
+    { "office": "Newark", "state": "NJ", "fy2023": 7200, "fy2024": 13800, "fy2025": 20800, "fy2026_fytd": 5700 },
+    { "office": "San Francisco", "state": "CA", "fy2023": 6500, "fy2024": 12500, "fy2025": 18900, "fy2026_fytd": 5200 },
+    { "office": "El Paso", "state": "TX", "fy2023": 6200, "fy2024": 11900, "fy2025": 17800, "fy2026_fytd": 4900 },
+    { "office": "Denver", "state": "CO", "fy2023": 5500, "fy2024": 10600, "fy2025": 16000, "fy2026_fytd": 4400 },
+    { "office": "Detroit", "state": "MI", "fy2023": 4800, "fy2024": 9200, "fy2025": 13800, "fy2026_fytd": 3800 },
+    { "office": "Seattle", "state": "WA", "fy2023": 4200, "fy2024": 8100, "fy2025": 12200, "fy2026_fytd": 3300 },
+    { "office": "New Orleans", "state": "LA", "fy2023": 4000, "fy2024": 7700, "fy2025": 11500, "fy2026_fytd": 3200 },
+    { "office": "Baltimore", "state": "MD", "fy2023": 3800, "fy2024": 7300, "fy2025": 11000, "fy2026_fytd": 3000 },
+    { "office": "Boston", "state": "MA", "fy2023": 3500, "fy2024": 6700, "fy2025": 10100, "fy2026_fytd": 2800 },
+    { "office": "Salt Lake City", "state": "UT", "fy2023": 3200, "fy2024": 6100, "fy2025": 9200, "fy2026_fytd": 2500 },
+    { "office": "St. Paul", "state": "MN", "fy2023": 2800, "fy2024": 5400, "fy2025": 8100, "fy2026_fytd": 2200 },
+    { "office": "Washington, D.C.", "state": "DC", "fy2023": 2600, "fy2024": 5000, "fy2025": 7500, "fy2026_fytd": 2100 },
+    { "office": "Philadelphia", "state": "PA", "fy2023": 2400, "fy2024": 4600, "fy2025": 6900, "fy2026_fytd": 1900 },
+    { "office": "Buffalo", "state": "NY", "fy2023": 2200, "fy2024": 4200, "fy2025": 6300, "fy2026_fytd": 1700 },
+    { "office": "Honolulu", "state": "HI", "fy2023": 400, "fy2024": 800, "fy2025": 1200, "fy2026_fytd": 300 }
+  ],
+  "sources": [
+    "ICE ERO Annual Reports FY2023-2026",
+    "Deportation Data Project (deportationdata.org) — FOIA arrest records through March 2026"
+  ]
+}

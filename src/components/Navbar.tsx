@@ -22,6 +22,9 @@ const courtData = [
 const immigrationData = [
   { label: 'Border Encounters', href: '/border' },
   { label: 'ICE Enforcement', href: '/enforcement' },
+  { label: 'ICE Arrests by State', href: '/enforcement/arrests' },
+  { label: 'Deportations by Country', href: '/enforcement/deportations' },
+  { label: 'Detention Facilities', href: '/enforcement/detention' },
   { label: 'Drug Seizures', href: '/drug-seizures' },
   { label: 'Legal Immigration', href: '/legal-immigration' },
   { label: 'Visa Overstays', href: '/overstays' },
