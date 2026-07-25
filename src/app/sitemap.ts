@@ -25,6 +25,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tps', '/wait-times', '/timeline', '/downloads',
     '/analysis/fentanyl-pipeline', '/analysis/speed-of-justice', '/analysis/bond-system',
     '/analysis/tps-trap', '/analysis/children-in-court', '/analysis/border-to-courtroom',
+    '/analysis/enforcement-trends-2026',
     '/uscis', '/daca', '/green-card', '/naturalization',
     '/compare', '/compare/courts', '/glossary', '/statistics', '/h1b',
     '/rankings/toughest-courts', '/rankings/toughest-judges',

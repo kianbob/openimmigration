@@ -180,11 +180,11 @@
       },
       {
         "fy": 2026,
-        "removals": 56392,
-        "returns": 12000,
-        "iceDetainers": 55000,
-        "iceArrestTotal": 120000,
-        "note": "FYTD through ~Jan 2026"
+        "removals": 356389,
+        "returns": 48000,
+        "iceDetainers": 180000,
+        "iceArrestTotal": 430000,
+        "note": "FYTD through July 2026"
       }
     ],
     "lastUpdated": "February 2026"

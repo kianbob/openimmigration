@@ -1,23 +1,73 @@
 {
-  "description": "ICE ERO enforcement statistics by fiscal year — arrests, detentions, removals, and returns. Sources: ICE ERO annual reports, DHS OHSS, deportationdata.org FOIA data through March 2026.",
-  "lastUpdated": "2026-06-29",
+  "description": "ICE ERO enforcement statistics by fiscal year — arrests, detentions, removals, and returns. Sources: ICE ERO annual reports, DHS OHSS, deportationdata.org FOIA data through July 2026.",
+  "lastUpdated": "2026-07-25",
   "yearly": [
-    { "fy": 2020, "arrests": 103603, "bookIns": 170584, "avgDailyDetained": 33724, "removals": 185884, "returns": 47381 },
-    { "fy": 2021, "arrests": 74082, "bookIns": 107906, "avgDailyDetained": 18315, "removals": 59011, "returns": 11225 },
-    { "fy": 2022, "arrests": 142059, "bookIns": 193456, "avgDailyDetained": 25072, "removals": 72177, "returns": 24759 },
-    { "fy": 2023, "arrests": 170590, "bookIns": 253221, "avgDailyDetained": 33915, "removals": 142580, "returns": 60823 },
-    { "fy": 2024, "arrests": 311500, "bookIns": 345000, "avgDailyDetained": 38200, "removals": 271484, "returns": 90823 },
-    { "fy": 2025, "arrests": 450000, "bookIns": 410000, "avgDailyDetained": 42500, "removals": 319980, "returns": 82000 },
-    { "fy": 2026, "arrests": 120000, "bookIns": 98000, "avgDailyDetained": 46200, "removals": 56392, "returns": 12000, "note": "FYTD through March 2026" }
+    {
+      "fy": 2020,
+      "arrests": 103603,
+      "bookIns": 170584,
+      "avgDailyDetained": 33724,
+      "removals": 185884,
+      "returns": 47381
+    },
+    {
+      "fy": 2021,
+      "arrests": 74082,
+      "bookIns": 107906,
+      "avgDailyDetained": 18315,
+      "removals": 59011,
+      "returns": 11225
+    },
+    {
+      "fy": 2022,
+      "arrests": 142059,
+      "bookIns": 193456,
+      "avgDailyDetained": 25072,
+      "removals": 72177,
+      "returns": 24759
+    },
+    {
+      "fy": 2023,
+      "arrests": 170590,
+      "bookIns": 253221,
+      "avgDailyDetained": 33915,
+      "removals": 142580,
+      "returns": 60823
+    },
+    {
+      "fy": 2024,
+      "arrests": 311500,
+      "bookIns": 345000,
+      "avgDailyDetained": 38200,
+      "removals": 271484,
+      "returns": 90823
+    },
+    {
+      "fy": 2025,
+      "arrests": 450000,
+      "bookIns": 410000,
+      "avgDailyDetained": 42500,
+      "removals": 319980,
+      "returns": 82000
+    },
+    {
+      "fy": 2026,
+      "arrests": 430000,
+      "bookIns": 385000,
+      "avgDailyDetained": 65765,
+      "removals": 356389,
+      "returns": 48000,
+      "note": "FYTD through July 2026"
+    }
   ],
   "totals": {
-    "totalArrestsFY20_26": 1371834,
-    "totalRemovalsFY20_26": 1107508,
-    "totalReturnsFY20_26": 329011
+    "totalArrestsFY20_26": 1681834,
+    "totalRemovalsFY20_26": 1407505,
+    "totalReturnsFY20_26": 365011
   },
   "sources": [
     "ICE Enforcement and Removal Operations Annual Reports",
     "DHS Office of Homeland Security Statistics",
-    "Deportation Data Project (deportationdata.org) — FOIA-obtained ICE enforcement data through March 2026"
+    "Deportation Data Project (deportationdata.org) — FOIA-obtained ICE enforcement data through July 2026"
   ]
 }

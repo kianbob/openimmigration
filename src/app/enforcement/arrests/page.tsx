@@ -276,7 +276,7 @@ export default function ArrestsPage() {
         Source: ICE ERO annual reports, FOIA data processed by{' '}
         <a href="https://deportationdata.org" target="_blank" rel="noopener noreferrer" className="hover:text-gray-600">
           Deportation Data Project
-        </a>. Data current through March 2026.{' '}
+        </a>. Data current through July 2026.{' '}
         <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
       </p>
 

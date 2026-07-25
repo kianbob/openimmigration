@@ -10,6 +10,13 @@ export const metadata: Metadata = {
 
 const articles = [
   {
+    slug: 'enforcement-trends-2026',
+    title: 'ICE Enforcement Trends FY2026',
+    desc: '356,389 removals, 65,765 detained, record arrest pace — is FY2026 on track to break the Obama-era deportation record?',
+    category: 'Enforcement',
+    date: 'July 2026',
+  },
+  {
     slug: 'backlog-crisis',
     title: 'The Backlog Crisis',
     desc: 'How the immigration court backlog grew from 200,000 to nearly 2 million cases — and why it keeps growing.',
@@ -39,8 +46,8 @@ const articles = [
   },
   {
     slug: 'deportation-machine',
-    title: 'The Deportation Machine in 2025',
-    desc: 'Record case closures, mass deportation orders, and what the numbers actually show.',
+    title: 'The Deportation Machine',
+    desc: '356K+ removals in FY2026 and counting. How the system processes cases at industrial scale.',
     category: 'Trends',
     date: 'February 2026',
   },

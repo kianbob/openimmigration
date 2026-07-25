@@ -13,7 +13,7 @@ function loadData(filename: string) {
 
 export const metadata: Metadata = {
   title: 'The Deportation Machine — 1.3M Cases/Year',
-  description: '628,798 removal orders, 814,501 voluntary departures, 2.1M in absentia orders, 194,743 administrative closures. Inside the immigration court pipeline.',
+  description: 'Inside the immigration court deportation pipeline: 628K+ removal orders, 2.1M in absentia orders, and a record 356K ICE removals in FY2026. How the system processes cases at scale.',
   alternates: { canonical: 'https://www.openimmigration.us/analysis/deportation-machine' },
 }
 
@@ -36,8 +36,9 @@ export default function DeportationMachinePage() {
       <div className="text-xs font-medium text-primary bg-primary/5 px-2 py-1 rounded-full inline-block mb-3">Enforcement</div>
       <h1 className="font-heading text-4xl font-bold mb-4">The Deportation Machine</h1>
       <p className="text-lg text-gray-600 mb-8">
-        In 2025, U.S. immigration courts completed 1,298,639 cases — an all-time record. Here&apos;s how
-        the system processes cases at industrial scale, and what happens to the people inside it.
+        U.S. immigration courts process over 1.2 million cases per year, while ICE has already carried out
+        356,389 removals in FY2026 — on pace to break the Obama-era record. Here&apos;s how the system
+        processes cases at industrial scale, and what happens to the people inside it.
       </p>
 
       {/* Stat cards */}

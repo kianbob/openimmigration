@@ -11,7 +11,7 @@ function loadData(filename: string) {
 
 export const metadata: Metadata = {
   title: 'ICE Deportation & Enforcement Statistics FY2014-2026 — Removals, Arrests, Detention',
-  description: 'ICE Enforcement and Removal Operations data FY2014-2026. 319K removals in FY2025, 56K FYTD in FY2026. Deportation trends, arrest statistics, and the enforcement gap.',
+  description: 'ICE Enforcement and Removal Operations data FY2014-2026. 356K removals FYTD in FY2026 — on pace to break Obama-era record. Deportation trends, arrest statistics, and detention data.',
   alternates: { canonical: 'https://www.openimmigration.us/enforcement' },
 }
 
@@ -142,10 +142,10 @@ export default function EnforcementPage() {
 
         <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">ICE Detention</h2>
         <p>
-          ICE operates or contracts with over 200 detention facilities nationwide. The average daily detained
-          population fluctuates between 20,000 and 40,000 depending on policy and border conditions. Detention
-          costs approximately $150-$300 per person per day, making the detention system a multi-billion dollar
-          operation.
+          ICE operates or contracts with over 240 detention facilities nationwide. As of July 2026, ICE holds
+          65,765 individuals in detention — a record high. The average daily detained population has surged from
+          18,315 in FY2021 to over 65,000, driven by aggressive interior enforcement. Detention costs approximately
+          $150-$300 per person per day, making the detention system a multi-billion dollar operation.
         </p>
       </div>
 
@@ -160,7 +160,7 @@ export default function EnforcementPage() {
             The dramatic swings in removal numbers — from over 300,000 in peak years to under 60,000 during the FY2021 low — reflect how deeply enforcement is shaped by presidential priorities, not just law. COVID restrictions, prosecutorial discretion policies, sanctuary city dynamics, and budget allocations all determine how many people ICE can actually remove. The FY2025 surge shows what happens when enforcement is prioritized, but even at record levels, removals cover only a small fraction of the estimated 11-14 million unauthorized immigrants living in the United States.
           </p>
           <p>
-            For the public, understanding enforcement data is essential to evaluating political promises about immigration. Claims of &quot;mass deportation&quot; must be weighed against the operational reality: ICE has approximately 6,000 enforcement agents covering the entire country, detention facilities hold around 30,000-40,000 people at any time, and each removal costs thousands of dollars. The numbers on this page show what the enforcement machine can actually do — and the enormous gap between rhetoric and reality.
+            For the public, understanding enforcement data is essential to evaluating political promises about immigration. With 356,389 removals already logged in FY2026 and arrests averaging nearly 1,600 per day in July, the enforcement machine is operating at its highest capacity in over a decade. ICE currently holds 65,765 people in detention — a record — with 60% having criminal records according to the agency. The question is whether this pace can be sustained through the end of the fiscal year and whether it will approach the Obama-era record of 438,421 removals in FY2013.
           </p>
         </div>
       </section>
@@ -171,15 +171,15 @@ export default function EnforcementPage() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <Link href="/enforcement/arrests" className="bg-primary/5 border-2 border-primary/20 rounded-xl p-6 hover:shadow-lg hover:border-primary/40 transition-all group">
             <h3 className="font-bold text-lg group-hover:text-primary transition-colors">🚔 Arrests by State</h3>
-            <p className="text-sm text-gray-600 mt-2">450,000 ICE arrests in FY2025 — where enforcement is highest, field office breakdowns, and the sanctuary city debate.</p>
+            <p className="text-sm text-gray-600 mt-2">430,000+ ICE arrests in FY2026 FYTD — averaging 1,438/day in June 2026. Where enforcement is highest and the sanctuary city debate.</p>
           </Link>
           <Link href="/enforcement/deportations" className="bg-primary/5 border-2 border-primary/20 rounded-xl p-6 hover:shadow-lg hover:border-primary/40 transition-all group">
             <h3 className="font-bold text-lg group-hover:text-primary transition-colors">✈️ Deportations by Nationality</h3>
-            <p className="text-sm text-gray-600 mt-2">319,980 removals in FY2025. Mexico leads at 38%, but Venezuelan deportations surged 1,000% since FY2020.</p>
+            <p className="text-sm text-gray-600 mt-2">356,389 removals in FY2026 FYTD — on pace to break the Obama-era record of 438K. Mexico leads at 38%.</p>
           </Link>
           <Link href="/enforcement/detention" className="bg-primary/5 border-2 border-primary/20 rounded-xl p-6 hover:shadow-lg hover:border-primary/40 transition-all group">
             <h3 className="font-bold text-lg group-hover:text-primary transition-colors">🏢 Detention Facilities</h3>
-            <p className="text-sm text-gray-600 mt-2">238 facilities, 46,200 daily population. $215/day per detainee — the $3.2B detention system.</p>
+            <p className="text-sm text-gray-600 mt-2">245 facilities, 65,765 daily population. $220/day per detainee — the detention system at record capacity.</p>
           </Link>
         </div>
       </div>
@@ -211,11 +211,15 @@ export default function EnforcementPage() {
             <h4 className="font-bold text-sm">🏛️ Border to Courtroom</h4>
             <p className="text-xs text-gray-600 mt-1">The journey from border encounter to immigration court hearing.</p>
           </Link>
+          <Link href="/analysis/enforcement-trends-2026" className="bg-amber-50 border border-amber-200 rounded-xl p-5 hover:shadow-md transition-all">
+            <h4 className="font-bold text-sm">📈 FY2026 Enforcement Trends</h4>
+            <p className="text-xs text-gray-600 mt-1">356K removals and counting — is FY2026 on pace to break the Obama-era record?</p>
+          </Link>
         </div>
       </div>
 
       <p className="text-xs text-gray-400 mt-10">
-        Source: ICE Enforcement and Removal Operations (ERO) statistics, DHS OHSS Immigration Enforcement Monthly Tables, FOIA data processed by <a href="https://deportationdata.org" target="_blank" rel="noopener noreferrer" className="hover:text-gray-600">Deportation Data Project</a>. Data current through March 2026.{' '}
+        Source: ICE Enforcement and Removal Operations (ERO) statistics, DHS OHSS Immigration Enforcement Monthly Tables, FOIA data processed by <a href="https://deportationdata.org" target="_blank" rel="noopener noreferrer" className="hover:text-gray-600">Deportation Data Project</a>. Data current through July 2026.{' '}
         <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
       </p>
     </div>

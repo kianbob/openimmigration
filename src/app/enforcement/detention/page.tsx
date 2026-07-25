@@ -10,7 +10,7 @@ function loadData(filename: string) {
 
 export const metadata: Metadata = {
   title: 'ICE Detention Facilities & Statistics FY2020-2026 — Population, Costs, Capacity',
-  description: 'ICE detention data FY2020-2026. 46,200 avg daily detained in FY2026, 238 facilities, $3.2B annual cost. Facility details, average stays, and capacity data from FOIA records.',
+  description: 'ICE detention data FY2020-2026. 65,765 currently detained in FY2026 — a record high. 245 facilities nationwide. Facility details, average stays, and capacity data from ICE and FOIA records.',
   alternates: { canonical: 'https://www.openimmigration.us/enforcement/detention' },
 }
 
@@ -99,7 +99,7 @@ export default function DetentionPage() {
             </div>
           ))}
         </div>
-        <p className="text-xs text-gray-400 mt-3">* FYTD through March 2026</p>
+        <p className="text-xs text-gray-400 mt-3">* FYTD through July 2026</p>
       </div>
 
       {/* Cost analysis */}
@@ -155,7 +155,7 @@ export default function DetentionPage() {
             </tbody>
           </table>
         </div>
-        <p className="text-xs text-gray-400 px-6 py-2">* FYTD through March 2026</p>
+        <p className="text-xs text-gray-400 px-6 py-2">* FYTD through July 2026</p>
       </div>
 
       {/* Facility types */}
@@ -301,7 +301,7 @@ export default function DetentionPage() {
         Source: ICE detention management spreadsheets, ICE ERO annual reports, FOIA data processed by{' '}
         <a href="https://deportationdata.org" target="_blank" rel="noopener noreferrer" className="hover:text-gray-600">
           Deportation Data Project
-        </a>. Data current through March 2026.{' '}
+        </a>. Data current through July 2026.{' '}
         <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
       </p>
 

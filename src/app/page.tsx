@@ -319,7 +319,7 @@ export default function HomePage() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
           {[
             { title: 'Border Encounters', desc: '12M+ CBP encounters since FY2020. Trends by nationality and region.', href: '/border' },
-            { title: 'ICE Enforcement', desc: '450K arrests, 320K deportations, 46K daily detained — ICE data through March 2026 via FOIA.', href: '/enforcement' },
+            { title: 'ICE Enforcement', desc: '356K+ deportations in FY2026, 65K+ detained, record arrest pace — ICE data through July 2026.', href: '/enforcement' },
             { title: 'Drug Seizures', desc: '65K lbs of fentanyl. 1.9M total lbs seized at U.S. borders.', href: '/drug-seizures' },
           ].map(c => (
             <Link key={c.href} href={c.href} className="bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md hover:border-primary/30 transition-all group">
