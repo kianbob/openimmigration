@@ -98,7 +98,7 @@ export default function ImmigrationEconomyPage() {
               fact that every administration acknowledges privately and ignores publicly.</li>
             <li><strong>Construction</strong>: 30% of construction workers are immigrants. In high-growth
               states like Texas and Florida, the share exceeds 40%. Housing cost discussions that ignore
-              immigration&apos;s role in construction labor supply are incomplete.</li>
+              immigration&apos;s role in <a href="https://permitcore.io" className="text-primary hover:underline">construction labor and permit activity</a> are incomplete.</li>
             <li><strong>Hospitality</strong>: 31% of hotel and restaurant workers are foreign-born. The
               post-COVID labor shortage in hospitality was directly linked to reduced immigration during
               the pandemic.</li>
