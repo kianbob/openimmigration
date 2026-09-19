@@ -108,7 +108,8 @@ export default function AboutPage() {
           <a href="https://www.openmedicare.us" className="text-primary hover:underline">OpenMedicare</a>,{' '}
           <a href="https://www.openlobby.us" className="text-primary hover:underline">OpenLobby</a>,{' '}
           <a href="https://www.vaccinewatch.org" className="text-primary hover:underline">VaccineWatch</a>,{' '}
-          <a href="https://permitcore.io" className="text-primary hover:underline">PermitCore</a>, and more.
+          <a href="https://permitcore.io" className="text-primary hover:underline">PermitCore</a>,{' '}
+          <a href="https://americanfactbook.org" className="text-primary hover:underline">American Factbook</a>, and more.
         </p>
 
         <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">How to Cite This Data</h2>
