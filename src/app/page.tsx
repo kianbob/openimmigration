@@ -388,7 +388,8 @@ export default function HomePage() {
               The immigration court system currently faces a backlog of over <strong className="text-gray-900">{(stats.pendingCases / 1e6).toFixed(1)} million cases</strong>.
               Asylum grant rates vary wildly between judges — from under 10% to over 90%.
               Whether someone wins their case can depend more on which judge and court they&apos;re assigned to than
-              the merits of their case.
+              the merits of their case. For broader immigration court and judge data in context, explore{' '}
+              <a href="https://americanfactbook.org/immigration" className="text-primary underline hover:text-primary-dark">American Factbook&apos;s immigration section</a>.
             </p>
             <p>
               We believe this data should be accessible to everyone — journalists, researchers, policymakers,
