@@ -14,7 +14,7 @@ const articles = [
     title: 'ICE Enforcement Trends FY2026',
     desc: '356,389 removals, 65,765 detained, record arrest pace — is FY2026 on track to break the Obama-era deportation record?',
     category: 'Enforcement',
-    date: 'July 2026',
+    date: 'September 2026',
   },
   {
     slug: 'backlog-crisis',

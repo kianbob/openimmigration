@@ -1,6 +1,6 @@
 {
-  "description": "ICE ERO enforcement statistics by fiscal year — arrests, detentions, removals, and returns. Sources: ICE ERO annual reports, DHS OHSS, deportationdata.org FOIA data through July 2026.",
-  "lastUpdated": "2026-07-25",
+  "description": "ICE ERO enforcement statistics by fiscal year — arrests, detentions, removals, and returns. Sources: ICE ERO annual reports, DHS OHSS, deportationdata.org FOIA data through September 2026.",
+  "lastUpdated": "2026-09-25",
   "yearly": [
     {
       "fy": 2020,
@@ -52,22 +52,22 @@
     },
     {
       "fy": 2026,
-      "arrests": 430000,
-      "bookIns": 385000,
-      "avgDailyDetained": 65765,
-      "removals": 356389,
-      "returns": 48000,
-      "note": "FYTD through July 2026"
+      "arrests": 532000,
+      "bookIns": 478000,
+      "avgDailyDetained": 66000,
+      "removals": 449000,
+      "returns": 62000,
+      "note": "FYTD through late September 2026"
     }
   ],
   "totals": {
-    "totalArrestsFY20_26": 1681834,
-    "totalRemovalsFY20_26": 1407505,
-    "totalReturnsFY20_26": 365011
+    "totalArrestsFY20_26": 1783834,
+    "totalRemovalsFY20_26": 1500116,
+    "totalReturnsFY20_26": 379011
   },
   "sources": [
     "ICE Enforcement and Removal Operations Annual Reports",
     "DHS Office of Homeland Security Statistics",
-    "Deportation Data Project (deportationdata.org) — FOIA-obtained ICE enforcement data through July 2026"
+    "Deportation Data Project (deportationdata.org) — FOIA-obtained ICE enforcement data through September 2026"
   ]
 }

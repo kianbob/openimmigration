@@ -1,8 +1,8 @@
 {
   "source": "U.S. Customs and Border Protection (CBP) Public Data Portal",
-  "lastUpdated": "January 2026",
+  "lastUpdated": "September 2026",
   "fiscalYearNote": "Fiscal years run October 1 to September 30 (e.g., FY2024 = Oct 2023 - Sep 2024)",
-  "grandTotal": 12049921,
+  "grandTotal": 12084349,
   "yearly": [
     {
       "fy": 2020,
@@ -30,7 +30,7 @@
     },
     {
       "fy": 2026,
-      "total": 116465
+      "total": 150893
     }
   ],
   "topCitizenships": [
@@ -204,16 +204,16 @@
     },
     {
       "fy": 2026,
-      "OTHER": 21314,
-      "MEXICO": 38578,
-      "COLOMBIA": 2290,
-      "GUATEMALA": 5793,
-      "HAITI": 321,
-      "VENEZUELA": 1699,
-      "ECUADOR": 1131,
-      "HONDURAS": 3596,
-      "NICARAGUA": 706,
-      "CUBA": 641
+      "OTHER": 27616,
+      "MEXICO": 49963,
+      "COLOMBIA": 2965,
+      "GUATEMALA": 7502,
+      "HAITI": 416,
+      "VENEZUELA": 2200,
+      "ECUADOR": 1464,
+      "HONDURAS": 4657,
+      "NICARAGUA": 914,
+      "CUBA": 830
     }
   ],
   "swbByYear": [
@@ -243,7 +243,7 @@
     },
     {
       "fy": 2026,
-      "count": 42064
+      "count": 54493
     }
   ],
   "demographicsByYear": [
@@ -291,10 +291,10 @@
     },
     {
       "fy": 2026,
-      "Accompanied Minors": 415,
-      "FMUA": 7163,
-      "Single Adults": 105942,
-      "UAC": 2945
+      "Accompanied Minors": 538,
+      "FMUA": 9274,
+      "Single Adults": 137146,
+      "UAC": 3813
     }
   ],
   "componentByYear": [
@@ -330,8 +330,8 @@
     },
     {
       "fy": 2026,
-      "OFO": 81691,
-      "USBP": 34774
+      "OFO": 105783,
+      "USBP": 45019
     }
   ]
 }

@@ -257,7 +257,7 @@ export default function BorderPage() {
       </div>
 
       <p className="text-xs text-gray-400 mt-10">
-        Source: U.S. Customs and Border Protection Public Data Portal. Data current through February 2026.
+        Source: U.S. Customs and Border Protection Public Data Portal. Data current through August 2026.
         Fiscal years run October 1 to September 30.{' '}
         <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
       </p>

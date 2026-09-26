@@ -10,11 +10,11 @@ function loadData(filename: string) {
 
 export const metadata: Metadata = {
   title: 'U.S. Immigration Statistics 2026 — Key Numbers & Facts',
-  description: 'Comprehensive U.S. immigration statistics: 1.9M pending court cases, 356K+ ICE removals in FY2026, 12M+ border encounters. Updated July 2026 from official DOJ, DHS, CBP, and ICE data.',
+  description: 'Comprehensive U.S. immigration statistics: 1.9M pending court cases, 449K+ ICE removals in FY2026 (record-breaking), 12M+ border encounters. Updated September 2026 from official DOJ, DHS, CBP, and ICE data.',
   alternates: { canonical: 'https://www.openimmigration.us/statistics' },
   openGraph: {
     title: 'U.S. Immigration Statistics 2026 — Key Numbers & Facts',
-    description: 'Comprehensive U.S. immigration statistics: 1.9M pending court cases, 356K+ ICE removals in FY2026, 12M+ border encounters. Updated July 2026 from official DOJ, DHS, CBP, and ICE data.',
+    description: 'Comprehensive U.S. immigration statistics: 1.9M pending court cases, 449K+ ICE removals in FY2026 (record-breaking), 12M+ border encounters. Updated September 2026 from official DOJ, DHS, CBP, and ICE data.',
   },
 }
 
@@ -109,7 +109,7 @@ export default function StatisticsPage() {
     <div className="max-w-5xl mx-auto px-4 py-10">
       <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Statistics' }]} />
       <h1 className="font-heading text-4xl font-bold mb-2">U.S. Immigration Statistics at a Glance</h1>
-      <p className="text-sm text-gray-500 mb-2">Updated February 2026 · Sources: DOJ EOIR, DHS, CBP, USCIS</p>
+      <p className="text-sm text-gray-500 mb-2">Updated September 2026 · Sources: DOJ EOIR, DHS, CBP, ICE, USCIS</p>
       <p className="text-lg text-gray-600 mb-10">
         Key numbers from across the U.S. immigration system — court backlogs, border encounters, asylum outcomes,
         deportations, legal immigration, and more. All data from official government sources.
@@ -149,7 +149,7 @@ export default function StatisticsPage() {
 
       <p className="text-xs text-gray-400 mt-8">
         Source: Department of Justice EOIR, Department of Homeland Security, U.S. Customs and Border Protection, USCIS.
-        Data current through February 2026. <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
+        Data current through September 2026. <Link href="/about" className="hover:text-gray-600">Learn more →</Link>
       </p>
 
       {/* FAQ Schema for key questions */}
@@ -157,8 +157,8 @@ export default function StatisticsPage() {
         '@context': 'https://schema.org',
         '@type': 'FAQPage',
         mainEntity: [
-          { '@type': 'Question', name: 'How many immigration court cases are pending in 2026?', acceptedAnswer: { '@type': 'Answer', text: `As of February 2026, there are approximately ${stats.pendingCases.toLocaleString()} pending cases in U.S. immigration courts, according to DOJ EOIR data.` }},
-          { '@type': 'Question', name: 'How many immigration judges are there?', acceptedAnswer: { '@type': 'Answer', text: `There are ${stats.totalJudges.toLocaleString()} immigration judges across ${stats.totalCourts} courts in the United States, as of February 2026.` }},
+          { '@type': 'Question', name: 'How many immigration court cases are pending in 2026?', acceptedAnswer: { '@type': 'Answer', text: `As of September 2026, there are approximately ${stats.pendingCases.toLocaleString()} pending cases in U.S. immigration courts, according to DOJ EOIR data.` }},
+          { '@type': 'Question', name: 'How many immigration judges are there?', acceptedAnswer: { '@type': 'Answer', text: `There are ${stats.totalJudges.toLocaleString()} immigration judges across ${stats.totalCourts} courts in the United States, as of September 2026.` }},
           { '@type': 'Question', name: 'What is the asylum grant rate?', acceptedAnswer: { '@type': 'Answer', text: `The overall asylum grant rate is approximately ${((stats.asylumGranted / (stats.asylumGranted + stats.asylumDenied)) * 100).toFixed(1)}%, based on ${stats.asylumGranted.toLocaleString()} grants and ${stats.asylumDenied.toLocaleString()} denials in EOIR data.` }},
           { '@type': 'Question', name: 'How many people were encountered at the border?', acceptedAnswer: { '@type': 'Answer', text: `CBP encountered ${border.grandTotal.toLocaleString()} people at U.S. borders between FY2020 and FY2026, with the majority at the southwest border.` }},
           { '@type': 'Question', name: 'How long does an immigration court case take?', acceptedAnswer: { '@type': 'Answer', text: `The average immigration court case takes ${wait.avgDaysOverall} days (${wait.avgYearsOverall} years). Some courts average over 2.5 years per case.` }},
