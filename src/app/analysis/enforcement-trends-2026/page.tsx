@@ -5,7 +5,7 @@ import ArticleSchema from '@/components/ArticleSchema'
 
 export const metadata: Metadata = {
   title: 'ICE Enforcement Trends FY2026 — Record Deportations, Arrests & Detention',
-  description: '449,000+ ICE removals in FY2026, surpassing Obama-era record. 66,000 in detention, 51,000+ arrests in August alone. Tracking the historic enforcement surge.',
+  description: '471,000+ ICE removals in FY2026, surpassing Obama-era record. 67,500 in detention, 51,000+ arrests in August alone. Tracking the historic enforcement surge.',
   alternates: { canonical: 'https://www.openimmigration.us/analysis/enforcement-trends-2026' },
 }
 
@@ -14,7 +14,7 @@ export default function EnforcementTrends2026Page() {
     <div className="max-w-4xl mx-auto px-4 py-10">
       <ArticleSchema
         title="ICE Enforcement Trends FY2026 — Record Deportations, Arrests & Detention"
-        description="Tracking the FY2026 enforcement surge: 449,000+ removals surpassing the Obama-era record, 66,000 detained, record arrest pace."
+        description="Tracking the FY2026 enforcement surge: 471,000+ removals surpassing the Obama-era record, 67,500 detained, record arrest pace."
         url="https://www.openimmigration.us/analysis/enforcement-trends-2026"
         datePublished="2026-07-25"
         dateModified="2026-09-25"
@@ -30,18 +30,18 @@ export default function EnforcementTrends2026Page() {
 
       <p className="text-lg text-gray-600 mb-8">
         FY2026 has become a historic year for immigration enforcement. With the fiscal year ending September 30,
-        ICE has surpassed 449,000 removals — officially breaking the Obama-era record of 438,421 deportations
+        ICE has surpassed 471,000 removals — officially breaking the Obama-era record of 438,421 deportations
         set in FY2013. DHS reports a combined 985,000 people have been deported since Trump took office.
       </p>
 
       {/* Key stats */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10 not-prose">
         <div className="bg-red-50 border border-red-200 rounded-xl p-5 text-center">
-          <div className="text-2xl font-bold text-red-700">449,000+</div>
+          <div className="text-2xl font-bold text-red-700">471,000+</div>
           <div className="text-xs text-gray-600 mt-1">Removals (FYTD)</div>
         </div>
         <div className="bg-amber-50 border border-amber-200 rounded-xl p-5 text-center">
-          <div className="text-2xl font-bold text-amber-700">66,000+</div>
+          <div className="text-2xl font-bold text-amber-700">67,500+</div>
           <div className="text-xs text-gray-600 mt-1">Currently Detained</div>
         </div>
         <div className="bg-primary/5 border border-primary/20 rounded-xl p-5 text-center">
@@ -57,7 +57,7 @@ export default function EnforcementTrends2026Page() {
       <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
         <h2 className="font-heading text-2xl font-bold text-gray-900">The Record Pace</h2>
         <p>
-          ICE has removed over 449,000 people through FY2026 (which began October 1, 2025), officially
+          ICE has removed over 471,000 people through FY2026 (which began October 1, 2025), officially
           surpassing the Obama administration&apos;s FY2013 record of 438,421. Deportations have been running
           at approximately 1,200 per day, with the final FY2026 tally expected to land near 460,000.
         </p>
@@ -70,7 +70,7 @@ export default function EnforcementTrends2026Page() {
 
         <h2 className="font-heading text-2xl font-bold text-gray-900 mt-8">Detention at Capacity</h2>
         <p>
-          ICE holds approximately 66,000 individuals in detention facilities — a record high, up nearly
+          ICE holds approximately 67,500 individuals in detention facilities — a record high, up nearly
           70% from when Trump took office. This is nearly double the average daily detained population of
           33,724 in FY2020 and more than triple the FY2021 low of 18,315. According to ICE, 60% of those
           detained have a criminal record.
@@ -104,7 +104,7 @@ export default function EnforcementTrends2026Page() {
                 <tr><td className="px-4 py-2">FY2023</td><td className="px-4 py-2 text-right">142,580</td><td className="px-4 py-2 text-right text-green-600">+98%</td></tr>
                 <tr><td className="px-4 py-2">FY2024</td><td className="px-4 py-2 text-right">271,484</td><td className="px-4 py-2 text-right text-green-600">+90%</td></tr>
                 <tr><td className="px-4 py-2">FY2025</td><td className="px-4 py-2 text-right">319,980</td><td className="px-4 py-2 text-right text-green-600">+18%</td></tr>
-                <tr className="bg-amber-50 font-semibold"><td className="px-4 py-2">FY2026 (FYTD)</td><td className="px-4 py-2 text-right">449,000+</td><td className="px-4 py-2 text-right text-green-600">Record broken ✓</td></tr>
+                <tr className="bg-amber-50 font-semibold"><td className="px-4 py-2">FY2026 (FYTD)</td><td className="px-4 py-2 text-right">471,000+</td><td className="px-4 py-2 text-right text-green-600">Record broken ✓</td></tr>
               </tbody>
             </table>
           </div>
@@ -132,7 +132,7 @@ export default function EnforcementTrends2026Page() {
         </p>
         <ul>
           <li><strong>Arrest acceleration:</strong> With August hitting ~51,000 arrests, the pipeline of deportable individuals continues to grow</li>
-          <li><strong>Detention capacity:</strong> At ~66,000 detained, facilities are under strain — can the system absorb more?</li>
+          <li><strong>Detention capacity:</strong> At ~67,500 detained, facilities are under strain — can the system absorb more?</li>
           <li><strong>Receiving country cooperation:</strong> Deportations require destination countries to accept returnees</li>
           <li><strong>Legal challenges:</strong> Ongoing court cases could constrain certain enforcement operations</li>
         </ul>
@@ -150,7 +150,7 @@ export default function EnforcementTrends2026Page() {
         </Link>
         <Link href="/enforcement/detention" className="bg-gray-50 border border-gray-200 rounded-xl p-5 hover:shadow-md transition-all">
           <h3 className="font-bold text-sm">🏢 Detention Facilities</h3>
-          <p className="text-xs text-gray-600 mt-1">66,000+ currently detained across 245 facilities — record numbers.</p>
+          <p className="text-xs text-gray-600 mt-1">67,500+ currently detained across 245 facilities — record numbers.</p>
         </Link>
       </div>
 

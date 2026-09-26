@@ -52,18 +52,18 @@
     },
     {
       "fy": 2026,
-      "arrests": 532000,
-      "bookIns": 478000,
-      "avgDailyDetained": 66000,
-      "removals": 449000,
-      "returns": 62000,
+      "arrests": 556000,
+      "bookIns": 498000,
+      "avgDailyDetained": 67500,
+      "removals": 471000,
+      "returns": 65000,
       "note": "FYTD through late September 2026"
     }
   ],
   "totals": {
-    "totalArrestsFY20_26": 1783834,
-    "totalRemovalsFY20_26": 1500116,
-    "totalReturnsFY20_26": 379011
+    "totalArrestsFY20_26": 1807834,
+    "totalRemovalsFY20_26": 1522116,
+    "totalReturnsFY20_26": 382011
   },
   "sources": [
     "ICE Enforcement and Removal Operations Annual Reports",

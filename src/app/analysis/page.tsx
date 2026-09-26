@@ -10,6 +10,13 @@ export const metadata: Metadata = {
 
 const articles = [
   {
+    slug: 'cbp-one-shutdown',
+    title: 'CBP One App Shutdown: What the Data Shows',
+    desc: 'The CBP One app processed 930,000+ appointments before its January 2025 shutdown. What happened to border encounters, asylum claims, and enforcement after.',
+    category: 'Border Policy',
+    date: 'September 2026',
+  },
+  {
     slug: 'enforcement-trends-2026',
     title: 'ICE Enforcement Trends FY2026',
     desc: '356,389 removals, 65,765 detained, record arrest pace — is FY2026 on track to break the Obama-era deportation record?',
