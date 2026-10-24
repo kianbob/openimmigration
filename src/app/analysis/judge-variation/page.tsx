@@ -47,6 +47,7 @@ export default function JudgeVariationPage() {
       <p className="text-lg text-gray-600 mb-8">
         Among {stats.totalJudges.toLocaleString()} immigration judges in our data, grant rates range from
         0% to 44.9%. Your assigned judge may be the single strongest predictor of whether you stay or get deported.
+        Browse all judges and their records on the <a href="https://americanfactbook.org/immigration/judges" className="text-primary hover:underline" target="_blank" rel="noopener">American Factbook immigration judges directory</a>.
       </p>
 
       <div className="prose prose-lg max-w-none text-gray-700 space-y-6">

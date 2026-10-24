@@ -44,6 +44,7 @@ export default function GeographicLotteryPage() {
         {stats.totalCourts} immigration courts across the country apply the same law — but produce wildly
         different outcomes. The highest grant rate court approves relief at {highest[0]?.grantRate}%. The lowest
         at {lowest[0]?.grantRate}%. Where your case is heard may matter more than anything else.
+        Compare court-by-court outcomes in the <a href="https://americanfactbook.org/immigration" className="text-primary hover:underline" target="_blank" rel="noopener">American Factbook immigration data hub</a>.
       </p>
 
       {/* Key comparison */}

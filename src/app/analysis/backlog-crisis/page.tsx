@@ -35,6 +35,7 @@ export default function BacklogCrisisPage() {
       <p className="text-lg text-gray-600 mb-8">
         The U.S. immigration court system has processed {stats.totalCases.toLocaleString()} cases since 1990.
         {' '}{stats.pendingCases.toLocaleString()} remain pending — and the system can&apos;t keep up.
+        See court-level breakdowns on <a href="https://americanfactbook.org/immigration/court/new-york" className="text-primary hover:underline" target="_blank" rel="noopener">American Factbook&apos;s immigration court pages</a>.
       </p>
 
       <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
