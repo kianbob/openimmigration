@@ -209,7 +209,7 @@ export default function CostCalculatorPage() {
           </div>
 
           <div className="mt-6 p-4 bg-amber-50 border border-amber-200 rounded-xl text-sm text-amber-800">
-            <strong>Note:</strong> These are estimates based on published USCIS fee schedules (2024–2025) and
+            <strong>Note:</strong> These are estimates based on published USCIS fee schedules (2024–2026) and
             typical attorney rates. Actual costs vary by location, attorney, and individual circumstances.
             USCIS fees are subject to change — check{' '}
             <a href="https://www.uscis.gov/forms/filing-fees" target="_blank" rel="noopener" className="underline">

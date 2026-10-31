@@ -37,7 +37,7 @@ const countries = [
   'Ethiopia',
 ]
 
-// Estimated wait times in months based on visa bulletin trends (March 2025 approximations)
+// Estimated wait times in months based on visa bulletin trends (2026 approximations)
 const waitTimeData: Record<string, Record<string, number>> = {
   ir:   { default: 14, 'China (mainland)': 14, India: 14, Mexico: 14, Philippines: 14 },
   f1:   { default: 84, 'China (mainland)': 84, India: 84, Mexico: 252, Philippines: 264 },
@@ -171,7 +171,7 @@ export default function WaitTimeCalculatorPage() {
           </div>
 
           <div className="mt-4 text-xs text-gray-400 text-center">
-            Based on Visa Bulletin trends as of March 2025. Not legal advice.
+            Based on Visa Bulletin trends as of 2026. Not legal advice.
           </div>
         </div>
       )}
